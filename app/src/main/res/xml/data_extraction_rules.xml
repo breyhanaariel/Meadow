@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        data-extraction-rules.xml
+        --------------------------
+        Controls how app data is exported for Android Auto Backup
+        and cloud transfers between devices.
+    -->
+
+    <!--
+        Cloud backup: define which app data files can be included in
+        Google backup / restore.
+    -->
+    <cloud-backup>
+
+        <!-- Include app database -->
+        <include
+            domain="database"
+            path="meadow_database.db" />
+
+        <!-- Include user DataStore preferences -->
+        <include
+            domain="sharedpref"
+            path="datastore_preferences.xml" />
+
+        <!-- Include project and script files if locally cached -->
+        <include
+            domain="files"
+            path="projects/" />
+        <include
+            domain="files"
+            path="scripts/" />
+
+        <!-- Exclude cache, temp, and workmanager tasks -->
+        <exclude
+            domain="cache"
+            path="." />
+        <exclude
+            domain="files"
+            path="temp/" />
+        <exclude
+            domain="files"
+            path="workmanager/" />
+    </cloud-backup>
+
+    <!--
+        Device transfer: optional (Android 12+)
+        Controls what’s transferred during device-to-device migration.
+    -->
+    <device-transfer>
+
+        <include
+            domain="database"
+            path="meadow_database.db" />
+
+        <include
+            domain="sharedpref"
+            path="datastore_preferences.xml" />
+
+        <exclude
+            domain="cache"
+            path="." />
+    </device-transfer>
+
+</data-extraction-rules>

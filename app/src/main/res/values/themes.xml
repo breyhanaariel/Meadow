@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Application Theme -->
+    <style name="Theme.Meadow" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <item name="android:navigationBarColor">@color/background_light</item>
+        <item name="android:windowBackground">@drawable/bg_pastel_gradient</item>
+        <item name="android:fontFamily">@font/bubble_round</item>
+    </style>
+
+    <!-- Splash Screen Theme -->
+    <style name="Theme.Meadow.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/purple_200</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/meadow_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Meadow</item>
+    </style>
+</resources>

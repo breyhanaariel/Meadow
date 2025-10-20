@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">Meadow</string>
+    <string name="app_description">A cozy creative suite for writers, filmmakers, and dreamers.</string>
+
+    <!-- Common Labels -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="sync">Sync</string>
+    <string name="add">Add</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_project">Project</string>
+    <string name="nav_script">Script</string>
+    <string name="nav_catalog">Catalog</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm_delete">Are you sure you want to delete this item?</string>
+    <string name="dialog_sync_complete">Sync Complete!</string>
+    <string name="dialog_saving">Saving…</string>
+
+    <!-- AI Assistant -->
+    <string name="ai_ask_meadow">Ask Meadow ✨</string>
+    <string name="ai_prompt_hint">Type your question or request here...</string>
+    <string name="ai_sprout">Sprout 🌱</string>
+    <string name="ai_bloom">Bloom 🌸</string>
+    <string name="ai_meadow">Meadow ✨</string>
+
+    <!-- Loading -->
+    <string name="loading_text">Loading your creative meadow…</string>
+
+    <!-- Settings -->
+    <string name="theme_settings">Theme Settings</string>
+    <string name="sync_settings">Sync Settings</string>
+    <string name="language_settings">Language</string>
+</resources>

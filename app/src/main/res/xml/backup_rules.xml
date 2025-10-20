@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        backup_rules.xml
+        ----------------
+        Controls app data included in full (manual) ADB or Google Drive backup.
+        These rules apply when Android performs a full-data restore or
+        developer-initiated backup.
+    -->
+
+    <!-- Include important app directories -->
+    <include
+        domain="database"
+        path="meadow_database.db" />
+
+    <include
+        domain="sharedpref"
+        path="datastore_preferences.xml" />
+
+    <include
+        domain="files"
+        path="projects/" />
+    <include
+        domain="files"
+        path="scripts/" />
+
+    <!-- Exclude temporary and volatile data -->
+    <exclude
+        domain="cache"
+        path="." />
+
+    <exclude
+        domain="files"
+        path="temp/" />
+</full-backup-content>
