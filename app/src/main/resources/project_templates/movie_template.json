@@ -1,0 +1,17 @@
+{
+    "type": "Movie",
+    "scripts": [
+        {
+            "title": "Sample Scene",
+            "content": "INT. MEADOW STUDIO - DAY\nA unicorn sparkles through the mist."
+        }
+    ],
+    "catalog": {
+        "characters": [
+            { "name": "Luna", "role": "Protagonist" }
+        ],
+        "locations": [
+            { "name": "Crystal Forest" }
+        ]
+    }
+}

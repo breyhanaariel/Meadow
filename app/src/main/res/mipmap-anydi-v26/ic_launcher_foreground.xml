@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Placeholder unicorn silhouette -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,10 C40,20 25,40 30,65 C35,80 55,95 70,80 C85,65 75,40 60,30 Z"/>
+</vector>
