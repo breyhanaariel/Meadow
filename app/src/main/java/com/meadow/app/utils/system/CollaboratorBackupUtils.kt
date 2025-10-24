@@ -1,7 +1,5 @@
 package com.meadow.app.utils.system
 
-package com.meadow.utils
-
 import android.content.Context
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext

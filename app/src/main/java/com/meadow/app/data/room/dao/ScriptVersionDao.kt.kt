@@ -5,7 +5,7 @@ import kotlinx.coroutines.flow.Flow
 import com.meadow.app.data.room.entities.ScriptVersionEntity
 
 @Dao
-interface `ScriptVersionDao.kt` {
+interface `ScriptVersionDao` {
     @Query("SELECT * FROM script_versions WHERE scriptId = :scriptId ORDER BY timestamp DESC")
     fun getVersionsForScript(scriptId: String): Flow<List<ScriptVersionEntity>>
 

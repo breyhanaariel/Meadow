@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/homeScreen">
+
+    <!-- 🏠 Home Screen -->
+    <fragment
+        android:id="@+id/homeScreen"
+        android:name="com.meadow.ui.screens.home.HomeScreen"
+        android:label="Home"
+        tools:layout="@layout/screen_home">
+        <action
+            android:id="@+id/action_home_to_projectDashboard"
+            app:destination="@id/projectDashboardScreen" />
+        <action
+            android:id="@+id/action_home_to_settings"
+            app:destination="@id/settingsScreen" />
+    </fragment>
+
+    <!-- 📂 Project Dashboard -->
+    <fragment
+        android:id="@+id/projectDashboardScreen"
+        android:name="com.meadow.ui.screens.project.ProjectDashboardScreen"
+        android:label="Project Dashboard"
+        tools:layout="@layout/screen_project_dashboard">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_dashboard_to_scriptEditor"
+            app:destination="@id/scriptEditorScreen" />
+        <action
+            android:id="@+id/action_dashboard_to_catalog"
+            app:destination="@id/catalogScreen" />
+        <action
+            android:id="@+id/action_dashboard_to_calendar"
+            app:destination="@id/calendarScreen" />
+    </fragment>
+
+    <!-- ✍️ Script Editor -->
+    <fragment
+        android:id="@+id/scriptEditorScreen"
+        android:name="com.meadow.ui.screens.script.ScriptEditorScreen"
+        android:label="Script Editor"
+        tools:layout="@layout/screen_script_editor">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+        <argument
+            android:name="scriptId"
+            app:argType="string"
+            android:defaultValue="@null" />
+    </fragment>
+
+    <!-- 🧾 Catalog -->
+    <fragment
+        android:id="@+id/catalogScreen"
+        android:name="com.meadow.ui.screens.catalog.CatalogScreen"
+        android:label="Catalog"
+        tools:layout="@layout/screen_catalog">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 📅 Calendar -->
+    <fragment
+        android:id="@+id/calendarScreen"
+        android:name="com.meadow.ui.screens.calendar.CalendarScreen"
+        android:label="Calendar"
+        tools:layout="@layout/screen_calendar">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 🧠 Mind Map -->
+    <fragment
+        android:id="@+id/mindMapScreen"
+        android:name="com.meadow.ui.screens.mindmap.MindMapScreen"
+        android:label="Mind Map"
+        tools:layout="@layout/screen_mindmap">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 🌳 Family Tree -->
+    <fragment
+        android:id="@+id/familyTreeScreen"
+        android:name="com.meadow.ui.screens.familytree.FamilyTreeScreen"
+        android:label="Family Tree"
+        tools:layout="@layout/screen_familytree">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 🗓️ Timeline -->
+    <fragment
+        android:id="@+id/timelineScreen"
+        android:name="com.meadow.ui.screens.timeline.TimelineScreen"
+        android:label="Timeline"
+        tools:layout="@layout/screen_timeline">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 🧾 Wiki -->
+    <fragment
+        android:id="@+id/wikiScreen"
+        android:name="com.meadow.ui.screens.wiki.WikiScreen"
+        android:label="Wiki"
+        tools:layout="@layout/screen_wiki">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- 🪶 Plot Cards -->
+    <fragment
+        android:id="@+id/plotCardsScreen"
+        android:name="com.meadow.ui.screens.plotcards.PlotCardsScreen"
+        android:label="Plot Cards"
+        tools:layout="@layout/screen_plotcards">
+        <argument
+            android:name="projectId"
+            app:argType="string" />
+    </fragment>
+
+    <!-- ⚙️ Settings -->
+    <fragment
+        android:id="@+id/settingsScreen"
+        android:name="com.meadow.ui.screens.settings.SettingsScreen"
+        android:label="Settings"
+        tools:layout="@layout/screen_settings" />
+</navigation>
