@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Một cái nhìn tổng quan ngắn gọn về dự án.</string>
+    <string name="tooltip_project_pitch">Một câu dùng để giới thiệu ý tưởng một cách nhanh chóng.</string>
+    <string name="tooltip_project_premise">Cốt lõi của câu hỏi "nếu như?" thúc đẩy câu chuyện.</string>
+    <string name="tooltip_project_promise">Trải nghiệm mà khán giả có thể mong đợi (tông màu, chủ đề, cảm xúc nhận được).</string>
+    <string name="tooltip_project_plot">Bản phác thảo khái quát về các tình tiết chính. Không bao gồm mọi chi tiết.</string>
+</resources>

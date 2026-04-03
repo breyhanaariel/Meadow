@@ -1,0 +1,50 @@
+{
+  "typeKey": "game",
+  "displayName": "project_type_game",
+  "color": "#FFC8A2",
+  "enabledFeatures": [
+    "calendar",
+    "catalog",
+    "script",
+    "plot_cards",
+    "timeline",
+    "mindmap",
+    "wiki",
+    "family_tree"
+  ],
+  "fields": [
+    {
+      "id": "project.game_genre",
+      "key": "game_genre",
+      "labelKey": "field_project_game_genre",
+      "kind": "SINGLE_SELECT",
+      "group": "group_design",
+      "order": 20,
+      "metadata": {
+        "options": [
+          "game_genre_rpg",
+          "game_genre_visual_novel",
+          "game_genre_simulation",
+          "game_genre_strategy"
+        ]
+      }
+    },
+    {
+      "id": "project.platforms",
+      "key": "platforms",
+      "labelKey": "field_project_platforms",
+      "kind": "MULTI_SELECT",
+      "group": "group_release",
+      "order": 21,
+      "metadata": {
+        "options": [
+          "platform_pc",
+          "platform_android",
+          "platform_ios",
+          "platform_console",
+          "platform_web"
+        ]
+      }
+    }
+  ]
+}

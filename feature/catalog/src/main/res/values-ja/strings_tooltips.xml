@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">親となる場所を割り当てて階層を作成します（例：都市は国に属し、部屋は建物に属します）。</string>
+    <string name="tooltip_style_voice">文章構造、リズム、テンポ、および文体の流れを説明します。</string>
+    <string name="tooltip_style_lexicon">スラング、短縮形、俗語、方言、または語彙制限に関するルール。</string>
+    <string name="tooltip_style_do_rules">この文体で強調すべき点や、一貫して含めるべき点。</string>
+    <string name="tooltip_style_avoid_rules">この文体で避けるべき点、または最小限に抑えるべき点。</string>
+    <string name="tooltip_style_formatting">心の声、テレパシー、テキストメッセージ、または特殊な会話の書式ルール。</string>
+</resources>

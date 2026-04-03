@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Połącz konto Google</string>
+    <string name="google_account_connected">Konto Google połączone</string>
+    <string name="google_account_disconnected">Odłącz konto Google</string>
+    <string name="google_auth_signing_in">Logowanie…</string>
+    <string name="google_auth_sign_in_failed">Logowanie nie powiodło się</string>
+    <string name="google_auth_signed_out">Wylogowano</string>
+    <string name="google_auth_permission_required">Wymagane uprawnienia Google</string>
+    <string name="google_auth_retry">Spróbuj ponownie</string>
+    <string name="google_drive_title">Dysk Google</string>
+    <string name="google_drive_connecting">Łączenie z Dyskiem Google…</string>
+    <string name="google_drive_connected">Połączono z Dyskiem Google</string>
+    <string name="google_drive_syncing">Synchronizacja z Dyskiem Google…</string>
+    <string name="google_drive_sync_complete">Synchronizacja z Dyskiem zakończona</string>
+    <string name="google_drive_sync_failed">Synchronizacja z Dyskiem nie powiodła się</string>
+    <string name="google_drive_permission_denied">Odmowa dostępu do Dysku</string>
+    <string name="google_sheets_title">Arkusze Google</string>
+    <string name="google_sheets_connecting">Łączenie z Arkuszami Google…</string>
+    <string name="google_sheets_connected">Połączono z Arkuszami Google</string>
+    <string name="google_sheets_exporting">Eksportowanie do Arkuszy Google…</string>
+    <string name="google_sheets_export_complete">Eksport zakończony</string>
+    <string name="google_sheets_export_failed">Eksport nie powiódł się</string>
+    <string name="google_calendar_title">Kalendarz Google</string>
+    <string name="google_calendar_connecting">Łączenie z Kalendarzem Google…</string>
+    <string name="google_calendar_connected">Połączono z Kalendarzem Google</string>
+    <string name="google_calendar_syncing">Synchronizacja kalendarza…</string>
+    <string name="google_calendar_sync_failed">Synchronizacja kalendarza nie powiodła się</string>
+    <string name="google_calendar_permission_denied">Odmowa dostępu do kalendarza</string>
+    <string name="google_docs_title">Dokumenty Google</string>
+    <string name="google_docs_connecting">Łączenie z Dokumentami Google…</string>
+    <string name="google_docs_connected">Połączono z Dokumentami Google</string>
+    <string name="google_docs_exporting">Eksportowanie do Dokumentów Google…</string>
+    <string name="google_docs_export_failed">Eksport nie powiódł się</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Łączenie z Gemini…</string>
+    <string name="google_gemini_connected">Połączono z Gemini</string>
+    <string name="google_gemini_requesting">Generowanie odpowiedzi…</string>
+    <string name="google_gemini_failed">Żądanie Gemini nie powiodło się</string>
+    <string name="google_gemini_rate_limited">Zbyt wiele żądań. Proszę czekać.</string>
+</resources>

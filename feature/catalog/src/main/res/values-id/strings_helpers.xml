@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helper_character_arc">
+<b>PEMBANGUN RINGKASAN NARASI</b>\n
+<i>Gabungkan pembuka kalimat ini menjadi satu paragraf yang mengalir:</i>\n\n
+
+• <b>Persiapan (The Setup):</b> "Dihantui oleh [Luka], [Nama] percaya bahwa [Kebohongan/Keyakinan Palsu]..."\n
+• <b>Katalis (The Catalyst):</b> "Sangat ingin untuk [Tujuan Eksternal], mereka [Insiden Pemicu]..."\n
+• <b>Pergeseran (The Shift):</b> "Meskipun awalnya mereka [Metode Lama], segalanya berubah ketika [Titik Tengah]..."\n
+• <b>Kejatuhan (The Fall):</b> "Namun, [Titik Terendah/Kegagalan] memaksa mereka untuk mempertanyakan keyakinan mereka..."\n
+• <b>Pilihan (The Choice):</b> "Dihadapkan pada pilihan antara [Keamanan/Keinginan] dan [Kebenaran/Kebutuhan], mereka [Tindakan Klimaks]..."\n
+• <b>Resolusi (The Resolution):</b> "Mereka mengakhiri cerita sebagai [Identitas/Status Baru]."\n\n
+Contoh: Dihantui oleh rasa takut akan tergantikan, Lumi percaya bahwa kegunaan adalah satu-satunya mata uang yang berharga. Sangat ingin tetap berada di antara elit akademi, ia menyempurnakan peran sebagai "pemberes" – suara lembut, tangan yang tenang, rahasia yang kedap udara. Meskipun awalnya ia percaya bahwa ia menjaga kelompok tetap bersatu, segalanya berubah ketika satu rahasia menjadi mayat. Namun, ketika keheningan mengancam untuk menelannya juga, Lumi menyadari bahwa kebenaran tidak perlu lengkap untuk menjadi efektif. Dihadapkan pada pilihan antara kemurnian moral dan kelangsungan hidup, ia mengedit narasi tersebut. Ia mengakhiri cerita dengan tetap dipuja, tetap terlindungi – tidak lagi polos, tetapi akhirnya aman. </string>
+
+    <string name="helper_character_goal">
+<b>EKSTERNAL VS INTERNAL</b>\n
+Tujuan adalah <b>objek fisik atau hasil</b> yang dikejar karakter melalui plot. Ini harus lulus <b>Tes Kamera</b>: Bisakah Anda merekam momen saat mereka mencapainya?\n\n
+
+<b>PENGUNGKAPAN</b>\n
+Mulailah dengan kata kerja aktif yang kuat:\n
+• <b>Melarikan diri</b> (dari penjara)\n
+• <b>Melindungi</b> (saksi)\n
+• <b>Menghancurkan</b> (senjata)\n
+• <b>Menemukan</b> (obat)\n
+• <b>Memenangkan</b> (kompetisi)\n
+• <b>Memecahkan</b> (pembunuhan)\n\n
+
+<b>RUMUS</b>\n
+\"Untuk [Kata Kerja Aktif] + [Target] + agar dapat [Hadiah/Taruhan].\"\n\n
+
+<b>CONTOH</b>\n
+<b>Untuk mengkurasi</b> bukti di tempat kejadian perkara dan mengedit lini masa kelompok <b>agar dapat</b> memastikan polisi memutuskan kematian tersebut sebagai kecelakaan, menjamin keamanannya dalam lingkaran elit.
+</string>
+
+    <string name="helper_character_motivation_outer">
+<b>TEKANAN (PENCUTY)</b>\n
+Tekanan eksternal yang memaksa tindakan. Ini bukan apa yang <i>ingin</i> dilakukan karakter—ini adalah apa yang <i>dituntut</i> dunia agar mereka lakukan untuk menghindari bencana.\n\n
+
+<b>TEKANAN UMUM</b>\n
+• <b>Kelangsungan Hidup:</b> Ancaman kematian atau kemiskinan.\n
+• <b>Tugas:</b> Pekerjaan, sumpah, atau utang yang harus dibayar.\n
+• <b>Persaingan:</b> Musuh bergerak; mereka harus bereaksi.\n
+• <b>Jam Berdetak:</b> Tenggat waktu yang mendekat.\n\n
+
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Hal buruk apa yang terjadi jika mereka menolak untuk bertindak?\"\n\n
+
+<b>CONTOH</b>\n
+<b>Implikasi dan Kekuatan Tawar.</b> Lumi menemukan mayat itu dan menyadari bahwa ia sudah terlibat karena asosiasi. Ia terpaksa bertindak bukan hanya untuk menyembunyikan skandal itu, tetapi karena ia tahu jika ia membereskan ini, kelompok itu akan berhutang nyawa padanya yang tidak akan pernah bisa mereka bayar.
+</string>
+
+    <string name="helper_character_motivation_inner">
+<b>RASA LAPAR (KEHAMPAAN)</b>\n
+Defisiensi emosional di balik tujuan. Ini adalah lubang psikologis yang mereka coba isi.\n\n
+
+<b>KEBUTUHAN INTI (MASLOW)</b>\n
+• <b>Keamanan:</b> Berhenti merasa takut atau rentan.\n
+• <b>Rasa Memiliki:</b> Dicintai atau diterima.\n
+• <b>Harga Diri:</b> Dihormati atau berkuasa.\n
+• <b>Otonomi:</b> Bebas dari kendali.\n
+• <b>Penebusan:</b> Memperbaiki kesalahan masa lalu.\n\n
+
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Rasa sakit apa yang mereka coba hilangkan?\"\n
+• \"Perasaan apa yang mereka pikir akan diberikan oleh Tujuan tersebut?\"\n\n
+
+<b>CONTOH</b>\n
+<b>Kekuasaan (Ketaktergantikan).</b> Dihantui oleh rasa takut akan tergantikan, Lumi termotivasi oleh kebutuhan gelap untuk menjadi <i>satu-satunya</i> yang mengetahui kebenaran. Ia percaya bahwa jika ia memegang rahasia yang dapat menghancurkan semua orang, ia akhirnya akan aman dari pengabaian.
+</string>
+
+    <string name="helper_character_methodology">
+<b>PENDEKATAN VS SIKAP</b>\n
+• <b>Pendekatan:</b> Tindakan, taktik, dan perilaku nyata yang digunakan untuk memecahkan masalah.\n
+• <b>Sikap:</b> Pola pikir internal, posisi emosional, atau filosofi yang dipegang.\n\n
+
+<b>GAYA-GAYA</b>\n
+• <b>Asertif:</b> Mengambil kendali dan memaksakan hasil.\n
+• <b>Responsif:</b> Beradaptasi dengan lingkungan/orang lain.\n
+• <b>Preservatif:</b> Menjaga status quo atau sumber daya.\n
+• <b>Pasif:</b> Menyerah atau menarik diri.\n
+• <b>Dogmatis:</b> Mematuhi kode yang ketat.\n
+• <b>Pragmatis:</b> Melakukan apa pun yang berhasil.\n
+• <b>Waspada:</b> Menghindari risiko.\n
+• <b>Berisiko:</b> Taruhan tinggi.\n\n
+
+<b>CONTOH</b>\n
+<b>Tipe: Pendekatan Pragmatis dan Sikap Waspada</b>\n
+Lumi bertahan hidup dengan menjadi sang \"Editor\" (Pragmatis), memperlakukan kebenaran seperti draf kasar yang perlu ditulis ulang. Sikapnya adalah <b>Waspada</b>: ia tidak pernah menciptakan kebohongan yang mudah dibuktikan salah. Sebaliknya, ia mengedit kebenaran secukupnya untuk mengubah kesimpulan, memprioritaskan kelangsungan hidup di atas moralitas.
+</string>
+
+    <string name="helper_character_requirement">
+<b>PRASYARAT (KUNCI)</b>\n
+Langkah, kondisi, atau item penting yang harus diperoleh <i>sebelum</i> Tujuan dapat dicapai. Jika Tujuan adalah pintu yang terkunci, Prasyarat adalah kuncinya.\n\n
+
+<b>TIPE UMUM</b>\n
+• <b>Mendapatkan:</b> Mengumpulkan informasi, peta, senjata, atau kunci harfiah.\n
+• <b>Melakukan:</b> Bepergian ke lokasi tertentu, memenangkan babak kualifikasi, atau melakukan ritual.\n
+• <b>Mempelajari:</b> Memecahkan kode, menguasai keterampilan, atau menemukan rahasia.\n
+• <b>Menjadi:</b> Mendapatkan pangkat, mendapatkan kepercayaan, atau mengubah sifat diri.\n\n
+
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Apa yang menghalangi mereka secara fisik?\"\n
+• \"Apa yang harus mereka lakukan bahkan untuk mendapatkan kesempatan mencapai Tujuan?\"\n\n
+
+<b>CONTOH</b>\n
+<b>Tipe: Menciptakan (Alibi)</b>\n
+Sementara Tujuan utama Lumi adalah <b>keamanan permanen</b> (Hadiah), Prasyarat wajib yang harus ia penuhi adalah <b>membangun lini masa yang tanpa cela</b> untuk malam kejahatan tersebut. Untuk berhasil, ia harus <b>mengorbankan kambing hitam</b> (Tipe: Melakukan), mengarahkan pihak berwenang kepada orang luar untuk menutup kasus tersebut.
+</string>
+
+    <string name="helper_character_consequence">
+<b>KONSEKUENSI (BIAYA PERUBAHAN)</b>\n
+Apa hasil jangka panjang dari mengejar tujuan ini? Pertimbangkan keberhasilan dan kegagalan.\n\n
+
+<b>PERTIMBANGKAN</b>\n
+• <b>Identitas:</b> Bagaimana hasilnya mengubah siapa mereka?\n
+• <b>Hubungan:</b> Siapa yang diuntungkan dan siapa yang menderita?\n
+• <b>Pertukaran:</b> Apa yang didapat, tetapi apa yang hilang selamanya?\n\n
+
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Jika cerita berakhir dengan tujuan ini tercapai, apa yang tidak akan pernah bisa kembali seperti semula?\"\n\n
+
+<b>CONTOH</b>\n
+<b>Keberhasilan vs Kegagalan</b>\n
+Jika Lumi berhasil (kebohongan dipercaya), konsekuensinya adalah <b>korupsi moral dan keamanan</b>—ia menjadi pemimpin rahasia kelompok tersebut, terikat pada mereka oleh kehancuran bersama. Jika ia gagal, ia masuk penjara. Konsekuensi akhirnya adalah ia mengakhiri cerita dengan dipuja, tetapi ia telah kehilangan kepolosannya selamanya.
+</string>
+
+    <string name="helper_character_forewarning">
+<b>TANDA BAHAYA (SINYAL)</b>\n
+Peringatan atau tanda apa yang muncul <i>sebelum</i> konsekuensi tiba? Ini adalah sinyal yang sering diabaikan karakter.\n\n
+
+<b>TIPE</b>\n
+• <b>Internal:</b> Keraguan, rasa bersalah, atau keragu-raguan pada karakter yang biasanya percaya diri.\n
+• <b>Eksternal:</b> Pertanda buruk, kemunduran awal, atau rencana yang mulai salah dalam hal-hal kecil.\n
+• <b>Relasional:</b> Seorang teman yang memperingatkan mereka, atau pengkhianatan.\n\n
+
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Apa yang diam-diam dikatakan cerita kepada karakter sebelum bencana melanda?\"\n\n
+
+<b>CONTOH</b>\n
+<b>Ketiadaan Perasaan</b>\n
+Tanda bahaya muncul ketika Lumi melihat mayat itu dan merasa <b>jengkel daripada ngeri</b>. Ini menandakan empatinya mulai lepas. Secara eksternal, seorang teman memujinya karena "sangat pandai berbohong," pujian mengerikan yang meramalkan kejatuhannya menjadi manipulator profesional.
+</string>
+
+    <string name="helper_character_power_description">
+<b>IDENTITAS INTI</b>\n
+Apa sifat dasar dari kemampuan tersebut?\n\n
+• Apa yang dimungkinkan oleh kemampuan tersebut untuk dilakukan karakter?\n
+• Apakah selalu aktif (pasif) atau harus dipicu (aktif)?\n
+• Apakah itu sihir, teknologi, biologis, atau berbasis keterampilan?\n\n
+<b>CONTOH</b>\n
+<b>Nama: Konstruksi Sosial</b>\n
+Lumi memiliki kemampuan untuk mendekonstruksi narasi sosial dan membangunnya kembali. Ia memahami bahwa "kebenaran" hanyalah cerita yang disepakati orang-orang. Ini adalah keterampilan kognitif yang diasah oleh bertahun-tahun mencoba menyenangkan orang, memungkinkannya untuk melihat celah dalam persepsi orang dan mengisinya dengan apa yang ingin mereka lihat.
+</string>
+
+    <string name="helper_character_power_capabilities">
+<b>PERFORMA PUNCAK</b>\n
+Apa yang dapat dicapai oleh kekuatan ini pada kemampuan terbaiknya?\n\n
+• <b>Penggunaan Tipikal:</b> Aplikasi sehari-hari (misalnya, menangkis pedang).\n
+• <b>Pencapaian Maksimum:</b> Batas atas (misalnya, menghindari anak panah).\n
+• <b>Penggunaan Kreatif:</b> Menggunakannya untuk utilitas daripada pertempuran.\n\n
+<b>CONTOH</b>\n
+<b>Gaslighting dan Reframing</b>\n
+Pada puncaknya, Lumi dapat meyakinkan sekelompok saksi bahwa mereka tidak melihat apa yang mereka pikir mereka lihat. Dengan mengubah konteks secara halus—menanam rumor di sini, menyembunyikan ponsel di sana—ia dapat menulis ulang sejarah suatu peristiwa secara waktu nyata hingga "korban" terlihat seperti agresor.
+</string>
+
+    <string name="helper_character_power_limitations">
+<b>BIAYA (PEMBATASAN)</b>\n
+Apa yang mencegah kekuatan ini menyelesaikan setiap masalah?\n\n
+• <b>Batas Keras:</b> Cooldown, biaya sumber daya (mana/stamina).\n
+• <b>Kelemahan:</b> Lawan spesifik (api, besi dingin).\n
+• <b>Kerusakan Kolateral:</b> Bahaya bagi diri sendiri atau lingkungan.\n\n
+<b>CONTOH</b>\n
+<b>Isolasi dalam Kerumunan</b>\n
+Karena ia terus-menerus mengedit realitas, Lumi kehilangan pegangan pada apa yang sebenarnya nyata. Ia tidak lagi bisa mempercayai siapa pun karena ia tahu betapa mudahnya berbohong. Kekuatannya mengisolasinya; ia dikelilingi oleh teman-teman yang memuja versi dirinya yang tidak ada.
+</string>
+
+    <string name="helper_character_learning_style">
+<b>HIERARKI KOGNITIF (BLOOM)</b>\n
+Bagaimana karakter ini memproses informasi untuk memecahkan masalah?\n\n
+
+• <b>Level 1: Mengingat</b> (Recall)\n
+Mengingat fakta atau konsep dasar.\n\n
+
+• <b>Level 2: Memahami</b> (Explain)\n
+Menafsirkan dan menerjemahkan ide.\n\n
+
+• <b>Level 3: Menerapkan</b> (Use)\n
+Menggunakan pengetahuan dalam situasi baru.\n\n
+
+• <b>Level 4: Menganalisis</b> (Deconstruct)\n
+Memecah informasi untuk menjelajahi hubungan dan penyebab.\n\n
+
+• <b>Level 5: Mengevaluasi</b> (Judge)\n
+Membenarkan posisi atau keputusan berdasarkan kritik.\n\n
+
+• <b>Level 6: Menciptakan</b> (Synthesize)\n
+Menghasilkan ide atau pola baru.\n\n
+
+<b>CONTOH</b>\n
+<b>Gaya Utama: Level 6 (Menciptakan)</b>\n
+Lumi telah bergerak melampaui Menganalisis (Level 4). Untuk menyelamatkan kelompok, ia harus <b>Menciptakan</b>. Ia mensintesis fakta, alibi, dan bukti yang berbeda untuk <i>membangun</i> realitas baru di mana pembunuhan itu adalah kecelakaan. Ia tidak sedang memecahkan teka-teki; ia sedang merancangnya.
+</string>
+
+    <string name="helper_character_mental_wound">
+<b>HANTU (TRAUMA)</b>\n
+Cedera psikologis yang menentukan dari masa lalu yang menghantui karakter hari ini.\n\n
+<b>CONTOH</b>\n
+• <b>Pengabaian:</b> Ditinggalkan oleh orang tua.\n
+• <b>Pengkhianatan:</b> Mentor yang dipercaya berbalik melawan mereka.\n
+• <b>Rasa Bersalah:</b> Gagal menyelamatkan seseorang.\n\n
+<b>CONTOH</b>\n
+<b>Cinta Bersyarat</b>\n
+Luka Lumi adalah masa kecil yang ditentukan oleh <b>kinerja</b>. Ia belajar sejak dini bahwa ia hanya dipuji ketika ia sempurna atau berguna. Ini menciptakan keyakinan bahwa ia tidak memiliki nilai intrinsik—ia hanya "berharga" berdasarkan apa yang bisa ia "lakukan" untuk orang lain.
+</string>
+
+    <string name="helper_character_mental_fear">
+<b>MIMPI BURUK</b>\n
+Ketakutan spesifik yang tumbuh dari luka tersebut. Inilah yang mereka hindari.\n\n
+<b>CONTOH</b>\n
+• Takut akan keintiman (karena menyebabkan kehilangan).\n
+• Takut akan kelemahan (karena menyebabkan pelecehan).\n
+• Takut akan kegagalan (karena membuktikan mereka tidak berharga).\n\n
+<b>CONTOH</b>\n
+<b>Ketergantikan (Disposability)</b>\n
+Lumi takut <b>dibuang</b>. Ia takut saat ia berhenti menjadi berguna, kelompok itu akan berbalik melawannya. Ini mendorongnya untuk menjadi penjaga rahasia tergelap mereka—sehingga mereka <i>tidak mampu</i> untuk menyingkirkannya.
+</string>
+
+    <string name="helper_character_triggers">
+<b>RANJAU DARAT</b>\n
+Situasi atau kata-kata spesifik yang mengabaikan logika dan langsung mengaktifkan Luka.\n\n
+<b>CONTOH</b>\n
+• Diabaikan.\n
+• Melihat seseorang menangis.\n
+• Kehilangan kendali.\n\n
+<b>CONTOH</b>\n
+<b>Ketidakmampuan dan Kekacauan</b>\n
+Lumi dipicu oleh <b>kecerobohan</b>. Ketika orang lain dalam kelompok mulai panik atau membuat kesalahan berantakan yang mengancam kebohongan, ia meledak. Ini memicu instink bertahan hidupnya, memaksanya untuk mengambil kendali otoriter total atas situasi tersebut.
+</string>
+
+    <string name="helper_character_stress_response">
+<b>FIGHT, FLIGHT, FREEZE, FAWN</b>\n
+Bagaimana reaksi karakter saat dipicu?\n\n
+• <b>Fight:</b> Agresi, perilaku mengendalikan.\n
+• <b>Flight:</b> Menarik diri, mengisolasi, melarikan diri.\n
+• <b>Freeze:</b> Mati rasa, disosiasi, ketidakyakinan.\n
+• <b>Fawn:</b> Menyenangkan orang lain, meminta maaf secara berlebihan.\n\n
+<b>CONTOH</b>\n
+<b>Cold Fight (Kalkulasi)</b>\n
+Respons Lumi bergeser dari Fawn (menyenangkan orang) ke <b>Fight</b> yang dingin. Alih-alih berteriak, ia menjadi sangat tenang dan memerintah. Ia mematikan emosi untuk memperlakukan mayat itu seperti masalah yang harus dipecahkan, mengarahkan teman-temannya seperti bidak catur.
+</string>
+
+    <string name="helper_character_mental_lie">
+<b>KEYAKINAN PALSU</b>\n
+Aturan yang salah tentang cara kerja dunia, diciptakan untuk melindungi Luka.\n\n
+<b>CONTOH</b>\n
+• \"Saya tidak layak dicintai.\"\n
+• \"Kekuasaan adalah satu-satunya keamanan.\"\n
+• \"Setiap orang pada akhirnya akan pergi.\"\n\n
+<b>CONTOH</b>\n
+<b>\"Kebenaran itu Terlalu Dilebih-lebihkan\"</b>\n
+Lumi percaya: \"<b>Sejarah ditulis oleh para penyintas.</b>\" Kebohongan ini membenarkan manipulasinya. Ia meyakinkan dirinya sendiri bahwa mengedit narasi bukanlah berbohong—itu melindungi orang-orang yang ia cintai dari "kesalahpahaman."
+</string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>PERISAI</b>\n
+Perilaku yang digunakan untuk mengelola rasa sakit. Mereka bekerja dalam jangka pendek tetapi menyebabkan kerusakan dalam jangka panjang.\n\n
+<b>CONTOH</b>\n
+• <b>Humor:</b> Menangkis keseriusan.\n
+• <b>Kontrol:</b> Micromanaging untuk menghindari kekacauan.\n
+• <b>Kecanduan:</b> Mematikan perasaan.\n\n
+<b>CONTOH</b>\n
+<b>Kompartemenalisasi</b>\n
+Lumi mengatasinya dengan <b>mengunci hal-hal dalam kotak</b>. Ia memisahkan "Lumi sang Teman" dari "Lumi sang Pemberes." Ini memungkinkannya minum teh dengan gadis yang ia jebak tanpa merasa bersalah. Jangka panjang, ini memecah psikisnya.
+</string>
+
+    <string name="helper_character_id_ego_superego">
+<b>PSIKIS (FREUD)</b>\n
+Bagaimana pikiran karakter terbagi?\n\n
+• <b>Id (Sang Binatang):</b> Insting, keinginan, kelangsungan hidup, agresi.\n
+• <b>Superego (Sang Hakim):</b> Moral, rasa bersalah, aturan ketat, idealisme.\n
+• <b>Ego (Sang Pilot):</b> Pengambil keputusan yang mencoba menyeimbangkan keduanya.\n\n
+<b>CONTOH</b>\n
+<b>Korupsi Ego</b>\n
+<b>Superego</b> Lumi (Moralitas) lemah, tergerus oleh kebutuhannya untuk memiliki. <b>Id</b>-nya (Kelangsungan Hidup) dominan. <b>Ego</b>-nya bekerja lembur untuk merasionalkan keinginan Id, meyakinkannya bahwa menutupi pembunuhan sebenarnya adalah tindakan "loyalitas."
+</string>
+
+    <string name="helper_character_mask">
+<b>PERSONA (WAJAH PUBLIK)</b>\n
+Wajah yang dipakai karakter untuk melindungi diri batiniah mereka. Ini adalah sebuah pertunjukan.\n\n
+<b>CONTOH</b>\n
+• Sang Pelawak (menyembunyikan kesedihan).\n
+• Sang Stoik (menyembunyikan rasa takut).\n
+• Sang Profesional (menyembunyikan kekacauan).\n\n
+<b>CONTOH</b>\n
+<b>Bunga yang Polos</b>\n
+Lumi memakai topeng <b>kemanisan yang rapuh</b>. Ia berbicara lembut, berpakaian sopan, dan selalu tampak membantu. Topeng ini adalah senjata terbesarnya; tidak ada yang mencurigai "gadis baik" mampu mengatur penutupan kejahatan.
+</string>
+
+    <string name="helper_character_self">
+<b>DIRI SEJATI (WAJAH PRIBADI)</b>\n
+Siapa karakter itu saat mereka sendirian dalam kegelapan. Ini termasuk rasa malu yang tersembunyi, emosi lembut, dan keinginan sejati.\n\n
+<b>TANYAKAN PADA DIRI SENDIRI</b>\n
+• \"Apa yang akan menghancurkan mereka jika dunia mengetahui hal ini?\"\n\n
+<b>CONTOH</b>\n
+<b>Strategis yang Dingin</b>\n
+Di balik senyum manis itu, Lumi <b>kejam</b>. Ia menyimpan catatan mental tentang rahasia semua orang. Diri sejatiniya bukanlah seorang pengikut; ia adalah dalang yang menikmati kekuasaan yang ia pegang atas elit akademi.
+</string>
+
+    <string name="helper_character_alignment">
+<b>KOMPAS MORAL</b>\n
+<b>Lawful ↔ Chaotic:</b> Apakah mereka mengikuti kode atau impuls mereka?\n
+<b>Good ↔ Evil:</b> Apakah mereka berkorban untuk orang lain atau diri mereka sendiri?\n\n
+<b>CONTOH</b>\n
+<b>Lawful Neutral bergeser ke Neutral Evil</b>\n
+Lumi mulai sebagai <b>Lawful Neutral</b>, menjunjung tinggi tatanan sosial. Pada akhirnya, ia bergeser ke <b>Neutral Evil</b>. Ia menggunakan aturan (Law) untuk melindungi dirinya sendiri (Evil), bersedia menghancurkan hidup orang yang tidak bersalah.
+</string>
+
+    <string name="helper_character_social_tone">
+<b>VIBE SOSIAL (INTERAKTIF)</b>\n
+Bagaimana mereka bertindak dalam percakapan tertentu? Ini berubah berdasarkan siapa yang ada di ruangan.\n\n
+• <b>Dengan Musuh:</b> Mengancam, diam.\n
+• <b>Dengan Sekutu:</b> Terjaga, profesional.\n
+• <b>Dengan Orang Rentan:</b> Canggung, lembut.\n\n
+<b>CONTOH</b>\n
+<b>Menenangkan dan Menghitung</b>\n
+Secara sosial, Lumi bertindak sebagai penenang. Namun, di bawah tekanan, nadanya menjadi <b>klinis</b>. Ia mengajukan pertanyaan bukan untuk membantu, tetapi untuk mengumpulkan informasi yang dapat ia gunakan nanti.
+</string>
+
+    <string name="helper_character_chronic_tone">
+<b>MOOD DEFAULT (ATMOSFER)</b>\n
+"Cuaca" emosional yang menyelimuti karakter saat tidak ada hal yang terjadi.\n\n
+<b>CONTOH</b>\n
+• Melankolis\n
+• Berenergi Tinggi\n
+• Cemas\n\n
+<b>CONTOH</b>\n
+<b>Ketenangan Es</b>\n
+Nada kronis Lumi adalah <b>keheningan yang meresahkan</b>. Sementara yang lain gelisah atau panik, ia duduk diam sempurna. Ini adalah ketenangan seseorang yang sudah memikirkan tiga langkah ke depan.
+</string>
+
+    <string name="helper_character_archetypes">
+<b>ARKETIPE TOPENG</b>\n
+<i>Peran yang ia mainkan di depan umum.</i>\n\n
+
+<b>Reformis</b>: Tampak berprinsip dan tenang.\n
+<b>Helper</b>: Tampak mengasuh dan sangat dibutuhkan.\n
+<b>Achiever</b>: Tampak rapi dan sukses.\n
+<b>Individualis</b>: Tampak ekspresif dan unik.\n
+<b>Investigator</b>: Tampak tertutup dan observan.\n
+<b>Loyalis</b>: Tampak setia dan waspada.\n
+<b>Antusias</b>: Tampak cerah dan ceria.\n
+<b>Challenger</b>: Tampak dominan dan protektif.\n
+<b>Peacemaker</b>: Tampak tenang dan akomodatif.\n\n
+
+<b>CONTOH: LUMI</b>\n
+<b>Topeng: Helper (Peacemaker)</b>\n
+Lumi adalah "Bunga yang Polos". Ia tampak tidak berbahaya. Topeng ini melindunginya dari kecurigaan.\n
+<b>Diri: Investigator (Architect)</b>\n
+Lumi itu dingin dan menghakimi. Ia melihat teman-temannya sebagai "aset". Diri sejatinyanya didorong oleh kebutuhan kejam akan kendali.
+</string>
+
+    <string name="helper_character_relationships">
+<b>DINAMIKA RELASIONAL</b>\n
+Hubungan bukan sekadar latar belakang; mereka adalah titik tekanan.\n\n
+
+• <b>Mirroring:</b> Siapa yang mencerminkan sifat terburuk karakter?\n
+• <b>Reinforcement:</b> Siapa yang menghargai karakter karena mempercayai Kebohongan mereka?\n
+• <b>Challenge:</b> Siapa yang melihat menembus topeng dan mengancam keamanan mereka?\n\n
+
+<b>CONTOH: JEJARING LUMI</b>\n
+• <b>Seraphine:</b> <i>Memperkuat Kebohongan.</i> Menghargai Lumi hanya saat Lumi membereskan masalahnya.\n
+• <b>Violetta:</b> <i>Mengancam Topeng.</i> Menyadari celah dalam cerita Lumi.
+</string>
+</resources>

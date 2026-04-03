@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Підключити обліковий запис Google</string>
+    <string name="google_account_connected">Обліковий запис Google підключено</string>
+    <string name="google_account_disconnected">Відключити обліковий запис Google</string>
+    <string name="google_auth_signing_in">Вхід…</string>
+    <string name="google_auth_sign_in_failed">Помилка входу</string>
+    <string name="google_auth_signed_out">Вихід виконано</string>
+    <string name="google_auth_permission_required">Потрібен дозвіл Google</string>
+    <string name="google_auth_retry">Спробувати ще раз</string>
+    <string name="google_drive_title">Google Диск</string>
+    <string name="google_drive_connecting">Підключення до Google Диску…</string>
+    <string name="google_drive_connected">Підключено до Google Диску</string>
+    <string name="google_drive_syncing">Синхронізація з Google Диском…</string>
+    <string name="google_drive_sync_complete">Синхронізацію з Диском завершено</string>
+    <string name="google_drive_sync_failed">Помилка синхронізації з Диском</string>
+    <string name="google_drive_permission_denied">У доступі до Диска відмовлено</string>
+    <string name="google_sheets_title">Google Таблиці</string>
+    <string name="google_sheets_connecting">Підключення до Google Таблиць…</string>
+    <string name="google_sheets_connected">Підключено до Google Таблиць</string>
+    <string name="google_sheets_exporting">Експорт у Google Таблиці…</string>
+    <string name="google_sheets_export_complete">Експорт завершено</string>
+    <string name="google_sheets_export_failed">Помилка експорту</string>
+    <string name="google_calendar_title">Google Календар</string>
+    <string name="google_calendar_connecting">Підключення до Google Календаря…</string>
+    <string name="google_calendar_connected">Підключено до Google Календаря</string>
+    <string name="google_calendar_syncing">Синхронізація календаря…</string>
+    <string name="google_calendar_sync_failed">Помилка синхронізації календаря</string>
+    <string name="google_calendar_permission_denied">У доступі до календаря відмовлено</string>
+    <string name="google_docs_title">Google Документи</string>
+    <string name="google_docs_connecting">Підключення до Google Документів…</string>
+    <string name="google_docs_connected">Підключено до Google Документів</string>
+    <string name="google_docs_exporting">Експорт у Google Документи…</string>
+    <string name="google_docs_export_failed">Помилка експорту</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Підключення до Gemini…</string>
+    <string name="google_gemini_connected">Підключено до Gemini</string>
+    <string name="google_gemini_requesting">Генерація відповіді…</string>
+    <string name="google_gemini_failed">Помилка запиту Gemini</string>
+    <string name="google_gemini_rate_limited">Забагато запитів. Зачекайте, будь ласка.</string>
+</resources>

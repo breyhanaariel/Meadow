@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Redare</string>
+    <string name="media_pause">Pauză</string>
+    <string name="media_stop">Stop</string>
+    <string name="media_now_playing">În curs de redare</string>
+    <string name="media_loading">Se încarcă</string>
+    <string name="media_no_audio">Niciun sunet încărcat</string>
+    <string name="media_no_video">Niciun videoclip încărcat</string>
+    <string name="media_error">A apărut o eroare media</string>
+    <string name="media_image_loading">Se încarcă imaginea</string>
+    <string name="media_image_failed">Încărcarea imaginii a eșuat</string>
+    <string name="media_subtitle_unknown">[Subtitrare necunoscută]</string>
+    <string name="media_no_metadata">Nu s-au găsit metadate</string>
+    <string name="media_metadata_title">Titlu</string>
+    <string name="media_metadata_artist">Artist</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Gen</string>
+    <string name="media_metadata_duration">Durată</string>
+</resources>

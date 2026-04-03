@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Un spațiu de lucru creativ</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Un spațiu de lucru creativ</string>
+    <string name="home_open_settings">Deschide setările</string>
+    <string name="menu_home">Acasa</string>
+    <string name="menu_settings">Setări</string>
+    <string name="back_home">Înapoi la Acasă</string>
+    <string name="cd_home">Acasă</string>
+</resources>

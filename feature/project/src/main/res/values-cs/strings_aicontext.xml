@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Generovat</string>
+    <string name="ai_mode_improve">Vylepšit</string>
+    <string name="ai_mode_rewrite">Přepsat</string>
+    <string name="ai_mode_expand">Rozšířit</string>
+    <string name="ai_mode_shorten">Zkrátit</string>
+    <string name="ai_action_manage_context">Spravovat kontext</string>
+    <string name="ai_action_open_chats">Otevřít chaty</string>
+    <string name="ai_choose_action">Vyberte akci</string>
+    <string name="ai_for_field">AI pro: %1$s</string>
+    <string name="ai_picker_generate_title">Generovat: Vyberte pole</string>
+    <string name="ai_picker_improve_title">Vylepšit: Vyberte pole</string>
+    <string name="ai_picker_rewrite_title">Přepsat: Vyberte pole</string>
+    <string name="ai_no_fields_available">Nejsou k dispozici žádná pole s podporou AI.</string>
+    <string name="ai_preview_title">Náhled změn AI</string>
+    <string name="ai_preview_scope">Rozsah: %1$s</string>
+    <string name="ai_preview_count">Změny: %1$d</string>
+    <string name="ai_preview_before">Před:</string>
+    <string name="ai_preview_after">Po:</string>
+    <string name="ai_optional_note">Nepovinná poznámka (nebude odeslána)</string>
+    <string name="ai_applied">Změny AI byly použity</string>
+    <string name="ai_failed_generic">AI selhala</string>
+    <string name="ai_preview_empty">(prázdné)</string>
+    <string name="ai_context_title">Kontext AI</string>
+    <string name="ai_context_add">Přidat kontext</string>
+    <string name="ai_context_pinned">Připnuto (vždy zahrnout)</string>
+    <string name="ai_context_title_label">Název</string>
+    <string name="ai_context_body_label">Kontext</string>
+    <string name="ai_context_edit">Upravit kontext</string>
+    <string name="ai_context_delete">Smazat kontext</string>
+    <string name="ai_select_field">Vyberte pole</string>
+</resources>

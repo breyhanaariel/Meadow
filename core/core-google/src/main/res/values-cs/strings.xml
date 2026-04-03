@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Připojit účet Google</string>
+    <string name="google_account_connected">Účet Google připojen</string>
+    <string name="google_account_disconnected">Odpojit účet Google</string>
+    <string name="google_auth_signing_in">Přihlašování…</string>
+    <string name="google_auth_sign_in_failed">Přihlášení se nezdařilo</string>
+    <string name="google_auth_signed_out">Odhlášeno</string>
+    <string name="google_auth_permission_required">Je vyžadováno oprávnění Google</string>
+    <string name="google_auth_retry">Zkusit znovu</string>
+    <string name="google_drive_title">Disk Google</string>
+    <string name="google_drive_connecting">Připojování k Disku Google…</string>
+    <string name="google_drive_connected">Připojeno k Disku Google</string>
+    <string name="google_drive_syncing">Synchronizace s Diskem Google…</string>
+    <string name="google_drive_sync_complete">Synchronizace Disku dokončena</string>
+    <string name="google_drive_sync_failed">Synchronizace Disku se nezdařila</string>
+    <string name="google_drive_permission_denied">Přístup k Disku byl odepřen</string>
+    <string name="google_sheets_title">Tabulky Google</string>
+    <string name="google_sheets_connecting">Připojování k Tabulkám Google…</string>
+    <string name="google_sheets_connected">Připojeno k Tabulkám Google</string>
+    <string name="google_sheets_exporting">Exportování do Tabulek Google…</string>
+    <string name="google_sheets_export_complete">Export dokončen</string>
+    <string name="google_sheets_export_failed">Export se nezdařil</string>
+    <string name="google_calendar_title">Kalendář Google</string>
+    <string name="google_calendar_connecting">Připojování ke Kalendáři Google…</string>
+    <string name="google_calendar_connected">Připojeno ke Kalendáři Google</string>
+    <string name="google_calendar_syncing">Synchronizace kalendáře…</string>
+    <string name="google_calendar_sync_failed">Synchronizace kalendáře se nezdařila</string>
+    <string name="google_calendar_permission_denied">Přístup ke kalendáři byl odepřen</string>
+    <string name="google_docs_title">Dokumenty Google</string>
+    <string name="google_docs_connecting">Připojování k Dokumentům Google…</string>
+    <string name="google_docs_connected">Připojeno k Dokumentům Google</string>
+    <string name="google_docs_exporting">Exportování do Dokumentů Google…</string>
+    <string name="google_docs_export_failed">Export se nezdařil</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Připojování ke Gemini…</string>
+    <string name="google_gemini_connected">Připojeno ke Gemini</string>
+    <string name="google_gemini_requesting">Generování odpovědi…</string>
+    <string name="google_gemini_failed">Požadavek na Gemini se nezdařil</string>
+    <string name="google_gemini_rate_limited">Příliš mnoho požadavků. Prosím, počkejte.</string>
+</resources>

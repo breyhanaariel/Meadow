@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Takvim</string>
+    <string name="calendar">Takvim</string>
+    <string name="action_sync_now">Şimdi senkronize et</string>
+    <string name="action_today">Bugün</string>
+    <string name="view_month">Ay</string>
+    <string name="view_week">Hafta</string>
+    <string name="view_agenda">Gündem</string>
+    <string name="filter_all">Tümü</string>
+    <string name="filter_global">Genel</string>
+    <string name="filter_series">Seriler</string>
+    <string name="filter_projects">Projeler</string>
+    <string name="filter_this_project">Bu proje</string>
+    <string name="label_color">Renk</string>
+    <string name="label_recurrence">Tekrarlar</string>
+    <string name="label_reminder">Hatırlatıcı</string>
+    <string name="recurrence_none">Tekrarlanmaz</string>
+    <string name="recurrence_daily">Günlük</string>
+    <string name="recurrence_weekly">Haftalık</string>
+    <string name="recurrence_monthly">Aylık</string>
+    <string name="reminder_none">Hatırlatıcı yok</string>
+    <string name="reminder_10">10 dakika önce</string>
+    <string name="reminder_30">30 dakika önce</string>
+    <string name="reminder_60">1 saat önce</string>
+    <string name="delete_event_title">Etkinlik silinsin mi?</string>
+    <string name="delete_event_message">Bu işlem %1$s etkinliğini kalıcı olarak silecektir. Bu işlem geri alınamaz.</string>
+    <string name="no_events">Henüz etkinlik yok</string>
+    <string name="add_event">Etkinlik ekle</string>
+    <string name="delete_event">Etkinliği sil</string>
+    <string name="edit_event">Etkinliği düzenle</string>
+    <string name="month">Ay</string>
+    <string name="week">Hafta</string>
+    <string name="agenda">Ajanda</string>
+    <string name="all_day">Tüm gün</string>
+    <string name="new_event">Yeni Etkinlik</string>
+    <string name="search_month_or_year">Ay veya yıl ara</string>
+    <string name="upcoming_event">Yaklaşan</string>
+    <string name="past_event">Geçmiş</string>
+</resources>

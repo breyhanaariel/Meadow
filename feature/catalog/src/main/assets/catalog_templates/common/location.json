@@ -1,0 +1,255 @@
+{
+  "typeKey": "location",
+  "icon": "ic_location",
+  "primaryFieldKey": "name",
+  "fields": [
+
+    {
+      "id": "location.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_location_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0,
+      "metadata": { "aiContext": true }
+    },
+
+    {
+      "id": "location.location_type",
+      "owner": "catalog",
+      "key": "location_type",
+      "labelKey": "field_location_type",
+      "kind": "SINGLE_SELECT",
+      "isRequired": true,
+      "order": 1,
+      "metadata": {
+        "options": [
+          "location_type_universe",
+          "location_type_world",
+          "location_type_continent",
+          "location_type_country",
+          "location_type_state",
+          "location_type_region",
+          "location_type_city",
+          "location_type_town",
+          "location_type_village",
+          "location_type_district",
+          "location_type_landmark",
+          "location_type_building",
+          "location_type_room"
+        ]
+      }
+    },
+
+    {
+      "id": "location.parent",
+      "owner": "catalog",
+      "key": "parent",
+      "labelKey": "field_location_parent",
+      "kind": "RELATION",
+      "order": 2,
+      "metadata": {
+        "relationTypeKey": "location",
+        "allowMultiple": false,
+        "tooltipKey": "tooltip_location_parent"
+      }
+    },
+
+    {
+      "id": "location.is_fictional",
+      "owner": "catalog",
+      "key": "is_fictional",
+      "labelKey": "field_location_is_fictional",
+      "kind": "BOOLEAN",
+      "order": 3
+    },
+
+    {
+      "id": "location.usage_type",
+      "owner": "catalog",
+      "key": "usage_type",
+      "labelKey": "field_location_usage",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": {
+        "options": [
+          "location_usage_story",
+          "location_usage_real",
+          "location_usage_hybrid"
+        ]
+      }
+    },
+
+    {
+      "id": "location.images",
+      "owner": "catalog",
+      "key": "images",
+      "labelKey": "field_location_images",
+      "kind": "IMAGE",
+      "order": 5
+    },
+
+
+    {
+      "id": "location.latitude",
+      "owner": "catalog",
+      "key": "latitude",
+      "labelKey": "field_location_latitude",
+      "kind": "NUMBER",
+      "order": 6,
+      "metadata": {
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.longitude",
+      "owner": "catalog",
+      "key": "longitude",
+      "labelKey": "field_location_longitude",
+      "kind": "NUMBER",
+      "order": 7,
+      "metadata": {
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.address_real",
+      "owner": "catalog",
+      "key": "address_real",
+      "labelKey": "field_location_address",
+      "kind": "TEXT",
+      "order": 8,
+      "metadata": {
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.permit_status",
+      "owner": "catalog",
+      "key": "permit_status",
+      "labelKey": "field_location_permit",
+      "kind": "SINGLE_SELECT",
+      "order": 9,
+      "metadata": {
+        "options": [
+          "location_permit_not_required",
+          "location_permit_pending",
+          "location_permit_cleared",
+          "location_permit_denied"
+        ],
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.logistics_notes",
+      "owner": "catalog",
+      "key": "logistics_notes",
+      "labelKey": "field_location_logistics",
+      "kind": "MULTILINE_TEXT",
+      "order": 10,
+      "metadata": {
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.contact_info",
+      "owner": "catalog",
+      "key": "contact_info",
+      "labelKey": "field_location_contact",
+      "kind": "MULTILINE_TEXT",
+      "order": 11,
+      "metadata": {
+        "visibleWhen": {
+          "field": "is_fictional",
+          "equals": false
+        }
+      }
+    },
+
+    {
+      "id": "location.atmosphere",
+      "owner": "catalog",
+      "key": "atmosphere",
+      "labelKey": "field_location_atmosphere",
+      "kind": "MULTI_SELECT",
+      "order": 12,
+      "metadata": {
+        "options": [
+          "location_atmosphere_dark",
+          "location_atmosphere_bright",
+          "location_atmosphere_industrial",
+          "location_atmosphere_nature",
+          "location_atmosphere_urban_decay",
+          "location_atmosphere_futuristic",
+          "location_atmosphere_historical",
+          "location_atmosphere_mystical",
+          "location_atmosphere_abandoned",
+          "location_atmosphere_coastal",
+          "location_atmosphere_mountainous"
+        ]
+      }
+    },
+
+    {
+      "id": "location.description_lore",
+      "owner": "catalog",
+      "key": "description_lore",
+      "labelKey": "field_location_lore",
+      "kind": "MULTILINE_TEXT",
+      "order": 13,
+      "metadata": { "aiContext": true }
+    },
+
+    {
+      "id": "location.population",
+      "owner": "catalog",
+      "key": "population",
+      "labelKey": "field_location_population",
+      "kind": "NUMBER",
+      "order": 14,
+      "metadata": {
+        "visibleWhen": {
+          "field": "location_type",
+          "in": [
+            "location_type_city",
+            "location_type_town",
+            "location_type_country",
+            "location_type_state"
+          ]
+        }
+      }
+    },
+
+    {
+      "id": "location.climate",
+      "owner": "catalog",
+      "key": "climate",
+      "labelKey": "field_location_climate",
+      "kind": "TEXT",
+      "order": 15,
+      "metadata": { "aiContext": true }
+    }
+
+  ]
+}

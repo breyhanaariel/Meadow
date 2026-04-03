@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">พื้นที่ทำงานที่สร้างสรรค์</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">พื้นที่ทำงานที่สร้างสรรค์</string>
+    <string name="home_open_settings">เปิดการตั้งค่า</string>
+    <string name="menu_home">หน้าแรก</string>
+    <string name="menu_settings">การตั้งค่า</string>
+    <string name="back_home">กลับไปที่หน้าแรก</string>
+    <string name="cd_home">หน้าแรก</string>
+</resources>

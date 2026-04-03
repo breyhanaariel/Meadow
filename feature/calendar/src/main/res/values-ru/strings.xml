@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Календарь</string>
+    <string name="calendar">Календарь</string>
+    <string name="action_sync_now">Синхронизировать сейчас</string>
+    <string name="action_today">Сегодня</string>
+    <string name="view_month">Месяц</string>
+    <string name="view_week">Неделя</string>
+    <string name="view_agenda">Повестка дня</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_global">Глобальные</string>
+    <string name="filter_series">Серии</string>
+    <string name="filter_projects">Проекты</string>
+    <string name="filter_this_project">Этот проект</string>
+    <string name="label_color">Цвет</string>
+    <string name="label_recurrence">Повторы</string>
+    <string name="label_reminder">Напоминание</string>
+    <string name="recurrence_none">Не повторяется</string>
+    <string name="recurrence_daily">Ежедневно</string>
+    <string name="recurrence_weekly">Еженедельно</string>
+    <string name="recurrence_monthly">Ежемесячно</string>
+    <string name="reminder_none">Без напоминания</string>
+    <string name="reminder_10">За 10 минут</string>
+    <string name="reminder_30">За 30 минут</string>
+    <string name="reminder_60">За 1 час</string>
+    <string name="delete_event_title">Удалить событие?</string>
+    <string name="delete_event_message">Это навсегда удалит %1$s. Это действие нельзя отменить.</string>
+    <string name="no_events">Событий пока нет</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="delete_event">Удалить событие</string>
+    <string name="edit_event">Изменить событие</string>
+    <string name="month">Месяц</string>
+    <string name="week">Неделя</string>
+    <string name="agenda">Повестка дня</string>
+    <string name="all_day">Весь день</string>
+    <string name="new_event">Новое событие</string>
+    <string name="search_month_or_year">Поиск месяца или года</string>
+    <string name="upcoming_event">Предстоящие</string>
+    <string name="past_event">Прошедшие</string>
+</resources>

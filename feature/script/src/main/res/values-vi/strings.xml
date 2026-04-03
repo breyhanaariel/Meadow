@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Kịch bản</string>
+    <string name="script_list_title">Danh sách kịch bản</string>
+    <string name="script_new">Kịch bản mới</string>
+    <string name="script_editor_title">Trình chỉnh sửa</string>
+    <string name="script_dialect">Phương ngữ (Dialect)</string>
+    <string name="script_mode_structure">Cấu trúc</string>
+    <string name="script_mode_outline">Dàn ý</string>
+    <string name="script_mode_catalog_links">Liên kết danh mục</string>
+    <string name="script_mode_comments">Ghi chú</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Xuất file</string>
+    <string name="script_action_more">Thêm</string>
+    <string name="script_outline">Dàn ý</string>
+    <string name="script_no_scripts">Chưa có kịch bản</string>
+    <string name="script_create_failed">Không thể tạo kịch bản</string>
+    <string name="script_saved">Đã lưu</string>
+    <string name="script_type_comic">Truyện tranh</string>
+    <string name="script_type_novel">Tiểu thuyết</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Phim</string>
+    <string name="script_type_game">Trò chơi</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

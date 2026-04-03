@@ -1,0 +1,34 @@
+{
+  "typeKey": "tvshow",
+  "displayName": "project_type_tv_show",
+  "color": "#9BB7D4",
+  "enabledFeatures": [
+    "calendar",
+    "catalog",
+    "script",
+    "storyboard",
+    "plot_cards",
+    "timeline",
+    "mindmap",
+    "wiki",
+    "family_tree"
+  ],
+  "fields": [
+    {
+      "id": "project.seasons",
+      "key": "seasons",
+      "labelKey": "field_project_seasons",
+      "kind": "NUMBER",
+      "group": "group_structure",
+      "order": 20
+    },
+    {
+      "id": "project.episodes_per_season",
+      "key": "episodes_per_season",
+      "labelKey": "field_project_episodes_per_season",
+      "kind": "NUMBER",
+      "group": "group_structure",
+      "order": 21
+    }
+  ]
+}

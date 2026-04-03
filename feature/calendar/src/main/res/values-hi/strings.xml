@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">कैलेंडर</string>
+    <string name="calendar">कैलेंडर</string>
+    <string name="action_sync_now">अभी सिंक करें</string>
+    <string name="action_today">आज</string>
+    <string name="view_month">महीना</string>
+    <string name="view_week">सप्ताह</string>
+    <string name="view_agenda">कार्यसूची</string>
+    <string name="filter_all">सभी</string>
+    <string name="filter_global">वैश्विक</string>
+    <string name="filter_series">शृंखला</string>
+    <string name="filter_projects">परियोजनाएं</string>
+    <string name="filter_this_project">यह परियोजना</string>
+    <string name="label_color">रंग</string>
+    <string name="label_recurrence">दोहराव</string>
+    <string name="label_reminder">अनुस्मारक</string>
+    <string name="recurrence_none">दोहराया नहीं जाता</string>
+    <string name="recurrence_daily">दैनिक</string>
+    <string name="recurrence_weekly">साप्ताहिक</string>
+    <string name="recurrence_monthly">मासिक</string>
+    <string name="reminder_none">कोई अनुस्मारक नहीं</string>
+    <string name="reminder_10">10 मिनट पहले</string>
+    <string name="reminder_30">30 मिनट पहले</string>
+    <string name="reminder_60">1 घंटा पहले</string>
+    <string name="delete_event_title">इवेंट मिटाएं?</string>
+    <string name="delete_event_message">इससे %1$s स्थायी रूप से मिटा दिया जाएगा. इस कार्रवाई को बदला नहीं जा सकता.</string>
+    <string name="no_events">अभी तक कोई इवेंट नहीं है</string>
+    <string name="add_event">इवेंट जोड़ें</string>
+    <string name="delete_event">इवेंट मिटाएं</string>
+    <string name="edit_event">इवेंट संपादित करें</string>
+    <string name="month">माह</string>
+    <string name="week">सप्ताह</string>
+    <string name="agenda">कार्यसूची</string>
+    <string name="all_day">पूरा दिन</string>
+    <string name="new_event">नया इवेंट</string>
+    <string name="search_month_or_year">महीना या वर्ष खोजें</string>
+    <string name="upcoming_event">आगामी</string>
+    <string name="past_event">पुराने</string>
+</resources>

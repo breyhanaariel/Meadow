@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Calendario</string>
+    <string name="calendar">Calendario</string>
+    <string name="action_sync_now">Sincronizar ahora</string>
+    <string name="action_today">Hoy</string>
+    <string name="view_month">Mes</string>
+    <string name="view_week">Semana</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Todo</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Series</string>
+    <string name="filter_projects">Proyectos</string>
+    <string name="filter_this_project">Este proyecto</string>
+    <string name="label_color">Color</string>
+    <string name="label_recurrence">Repeticiones</string>
+    <string name="label_reminder">Recordatorio</string>
+    <string name="recurrence_none">No se repite</string>
+    <string name="recurrence_daily">Diariamente</string>
+    <string name="recurrence_weekly">Semanalmente</string>
+    <string name="recurrence_monthly">Mensualmente</string>
+    <string name="reminder_none">Sin recordatorio</string>
+    <string name="reminder_10">10 minutos antes</string>
+    <string name="reminder_30">30 minutos antes</string>
+    <string name="reminder_60">1 hora antes</string>
+    <string name="delete_event_title">¿Eliminar evento?</string>
+    <string name="delete_event_message">Esto eliminará permanentemente %1$s. Esta acción no se puede deshacer.</string>
+    <string name="no_events">No hay eventos aún</string>
+    <string name="add_event">Añadir evento</string>
+    <string name="delete_event">Eliminar evento</string>
+    <string name="edit_event">Editar evento</string>
+    <string name="month">Mes</string>
+    <string name="week">Semana</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Todo el día</string>
+    <string name="new_event">Nuevo evento</string>
+    <string name="search_month_or_year">Buscar mes o año</string>
+    <string name="upcoming_event">Próximos</string>
+    <string name="past_event">Pasados</string>
+</resources>

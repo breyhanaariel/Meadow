@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Oynat</string>
+    <string name="media_pause">Duraklat</string>
+    <string name="media_stop">Durdur</string>
+    <string name="media_now_playing">Şu An Çalıyor</string>
+    <string name="media_loading">Yükleniyor</string>
+    <string name="media_no_audio">Ses yüklenmedi</string>
+    <string name="media_no_video">Video yüklenmedi</string>
+    <string name="media_error">Medya hatası oluştu</string>
+    <string name="media_image_loading">Resim yükleniyor</string>
+    <string name="media_image_failed">Resim yüklenemedi</string>
+    <string name="media_subtitle_unknown">[Bilinmeyen altyazı]</string>
+    <string name="media_no_metadata">Meta veri bulunamadı</string>
+    <string name="media_metadata_title">Başlık</string>
+    <string name="media_metadata_artist">Sanatçı</string>
+    <string name="media_metadata_album">Albüm</string>
+    <string name="media_metadata_genre">Tür</string>
+    <string name="media_metadata_duration">Süre</string>
+</resources>

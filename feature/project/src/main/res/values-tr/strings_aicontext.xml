@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Oluştur</string>
+    <string name="ai_mode_improve">İyileştir</string>
+    <string name="ai_mode_rewrite">Yeniden Yaz</string>
+    <string name="ai_mode_expand">Genişlet</string>
+    <string name="ai_mode_shorten">Kısalt</string>
+    <string name="ai_action_manage_context">Bağlamı Yönet</string>
+    <string name="ai_action_open_chats">Sohbetleri Aç</string>
+    <string name="ai_choose_action">Bir eylem seçin</string>
+    <string name="ai_for_field">%1$s için YZ</string>
+    <string name="ai_picker_generate_title">Oluştur: Alanları seçin</string>
+    <string name="ai_picker_improve_title">İyileştir: Alanları seçin</string>
+    <string name="ai_picker_rewrite_title">Yeniden Yaz: Alanları seçin</string>
+    <string name="ai_no_fields_available">YZ özellikli alan yok.</string>
+    <string name="ai_preview_title">YZ Değişikliklerini Önizle</string>
+    <string name="ai_preview_scope">Kapsam: %1$s</string>
+    <string name="ai_preview_count">Değişiklikler: %1$d</string>
+    <string name="ai_preview_before">Önce:</string>
+    <string name="ai_preview_after">Sonra:</string>
+    <string name="ai_optional_note">İsteğe bağlı not (gönderilmez)</string>
+    <string name="ai_applied">YZ değişiklikleri uygulandı</string>
+    <string name="ai_failed_generic">YZ başarısız oldu</string>
+    <string name="ai_preview_empty">(boş)</string>
+    <string name="ai_context_title">YZ Bağlamı</string>
+    <string name="ai_context_add">Bağlam Ekle</string>
+    <string name="ai_context_pinned">Sabitlendi (her zaman dahil et)</string>
+    <string name="ai_context_title_label">Başlık</string>
+    <string name="ai_context_body_label">Bağlam</string>
+    <string name="ai_context_edit">Bağlamı düzenle</string>
+    <string name="ai_context_delete">Bağlamı sil</string>
+    <string name="ai_select_field">Bir alan seçin</string>
+</resources>

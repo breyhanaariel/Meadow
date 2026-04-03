@@ -1,0 +1,17 @@
+{
+  "id": "project.audience",
+  "key": "audience",
+  "labelKey": "field_project_audience",
+  "kind": "MULTI_SELECT",
+  "group": "group_classification",
+  "order": 7,
+  "metadata": {
+    "flatOptions":
+    [
+    "audience_adventurer",
+    "audience_dreamer",
+    "audience_thinker",
+    "audience_believer"
+      ]
+  }
+}

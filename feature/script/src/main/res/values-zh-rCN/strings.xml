@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">脚本</string>
+    <string name="script_list_title">脚本列表</string>
+    <string name="script_new">新建脚本</string>
+    <string name="script_editor_title">编辑器</string>
+    <string name="script_dialect">方言</string>
+    <string name="script_mode_structure">结构</string>
+    <string name="script_mode_outline">大纲</string>
+    <string name="script_mode_catalog_links">目录链接</string>
+    <string name="script_mode_comments">注释</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">导出</string>
+    <string name="script_action_more">更多</string>
+    <string name="script_outline">大纲</string>
+    <string name="script_no_scripts">暂无脚本</string>
+    <string name="script_create_failed">无法创建脚本</string>
+    <string name="script_saved">已保存</string>
+    <string name="script_type_comic">漫画</string>
+    <string name="script_type_novel">小说</string>
+    <string name="script_type_tv">电视</string>
+    <string name="script_type_movie">电影</string>
+    <string name="script_type_game">游戏</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

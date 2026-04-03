@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Tạo</string>
+    <string name="ai_mode_improve">Cải thiện</string>
+    <string name="ai_mode_rewrite">Viết lại</string>
+    <string name="ai_mode_expand">Mở rộng</string>
+    <string name="ai_mode_shorten">Rút gọn</string>
+    <string name="ai_action_manage_context">Quản lý ngữ cảnh</string>
+    <string name="ai_action_open_chats">Mở đoạn chat</string>
+    <string name="ai_choose_action">Chọn một hành động</string>
+    <string name="ai_for_field">AI cho: %1$s</string>
+    <string name="ai_picker_generate_title">Tạo: Chọn các trường</string>
+    <string name="ai_picker_improve_title">Cải thiện: Chọn các trường</string>
+    <string name="ai_picker_rewrite_title">Viết lại: Chọn các trường</string>
+    <string name="ai_no_fields_available">Không có trường hỗ trợ AI nào khả dụng.</string>
+    <string name="ai_preview_title">Xem trước thay đổi từ AI</string>
+    <string name="ai_preview_scope">Phạm vi: %1$s</string>
+    <string name="ai_preview_count">Thay đổi: %1$d</string>
+    <string name="ai_preview_before">Trước:</string>
+    <string name="ai_preview_after">Sau:</string>
+    <string name="ai_optional_note">Ghi chú tùy chọn (không được gửi đi)</string>
+    <string name="ai_applied">Đã áp dụng thay đổi từ AI</string>
+    <string name="ai_failed_generic">AI thất bại</string>
+    <string name="ai_preview_empty">(trống)</string>
+    <string name="ai_context_title">Ngữ cảnh AI</string>
+    <string name="ai_context_add">Thêm ngữ cảnh</string>
+    <string name="ai_context_pinned">Đã ghim (luôn bao gồm)</string>
+    <string name="ai_context_title_label">Tiêu đề</string>
+    <string name="ai_context_body_label">Ngữ cảnh</string>
+    <string name="ai_context_edit">Sửa ngữ cảnh</string>
+    <string name="ai_context_delete">Xóa ngữ cảnh</string>
+    <string name="ai_select_field">Chọn một trường</string>
+</resources>

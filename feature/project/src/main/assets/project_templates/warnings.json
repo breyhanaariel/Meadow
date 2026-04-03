@@ -1,0 +1,103 @@
+{
+  "id": "project.warnings",
+  "owner": "project",
+  "key": "warnings",
+  "labelKey": "field_project_warnings",
+  "kind": "MULTI_SELECT",
+  "group": "Classification",
+  "order": 11,
+  "metadata": {
+    "groupedOptions": {
+      "warnings_group_all": {
+        "warning_cartoon_violence": "warning_cartoon_violence_desc",
+        "warning_potty_humor": "warning_potty_humor_desc",
+        "warning_slapstick_humor": "warning_slapstick_humor_desc"
+      },
+      "warnings_group_preteen": {
+        "warning_minor_aggression": "warning_minor_aggression_desc",
+        "warning_fantasy_violence": "warning_fantasy_violence_desc"
+      },
+      "warnings_group_tween": {
+        "warning_mild_aggression": "warning_mild_aggression_desc",
+        "warning_minor_violence": "warning_minor_violence_desc",
+        "warning_mild_gore": "warning_mild_gore_desc",
+        "warning_crude_humor": "warning_crude_humor_desc",
+        "warning_mild_language": "warning_mild_language_desc",
+        "warning_mild_fanservice": "warning_mild_fanservice_desc",
+        "warning_mild_sexual_innuendo": "warning_mild_sexual_innuendo_desc",
+        "warning_tobacco_reference": "warning_tobacco_reference_desc",
+        "warning_alcohol_reference": "warning_alcohol_reference_desc",
+        "warning_drug_reference": "warning_drug_reference_desc",
+        "warning_occultism": "warning_occultism_desc"
+      },
+      "warnings_group_teen": {
+        "warning_moderate_aggression": "warning_moderate_aggression_desc",
+        "warning_moderate_violence": "warning_moderate_violence_desc",
+        "warning_moderate_gore": "warning_moderate_gore_desc",
+        "warning_sexual_humor": "warning_sexual_humor_desc",
+        "warning_moderate_language": "warning_moderate_language_desc",
+        "warning_nonsexual_nudity": "warning_nonsexual_nudity_desc",
+        "warning_moderate_fanservice": "warning_moderate_fanservice_desc",
+        "warning_moderate_sexual_innuendo": "warning_moderate_sexual_innuendo_desc",
+        "warning_moderate_sexual_language": "warning_moderate_sexual_language_desc",
+        "warning_moderate_sexual_violence": "warning_moderate_sexual_violence_desc",
+        "warning_pornography_reference": "warning_pornography_reference_desc",
+        "warning_tobacco_use": "warning_tobacco_use_desc",
+        "warning_alcohol_use": "warning_alcohol_use_desc",
+        "warning_drug_use": "warning_drug_use_desc"
+      },
+      "warnings_group_adult": {
+        "warning_explicit_aggression": "warning_explicit_aggression_desc",
+        "warning_explicit_violence": "warning_explicit_violence_desc",
+        "warning_explicit_gore": "warning_explicit_gore_desc",
+        "warning_sexual_themes": "warning_sexual_themes_desc",
+        "warning_explicit_language": "warning_explicit_language_desc",
+        "warning_full_nudity": "warning_full_nudity_desc",
+        "warning_explicit_sexual_innuendo": "warning_explicit_sexual_innuendo_desc",
+        "warning_explicit_sexual_language": "warning_explicit_sexual_language_desc",
+        "warning_explicit_sexual_violence": "warning_explicit_sexual_violence_desc"
+      }
+    },
+    "flatOptions": [
+      "warning_cartoon_violence",
+      "warning_potty_humor",
+      "warning_slapstick_humor",
+      "warning_minor_aggression",
+      "warning_fantasy_violence",
+      "warning_mild_aggression",
+      "warning_minor_violence",
+      "warning_mild_gore",
+      "warning_crude_humor",
+      "warning_mild_language",
+      "warning_mild_fanservice",
+      "warning_mild_sexual_innuendo",
+      "warning_tobacco_reference",
+      "warning_alcohol_reference",
+      "warning_drug_reference",
+      "warning_occultism",
+      "warning_moderate_aggression",
+      "warning_moderate_violence",
+      "warning_moderate_gore",
+      "warning_sexual_humor",
+      "warning_moderate_language",
+      "warning_nonsexual_nudity",
+      "warning_moderate_fanservice",
+      "warning_moderate_sexual_innuendo",
+      "warning_moderate_sexual_language",
+      "warning_moderate_sexual_violence",
+      "warning_pornography_reference",
+      "warning_tobacco_use",
+      "warning_alcohol_use",
+      "warning_drug_use",
+      "warning_explicit_aggression",
+      "warning_explicit_violence",
+      "warning_explicit_gore",
+      "warning_sexual_themes",
+      "warning_explicit_language",
+      "warning_full_nudity",
+      "warning_explicit_sexual_innuendo",
+      "warning_explicit_sexual_language",
+      "warning_explicit_sexual_violence"
+    ]
+  }
+}

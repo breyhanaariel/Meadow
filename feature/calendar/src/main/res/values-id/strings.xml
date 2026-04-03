@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Kalender</string>
+    <string name="calendar">Kalender</string>
+    <string name="action_sync_now">Sinkronkan sekarang</string>
+    <string name="action_today">Hari ini</string>
+    <string name="view_month">Bulan</string>
+    <string name="view_week">Minggu</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Semua</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Seri</string>
+    <string name="filter_projects">Proyek</string>
+    <string name="filter_this_project">Proyek ini</string>
+    <string name="label_color">Warna</string>
+    <string name="label_recurrence">Pengulangan</string>
+    <string name="label_reminder">Pengingat</string>
+    <string name="recurrence_none">Tidak berulang</string>
+    <string name="recurrence_daily">Harian</string>
+    <string name="recurrence_weekly">Mingguan</string>
+    <string name="recurrence_monthly">Bulanan</string>
+    <string name="reminder_none">Tanpa pengingat</string>
+    <string name="reminder_10">10 menit sebelumnya</string>
+    <string name="reminder_30">30 menit sebelumnya</string>
+    <string name="reminder_60">1 jam sebelumnya</string>
+    <string name="delete_event_title">Hapus acara?</string>
+    <string name="delete_event_message">Ini akan menghapus %1$s secara permanen. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="no_events">Belum ada acara</string>
+    <string name="add_event">Tambah acara</string>
+    <string name="delete_event">Hapus acara</string>
+    <string name="edit_event">Edit acara</string>
+    <string name="month">Bulan</string>
+    <string name="week">Minggu</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Sepanjang hari</string>
+    <string name="new_event">Acara Baru</string>
+    <string name="search_month_or_year">Cari bulan atau tahun</string>
+    <string name="upcoming_event">Mendatang</string>
+    <string name="past_event">Selesai</string>
+</resources>

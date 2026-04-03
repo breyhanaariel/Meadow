@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Spela upp</string>
+    <string name="media_pause">Pausa</string>
+    <string name="media_stop">Stoppa</string>
+    <string name="media_now_playing">Spelas nu</string>
+    <string name="media_loading">Laddar</string>
+    <string name="media_no_audio">Inget ljud laddat</string>
+    <string name="media_no_video">Ingen video laddad</string>
+    <string name="media_error">Mediefel inträffade</string>
+    <string name="media_image_loading">Laddar bild</string>
+    <string name="media_image_failed">Misslyckades med att ladda bild</string>
+    <string name="media_subtitle_unknown">[Okänd undertext]</string>
+    <string name="media_no_metadata">Ingen metadata hittades</string>
+    <string name="media_metadata_title">Titel</string>
+    <string name="media_metadata_artist">Artist</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Genre</string>
+    <string name="media_metadata_duration">Längd</string>
+</resources>

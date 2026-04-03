@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Календар</string>
+    <string name="calendar">Календар</string>
+    <string name="action_sync_now">Синхронізувати зараз</string>
+    <string name="action_today">Сьогодні</string>
+    <string name="view_month">Місяць</string>
+    <string name="view_week">Тиждень</string>
+    <string name="view_agenda">Порядок денний</string>
+    <string name="filter_all">Усі</string>
+    <string name="filter_global">Глобальні</string>
+    <string name="filter_series">Серії</string>
+    <string name="filter_projects">Проєкти</string>
+    <string name="filter_this_project">Цей проєкт</string>
+    <string name="label_color">Колір</string>
+    <string name="label_recurrence">Повторюється</string>
+    <string name="label_reminder">Нагадування</string>
+    <string name="recurrence_none">Не повторюється</string>
+    <string name="recurrence_daily">Щодня</string>
+    <string name="recurrence_weekly">Щотижня</string>
+    <string name="recurrence_monthly">Щомісяця</string>
+    <string name="reminder_none">Без нагадування</string>
+    <string name="reminder_10">За 10 хвилин</string>
+    <string name="reminder_30">За 30 хвилин</string>
+    <string name="reminder_60">За 1 годину</string>
+    <string name="delete_event_title">Видалити подію?</string>
+    <string name="delete_event_message">Це назавжди видалить %1$s. Цю дію неможливо скасувати.</string>
+    <string name="no_events">Подій поки немає</string>
+    <string name="add_event">Додати подію</string>
+    <string name="delete_event">Видалити подію</string>
+    <string name="edit_event">Редагувати подію</string>
+    <string name="month">Місяць</string>
+    <string name="week">Тиждень</string>
+    <string name="agenda">Порядок денний</string>
+    <string name="all_day">Весь день</string>
+    <string name="new_event">Нова подія</string>
+    <string name="search_month_or_year">Пошук місяця або року</string>
+    <string name="upcoming_event">Майбутні</string>
+    <string name="past_event">Минулі</string>
+</resources>

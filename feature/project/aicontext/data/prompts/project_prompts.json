@@ -1,0 +1,10 @@
+{
+  "scope": "project",
+  "templates": [
+    {
+      "key": "field_helper",
+      "title": "Project field helper",
+      "prompt": "Use the project context to keep terminology, tone, and details consistent with the active project."
+    }
+  ]
+}

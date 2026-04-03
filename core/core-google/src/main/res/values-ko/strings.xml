@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Google 계정 연결</string>
+    <string name="google_account_connected">Google 계정 연결됨</string>
+    <string name="google_account_disconnected">Google 계정 연결 해제</string>
+
+    <string name="google_auth_signing_in">로그인 중…</string>
+    <string name="google_auth_sign_in_failed">로그인 실패</string>
+    <string name="google_auth_signed_out">로그아웃됨</string>
+    <string name="google_auth_permission_required">Google 권한 필요</string>
+    <string name="google_auth_retry">다시 시도</string>
+
+    <string name="google_drive_title">Google 드라이브</string>
+    <string name="google_drive_connecting">Google 드라이브에 연결 중…</string>
+    <string name="google_drive_connected">Google 드라이브에 연결됨</string>
+    <string name="google_drive_syncing">Google 드라이브와 동기화 중…</string>
+    <string name="google_drive_sync_complete">드라이브 동기화 완료</string>
+    <string name="google_drive_sync_failed">드라이브 동기화 실패</string>
+    <string name="google_drive_permission_denied">드라이브 액세스 거부됨</string>
+
+    <string name="google_sheets_title">Google 스프레드시트</string>
+    <string name="google_sheets_connecting">Google 스프레드시트에 연결 중…</string>
+    <string name="google_sheets_connected">Google 스프레드시트에 연결됨</string>
+    <string name="google_sheets_exporting">Google 스프레드시트로 내보내는 중…</string>
+    <string name="google_sheets_export_complete">내보내기 완료</string>
+    <string name="google_sheets_export_failed">내보내기 실패</string>
+
+    <string name="google_calendar_title">Google 캘린더</string>
+    <string name="google_calendar_connecting">Google 캘린더에 연결 중…</string>
+    <string name="google_calendar_connected">Google 캘린더에 연결됨</string>
+    <string name="google_calendar_syncing">캘린더 동기화 중…</string>
+    <string name="google_calendar_sync_failed">캘린더 동기화 실패</string>
+    <string name="google_calendar_permission_denied">캘린더 액세스 거부됨</string>
+
+    <string name="google_docs_title">Google 문서</string>
+    <string name="google_docs_connecting">Google 문서에 연결 중…</string>
+    <string name="google_docs_connected">Google 문서에 연결됨</string>
+    <string name="google_docs_exporting">Google 문서로 내보내는 중…</string>
+    <string name="google_docs_export_failed">내보내기 실패</string>
+
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Gemini에 연결 중…</string>
+    <string name="google_gemini_connected">Gemini에 연결됨</string>
+    <string name="google_gemini_requesting">응답 생성 중…</string>
+    <string name="google_gemini_failed">Gemini 요청 실패</string>
+    <string name="google_gemini_rate_limited">요청이 너무 많습니다. 잠시 기다려 주세요.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Manuskript</string>
+    <string name="script_list_title">Manuskript</string>
+    <string name="script_new">Nytt manuskript</string>
+    <string name="script_editor_title">Redigerare</string>
+    <string name="script_dialect">Dialekt</string>
+    <string name="script_mode_structure">Struktur</string>
+    <string name="script_mode_outline">Dispositionsplan</string>
+    <string name="script_mode_catalog_links">Kataloglänkar</string>
+    <string name="script_mode_comments">Kommentarer</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Exportera</string>
+    <string name="script_action_more">Mer</string>
+    <string name="script_outline">Dispositionsplan</string>
+    <string name="script_no_scripts">Inga manuskript än</string>
+    <string name="script_create_failed">Kunde inte skapa manuskript</string>
+    <string name="script_saved">Sparad</string>
+    <string name="script_type_comic">Serie</string>
+    <string name="script_type_novel">Roman</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Spel</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Tilldela en överordnad plats för att skapa en hierarki (t.ex. en stad tillhör ett land, ett rum tillhör en byggnad).</string>
+    <string name="tooltip_style_voice">Beskriv meningsbyggnad, rytm, tempo och stilistiskt flöde.</string>
+    <string name="tooltip_style_lexicon">Regler gällande slang, sammandragningar, svordomar, dialekt eller begränsningar i ordförråd.</string>
+    <string name="tooltip_style_do_rules">Saker som denna röst bör betona eller konsekvent inkludera.</string>
+    <string name="tooltip_style_avoid_rules">Saker som denna röst måste undvika eller minimera.</string>
+    <string name="tooltip_style_formatting">Regler för formatering av inre tankar, telepati, sms eller speciell dialog.</string>
+</resources>

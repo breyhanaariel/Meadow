@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Afspelen</string>
+    <string name="media_pause">Pauzeren</string>
+    <string name="media_stop">Stoppen</string>
+    <string name="media_now_playing">Nu afspelen</string>
+    <string name="media_loading">Laden</string>
+    <string name="media_no_audio">Geen audio geladen</string>
+    <string name="media_no_video">Geen video geladen</string>
+    <string name="media_error">Mediafout opgetreden</string>
+    <string name="media_image_loading">Afbeelding laden</string>
+    <string name="media_image_failed">Afbeelding laden mislukt</string>
+    <string name="media_subtitle_unknown">[Onbekende ondertiteling]</string>
+    <string name="media_no_metadata">Geen metadata gevonden</string>
+    <string name="media_metadata_title">Titel</string>
+    <string name="media_metadata_artist">Artiest</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Genre</string>
+    <string name="media_metadata_duration">Duur</string>
+</resources>

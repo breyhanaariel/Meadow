@@ -1,0 +1,19 @@
+{
+  "id": "project.status",
+  "owner": "project",
+  "key": "status",
+  "labelKey": "field_project_status",
+  "kind": "SINGLE_SELECT",
+  "group": "group_progress",
+  "order": 13,
+  "defaultValue": "status_draft",
+  "metadata": {
+    "flatOptions": [
+      "status_draft",
+      "status_revising",
+      "status_complete",
+      "status_paused",
+      "status_shelved"
+    ]
+  }
+}

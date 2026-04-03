@@ -1,0 +1,80 @@
+{
+  "typeKey": "animal",
+  "icon": "ic_animal",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "animal.image",
+      "owner": "catalog",
+      "key": "image",
+      "labelKey": "field_animal_image",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "animal.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_animal_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "animal.appears_in_scene",
+      "owner": "catalog",
+      "key": "appears_in_scene",
+      "labelKey": "field_appears_in_scene",
+      "kind": "RELATION",
+      "order": 2,
+      "metadata": {
+        "relationTypeKey": "scene",
+        "allowMultiple": true
+      }
+    },
+    {
+      "id": "animal.species",
+      "owner": "catalog",
+      "key": "species",
+      "labelKey": "field_animal_species",
+      "kind": "TEXT",
+      "order": 3
+    },
+    {
+      "id": "animal.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_animal_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 4,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "animal.temperament",
+      "owner": "catalog",
+      "key": "temperament",
+      "labelKey": "field_animal_temperament",
+      "kind": "TEXT",
+      "order": 5,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "animal.habitat",
+      "owner": "catalog",
+      "key": "habitat",
+      "labelKey": "field_animal_habitat",
+      "kind": "TEXT",
+      "order": 6,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "animal.diet",
+      "owner": "catalog",
+      "key": "diet",
+      "labelKey": "field_animal_diet",
+      "kind": "TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">สร้าง</string>
+    <string name="ai_mode_improve">ปรับปรุง</string>
+    <string name="ai_mode_rewrite">เขียนใหม่</string>
+    <string name="ai_mode_expand">ขยายความ</string>
+    <string name="ai_mode_shorten">สรุปให้สั้นลง</string>
+    <string name="ai_action_manage_context">จัดการบริบท</string>
+    <string name="ai_action_open_chats">เปิดแชท</string>
+    <string name="ai_choose_action">เลือกการดำเนินการ</string>
+    <string name="ai_for_field">AI สำหรับ: %1$s</string>
+    <string name="ai_picker_generate_title">สร้าง: เลือกฟิลด์</string>
+    <string name="ai_picker_improve_title">ปรับปรุง: เลือกฟิลด์</string>
+    <string name="ai_picker_rewrite_title">เขียนใหม่: เลือกฟิลด์</string>
+    <string name="ai_no_fields_available">ไม่มีฟิลด์ที่รองรับ AI</string>
+    <string name="ai_preview_title">ตัวอย่างการเปลี่ยนแปลงโดย AI</string>
+    <string name="ai_preview_scope">ขอบเขต: %1$s</string>
+    <string name="ai_preview_count">การเปลี่ยนแปลง: %1$d</string>
+    <string name="ai_preview_before">ก่อน:</string>
+    <string name="ai_preview_after">หลัง:</string>
+    <string name="ai_optional_note">บันทึกเพิ่มเติม (ไม่ถูกส่ง)</string>
+    <string name="ai_applied">ใช้การเปลี่ยนแปลงโดย AI แล้ว</string>
+    <string name="ai_failed_generic">AI ทำงานล้มเหลว</string>
+    <string name="ai_preview_empty">(ว่างเปล่า)</string>
+    <string name="ai_context_title">บริบทของ AI</string>
+    <string name="ai_context_add">เพิ่มบริบท</string>
+    <string name="ai_context_pinned">ปักหมุด (รวมเสมอ)</string>
+    <string name="ai_context_title_label">หัวข้อ</string>
+    <string name="ai_context_body_label">บริบท</string>
+    <string name="ai_context_edit">แก้ไขบริบท</string>
+    <string name="ai_context_delete">ลบบริบท</string>
+    <string name="ai_select_field">เลือกฟิลด์</string>
+</resources>

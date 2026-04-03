@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Přehrát</string>
+    <string name="media_pause">Pozastavit</string>
+    <string name="media_stop">Zastavit</string>
+    <string name="media_now_playing">Právě se přehrává</string>
+    <string name="media_loading">Načítání</string>
+    <string name="media_no_audio">Nebylo načteno žádné audio</string>
+    <string name="media_no_video">Nebylo načteno žádné video</string>
+    <string name="media_error">Došlo k chybě médií</string>
+    <string name="media_image_loading">Načítání obrázku</string>
+    <string name="media_image_failed">Načítání obrázku se nezdařilo</string>
+    <string name="media_subtitle_unknown">[Neznámé titulky]</string>
+    <string name="media_no_metadata">Nenalezena žádná metadata</string>
+    <string name="media_metadata_title">Název</string>
+    <string name="media_metadata_artist">Umělec</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Žánr</string>
+    <string name="media_metadata_duration">Délka</string>
+</resources>

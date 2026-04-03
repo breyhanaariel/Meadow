@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">En kort översikt av projektet.</string>
+    <string name="tooltip_project_pitch">En mening som är tänkt att sälja idén snabbt.</string>
+    <string name="tooltip_project_premise">Det centrala "tänk om?" som driver berättelsen framåt.</string>
+    <string name="tooltip_project_promise">Vilken upplevelse publiken kan förvänta sig (ton, tema, emotionell utdelning).</string>
+    <string name="tooltip_project_plot">En övergripande skiss av de viktigaste händelserna. Inte varje detalj.</string>
+</resources>

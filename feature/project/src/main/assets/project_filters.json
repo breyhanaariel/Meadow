@@ -1,0 +1,9 @@
+{
+  "audience": { "source": "audience.json" },
+  "genre":    { "source": "genres.json" },
+  "elements": { "source": "elements.json" },
+  "rating":   { "source": "rating.json" },
+  "warnings": { "source": "warnings.json" },
+  "status":   { "source": "status.json" },
+  "format":   { "source": "format.json" }
+}

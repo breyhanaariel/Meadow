@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">생성</string>
+    <string name="ai_mode_improve">개선</string>
+    <string name="ai_mode_rewrite">다시 쓰기</string>
+    <string name="ai_mode_expand">늘리기</string>
+    <string name="ai_mode_shorten">줄이기</string>
+    <string name="ai_action_manage_context">컨텍스트 관리</string>
+    <string name="ai_action_open_chats">채팅 열기</string>
+    <string name="ai_choose_action">작업 선택</string>
+    <string name="ai_for_field">AI 대상: %1$s</string>
+    <string name="ai_picker_generate_title">생성: 필드 선택</string>
+    <string name="ai_picker_improve_title">개선: 필드 선택</string>
+    <string name="ai_picker_rewrite_title">다시 쓰기: 필드 선택</string>
+    <string name="ai_no_fields_available">AI 사용 가능 필드가 없습니다.</string>
+    <string name="ai_preview_title">AI 변경사항 미리보기</string>
+    <string name="ai_preview_scope">범위: %1$s</string>
+    <string name="ai_preview_count">변경사항: %1$d</string>
+    <string name="ai_preview_before">변경 전:</string>
+    <string name="ai_preview_after">변경 후:</string>
+    <string name="ai_optional_note">선택적 메모 (전송되지 않음)</string>
+    <string name="ai_applied">AI 변경사항 적용됨</string>
+    <string name="ai_failed_generic">AI 실패</string>
+    <string name="ai_preview_empty">(비어 있음)</string>
+    <string name="ai_context_title">AI 컨텍스트</string>
+    <string name="ai_context_add">컨텍스트 추가</string>
+    <string name="ai_context_pinned">고정됨 (항상 포함)</string>
+    <string name="ai_context_title_label">제목</string>
+    <string name="ai_context_body_label">컨텍스트</string>
+    <string name="ai_context_edit">컨텍스트 편집</string>
+    <string name="ai_context_delete">컨텍스트 삭제</string>
+    <string name="ai_select_field">필드 선택</string>
+</resources>

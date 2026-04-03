@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Genera</string>
+    <string name="ai_mode_improve">Migliora</string>
+    <string name="ai_mode_rewrite">Riscrivi</string>
+    <string name="ai_mode_expand">Espandi</string>
+    <string name="ai_mode_shorten">Accorcia</string>
+    <string name="ai_action_manage_context">Gestisci contesto</string>
+    <string name="ai_action_open_chats">Apri chat</string>
+    <string name="ai_choose_action">Scegli un\'azione</string>
+    <string name="ai_for_field">IA per: %1$s</string>
+    <string name="ai_picker_generate_title">Genera: Scegli campi</string>
+    <string name="ai_picker_improve_title">Migliora: Scegli campi</string>
+    <string name="ai_picker_rewrite_title">Riscrivi: Scegli campi</string>
+    <string name="ai_no_fields_available">Nessun campo abilitato per l\'IA disponibile.</string>
+    <string name="ai_preview_title">Anteprima modifiche IA</string>
+    <string name="ai_preview_scope">Ambito: %1$s</string>
+    <string name="ai_preview_count">Modifiche: %1$d</string>
+    <string name="ai_preview_before">Prima:</string>
+    <string name="ai_preview_after">Dopo:</string>
+    <string name="ai_optional_note">Nota facoltativa (non inviata)</string>
+    <string name="ai_applied">Modifiche IA applicate</string>
+    <string name="ai_failed_generic">Errore IA</string>
+    <string name="ai_preview_empty">(vuoto)</string>
+    <string name="ai_context_title">Contesto IA</string>
+    <string name="ai_context_add">Aggiungi contesto</string>
+    <string name="ai_context_pinned">Fissato (includi sempre)</string>
+    <string name="ai_context_title_label">Titolo</string>
+    <string name="ai_context_body_label">Contesto</string>
+    <string name="ai_context_edit">Modifica contesto</string>
+    <string name="ai_context_delete">Elimina contesto</string>
+    <string name="ai_select_field">Seleziona un campo</string>
+</resources>

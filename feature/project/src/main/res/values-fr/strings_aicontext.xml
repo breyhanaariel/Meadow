@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Générer</string>
+    <string name="ai_mode_improve">Améliorer</string>
+    <string name="ai_mode_rewrite">Réécrire</string>
+    <string name="ai_mode_expand">Développer</string>
+    <string name="ai_mode_shorten">Raccourcir</string>
+    <string name="ai_action_manage_context">Gérer le contexte</string>
+    <string name="ai_action_open_chats">Ouvrir les discussions</string>
+    <string name="ai_choose_action">Choisir une action</string>
+    <string name="ai_for_field">IA pour&#160;: %1$s</string>
+    <string name="ai_picker_generate_title">Générer&#160;: Choisir les champs</string>
+    <string name="ai_picker_improve_title">Améliorer&#160;: Choisir les champs</string>
+    <string name="ai_picker_rewrite_title">Réécrire&#160;: Choisir les champs</string>
+    <string name="ai_no_fields_available">Aucun champ compatible IA disponible.</string>
+    <string name="ai_preview_title">Aperçu des modifications IA</string>
+    <string name="ai_preview_scope">Portée&#160;: %1$s</string>
+    <string name="ai_preview_count">Modifications&#160;: %1$d</string>
+    <string name="ai_preview_before">Avant&#160;:  </string>
+    <string name="ai_preview_after">Après&#160;:  </string>
+    <string name="ai_optional_note">Note facultative (non envoyée)</string>
+    <string name="ai_applied">Modifications IA appliquées</string>
+    <string name="ai_failed_generic">L\'IA a échoué</string>
+    <string name="ai_preview_empty">(vide)</string>
+    <string name="ai_context_title">Contexte IA</string>
+    <string name="ai_context_add">Ajouter un contexte</string>
+    <string name="ai_context_pinned">Épinglé (toujours inclure)</string>
+    <string name="ai_context_title_label">Titre</string>
+    <string name="ai_context_body_label">Contexte</string>
+    <string name="ai_context_edit">Modifier le contexte</string>
+    <string name="ai_context_delete">Supprimer le contexte</string>
+    <string name="ai_select_field">Sélectionner un champ</string>
+</resources>

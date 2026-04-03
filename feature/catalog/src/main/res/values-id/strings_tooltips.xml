@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Tetapkan lokasi induk untuk membuat hierarki (misalnya, Kota di dalam Negara, Ruangan di dalam Bangunan).</string>
+    <string name="tooltip_style_voice">Deskripsikan struktur kalimat, ritme, tempo, dan alur gaya bahasa.</string>
+    <string name="tooltip_style_lexicon">Aturan mengenai gaul, penyingkatan, kata-kata kasar, dialek, atau batasan kosakata.</string>
+    <string name="tooltip_style_do_rules">Hal-hal yang harus ditekankan atau disertakan secara konsisten oleh suara ini.</string>
+    <string name="tooltip_style_avoid_rules">Hal-hal yang harus dihindari atau dikurangi oleh suara ini.</string>
+    <string name="tooltip_style_formatting">Aturan untuk memformat pikiran batin, telepati, pesan teks, atau dialog khusus.</string>
+</resources>

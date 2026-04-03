@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================================================== -->
+    <!-- ACCESSIBILITY -->
+    <!-- ================================================== -->
+    <string name="cd_close_chat">Close AI chat</string>
+    <string name="cd_page_number">Page %1$d</string>
+    <string name="cd_thumbnail_number">Thumbnail %1$d</string>
+    <!-- ================================================== -->
+    <!-- SETTINGS -->
+    <!-- ================================================== -->
+    <string name="ai_settings_section">AI</string>
+    <string name="ai_settings_title">AI Settings</string>
+    <string name="ai_settings_core">Core Persona Prompts</string>
+    <string name="ai_settings_library">Prompt Library</string>
+    <string name="ai_settings_add_prompt">Add Prompt</string>
+    <string name="ai_settings_core_prompt_label">Prompt Template</string>
+    <string name="ai_settings_empty_library">No saved prompts yet.</string>
+    <string name="ai_settings_reset_default">Reset to Default</string>
+    <string name="ai_settings_prompt_persona">Persona: %1$s</string>
+
+    <!-- ================================================== -->
+    <!-- ASSISTED / SMART UI -->
+    <!-- ================================================== -->
+    <string name="ai_generating">Generating…</string>
+    <string name="ai_thinking">Thinking…</string>
+    <string name="ai_try_again">Try again</string>
+
+    <!-- ================================================== -->
+    <!-- AI / CONTEXT -->
+    <!-- ================================================== -->
+    <string name="ai_context_library">AI Context Library</string>
+    <string name="ai_context_all_personas">All Personas</string>
+    <string name="ai_add_context">Add AI context</string>
+    <string name="ai_edit_context">Edit AI context</string>
+    <string name="ai_project_context">Project AI Context</string>
+    <string name="ai_series_context">Series AI Context</string>
+    <string name="ai_context_summary">Summary</string>
+    <string name="ai_context_tone">Tone</string>
+    <string name="ai_context_themes">Themes</string>
+    <string name="ai_no_fields_available">No AI-enabled fields available.</string>
+    <string name="ai_search_context">search context</string>
+    <string name="ai_delete_context_title">Delete Context</string>
+    <string name="ai_delete_context_message">Are you sure you want to permanently delete "%1$s"? This action cannot be undone.</string>
+    <string name="ai_new_context">New Context</string>
+    <string name="ai_context_title">Title</string>
+    <string name="ai_context_body">Context Body</string>
+
+    <!-- ================================================== -->
+    <!-- PERSONAS -->
+    <!-- ================================================== -->
+
+    <!-- Bud -->
+    <string name="ai_persona_bud">Bud</string>
+    <string name="ai_placeholder_bud">Generate or refine text for this field…</string>
+
+    <!-- Vine -->
+    <string name="ai_persona_vine">Vine</string>
+    <string name="ai_placeholder_vine">Draft a scene or chapter here…</string>
+
+    <!-- Sprout -->
+    <string name="ai_persona_sprout">Sprout</string>
+    <string name="ai_sprout_title">Sprout Idea Generator</string>
+    <string name="ai_sprout_idea_request">User idea request</string>
+    <string name="ai_sprout_extra_context">Extra context</string>
+    <string name="ai_placeholder_sprout">What are we brainstorming today?</string>
+
+    <!-- Petal -->
+    <string name="ai_persona_petal">Petal</string>
+    <string name="ai_petal_title">Petal Chapter Critique</string>
+    <string name="ai_petal_chapter_to_critique">Chapter to critique</string>
+    <string name="ai_petal_author_notes">Author notes or constraints</string>
+    <string name="ai_placeholder_petal">Enter your chapter for analysis</string>
+
+    <!-- Bloom -->
+    <string name="ai_persona_bloom">Bloom</string>
+    <string name="ai_bloom_title">Bloom Enhancing Editor</string>
+    <string name="ai_bloom_original_text">Original text</string>
+    <string name="ai_bloom_editing_instructions">Rewrite / editing instructions</string>
+    <string name="ai_placeholder_bloom">Rewrite this scene</string>
+
+    <!-- Meadow -->
+    <string name="ai_persona_meadow">Meadow</string>
+    <string name="ai_meadow_title">Meadow Writing Assistant</string>
+    <string name="ai_meadow_source">Source</string>
+    <string name="ai_meadow_page">p.</string>
+    <string name="ai_meadow_user_question">User question</string>
+    <string name="ai_meadow_relevant_excerpts">Relevant writing guide excerpts</string>
+    <string name="ai_meadow_excerpt">Excerpt</string>
+    <string name="ai_placeholder_meadow">Ask me anything</string>
+
+    <!-- ================================================== -->
+    <!-- CHAT PANEL -->
+    <!-- ================================================== -->
+    <string name="ai_chat_panel_title">AI Assistant</string>
+    <string name="ai_chat_panel_placeholder">Ask me anything</string>
+    <string name="ai_chat_panel_send">Send</string>
+
+    <!-- ================================================== -->
+    <!-- CHAT MANAGEMENT -->
+    <!-- ================================================== -->
+    <string name="ai_new_chat">New Chat</string>
+    <string name="ai_choose_chat">Choose Chat</string>
+    <string name="ai_create_new_chat">Create New Chat</string>
+    <string name="ai_rename_chat">Rename</string>
+    <string name="ai_rename_title">Rename Chat</string>
+    <string name="ai_chat_name">Chat Name</string>
+    <string name="ai_no_chats">No chats available</string>
+
+    <!-- ================================================== -->
+    <!-- AI STATE -->
+    <!-- ================================================== -->
+
+    <string name="ai_error_generic">AI couldn’t complete that request.</string>
+    <string name="ai_error_rate_limited">Too many requests. Please wait.</string>
+    <string name="ai_error_context_too_large">Context is too long.</string>
+
+    <!-- ================================================== -->
+    <!-- TOOLTIP -->
+    <!-- ================================================== -->
+    <string name="ai_tooltip_message">AI Tip</string>
+
+    <!-- ================================================== -->
+    <!-- PROMPT CARD -->
+    <!-- ================================================== -->
+    <string name="ai_use_prompt_button">Use Prompt</string>
+
+    <!-- ================================================== -->
+    <!-- DIALOG -->
+    <!-- ================================================== -->
+    <string name="ai_dialog_assistant_title">AI Assistant</string>
+    <string name="ai_dialog_unicorn_assistant">Unicorn Assistant</string>
+    <string name="ai_dialog_link_bookmark">Link Bookmark to Catalog Entry</string>
+    <string name="ai_dialog_catalog_id">Catalog ID</string>
+    <string name="ai_dialog_link">Link</string>
+
+    <!-- ================================================== -->
+    <!-- HELP -->
+    <!-- ================================================== -->
+    <string name="ai_help_tooltip">AI Assistant Help</string>
+    <string name="ai_help_button">How it works</string>
+    <string name="ai_help_title">Using the AI Assistant</string>
+    <string name="ai_help_description">
+        The AI assistant can help you draft, edit, organize, and generate ideas.
+        Open the chat panel and ask anything.
+    </string>
+
+    <!-- ================================================== -->
+    <!-- PDF -->
+    <!-- ================================================== -->
+    <string name="ai_select_writing_guide">Select a Writing Guide</string>
+    <string name="ai_pdf_document_label">PDF document</string>
+    <string name="ai_pdf_select_document_placeholder">Select a PDF</string>
+    <string name="ai_pdf_page">Page %1$d</string>
+    <string name="ai_pdf_search_label">Search in PDF</string>
+    <string name="ai_pdf_search_icon_desc">Search</string>
+    <string name="ai_pdf_load_failed">Failed to load PDF.</string>
+    <string name="ai_open_pdf_page">Open PDF \u2022 Page %1$d</string>
+
+    <!-- ================================================== -->
+    <!-- PDF VIEWER -->
+    <!-- ================================================== -->
+    <string name="ai_pdf_viewer_page">Page %1$d of %2$d</string>
+    <string name="ai_pdf_viewer_previous">Previous</string>
+    <string name="ai_pdf_viewer_next">Next</string>
+    <string name="ai_pdf_viewer_add_bookmark">Add Bookmark</string>
+    <string name="ai_pdf_viewer_back">← Back</string>
+
+    <!-- ================================================== -->
+    <!-- PDF LINK DIALOG -->
+    <!-- ================================================== -->
+    <string name="ai_pdf_link_title">Link to Catalog</string>
+    <string name="ai_pdf_link_message">Enter catalog ID:</string>
+
+    <!-- ================================================== -->
+    <!-- TEXT SELECTION -->
+    <!-- ================================================== -->
+    <string name="ai_selection_result_title">AI Result</string>
+    <string name="ai_selection_replace">Replace selection</string>
+    <string name="ai_selection_insert_below">Insert below</string>
+    <string name="ai_selection_failed">AI failed: %1$s</string>
+    <string name="ai_action_sprout">Sprout: Ideas</string>
+    <string name="ai_action_vine">Vine: Draft</string>
+    <string name="ai_action_petal">Petal: Critique</string>
+    <string name="ai_action_bloom">Bloom: Rewrite</string>
+</resources>

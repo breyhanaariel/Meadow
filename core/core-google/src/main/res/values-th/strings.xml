@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">เชื่อมต่อบัญชี Google</string>
+    <string name="google_account_connected">เชื่อมต่อบัญชี Google แล้ว</string>
+    <string name="google_account_disconnected">ยกเลิกการเชื่อมต่อบัญชี Google</string>
+    <string name="google_auth_signing_in">กำลังลงชื่อเข้าใช้…</string>
+    <string name="google_auth_sign_in_failed">การลงชื่อเข้าใช้ล้มเหลว</string>
+    <string name="google_auth_signed_out">ลงชื่อออกแล้ว</string>
+    <string name="google_auth_permission_required">ต้องได้รับอนุญาตจาก Google</string>
+    <string name="google_auth_retry">ลองอีกครั้ง</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">กำลังเชื่อมต่อกับ Google Drive…</string>
+    <string name="google_drive_connected">เชื่อมต่อกับ Google Drive แล้ว</string>
+    <string name="google_drive_syncing">กำลังซิงค์กับ Google Drive…</string>
+    <string name="google_drive_sync_complete">ซิงค์ Drive สำเร็จ</string>
+    <string name="google_drive_sync_failed">ซิงค์ Drive ล้มเหลว</string>
+    <string name="google_drive_permission_denied">การเข้าถึง Drive ถูกปฏิเสธ</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">กำลังเชื่อมต่อกับ Google Sheets…</string>
+    <string name="google_sheets_connected">เชื่อมต่อกับ Google Sheets แล้ว</string>
+    <string name="google_sheets_exporting">กำลังส่งออกไปยัง Google Sheets…</string>
+    <string name="google_sheets_export_complete">ส่งออกสำเร็จ</string>
+    <string name="google_sheets_export_failed">ส่งออกล้มเหลว</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">กำลังเชื่อมต่อกับ Google Calendar…</string>
+    <string name="google_calendar_connected">เชื่อมต่อกับ Google Calendar แล้ว</string>
+    <string name="google_calendar_syncing">กำลังซิงค์ปฏิทิน…</string>
+    <string name="google_calendar_sync_failed">ซิงค์ปฏิทินล้มเหลว</string>
+    <string name="google_calendar_permission_denied">การเข้าถึงปฏิทินถูกปฏิเสธ</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">กำลังเชื่อมต่อกับ Google Docs…</string>
+    <string name="google_docs_connected">เชื่อมต่อกับ Google Docs แล้ว</string>
+    <string name="google_docs_exporting">กำลังส่งออกไปยัง Google Docs…</string>
+    <string name="google_docs_export_failed">ส่งออกล้มเหลว</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">กำลังเชื่อมต่อกับ Gemini…</string>
+    <string name="google_gemini_connected">เชื่อมต่อกับ Gemini แล้ว</string>
+    <string name="google_gemini_requesting">กำลังสร้างคำตอบ…</string>
+    <string name="google_gemini_failed">คำขอ Gemini ล้มเหลว</string>
+    <string name="google_gemini_rate_limited">มีคำขอมากเกินไป โปรดรอสักครู่</string>
+</resources>

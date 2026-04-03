@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="helper_character_arc">
+<b>CONSTRUCTOR REZUMAT NARATIV</b>\n
+<i>Combină aceste începuturi de propoziție într-un paragraf fluid:</i>\n\n
+
+• <b>Contextul (Setup):</b> "Bântuit de [Rană], [Nume] crede că [Minciună/Credință Falsă]..."\n
+• <b>Catalizatorul:</b> "Disperat să [Obiectiv Extern], acesta [Incident declanșator]..."\n
+• <b>Schimbarea:</b> "Deși inițial [Metodă Veche], totul se schimbă când [Punctul de Mijloc]..."\n
+• <b>Căderea:</b> "Totuși, [Punctul Minim/Eșecul] îl forțează să-și pună la îndoială credințele..."\n
+• <b>Alegerea:</b> "Confruntat cu alegerea între [Siguranță/Dorință] și [Adevăr/Nevoie], acesta [Acțiune Climax]..."\n
+• <b>Rezoluția:</b> "Încheie povestea ca [Nouă Identitate/Statut]."
+        Exemplu: Bântuită de teama de a fi înlocuită, Lumi crede că utilitatea este singura monedă care contează. Disperată să rămână printre elitele academiei, ea perfecționează rolul de „fixer” — voce calmă, mâini sigure, secrete ermetice. Deși inițial crede că menține grupul unit, totul se schimbă când un secret devine un cadavru. Totuși, când tăcerea amenință să o consume și pe ea, Lumi realizează că adevărul nu trebuie să fie complet pentru a fi eficient. Confruntată cu alegerea între puritatea morală și supraviețuire, ea editează narațiunea. Încheie povestea fiind încă adorată, încă protejată — nu mai este inocentă, dar în sfârșit este în siguranță. </string>
+
+    <string name="helper_character_goal">
+<b>EXTERN VS. INTERN</b>\n
+Obiectivul este <b>obiectul fizic sau rezultatul</b> pe care personajul îl urmărește prin intrigă. Trebuie să treacă <b>Testul Camerei</b>: Poți filma momentul în care acesta este atins?\n\n
+
+<b>FORMULARE</b>\n
+Începe cu un verb de acțiune puternic:\n
+• <b>Să evadeze</b> (dintr-o închisoare)\n
+• <b>Să protejeze</b> (un martor)\n
+• <b>Să distrugă</b> (o armă)\n
+• <b>Să găsească</b> (un leac)\n
+• <b>Să câștige</b> (o competiție)\n
+• <b>Să rezolve</b> (o crimă)\n\n
+
+<b>FORMULA</b>\n
+\"[Verb activ] + [Țintă] + pentru a obține [Recompensă/Miză].\"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Să curețe</b> dovezile de la locul faptei și să editeze cronologia grupului <b>pentru a</b> se asigura că poliția declară decesul un accident, garantându-și siguranța în cercul elitelor.
+</string>
+
+    <string name="helper_character_motivation_outer">
+<b>PRESIUNEA (BĂȚUL)</b>\n
+Presiunea externă care forțează acțiunea. Nu este ceea ce personajul <i>vrea</i> să facă — este ceea ce lumea <i>cere</i> să facă pentru a evita dezastrul.\n\n
+
+<b>PRESIUNI COMUNE</b>\n
+• <b>Supraviețuirea:</b> Amenințarea cu moartea sau sărăcia.\n
+• <b>Datoria:</b> Un job, un jurământ sau o datorie de plătit.\n
+• <b>Rivalitatea:</b> Un inamic face o mișcare; trebuie să reacționeze.\n
+• <b>Cronometrul:</b> Un termen limită care se apropie.\n\n
+
+<b>ÎNTREABĂ-TE</b>\n
+• "Ce lucru teribil se întâmplă dacă refuză să acționeze?"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Implicare și Pârghie.</b> Lumi găsește cadavrul și realizează că este deja implicată prin asociere. Este forțată să acționeze nu doar pentru a ascunde scandalul, ci pentru că știe că, dacă rezolvă asta, grupul îi va fi dator pe viață.
+</string>
+
+    <string name="helper_character_motivation_inner">
+<b>FOAMEA (GOLUL)</b>\n
+Deficiența emoțională de sub obiectiv. Este gaura psihologică pe care încearcă să o umple.\n\n
+
+<b>NEVOI DE BAZĂ (MASLOW)</b>\n
+• <b>Siguranță:</b> Să nu se mai simtă speriat sau vulnerabil.\n
+• <b>Apartenență:</b> Să fie iubit sau acceptat.\n
+• <b>Stimă:</b> Să fie respectat sau puternic.\n
+• <b>Autonomie:</b> Să fie liber de control.\n
+• <b>Redempțiune:</b> Să repare o greșeală din trecut.\n\n
+
+<b>ÎNTREABĂ-TE</b>\n
+• "Ce durere încearcă să amorțească?"\n
+• "Ce sentiment cred că le va oferi Obiectivul?"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Putere (Indispensabilitate).</b> Bântuită de teama de a fi înlocuită, Lumi este motivată de o nevoie întunecată de a fi <i>singura</i> care cunoaște adevărul. Crede că, dacă deține secretele care îi pot distruge pe ceilalți, va fi în sfârșit la adăpost de abandon.
+</string>
+
+    <string name="helper_character_methodology">
+<b>ABORDARE VS. ATITUDINE</b>\n
+• <b>Abordarea:</b> Acțiunile vizibile, tacticile și comportamentele folosite pentru a rezolva probleme.\n
+• <b>Atitudinea:</b> Mentalitatea internă, poziția emoțională sau filozofia adoptată.\n\n
+
+<b>STILURILE</b>\n
+• <b>Asertiv:</b> Preia controlul și forțează rezultatele.\n
+• <b>Reactiv:</b> Se adaptează mediului/celorlalți.\n
+• <b>Conservator:</b> Menține status quo-ul sau resursele.\n
+• <b>Pasiv:</b> Cedează sau se retrage.\n
+• <b>Dogmatic:</b> Respectă un cod strict.\n
+• <b>Pragmatic:</b> Face orice funcționează.\n
+• <b>Caut:</b> Evită riscurile.\n
+• <b>Riscant:</b> Mize mari.\n\n
+
+<b>EXEMPLU</b>\n
+<b>Tip: Abordare Pragmatică și Atitudine Precaută</b>\n
+Lumi supraviețuiește fiind „Editorul” (Pragmatică), tratând adevărul ca pe un draft ce trebuie rescris. Atitudinea ei este <b>Precaută</b>: nu creează niciodată o minciună care poate fi ușor demontată. În schimb, editează adevărul doar cât să schimbe concluzia, prioritizând supraviețuirea în fața moralității.
+</string>
+
+    <string name="helper_character_requirement">
+<b>PRECONDIȚIA (CHEIA)</b>\n
+Pasul esențial, condiția sau obiectul care trebuie obținut <i>înainte</i> ca Obiectivul să fie atins. Dacă Obiectivul este ușa încuiată, Condiția este cheia.\n\n
+
+<b>TIPURI COMUNE</b>\n
+• <b>Obținerea:</b> Colectarea de informații, o hartă, o armă sau o cheie propriu-zisă.\n
+• <b>Acțiunea:</b> Călătoria într-o locație specifică, câștigarea unei runde de calificare sau efectuarea unui ritual.\n
+• <b>Învățarea:</b> Descifrarea unui cod, stăpânirea unei abilități sau descoperirea unui secret.\n
+• <b>Devenirea:</b> Obținerea unui rang, câștigarea încrederii sau schimbarea naturii proprii.\n\n
+
+<b>ÎNTREABĂ-TE</b>\n
+• "Ce le stă în cale din punct de vedere fizic?"\n
+• "Ce trebuie să facă pentru a avea măcar o șansă la Obiectiv?"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Tip: Crearea (Alibiul)</b>\n
+În timp ce Obiectivul final al lui Lumi este <b>siguranța permanentă</b> (Recompensa), Condiția obligatorie pe care trebuie să o îndeplinească este să <b>construiască o cronologie impecabilă</b> pentru noaptea crimei. Pentru a reuși, ea trebuie să <b>sacrifice un țap ispășitor</b> (Tip: Acțiune), îndreptând autoritățile spre un străin pentru a închide cazul.
+</string>
+
+    <string name="helper_character_consequence">
+<b>MIZELE (COSTUL SCHIMBĂRII)</b>\n
+Care sunt rezultatele de durată ale urmăririi acestui obiectiv? Consideră atât succesul, cât și eșecul.\n\n
+
+<b>CONSIDERĂ</b>\n
+• <b>Identitate:</b> Cum schimbă rezultatul cine sunt ei?\n
+• <b>Relații:</b> Cine beneficiază și cine suferă?\n
+• <b>Compromisuri:</b> Ce se câștigă, dar ce se pierde pentru totdeauna?\n\n
+
+<b>ÎNTREABĂ-TE</b>\n
+• "Dacă povestea se încheie cu acest obiectiv rezolvat, ce nu se mai poate întoarce niciodată la cum a fost înainte?"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Succes vs. Eșec</b>\n
+Dacă Lumi reușește (minciuna este crezută), consecința este <b>corupția morală și siguranța</b> — devine liderul secret al grupului, legată de ei prin distrugere reciprocă. Dacă eșuează, merge la închisoare. Consecința supremă este că termină povestea adorată, dar și-a pierdut inocența pentru totdeauna.
+</string>
+
+    <string name="helper_character_forewarning">
+<b>SEMNALELE DE ALARMĂ (RED FLAGS)</b>\n
+Ce avertismente sau semne apar <i>înainte</i> ca consecința să sosească? Acestea sunt semnalele pe care personajul le ignoră adesea.\n\n
+
+<b>TIPURI</b>\n
+• <b>Interne:</b> Îndoială, vinovăție sau ezitare la un personaj de obicei încrezător.\n
+• <b>Externe:</b> Prevestiri, eșecuri timpurii sau planul care merge prost în moduri mici.\n
+• <b>Relaționale:</b> Un prieten care îi avertizează sau o trădare.\n\n
+
+<b>ÎNTREABĂ-TE</b>\n
+• "Ce îi spune povestea personajului în liniște înainte ca dezastrul să lovească?"\n\n
+
+<b>EXEMPLU</b>\n
+<b>Absența sentimentului</b>\n
+Avertizarea apare când Lumi se uită la cadavru și simte <b>iritare în loc de groază</b>. Acest lucru semnalează că empatia ei se detașează. Extern, o prietenă o complimentează pentru că este „atât de bună la mințit”, un compliment sinistru care prevestește decăderea ei într-o manipulatoare profesionistă.
+</string>
+
+    <string name="helper_character_power_description">
+<b>IDENTITATEA DE BAZĂ</b>\n
+Care este natura fundamentală a abilității?\n\n
+• Ce îi permite personajului să facă?\n
+• Este mereu activă (pasivă) sau trebuie declanșată (activă)?\n
+• Este magie, tehnologie, biologică sau bazată pe abilități?\n\n
+<b>EXEMPLU</b>\n
+<b>Nume: Constructul Social</b>\n
+Lumi posedă abilitatea de a deconstrui narațiunile sociale și de a le reconstrui. Ea înțelege că „adevărul” este doar povestea asupra căreia oamenii cad de acord. Este o abilitate cognitivă șlefuită de ani de „people-pleasing”, permițându-i să observe lacunele în percepția oamenilor și să le umple cu ceea ce aceștia vor să vadă.
+</string>
+
+    <string name="helper_character_power_capabilities">
+<b>PERFORMANȚA MAXIMĂ</b>\n
+Ce poate realiza această putere la capacitate maximă?\n\n
+• <b>Utilizare tipică:</b> Aplicație cotidiană (ex. pararea unei săbii).\n
+• <b>Realizare maximă:</b> Limita superioară (ex. eschivarea unei săgeți).\n
+• <b>Utilizare creativă:</b> Folosirea ei pentru utilitate, nu pentru luptă.\n\n
+<b>EXEMPLU</b>\n
+<b>Gaslighting și Reîncadrare</b>\n
+La apogeu, Lumi poate convinge o cameră plină de martori că nu au văzut ceea ce au crezut că au văzut. Alterând subtil contextul — lansând o râmă aici, ascunzând un telefon acolo — ea poate rescrie istoria unui eveniment în timp real până când „victima” pare a fi agresorul.
+</string>
+
+    <string name="helper_character_power_limitations">
+<b>COSTURILE (LIMITĂRI)</b>\n
+Ce împiedică această putere să rezolve orice problemă?\n\n
+• <b>Limite stricte:</b> Cooldown-uri, costuri de resurse (mana/stamina).\n
+• <b>Slăbiciuni:</b> Contre specifice (foc, fier rece).\n
+• <b>Daune colaterale:</b> Rănirea propriei persoane sau a mediului.\n\n
+<b>EXEMPLU</b>\n
+<b>Izolarea în mulțime</b>\n
+Deoarece editează constant realitatea, Lumi pierde contactul cu ceea ce este de fapt real. Nu mai poate avea încredere în nimeni pentru că știe cât de ușor este să minți. Puterea ei o izolează; este înconjurată de prieteni care adoră o versiune a ei care nu există.
+</string>
+
+    <string name="helper_character_learning_style">
+<b>IERARHIA COGNITIVĂ (BLOOM)</b>\n
+Cum procesează acest personaj informațiile pentru a rezolva probleme?\n\n
+
+• <b>Nivelul 1: Memorare</b> (Recunoaștere)\n
+• <b>Nivelul 2: Înțelegere</b> (Explicare)\n
+• <b>Nivelul 3: Aplicare</b> (Utilizare)\n
+• <b>Nivelul 4: Analiză</b> (Deconstrucție)\n
+• <b>Nivelul 5: Evaluare</b> (Judecată)\n
+• <b>Nivelul 6: Creație</b> (Sinteză)\n\n
+
+<b>EXEMPLU</b>\n
+<b>Stil primar: Nivelul 6 (Creație)</b>\n
+Lumi a trecut dincolo de Analiză (Nivelul 4). Pentru a salva grupul, ea trebuie să <b>Creeze</b>. Ea sintetizează fapte disparate, alibiuri și dovezi pentru a <i>construi</i> o realitate cu totul nouă în care crima a fost un accident. Ea nu rezolvă puzzle-ul; ea îl proiectează.
+</string>
+
+    <string name="helper_character_mental_wound">
+<b>FANTOMA (TRAUMA)</b>\n
+Rana psihologică definitorie din trecut care bântuie personajul astăzi.\n\n
+<b>EXEMPLE</b>\n
+• <b>Abandon:</b> Părăsit de un părinte.\n
+• <b>Trădare:</b> Un mentor în care avea încredere s-a întors împotriva lui.\n
+• <b>Vinovăție:</b> Eșecul în a salva pe cineva.\n\n
+<b>EXEMPLU</b>\n
+<b>Iubire condiționată</b>\n
+Rana lui Lumi este o copilărie definită de <b>performanță</b>. A învățat devreme că era lăudată doar când era perfectă sau utilă. Acest lucru a creat credința că nu are nicio valoare intrinsecă — ea „merită” doar atât cât poate „face” pentru ceilalți.
+</string>
+
+    <string name="helper_character_mental_fear">
+<b>COȘMARUL</b>\n
+Teama specifică apărută din rană. Acesta este lucrul de care fug.\n\n
+<b>EXEMPLU</b>\n
+<b>Inutilitatea (Disposability)</b>\n
+Lumi este terifiată de a fi <b>înlăturată</b>. Se teme că în momentul în care încetează să mai fie utilă, grupul se va întoarce împotriva ei. Acest lucru o împinge să devină păstrătoarea secretelor lor cele mai întunecate — astfel încât aceștia să <i>nu-și permită</i> să scape de ea.
+</string>
+
+    <string name="helper_character_triggers">
+<b>MINELE (DECLANȘATORII)</b>\n
+Situații sau cuvinte specifice care ocolesc logica și activează instantaneu Rana.\n\n
+<b>EXEMPLU</b>\n
+<b>Incompetența și haosul</b>\n
+Lumi este declanșată de <b>neglijență</b>. Când ceilalți din grup încep să se panicheze sau să facă greșeli care amenință minciuna, ea explodează. Acest lucru îi activează instinctul de supraviețuire, forțând-o să preia controlul total și autoritar asupra situației.
+</string>
+
+    <string name="helper_character_stress_response">
+<b>LUPTĂ, FUGI, ÎNGHEAȚĂ, SUPUNE-TE</b>\n
+Cum reacționează personajul când este declanșat?\n\n
+• <b>Luptă (Fight):</b> Agresiune, comportament de control.\n
+• <b>Fugi (Flight):</b> Retragere, izolare, fugă.\n
+• <b>Îngheață (Freeze):</b> Amorțeală, disociere, indecizie.\n
+• <b>Supune-te (Fawn):</b> People-pleasing, scuze excesive.\n\n
+<b>EXEMPLU</b>\n
+<b>Lupta Rece (Calculul)</b>\n
+Răspunsul lui Lumi se schimbă de la Supunere la o <b>Luptă</b> rece. În loc să țipe, ea devine sinistru de calmă și autoritară. Își oprește emoțiile pentru a trata cadavrul ca pe o problemă de rezolvat, dirijându-și prietenii ca pe niște piese de șah.
+</string>
+
+    <string name="helper_character_mental_lie">
+<b>CREDINȚA FALSĂ</b>\n
+O regulă greșită despre cum funcționează lumea, creată pentru a proteja Rana.\n\n
+<b>EXEMPLU</b>\n
+<b>„Adevărul este supraestimat”</b>\n
+Lumi crede: „<b>Istoria este scrisă de supraviețuitori.</b>” Această minciună îi justifică manipularea. Se convinge singură că editarea narațiunii nu înseamnă minciună — ci protejarea oamenilor pe care îi iubește de o „neînțelegere”.
+</string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>SCUTURILE</b>\n
+Comportamente folosite pentru a gestiona durerea. Funcționează pe termen scurt, dar provoacă daune pe termen lung.\n\n
+<b>EXEMPLU</b>\n
+<b>Compartimentarea</b>\n
+Lumi face față prin <b>închiderea lucrurilor în cutii</b>. Ea separă „Lumi Prietena” de „Lumi Fixer-ul”. Acest lucru îi permite să bea ceai cu fata căreia îi înscenează vina fără să simtă remușcări. Pe termen lung, acest lucru îi fragmentează psihicul.
+</string>
+
+    <string name="helper_character_id_ego_superego">
+<b>PSICHE-UL (FREUD)</b>\n
+Cum este divizată mintea personajului?\n\n
+• <b>Id (Bestia):</b> Instinct, dorință, supraviețuire.\n
+• <b>Superego (Judecătorul):</b> Morală, vinovăție, reguli stricte.\n
+• <b>Ego (Pilotul):</b> Cel care ia decizii, încercând să echilibreze cele două părți.\n\n
+<b>EXEMPLU</b>\n
+<b>Coruperea Ego-ului</b>\n
+<b>Superego-ul</b> (Moralitatea) lui Lumi este slab, erodat de nevoia de apartenență. <b>Id-ul</b> (Supraviețuirea) este dominant. <b>Ego-ul</b> ei lucrează peste program pentru a raționaliza dorințele Id-ului, convingând-o că acoperirea unei crime este de fapt un act de „loialitate”, nu o infracțiune.
+</string>
+
+    <string name="helper_character_mask">
+<b>MASCA (FAȚA PUBLICĂ)</b>\n
+Fața pe care personajul o poartă pentru a-și proteja sinele interior. Este o reprezentație.\n\n
+<b>EXEMPLU</b>\n
+<b>Floarea inocentă</b>\n
+Lumi poartă o mască de <b>blândețe fragilă</b>. Vorbește încet, se îmbracă modest și pare mereu săritoare. Această mască este cea mai mare armă a ei; nimeni nu suspectează că „fata drăguță” este capabilă să orchestreze o mușamalizare.
+</string>
+
+    <string name="helper_character_self">
+<b>SINELE REAL (FAȚA PRIVATĂ)</b>\n
+Cine este personajul când este singur în întuneric. Include rușinea ascunsă, emoțiile fragile și dorințele adevărate.\n\n
+<b>ÎNTREABĂ-TE</b>\n
+• "Ce i-ar distruge dacă lumea ar afla acest lucru?"\n\n
+<b>EXEMPLU</b>\n
+<b>Strategul Rece</b>\n
+În spatele zâmbetului dulce, Lumi este <b>nemiloasă</b>. Ține un registru mental al secretelor tuturor. Sinele ei real nu este un adept; ea este un păpușar care se bucură de puterea pe care o deține asupra elitelor academiei.
+</string>
+
+    <string name="helper_character_alignment">
+<b>BUSOLA MORALĂ</b>\n
+<b>Lawful ↔ Chaotic</b>\n
+<b>Good ↔ Evil</b>\n\n
+<b>EXEMPLU</b>\n
+<b>Lawful Neutral glisând spre Neutral Evil</b>\n
+Lumi începe ca <b>Lawful Neutral</b>, susținând ordinea socială. Până la final, ea trece spre <b>Neutral Evil</b>. Folosește regulile (Legea) pentru a se proteja pe sine (Răul), fiind dispusă să distrugă viața unei persoane inocente pentru a-și menține confortul și statutul.
+</string>
+
+    <string name="helper_character_social_tone">
+<b>VIBRAȚIA SOCIALĂ</b>\n
+Cum acționează în conversații specifice?\n\n
+• <b>Cu inamicii:</b> Amenințător, tăcut.\n
+• <b>Cu aliații:</b> Rezervat, profesional.\n\n
+<b>EXEMPLU</b>\n
+<b>Calmantă și Calculată</b>\n
+Social, Lumi acționează ca un balsam. Totuși, sub presiune, tonul ei devine <b>clinic</b>. Pune întrebări nu pentru a ajuta, ci pentru a aduna informații pe care să le folosească mai târziu.
+</string>
+
+    <string name="helper_character_chronic_tone">
+<b>STAREA DEFAULT (ATMOSFERA)</b>\n
+„Vremea” emoțională care plutește deasupra personajului când nu se întâmplă nimic.\n\n
+<b>EXEMPLU</b>\n
+<b>Calm înghețat</b>\n
+Tonul cronic al lui Lumi este o <b>nemișcare neliniștitoare</b>. În timp ce alții se agită sau se panichează, ea stă perfect nemișcată. Este calmul cuiva care a gândit deja trei mutări înainte. Îi face pe oameni să aibă încredere în ea, dar îi și sperie puțin.
+</string>
+
+    <string name="helper_character_archetypes">
+<b>ARHETIPURI DE MASCĂ</b>\n
+<i>Rolul pe care îl joacă în public.</i>\n\n
+
+Acest arhetip reflectă modul în care este perceput personajul, nu cine este el cu adevărat.\n\n
+
+<b>EXEMPLU: LUMI (ARCUL DE CORUPȚIE)</b>\n\n
+
+<b>Masca: Ajutorul (Peacemaker)</b>\n
+Pentru academie, Lumi este „Floarea Inocentă”. Este definită de pulovere moi și o ureche care ascultă. Pare inofensivă și dornică să facă pe plac.\n\n
+
+<b>Sinele: Investigatorul (Arhitectul)</b>\n
+În întuneric, Lumi este rece, clinică și critică. Își cataloghează prietenii ca pe niște „active” sau „pasive”. Sinele ei adevărat este condus de o nevoie nemiloasă de control.\n\n
+
+<b>Evoluția</b>\n
+La final, Masca a revenit, dar acum este o armă. Nu mai acționează cu blândețe pentru a aparține; o face pentru a dezarma.
+</string>
+
+    <string name="helper_character_relationships">
+<b>DINAMICI RELAȚIONALE</b>\n
+Relațiile sunt puncte de presiune care forțează personajul să acționeze.\n\n
+
+<b>EXEMPLU: REȚEAUA LUI LUMI</b>\n
+Minciuna lui Lumi este „Sunt în siguranță doar dacă sunt utilă”.\n\n
+
+• <b>Seraphine (Puterea):</b> O răsplătește pe Lumi cu laude doar când aceasta îi repară greșelile.\n
+• <b>Violetta (Observatorul):</b> Observă lacunele din poveștile lui Lumi. Îi amenință controlul.\n
+• <b>Rosette (Responsabilitatea):</b> Are nevoie constantă de salvare. O face pe Lumi să se simtă indispensabilă.\n
+• <b>Elowen (Linia Morală):</b> Cere onestitate totală. Lumi sacrifică în cele din urmă această relație pentru siguranța oferită de grup.
+</string>
+</resources>

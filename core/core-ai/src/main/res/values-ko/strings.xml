@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_close_chat">AI 채팅 닫기</string>
+    <string name="cd_page_number">%1$d페이지</string>
+    <string name="cd_thumbnail_number">썸네일 %1$d</string>
+
+    <string name="ai_settings_section">AI</string>
+    <string name="ai_settings_title">AI 설정</string>
+    <string name="ai_settings_core">핵심 페르소나 프롬프트</string>
+    <string name="ai_settings_library">프롬프트 라이브러리</string>
+    <string name="ai_settings_add_prompt">프롬프트 추가</string>
+    <string name="ai_settings_core_prompt_label">프롬프트 템플릿</string>
+    <string name="ai_settings_empty_library">저장된 프롬프트가 없습니다.</string>
+    <string name="ai_settings_reset_default">기본값으로 초기화</string>
+    <string name="ai_settings_prompt_persona">페르소나: %1$s</string>
+
+    <string name="ai_generating">생성 중…</string>
+    <string name="ai_thinking">생각 중…</string>
+    <string name="ai_try_again">다시 시도</string>
+
+    <string name="ai_context_library">AI 컨텍스트 라이브러리</string>
+    <string name="ai_context_all_personas">모든 페르소나</string>
+    <string name="ai_edit_context">AI 컨텍스트 편집</string>
+    <string name="ai_project_context">프로젝트 AI 컨텍스트</string>
+    <string name="ai_series_context">시리즈 AI 컨텍스트</string>
+    <string name="ai_context_summary">요약</string>
+    <string name="ai_context_tone">어조</string>
+    <string name="ai_context_themes">테마</string>
+    <string name="ai_no_fields_available">사용 가능한 AI 필드가 없습니다.</string>
+    <string name="ai_add_context">AI 컨텍스트 추가</string>
+    <string name="ai_search_context">컨텍스트 검색</string>
+    <string name="ai_delete_context_title">컨텍스트 삭제</string>
+    <string name="ai_delete_context_message">\"%1$s\"을(를) 영구적으로 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.</string>
+    <string name="ai_new_context">새 컨텍스트</string>
+    <string name="ai_context_title">제목</string>
+    <string name="ai_context_body">컨텍스트 본문</string>
+
+    <string name="ai_persona_bud">Bud (버드)</string>
+    <string name="ai_placeholder_bud">이 필드의 텍스트 생성 또는 수정…</string>
+
+    <string name="ai_persona_vine">Vine (바인)</string>
+    <string name="ai_placeholder_vine">여기에서 장면이나 챕터 초안 작성…</string>
+
+    <string name="ai_persona_sprout">Sprout (스프라우트)</string>
+    <string name="ai_sprout_title">Sprout 아이디어 생성기</string>
+    <string name="ai_sprout_idea_request">사용자 아이디어 요청</string>
+    <string name="ai_sprout_extra_context">추가 컨텍스트</string>
+    <string name="ai_placeholder_sprout">오늘 무엇을 브레인스토밍할까요?</string>
+
+    <string name="ai_persona_petal">Petal (페탈)</string>
+    <string name="ai_petal_title">Petal 챕터 비평</string>
+    <string name="ai_petal_chapter_to_critique">비평할 챕터</string>
+    <string name="ai_petal_author_notes">작가의 메모 또는 제약 사항</string>
+    <string name="ai_placeholder_petal">분석할 챕터 입력</string>
+
+    <string name="ai_persona_bloom">Bloom (블룸)</string>
+    <string name="ai_bloom_title">Bloom 향상 에디터</string>
+    <string name="ai_bloom_original_text">원본 텍스트</string>
+    <string name="ai_bloom_editing_instructions">다시 쓰기 / 편집 지침</string>
+    <string name="ai_placeholder_bloom">이 장면 다시 쓰기</string>
+
+    <string name="ai_persona_meadow">Meadow (메도우)</string>
+    <string name="ai_meadow_title">Meadow 작문 도우미</string>
+    <string name="ai_meadow_source">출처</string>
+    <string name="ai_meadow_page">p.</string>
+    <string name="ai_meadow_user_question">사용자 질문</string>
+    <string name="ai_meadow_relevant_excerpts">관련 작문 가이드 발췌</string>
+    <string name="ai_meadow_excerpt">발췌</string>
+    <string name="ai_placeholder_meadow">무엇이든 물어보세요</string>
+
+    <string name="ai_chat_panel_title">AI 어시스턴트</string>
+    <string name="ai_chat_panel_placeholder">무엇이든 물어보세요</string>
+    <string name="ai_chat_panel_send">전송</string>
+
+    <string name="ai_new_chat">새 채팅</string>
+    <string name="ai_choose_chat">채팅 선택</string>
+    <string name="ai_create_new_chat">새 채팅 만들기</string>
+    <string name="ai_rename_chat">이름 변경</string>
+    <string name="ai_rename_title">채팅 이름 변경</string>
+    <string name="ai_chat_name">채팅 이름</string>
+    <string name="ai_no_chats">사용 가능한 채팅 없음</string>
+
+    <string name="ai_error_generic">AI가 요청을 완료하지 못했습니다.</string>
+    <string name="ai_error_rate_limited">요청이 너무 많습니다. 잠시 기다려 주세요.</string>
+    <string name="ai_error_context_too_large">컨텍스트가 너무 깁니다.</string>
+
+    <string name="ai_tooltip_message">AI 팁</string>
+
+    <string name="ai_use_prompt_button">프롬프트 사용</string>
+
+    <string name="ai_dialog_assistant_title">AI 어시스턴트</string>
+    <string name="ai_dialog_unicorn_assistant">유니콘 어시스턴트</string>
+    <string name="ai_dialog_link_bookmark">카탈로그 항목에 북마크 연결</string>
+    <string name="ai_dialog_catalog_id">카탈로그 ID</string>
+    <string name="ai_dialog_link">연결</string>
+
+    <string name="ai_help_tooltip">AI 어시스턴트 도움말</string>
+    <string name="ai_help_button">작동 방식</string>
+    <string name="ai_help_title">AI 어시스턴트 사용하기</string>
+    <string name="ai_help_description">
+        AI 어시스턴트는 초안 작성, 편집, 정리 및 아이디어 생성을 도울 수 있습니다.
+        채팅 패널을 열고 무엇이든 물어보세요.
+    </string>
+
+    <string name="ai_select_writing_guide">작문 가이드 선택</string>
+    <string name="ai_pdf_document_label">PDF 문서</string>
+    <string name="ai_pdf_select_document_placeholder">PDF 선택</string>
+    <string name="ai_pdf_page">%1$d 페이지</string>
+    <string name="ai_pdf_search_label">PDF에서 검색</string>
+    <string name="ai_pdf_search_icon_desc">검색</string>
+    <string name="ai_pdf_load_failed">PDF를 불러오지 못했습니다.</string>
+    <string name="ai_open_pdf_page">PDF 열기 \u2022 %1$d페이지</string>
+    <string name="ai_pdf_viewer_page">%2$d 페이지 중 %1$d</string>
+    <string name="ai_pdf_viewer_previous">이전</string>
+    <string name="ai_pdf_viewer_next">다음</string>
+    <string name="ai_pdf_viewer_add_bookmark">북마크 추가</string>
+    <string name="ai_pdf_viewer_back">← 뒤로</string>
+
+    <string name="ai_pdf_link_title">카탈로그에 연결</string>
+    <string name="ai_pdf_link_message">카탈로그 ID 입력:</string>
+
+    <string name="ai_selection_result_title">AI 결과</string>
+    <string name="ai_selection_replace">선택 영역 바꾸기</string>
+    <string name="ai_selection_insert_below">아래에 삽입</string>
+    <string name="ai_selection_failed">AI 실패: %1$s</string>
+    <string name="ai_action_sprout">Sprout: 아이디어</string>
+    <string name="ai_action_vine">Vine: 초안</string>
+    <string name="ai_action_petal">Petal: 비평</string>
+    <string name="ai_action_bloom">Bloom: 다시 쓰기</string>
+</resources>

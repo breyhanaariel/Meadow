@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">एक रचनात्मक कार्यक्षेत्र</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">एक रचनात्मक कार्यक्षेत्र</string>
+    <string name="home_open_settings">सेटिंग खोलें</string>
+    <string name="menu_home">होम</string>
+    <string name="menu_settings">सेटिंग</string>
+    <string name="back_home">होम पर वापस जाएं</string>
+    <string name="cd_home">होम</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Google-Konto verbinden</string>
+    <string name="google_acount_connected">Google-Konto verbunden</string>
+    <string name="google_account_disconnected">Google-Konto trennen</string>
+
+    <string name="google_auth_signing_in">Anmelden…</string>
+    <string name="google_auth_sign_in_failed">Anmeldung fehlgeschlagen</string>
+    <string name="google_auth_signed_out">Abgemeldet</string>
+    <string name="google_auth_permission_required">Google-Berechtigung erforderlich</string>
+    <string name="google_auth_retry">Erneut versuchen</string>
+
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Verbindung zu Google Drive wird hergestellt…</string>
+    <string name="google_drive_connected">Mit Google Drive verbunden</string>
+    <string name="google_drive_syncing">Synchronisierung mit Google Drive…</string>
+    <string name="google_drive_sync_complete">Drive-Synchronisierung abgeschlossen</string>
+    <string name="google_drive_sync_failed">Drive-Synchronisierung fehlgeschlagen</string>
+    <string name="google_drive_permission_denied">Zugriff auf Drive verweigert</string>
+
+    <string name="google_sheets_title">Google Tabellen</string>
+    <string name="google_sheets_connecting">Verbindung zu Google Tabellen wird hergestellt…</string>
+    <string name="google_sheets_connected">Mit Google Tabellen verbunden</string>
+    <string name="google_sheets_exporting">Export nach Google Tabellen…</string>
+    <string name="google_sheets_export_complete">Export abgeschlossen</string>
+    <string name="google_sheets_export_failed">Export fehlgeschlagen</string>
+
+    <string name="google_calendar_title">Google Kalender</string>
+    <string name="google_calendar_connecting">Verbindung zu Google Kalender wird hergestellt…</string>
+    <string name="google_calendar_connected">Mit Google Kalender verbunden</string>
+    <string name="google_calendar_syncing">Kalender synchronisieren…</string>
+    <string name="google_calendar_sync_failed">Kalender-Synchronisierung fehlgeschlagen</string>
+    <string name="google_calendar_permission_denied">Zugriff auf Kalender verweigert</string>
+
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Verbindung zu Google Docs wird hergestellt…</string>
+    <string name="google_docs_connected">Mit Google Docs verbunden</string>
+    <string name="google_docs_exporting">Export nach Google Docs…</string>
+    <string name="google_docs_export_failed">Export fehlgeschlagen</string>
+
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Verbindung zu Gemini wird hergestellt…</string>
+    <string name="google_gemini_connected">Mit Gemini verbunden</string>
+    <string name="google_gemini_requesting">Antwort wird generiert…</string>
+    <string name="google_gemini_failed">Gemini-Anfrage fehlgeschlagen</string>
+    <string name="google_gemini_rate_limited">Zu viele Anfragen. Bitte warten.</string>
+</resources>

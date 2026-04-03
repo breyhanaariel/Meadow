@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Ruang Kerja Kreatif</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Ruang Kerja Kreatif</string>
+    <string name="home_open_settings">Buka Pengaturan</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="back_home">Kembali ke Beranda</string>
+    <string name="cd_home">Beranda</string>
+</resources>

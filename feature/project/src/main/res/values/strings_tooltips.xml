@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================================================== -->
+    <!-- PROJECT : TOOLTIPS -->
+    <!-- ================================================== -->
+    <string name="tooltip_project_description">
+        A short overview of the project.
+    </string>
+
+    <string name="tooltip_project_pitch">
+        One sentence meant to sell the idea quickly.
+    </string>
+
+    <string name="tooltip_project_premise">
+        The core “what if?” that drives the story.
+    </string>
+
+    <string name="tooltip_project_promise">
+        What experience the audience can expect (tone, theme, emotional payoff).
+    </string>
+
+    <string name="tooltip_project_plot">
+        A high-level outline of major story beats. Not every detail.
+    </string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">
+        项目简介。
+    </string>
+
+    <string name="tooltip_project_pitch">
+        旨在快速推销创意的一句话。
+    </string>
+
+    <string name="tooltip_project_premise">
+        推动故事发展的核心“如果……会怎样？”
+    </string>
+
+    <string name="tooltip_project_promise">
+        受众可以期待的体验（基调、主题、情感回报）。
+    </string>
+
+    <string name="tooltip_project_plot">
+        主要故事节拍的高级大纲。无需包含所有细节。
+    </string>
+</resources>

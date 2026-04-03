@@ -1,0 +1,162 @@
+{
+  "owner": "project",
+  "typeKey": "base",
+  "fields": [
+    {
+      "id": "project.cover_image",
+      "key": "cover_image",
+      "labelKey": "field_project_cover_image",
+      "kind": "IMAGE",
+      "order": 0,
+      "metadata": {
+        "role": "cover",
+        "aspectRatio": "1:1",
+        "maxFiles": "1"
+      }
+    },
+    {
+      "id": "project.title",
+      "key": "title",
+      "labelKey": "field_project_title",
+      "kind": "TEXT",
+      "required": true,
+      "order": 1
+    },
+    {
+      "id": "project.description",
+      "key": "description",
+      "labelKey": "field_project_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 2,
+      "metadata": { "aiHelper": true, "tooltipKey": "tooltip_project_description" }
+    },
+    {
+      "id": "project.pitch",
+      "key": "pitch",
+      "labelKey": "field_project_pitch",
+      "kind": "MULTILINE_TEXT",
+      "order": 3,
+      "metadata": { "aiHelper": true, "tooltipKey": "tooltip_project_pitch" }
+    },
+    {
+      "id": "project.premise",
+      "key": "premise",
+      "labelKey": "field_project_premise",
+      "kind": "MULTILINE_TEXT",
+      "order": 4,
+      "metadata": { "aiHelper": true, "tooltipKey": "tooltip_project_premise" }
+
+    },
+    {
+      "id": "project.promise",
+      "key": "promise",
+      "labelKey": "field_project_promise",
+      "kind": "MULTILINE_TEXT",
+      "order": 5,
+      "metadata": { "aiHelper": true, "tooltipKey": "tooltip_project_promise" }
+    },
+    {
+      "id": "project.plot",
+      "key": "plot",
+      "labelKey": "field_project_plot",
+      "kind": "MULTILINE_TEXT",
+      "order": 6,
+      "metadata": { "aiHelper": true, "tooltipKey": "tooltip_project_plot" }
+    },
+    {
+      "id": "project.audience",
+      "key": "audience",
+      "labelKey": "field_project_audience",
+      "hintKey": "field_project_audience",
+      "kind": "MULTI_SELECT",
+      "order": 7,
+      "metadata": {
+        "optionsSource": "audience"
+      }
+    },
+    {
+      "id": "project.genre",
+      "key": "genre",
+      "labelKey": "field_project_genre",
+      "hintKey": "field_project_genre",
+      "kind": "MULTI_SELECT",
+      "order": 8,
+      "metadata": {
+        "optionsSource": "genres"
+      }
+    },
+    {
+      "id": "project.elements",
+      "key": "elements",
+      "labelKey": "field_project_elements",
+      "hintKey": "field_project_elements",
+      "kind": "MULTI_SELECT",
+      "order": 9,
+      "metadata": {
+        "optionsSource": "elements"
+      }
+    },
+    {
+      "id": "project.rating",
+      "key": "rating",
+      "labelKey": "field_project_rating",
+      "hintKey": "field_project_rating",
+      "kind": "SINGLE_SELECT",
+      "order": 10,
+      "metadata": {
+        "optionsSource": "rating"
+      }
+    },
+    {
+      "id": "project.warnings",
+      "key": "warnings",
+      "labelKey": "field_project_warnings",
+      "hintKey": "field_project_warnings",
+      "kind": "MULTI_SELECT",
+      "order": 11,
+      "metadata": {
+        "optionsSource": "warnings"
+      }
+    },
+    {
+      "id": "project.format",
+      "key": "format",
+      "labelKey": "field_project_format",
+      "hintKey": "field_project_format",
+      "kind": "SINGLE_SELECT",
+      "order": 12,
+      "metadata": {
+        "optionsSource": "format"
+      }
+    },
+    {
+      "id": "project.status",
+      "key": "status",
+      "labelKey": "field_project_status",
+      "hintKey": "field_project_status",
+      "kind": "SINGLE_SELECT",
+      "order": 13,
+      "metadata": {
+        "optionsSource": "status"
+      }
+    },
+    {
+      "id": "project.archived",
+      "key": "archived",
+      "labelKey": "field_project_archived",
+      "hintKey": "field_project_archived",
+      "kind": "BOOLEAN",
+      "order": 14,
+      "defaultValue": "false"
+    },
+    {
+      "id": "project.completed",
+      "key": "completed",
+      "labelKey": "field_project_completed",
+      "hintKey": "field_project_completed",
+      "kind": "BOOLEAN",
+      "order": 15,
+      "defaultValue": "false"
+    }
+  ]
+}

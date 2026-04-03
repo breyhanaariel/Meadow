@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Uno spazio creativo</string>
+
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Uno spazio creativo</string>
+    <string name="home_open_settings">Apri impostazioni</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Impostazioni</string>
+
+    <string name="back_home">Torna alla home</string>
+
+    <string name="cd_home">Home</string>
+</resources>

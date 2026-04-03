@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_close_chat">Закрыть чат ИИ</string>
+    <string name="cd_page_number">Страница %1$d</string>
+    <string name="cd_thumbnail_number">Миниатюра %1$d</string>
+
+    <string name="ai_settings_section">ИИ</string>
+    <string name="ai_settings_title">Настройки ИИ</string>
+    <string name="ai_settings_core">Промпты основной персоны</string>
+    <string name="ai_settings_library">Библиотека промптов</string>
+    <string name="ai_settings_add_prompt">Добавить промпт</string>
+    <string name="ai_settings_core_prompt_label">Шаблон промпта</string>
+    <string name="ai_settings_empty_library">Промпты еще не сохранены.</string>
+    <string name="ai_settings_reset_default">Сбросить по умолчанию</string>
+    <string name="ai_settings_prompt_persona">Персона: %1$s</string>
+
+    <string name="ai_generating">Генерация…</string>
+    <string name="ai_thinking">Думает…</string>
+    <string name="ai_try_again">Повторить</string>
+
+    <string name="ai_context_library">Библиотека контекста ИИ</string>
+    <string name="ai_context_all_personas">Все персонажи</string>
+    <string name="ai_edit_context">Изменить контекст ИИ</string>
+    <string name="ai_project_context">Контекст ИИ проекта</string>
+    <string name="ai_series_context">Контекст ИИ серии</string>
+    <string name="ai_context_summary">Сводка</string>
+    <string name="ai_context_tone">Тон</string>
+    <string name="ai_context_themes">Темы</string>
+    <string name="ai_no_fields_available">Нет доступных полей для ИИ.</string>
+    <string name="ai_add_context">Добавить контекст ИИ</string>
+    <string name="ai_search_context">поиск контекста</string>
+    <string name="ai_delete_context_title">Удалить контекст</string>
+    <string name="ai_delete_context_message">Вы уверены, что хотите навсегда удалить \"%1$s\"? Это действие невозможно отменить.</string>
+    <string name="ai_new_context">Новый контекст</string>
+    <string name="ai_context_title">Заголовок</string>
+    <string name="ai_context_body">Текст контекста</string>
+
+
+    <string name="ai_persona_bud">Bud</string>
+    <string name="ai_placeholder_bud">Сгенерировать или улучшить текст для этого поля…</string>
+
+    <string name="ai_persona_vine">Vine</string>
+    <string name="ai_placeholder_vine">Набросайте сцену или главу здесь…</string>
+
+    <string name="ai_persona_sprout">Sprout</string>
+    <string name="ai_sprout_title">Генератор идей Sprout</string>
+    <string name="ai_sprout_idea_request">Запрос идеи пользователя</string>
+    <string name="ai_sprout_extra_context">Доп. контекст</string>
+    <string name="ai_placeholder_sprout">Что будем придумывать сегодня?</string>
+
+    <string name="ai_persona_petal">Petal</string>
+    <string name="ai_petal_title">Критика главы Petal</string>
+    <string name="ai_petal_chapter_to_critique">Глава для критики</string>
+    <string name="ai_petal_author_notes">Заметки автора или ограничения</string>
+    <string name="ai_placeholder_petal">Введите главу для анализа</string>
+
+    <string name="ai_persona_bloom">Bloom</string>
+    <string name="ai_bloom_title">Редактор улучшений Bloom</string>
+    <string name="ai_bloom_original_text">Исходный текст</string>
+    <string name="ai_bloom_editing_instructions">Инструкции по переписыванию / редактированию</string>
+    <string name="ai_placeholder_bloom">Переписать эту сцену</string>
+
+    <string name="ai_persona_meadow">Meadow</string>
+    <string name="ai_meadow_title">Помощник писателя Meadow</string>
+    <string name="ai_meadow_source">Источник</string>
+    <string name="ai_meadow_page">стр.</string>
+    <string name="ai_meadow_user_question">Вопрос пользователя</string>
+    <string name="ai_meadow_relevant_excerpts">Релевантные отрывки</string>
+    <string name="ai_meadow_excerpt">Отрывок</string>
+    <string name="ai_placeholder_meadow">Спроси меня о чем угодно</string>
+
+    <string name="ai_chat_panel_title">Ассистент ИИ</string>
+    <string name="ai_chat_panel_placeholder">Спроси меня о чем угодно</string>
+    <string name="ai_chat_panel_send">Отправить</string>
+
+    <string name="ai_new_chat">Новый чат</string>
+    <string name="ai_choose_chat">Выбрать чат</string>
+    <string name="ai_create_new_chat">Создать новый чат</string>
+    <string name="ai_rename_chat">Переименовать</string>
+    <string name="ai_rename_title">Переименовать чат</string>
+    <string name="ai_chat_name">Название чата</string>
+    <string name="ai_no_chats">Нет доступных чатов</string>
+
+    <string name="ai_error_generic">ИИ не смог выполнить этот запрос.</string>
+    <string name="ai_error_rate_limited">Слишком много запросов. Пожалуйста, подождите.</string>
+    <string name="ai_error_context_too_large">Контекст слишком длинный.</string>
+
+    <string name="ai_tooltip_message">Совет ИИ</string>
+
+    <string name="ai_use_prompt_button">Использовать промпт</string>
+
+    <string name="ai_dialog_assistant_title">Ассистент ИИ</string>
+    <string name="ai_dialog_unicorn_assistant">Ассистент Единорог</string>
+    <string name="ai_dialog_link_bookmark">Связать закладку с записью каталога</string>
+    <string name="ai_dialog_catalog_id">ID каталога</string>
+    <string name="ai_dialog_link">Связать</string>
+
+    <string name="ai_help_tooltip">Помощь ассистента ИИ</string>
+    <string name="ai_help_button">Как это работает</string>
+    <string name="ai_help_title">Использование ассистента ИИ</string>
+    <string name="ai_help_description">
+        Ассистент ИИ может помочь вам составлять черновики, редактировать, организовывать и генерировать идеи.
+        Откройте панель чата и спросите что угодно.
+    </string>
+
+    <string name="ai_select_writing_guide">Выберите руководство по письму</string>
+    <string name="ai_pdf_document_label">PDF документ</string>
+    <string name="ai_pdf_select_document_placeholder">Выберите PDF</string>
+    <string name="ai_pdf_page">Страница %1$d</string>
+    <string name="ai_pdf_search_label">Поиск в PDF</string>
+    <string name="ai_pdf_search_icon_desc">Поиск</string>
+    <string name="ai_pdf_load_failed">Не удалось загрузить PDF.</string>
+    <string name="ai_open_pdf_page">Открыть PDF \u2022 Страница %1$d</string>
+    <string name="ai_pdf_viewer_page">Страница %1$d из %2$d</string>
+    <string name="ai_pdf_viewer_previous">Назад</string>
+    <string name="ai_pdf_viewer_next">Далее</string>
+    <string name="ai_pdf_viewer_add_bookmark">Добавить закладку</string>
+    <string name="ai_pdf_viewer_back">← Назад</string>
+
+    <string name="ai_pdf_link_title">Связать с каталогом</string>
+    <string name="ai_pdf_link_message">Введите ID каталога:</string>
+
+    <string name="ai_selection_result_title">Результат ИИ</string>
+    <string name="ai_selection_replace">Заменить выделенное</string>
+    <string name="ai_selection_insert_below">Вставить ниже</string>
+    <string name="ai_selection_failed">Ошибка ИИ: %1$s</string>
+    <string name="ai_action_sprout">Sprout: Идеи</string>
+    <string name="ai_action_vine">Vine: Черновик</string>
+    <string name="ai_action_petal">Petal: Критика</string>
+    <string name="ai_action_bloom">Bloom: Переписать</string>
+</resources>

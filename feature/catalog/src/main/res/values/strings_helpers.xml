@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : ARC -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_arc">
+<b>NARRATIVE SUMMARY BUILDER</b>\n
+<i>Combine these sentence starters into one flowing paragraph:</i>\n\n
+
+• <b>The Setup:</b> "Haunted by [Wound], [Name] believes [Lie/False Belief]..."\n
+• <b>The Catalyst:</b> "Desperate to [External Goal], they [Inciting Incident]..."\n
+• <b>The Shift:</b> "While they initially [Old Method], everything changes when [Midpoint]..."\n
+• <b>The Fall:</b> "However, [Low Point/Failure] forces them to question their beliefs..."\n
+• <b>The Choice:</b> "Faced with the choice between [Safety/Want] and [Truth/Need], they [Climax Action]..."\n
+• <b>The Resolution:</b> "They end the story as [New Identity/Status]."
+        Example: Haunted by the fear of being replaceable, Lumi believes usefulness is the only currency that matters. Desperate to stay among the academy’s elite, she perfects the role of fixer—soft voice, steady hands, airtight secrets. While she initially believes she’s holding the group together, everything changes when one secret becomes a body. However, when silence threatens to consume her too, Lumi realizes the truth doesn’t need to be complete to be effective. Faced with the choice between moral purity and survival, she edits the narrative. She ends the story still adored, still protected—no longer innocent, but finally secure. </string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : GOAL -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_goal">
+<b>EXTERNAL VS. INTERNAL</b>\n
+The Goal is the <b>physical object or outcome</b> the character chases through the plot. It must pass the <b>Camera Test</b>: Can you film the moment they achieve it?\n\n
+
+<b>PHRASING</b>\n
+Start with a strong active verb:\n
+• <b>Escape</b> (a prison)\n
+• <b>Protect</b> (a witness)\n
+• <b>Destroy</b> (a weapon)\n
+• <b>Find</b> (a cure)\n
+• <b>Win</b> (a competition)\n
+• <b>Solve</b> (a murder)\n\n
+
+<b>THE FORMULA</b>\n
+\"To [Active Verb] + [Target] + in order to [Reward/Stakes].\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>To curate</b> the evidence at the crime scene and edit the group\'s timeline <b>in order to</b> ensure the police rule the death an accident, guaranteeing her security within the elite circle.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : MOTIVATION -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_motivation_outer">
+<b>THE PRESSURE (THE STICK)</b>\n
+External pressure forcing action. This is not what the character <i>wants</i> to do—it is what the world <i>demands</i> they do to avoid disaster.\n\n
+
+<b>COMMON PRESSURES</b>\n
+• <b>Survival:</b> Threat of death or poverty.\n
+• <b>Duty:</b> A job, a vow, or a debt to pay.\n
+• <b>Rivalry:</b> An enemy is moving; they must react.\n
+• <b>Ticking Clock:</b> A deadline approaching.\n\n
+
+<b>ASK YOURSELF</b>\n
+• \"What terrible thing happens if they refuse to act?\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>Implication and Leverage.</b> Lumi finds the body and realizes she is already implicated by association. She is forced to act not just to hide the scandal, but because she knows if she fixes this, the group will owe her a life debt they can never repay.
+</string>
+
+    <string name="helper_character_motivation_inner">
+<b>THE HUNGER (THE VOID)</b>\n
+The emotional deficiency beneath the goal. It is the psychological hole they are trying to fill.\n\n
+
+<b>CORE NEEDS (MASLOW)</b>\n
+• <b>Safety:</b> To stop feeling afraid or vulnerable.\n
+• <b>Belonging:</b> To be loved or accepted.\n
+• <b>Esteem:</b> To be respected or powerful.\n
+• <b>Autonomy:</b> To be free from control.\n
+• <b>Redemption:</b> To fix a past mistake.\n\n
+
+<b>ASK YOURSELF</b>\n
+• \"What pain are they trying to numb?\"\n
+• \"What feeling do they think the Goal will give them?\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>Power (Indispensability).</b> Haunted by the fear of being replaceable, Lumi is motivated by a dark need to be the <i>only</i> one who knows the truth. She believes that if she holds the secrets that could destroy everyone else, she will finally be safe from abandonment.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : METHODS -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_methodology">
+<b>APPROACH VS. ATTITUDE</b>\n
+• <b>Approach:</b> The visible actions, tactics, and behaviors used to solve problems.\n
+• <b>Attitude:</b> The internal mindset, emotional stance, or philosophy held.\n\n
+
+<b>THE STYLES</b>\n
+• <b>Assertive:</b> Taking charge and forcing outcomes. (e.g., Leading the attack vs. Feeling dominant)\n
+• <b>Responsive:</b> Adapting to the environment/others. (e.g., Counter-attacking vs. Open-mindedness)\n
+• <b>Preservative:</b> Maintaining the status quo or resources. (e.g., Building defenses vs. Hoarding/Isolationism)\n
+• <b>Passive:</b> Yielding or withdrawing. (e.g., Doing nothing vs. Indifference)\n
+• <b>Dogmatic:</b> Adhering to a strict code. (e.g., Enforcing rules vs. Judgmental rigidity)\n
+• <b>Pragmatic:</b> Doing whatever works. (e.g., Using dirty tactics vs. Cynical realism)\n
+• <b>Cautious:</b> Risk-averse. (e.g., Planning extensively vs. Fear/Vigilance)\n
+• <b>Risky:</b> High stakes. (e.g., Gambling/Recklessness vs. Thrill-seeking)\n\n
+
+<b>EXAMPLE</b>\n
+<b>Type: Pragmatic Approach and Cautious Attitude</b>\n
+Lumi survives by being the \"Editor\" (Pragmatic), treating the truth as a rough draft that needs rewriting. Her attitude is <b>Cautious</b>: she never creates a lie that can be easily disproven. Instead, she edits the truth just enough to change the conclusion, prioritizing survival over morality.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : REQUIREMENT -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_requirement">
+<b>THE PREREQUISITE (THE KEY)</b>\n
+The essential step, condition, or item that must be obtained <i>before</i> the Goal can be achieved. If the Goal is the locked door, the Requirement is the key.\n\n
+
+<b>COMMON TYPES</b>\n
+• <b>Obtaining:</b> Gathering information, a map, a weapon, or a literal key.\n
+• <b>Doing:</b> Traveling to a specific location, winning a qualifying round, or performing a ritual.\n
+• <b>Learning:</b> Deciphering a code, mastering a skill, or discovering a secret.\n
+• <b>Becoming:</b> Earning a rank, gaining trust, or changing one\'s nature.\n\n
+
+<b>ASK YOURSELF</b>\n
+• \"What stands in their way physically?\"\n
+• \"What must they do to even get a chance at the Goal?\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>Type: Creating (The Alibi)</b>\n
+While Lumi\'s ultimate Goal is <b>permanent security</b> (The Reward), the mandatory Requirement she must fulfill is to <b>construct a flawless timeline</b> for the night of the crime. To succeed, she must <b>sacrifice a scapegoat</b> (Type: Doing), pointing the authorities toward an outsider to close the case.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : CONSEQUENCES -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_consequence">
+<b>THE STAKES (COST OF CHANGE)</b>\n
+What are the lasting results of pursuing this goal? Consider both success and failure.\n\n
+
+<b>CONSIDER</b>\n
+• <b>Identity:</b> How does the outcome change who they are?\n
+• <b>Relationships:</b> Who benefits and who suffers?\n
+• <b>Trade-offs:</b> What is gained, but what is lost forever?\n\n
+
+<b>ASK YOURSELF</b>\n
+• \"If the story ends with this goal resolved, what can never go back to how it was before?\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>Success vs. Failure</b>\n
+If Lumi succeeds (the lie is believed), the consequence is <b>moral corruption and safety</b>—she becomes the secret leader of the group, bound to them by mutual destruction. If she fails, she goes to prison. The ultimate consequence is that she ends the story adored, but she has lost her innocence forever.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : FORESHADOWING -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_forewarning">
+<b>THE RED FLAGS (SIGNALS)</b>\n
+What warnings or signs appear <i>before</i> the consequence arrives? These are the signals the character often ignores.\n\n
+
+<b>TYPES</b>\n
+• <b>Internal:</b> Doubt, guilt, or hesitation in a usually confident character.\n
+• <b>External:</b> Omens, early setbacks, or the plan going wrong in small ways.\n
+• <b>Relational:</b> A friend warning them, or a betrayal.\n\n
+
+<b>ASK YOURSELF</b>\n
+• \"What is the story quietly telling the character before the disaster hits?\"\n\n
+
+<b>EXAMPLE</b>\n
+<b>The Absence of Feeling</b>\n
+The forewarning appears when Lumi looks at the body and feels <b>annoyance rather than horror</b>. This signals her empathy is detaching. Externally, a friend compliments her on being \"so good at lying,\" a chilling compliment that foreshadows her descent into becoming a professional manipulator.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : POWER -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_power_description">
+<b>CORE IDENTITY</b>\n
+What is the fundamental nature of the ability?\n\n
+• What does it allow the character to do?\n
+• Is it always active (passive) or must it be triggered (active)?\n
+• Is it magic, technology, biological, or skill-based?\n\n
+<b>EXAMPLE</b>\n
+<b>Name: The Social Construct</b>\n
+Lumi possesses the ability to deconstruct social narratives and rebuild them. She understands that "truth" is just the story people agree on. It is a cognitive skill sharpened by years of people-pleasing, allowing her to spot the gaps in people\'s perception and fill them with what they want to see.
+</string>
+
+    <string name="helper_character_power_capabilities">
+<b>PEAK PERFORMANCE</b>\n
+What can this power accomplish at its absolute best?\n\n
+• <b>Typical Use:</b> Everyday application (e.g., parrying a sword).\n
+• <b>Maximum Feat:</b> The upper limit (e.g., dodging an arrow).\n
+• <b>Creative Use:</b> Using it for utility rather than combat.\n\n
+<b>EXAMPLE</b>\n
+<b>Gaslighting and Reframing</b>\n
+At her peak, Lumi can convince a room of witnesses that they didn\'t see what they thought they saw. By subtly altering the context—planting a rumor here, hiding a phone there—she can rewrite the history of an event in real-time until the "victim" looks like the aggressor.
+</string>
+
+    <string name="helper_character_power_limitations">
+<b>THE COSTS (NERFING)</b>\n
+What prevents this power from solving every problem?\n\n
+• <b>Hard Limits:</b> Cooldowns, resource costs (mana/stamina).\n
+• <b>Weaknesses:</b> Specific counters (fire, cold iron).\n
+• <b>Collateral Damage:</b> Harm to self or environment.\n\n
+<b>EXAMPLE</b>\n
+<b>Isolation in Crowds</b>\n
+Because she constantly edits reality, Lumi loses her grip on what is actually real. She can no longer trust anyone because she knows how easy it is to lie. Her power isolates her; she is surrounded by friends who adore a version of her that doesn\'t exist.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : COGNITION -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_learning_style">
+<b>COGNITIVE HIERARCHY (BLOOM\'S)</b>\n
+How does this character process information to solve problems?\n\n
+
+• <b>Level 1: Remember</b> (Recall)\n
+Retrieving facts or basic concepts.\n
+<i>Verbs:</i> Label, list, recall, record, relate.\n\n
+
+• <b>Level 2: Understand</b> (Explain)\n
+Interpreting and translating ideas.\n
+<i>Verbs:</i> Define, describe, discuss, explain, interpret.\n\n
+
+• <b>Level 3: Apply</b> (Use)\n
+Using knowledge in new situations.\n
+<i>Verbs:</i> Adapt, calculate, solve, demonstrate, operate.\n\n
+
+• <b>Level 4: Analyze</b> (Deconstruct)\n
+Breaking information down to explore relationships and causes.\n
+<i>Verbs:</i> Compare, contrast, deduce, differentiate, infer.\n\n
+
+• <b>Level 5: Evaluate</b> (Judge)\n
+Justifying a stand or decision based on critique.\n
+<i>Verbs:</i> Argue, assess, defend, judge, validate.\n\n
+
+• <b>Level 6: Create</b> (Synthesize)\n
+Generating new ideas or patterns.\n
+<i>Verbs:</i> Design, formulate, invent, hypothesize, compose.\n\n
+
+<b>EXAMPLE</b>\n
+<b>Primary Style: Level 6 (Create)</b>\n
+Lumi has moved beyond Analyzing (Level 4). To save the group, she must <b>Create</b>. She synthesizes disparate facts, alibis, and evidence to <i>construct</i> a brand new reality where the murder was an accident. She isn\'t solving the puzzle; she is designing it.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : PSYCHOLOGY -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_mental_wound">
+<b>THE GHOST (TRAUMA)</b>\n
+The defining psychological injury from the past that haunts the character today.\n\n
+<b>EXAMPLES</b>\n
+• <b>Abandonment:</b> Being left behind by a parent.\n
+• <b>Betrayal:</b> A trusted mentor turning on them.\n
+• <b>Guilt:</b> Failing to save someone.\n\n
+<b>EXAMPLE</b>\n
+<b>Conditional Love</b>\n
+Lumi\'s wound is a childhood defined by <b>performance</b>. She learned early on that she was only praised when she was perfect or useful. This created a belief that she has no intrinsic value—she is only "worth" what she can "do" for others.
+</string>
+
+    <string name="helper_character_mental_fear">
+<b>THE NIGHTMARE</b>\n
+The specific fear that grew out of the wound. This is what they are running *from*.\n\n
+<b>EXAMPLES</b>\n
+• Fear of intimacy (because it leads to loss).\n
+• Fear of weakness (because it leads to abuse).\n
+• Fear of failure (because it proves they are worthless).\n\n
+<b>EXAMPLE</b>\n
+<b>Disposability</b>\n
+Lumi is terrified of being <b>discarded</b>. She fears the moment she stops being useful, the group will turn on her. This drives her to become the keeper of their darkest secrets—so they <i>cannot</i> afford to get rid of her.
+</string>
+
+    <string name="helper_character_triggers">
+<b>THE LANDMINES</b>\n
+Specific situations or words that bypass logic and instantly activate the Wound.\n\n
+<b>EXAMPLES</b>\n
+• Being ignored.\n
+• Seeing someone cry.\n
+• Loss of control.\n\n
+<b>EXAMPLE</b>\n
+<b>Incompetence and Chaos</b>\n
+Lumi is triggered by <b>sloppiness</b>. When the others in the group start panicking or making messy mistakes that threaten the lie, she snaps. It triggers her survival instinct, forcing her to take total, authoritarian control of the situation.
+</string>
+
+    <string name="helper_character_stress_response">
+<b>FIGHT, FLIGHT, FREEZE, FAWN</b>\n
+How does the character react when triggered?\n\n
+• <b>Fight:</b> Aggression, controlling behavior.\n
+• <b>Flight:</b> Withdrawing, isolating, running away.\n
+• <b>Freeze:</b> Numbness, dissociation, indecision.\n
+• <b>Fawn:</b> People-pleasing, over-apologizing.\n\n
+<b>EXAMPLE</b>\n
+<b>Cold Fight (Calculation)</b>\n
+Lumi\'s response shifts from Fawn (people-pleasing) to a cold <b>Fight</b> response. Instead of yelling, she becomes eerily calm and commanding. She shuts down emotions to treat the dead body like a problem to be solved, directing her friends like chess pieces.
+</string>
+
+    <string name="helper_character_mental_lie">
+<b>THE FALSE BELIEF</b>\n
+A wrong rule about how the world works, created to protect the Wound.\n\n
+<b>EXAMPLES</b>\n
+• \"I am unlovable.\"\n
+• \"Power is the only safety.\"\n
+• \"Everyone leaves eventually.\"\n\n
+<b>EXAMPLE</b>\n
+<b>\"The Truth is Overrated\"</b>\n
+Lumi believes: \"<b>History is written by the survivors.</b>\" This lie justifies her manipulation. She convinces herself that editing the narrative isn\'t lying—it\'s protecting the people she loves from a \"misunderstanding.\"
+</string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>THE SHIELDS</b>\n
+Behaviors used to manage pain. They work in the short term but cause damage in the long term.\n\n
+<b>EXAMPLES</b>\n
+• <b>Humor:</b> Deflecting seriousness.\n
+• <b>Control:</b> Micromanaging to avoid chaos.\n
+• <b>Addiction:</b> Numbing feelings.\n\n
+<b>EXAMPLE</b>\n
+<b>Compartmentalization</b>\n
+Lumi copes by <b>locking things in boxes</b>. She separates "Lumi the Friend" from "Lumi the Fixer." This allows her to have tea with the girl she is framing without feeling guilt. Long term, this fractures her psyche, making her unable to feel genuine connection.
+</string>
+
+    <string name="helper_character_id_ego_superego">
+<b>THE PSYCHE (FREUD)</b>\n
+How is the character\'s mind divided?\n\n
+• <b>Id (The Beast):</b> Instinct, desire, survival, aggression.\n
+• <b>Superego (The Judge):</b> Morals, guilt, strict rules, ideals.\n
+• <b>Ego (The Pilot):</b> The decision-maker trying to balance the two.\n\n
+<b>EXAMPLE</b>\n
+<b>Ego Corruption</b>\n
+Lumi\'s <b>Superego</b> (Morality) is weak, eroded by her need to belong. Her <b>Id</b> (Survival) is dominant. Her <b>Ego</b> works overtime to rationalize the Id\'s desires, convincing her that covering up a murder is actually an act of "loyalty" and "friendship" rather than a crime.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : IDENTITY -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_mask">
+<b>THE PERSONA (PUBLIC FACE)</b>\n
+The face the character wears to protect their inner self. It is a performance.\n\n
+<b>EXAMPLES</b>\n
+• The Jester (hiding sadness).\n
+• The Stoic (hiding fear).\n
+• The Professional (hiding chaos).\n\n
+<b>EXAMPLE</b>\n
+<b>The Innocent Flower</b>\n
+Lumi wears a mask of <b>fragile sweetness</b>. She speaks softly, dresses modestly, and always appears helpful. This mask is her greatest weapon; no one suspects the "nice girl" is capable of orchestrating a cover-up.
+</string>
+
+    <string name="helper_character_self">
+<b>THE TRUE SELF (PRIVATE FACE)</b>\n
+Who the character is when they are alone in the dark. This includes hidden shame, soft emotions, and true desires.\n\n
+<b>ASK YOURSELF</b>\n
+• \"What would destroy them if the world knew this?\"\n\n
+<b>EXAMPLE</b>\n
+<b>The Cold Strategist</b>\n
+Behind the sweet smile, Lumi is <b>ruthless</b>. She keeps a mental ledger of everyone\'s secrets. Her true self isn\'t a follower; she is a puppet master who enjoys the power she holds over the academy\'s elite.
+</string>
+
+    <string name="helper_character_alignment">
+<b>MORAL COMPASS</b>\n
+<b>Lawful ↔ Chaotic:</b> Do they follow a code or their impulses?\n
+<b>Good ↔ Evil:</b> Do they sacrifice for others or themselves?\n\n
+<b>EXAMPLE</b>\n
+<b>Lawful Neutral shifting to Neutral Evil</b>\n
+Lumi starts as <b>Lawful Neutral</b>, upholding the social order. By the end, she shifts to <b>Neutral Evil</b>. She uses the rules (the Law) to protect herself (Evil), willing to destroy an innocent person\'s life to maintain her own comfort and status.
+</string>
+
+    <string name="helper_character_social_tone">
+<b>SOCIAL VIBE (INTERACTIVE)</b>\n
+How do they act in specific conversations? This changes based on who is in the room.\n\n
+• <b>With Enemies:</b> Threatening, quiet.\n
+• <b>With Allies:</b> Guarded, professional.\n
+• <b>With Vulnerable People:</b> Awkward, gentle.\n\n
+<b>EXAMPLE</b>\n
+<b>Soothing and Calculating</b>\n
+Socially, Lumi acts as a balm. Her voice is always steady; she is the one offering a tissue or a cup of water. However, under pressure, her tone becomes <b>clinical</b>. She asks questions not to help, but to gather information she can use later.
+</string>
+
+    <string name="helper_character_chronic_tone">
+<b>DEFAULT MOOD (ATMOSPHERE)</b>\n
+The emotional \"weather\" that hangs over the character when nothing is happening. This is their baseline state.\n\n
+<b>EXAMPLES</b>\n
+• Melancholy\n
+• High-Energy\n
+• Anxious\n\n
+<b>EXAMPLE</b>\n
+<b>Icy Calm</b>\n
+Lumi\'s chronic tone is <b>unnerving stillness</b>. While others fidget or panic, she sits perfectly still. It is the calm of someone who has already thought three moves ahead. It makes people trust her, but it also makes them slightly afraid of her.
+</string>
+
+    <string name="helper_character_archetypes">
+<b>MASK ARCHETYPES</b>\n
+<i>The role she performs in public.</i>\n\n
+
+This archetype reflects how the character is perceived, not who she truly is.
+It is shaped by safety, status, expectation, and survival.\n\n
+
+<b>Reformer</b>\n
+Appears principled, composed, and morally certain. Projects correctness, restraint, and quiet judgment.\n\n
+
+<b>Helper</b>\n
+Appears nurturing, attentive, and indispensable. Gains safety through being needed and relied upon.\n\n
+
+<b>Achiever</b>\n
+Appears polished, successful, and enviable. Curates image and performance to maintain admiration.\n\n
+
+<b>Individualist</b>\n
+Appears expressive, emotional, and aesthetically unique. Uses depth, mood, and identity as presence.\n\n
+
+<b>Investigator</b>\n
+Appears detached, observant, and intellectually guarded. Withholds information to maintain control.\n\n
+
+<b>Loyalist</b>\n
+Appears devoted, cautious, and vigilant. Anchors identity to people, groups, or systems for security.\n\n
+
+<b>Enthusiast</b>\n
+Appears bright, playful, and distractible. Uses charm, humor, and motion to avoid discomfort.\n\n
+
+<b>Challenger</b>\n
+Appears dominant, protective, and unafraid of conflict. Uses force of will to enforce safety.\n\n
+
+<b>Peacemaker</b>\n
+Appears calm, agreeable, and accommodating. Avoids loss by minimizing presence and tension.\n\n
+
+<b>EXAMPLE: LUMI (THE CORRUPTION ARC)</b>\n\n
+
+<b>The Mask: The Helper (Peacemaker)</b>\n
+To the academy, Lumi is the \"Innocent Flower.\" She is defined by soft sweaters, listening ears, and tea. She appears harmless, accommodating, and desperate to please. This mask protects her from suspicion—no one thinks the \"nice girl\" is capable of a crime.\n\n
+
+<b>The Self: The Investigator (Architect)</b>\n
+In the dark, Lumi is cold, clinical, and judgmental. She views her friends not as loved ones, but as \"liabilities\" or \"assets.\" She catalogs their weaknesses. Her true self is driven by a ruthless need for control, not affection.\n\n
+
+<b>The Deterioration (The Crack)</b>\n
+The mask fractures when the group panics over the body. Lumi stops asking, \"Are you okay?\" and snaps, \"Shut up and hand me the bleach.\" The sweetness evaporates, revealing the terrifying efficiency underneath. Her friends stop seeing her as a pet and start seeing her as a predator.\n\n
+
+<b>The Evolution</b>\n
+By the end, the Mask is back in place, but it is now a weapon. She no longer acts sweet to belong; she acts sweet to disarm. Her Self has evolved from a terrified girl afraid of being replaced into a <b>Shadow Queen</b> who knows she owns them all.
+</string>
+
+    <!-- ================================================== -->
+    <!-- CHARACTER : RELATIONSHIPS -->
+    <!-- ================================================== -->
+
+    <string name="helper_character_relationships">
+<b>RELATIONAL DYNAMICS</b>\n
+Relationships are not just backstory; they are pressure points that force the character to act. Use them to test the character\'s Lie.\n\n
+
+<b>ASK YOURSELF</b>\n
+• <b>Mirroring:</b> Who reflects the character\'s worst traits back at them?\n
+• <b>Reinforcement:</b> Who rewards the character for believing their Lie?\n
+• <b>Challenge:</b> Who sees through the mask and threatens their safety?\n\n
+
+<b>EXAMPLE: LUMI\'S WEB</b>\n
+Lumi\'s Lie is \"I am only safe if I am useful.\" Her relationships are designed to prove this.\n\n
+
+• <b>Seraphine (The Power):</b> <i>Reinforces the Lie.</i> She rewards Lumi with praise only when Lumi fixes her mistakes. She proves that utility equals proximity.\n
+• <b>Violetta (The Observer):</b> <i>Threatens the Mask.</i> She notices the gaps in Lumi\'s stories. Her precision feels dangerous; she challenges Lumi\'s control.\n
+• <b>Rosette (The Liability):</b> <i>Creates Dependency.</i> Rosette needs constant saving. Protecting her makes Lumi feel indispensable (safe) but increasingly complicit (trapped).\n
+• <b>Elowen (The Moral Line):</b> <i>Forces Conflict.</i> Elowen demands total honesty. Lumi ultimately sacrifices this relationship because Elowen offers truth, but the group offers safety.
+</string>
+
+</resources>

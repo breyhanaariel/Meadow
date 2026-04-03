@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Calendar</string>
+    <string name="calendar">Calendar</string>
+    <string name="action_sync_now">Sincronizați acum</string>
+    <string name="action_today">Astăzi</string>
+    <string name="view_month">Lună</string>
+    <string name="view_week">Săptămână</string>
+    <string name="view_agenda">Agendă</string>
+    <string name="filter_all">Toate</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Serii</string>
+    <string name="filter_projects">Proiecte</string>
+    <string name="filter_this_project">Acest proiect</string>
+    <string name="label_color">Culoare</string>
+    <string name="label_recurrence">Repetiții</string>
+    <string name="label_reminder">Memento</string>
+    <string name="recurrence_none">Nu se repetă</string>
+    <string name="recurrence_daily">Zilnic</string>
+    <string name="recurrence_weekly">Săptămânal</string>
+    <string name="recurrence_monthly">Lunar</string>
+    <string name="reminder_none">Fără memento</string>
+    <string name="reminder_10">Cu 10 minute înainte</string>
+    <string name="reminder_30">Cu 30 minute înainte</string>
+    <string name="reminder_60">Cu 1 oră înainte</string>
+    <string name="delete_event_title">Ștergeți evenimentul?</string>
+    <string name="delete_event_message">Această acțiune va șterge definitiv %1$s. Acțiunea nu poate fi anulată.</string>
+    <string name="no_events">Niciun eveniment momentan</string>
+    <string name="add_event">Adăugare eveniment</string>
+    <string name="delete_event">Ștergere eveniment</string>
+    <string name="edit_event">Editare eveniment</string>
+    <string name="month">Lună</string>
+    <string name="week">Săptămână</string>
+    <string name="agenda">Agendă</string>
+    <string name="all_day">Toată ziua</string>
+    <string name="new_event">Eveniment nou</string>
+    <string name="search_month_or_year">Caută lună sau an</string>
+    <string name="upcoming_event">Viitoare</string>
+    <string name="past_event">Trecute</string>
+</resources>

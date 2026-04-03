@@ -1,0 +1,104 @@
+{
+  "typeKey": "organization",
+  "icon": "ic_organization",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "organization.logo",
+      "owner": "catalog",
+      "key": "logo",
+      "labelKey": "field_organization_logo",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "organization.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_organization_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "organization.type",
+      "owner": "catalog",
+      "key": "type",
+      "labelKey": "field_organization_type",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "organization_type_corporation",
+          "organization_type_government",
+          "organization_type_guild",
+          "organization_type_military",
+          "organization_type_non_profit",
+          "organization_type_religious_order",
+          "organization_type_syndicate",
+          "organization_type_academic_institution"
+        ]
+      }
+    },
+    {
+      "id": "organization.leader",
+      "owner": "catalog",
+      "key": "leader",
+      "labelKey": "field_organization_leader",
+      "kind": "REFERENCE",
+      "order": 3,
+      "metadata": {
+        "targetSchema": "character",
+        "multi": true
+      }
+    },
+    {
+      "id": "organization.members",
+      "owner": "catalog",
+      "key": "member",
+      "labelKey": "field_organization_members",
+      "kind": "REFERENCE",
+      "order": 4,
+      "metadata": {
+        "targetSchema": "character",
+        "multi": true
+      }
+    },
+    {
+      "id": "organization.motto",
+      "owner": "catalog",
+      "key": "motto",
+      "labelKey": "field_organization_motto",
+      "kind": "TEXT",
+      "order": 5,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "organization.headquarters",
+      "owner": "catalog",
+      "key": "headquarters",
+      "labelKey": "field_organization_headquarters",
+      "kind": "TEXT",
+      "order": 6,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "organization.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_organization_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "organization.agenda",
+      "owner": "catalog",
+      "key": "agenda",
+      "labelKey": "field_organization_agenda",
+      "kind": "MULTILINE_TEXT",
+      "order": 8,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

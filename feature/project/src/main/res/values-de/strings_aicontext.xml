@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Generieren</string>
+    <string name="ai_mode_improve">Verbessern</string>
+    <string name="ai_mode_rewrite">Umschreiben</string>
+    <string name="ai_mode_expand">Erweitern</string>
+    <string name="ai_mode_shorten">Kürzen</string>
+    <string name="ai_action_manage_context">Kontext verwalten</string>
+    <string name="ai_action_open_chats">Chats öffnen</string>
+    <string name="ai_choose_action">Aktion auswählen</string>
+    <string name="ai_for_field">KI für: %1$s</string>
+    <string name="ai_picker_generate_title">Generieren: Felder wählen</string>
+    <string name="ai_picker_improve_title">Verbessern: Felder wählen</string>
+    <string name="ai_picker_rewrite_title">Umschreiben: Felder wählen</string>
+    <string name="ai_no_fields_available">Keine KI-fähigen Felder verfügbar.</string>
+    <string name="ai_preview_title">Vorschau der KI-Änderungen</string>
+    <string name="ai_preview_scope">Umfang: %1$s</string>
+    <string name="ai_preview_count">Änderungen: %1$d</string>
+    <string name="ai_preview_before">Vorher:</string>
+    <string name="ai_preview_after">Nachher:</string>
+    <string name="ai_optional_note">Optionale Notiz (nicht gesendet)</string>
+    <string name="ai_applied">KI-Änderungen angewendet</string>
+    <string name="ai_failed_generic">KI fehlgeschlagen</string>
+    <string name="ai_preview_empty">(leer)</string>
+    <string name="ai_context_title">KI-Kontext</string>
+    <string name="ai_context_add">Kontext hinzufügen</string>
+    <string name="ai_context_pinned">Angepinnt (immer einbeziehen)</string>
+    <string name="ai_context_title_label">Titel</string>
+    <string name="ai_context_body_label">Kontext</string>
+    <string name="ai_context_edit">Kontext bearbeiten</string>
+    <string name="ai_context_delete">Kontext löschen</string>
+    <string name="ai_select_field">Feld auswählen</string>
+</resources>

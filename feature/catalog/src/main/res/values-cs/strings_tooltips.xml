@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Přiřaďte nadřazené umístění a vytvořte hierarchii (např. město patří k zemi, místnost patří k budově).</string>
+    <string name="tooltip_style_voice">Popište strukturu vět, rytmus, tempo a stylistický tok.</string>
+    <string name="tooltip_style_lexicon">Pravidla týkající se slangu, stahování tvarů, vulgarismů, dialektu nebo omezení slovní zásoby.</string>
+    <string name="tooltip_style_do_rules">Věci, které by tento hlas měl zdůrazňovat nebo důsledně zahrnovat.</string>
+    <string name="tooltip_style_avoid_rules">Věci, kterým se tento hlas musí vyhnout nebo je minimalizovat.</string>
+    <string name="tooltip_style_formatting">Pravidla pro formátování vnitřních myšlenek, telepatie, textových zpráv nebo speciálních dialogů.</string>
+</resources>

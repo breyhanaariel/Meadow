@@ -1,0 +1,37 @@
+{
+  "id": "project.format",
+  "owner": "project",
+  "key": "format",
+  "labelKey": "field_project_format",
+  "kind": "MULTI_SELECT",
+  "group": "Structure",
+  "order": 12,
+  "metadata": {
+    "groupedOptions": {
+      "format_group_timeline": [
+        "format_prequel",
+        "format_inquel",
+        "format_paraquel",
+        "format_interquel",
+        "format_circumquel",
+        "format_sequel"
+      ],
+      "format_group_structure": [
+        "format_serial",
+        "format_oneshot",
+        "format_omake"
+      ]
+    },
+    "flatOptions": [
+      "format_prequel",
+      "format_inquel",
+      "format_paraquel",
+      "format_interquel",
+      "format_circumquel",
+      "format_sequel",
+      "format_serial",
+      "format_oneshot",
+      "format_omake"
+    ]
+  }
+}

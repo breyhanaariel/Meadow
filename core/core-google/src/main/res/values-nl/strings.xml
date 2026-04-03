@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Google-account koppelen</string>
+    <string name="google_account_connected">Google-account gekoppeld</string>
+    <string name="google_account_disconnected">Google-account ontkoppelen</string>
+    <string name="google_auth_signing_in">Inloggen…</string>
+    <string name="google_auth_sign_in_failed">Inloggen mislukt</string>
+    <string name="google_auth_signed_out">Uitgelogd</string>
+    <string name="google_auth_permission_required">Google-toestemming vereist</string>
+    <string name="google_auth_retry">Opnieuw proberen</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Verbinding maken met Google Drive…</string>
+    <string name="google_drive_connected">Verbonden met Google Drive</string>
+    <string name="google_drive_syncing">Synchroniseren met Google Drive…</string>
+    <string name="google_drive_sync_complete">Drive-synchronisatie voltooid</string>
+    <string name="google_drive_sync_failed">Drive-synchronisatie mislukt</string>
+    <string name="google_drive_permission_denied">Toegang tot Drive geweigerd</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Verbinding maken met Google Sheets…</string>
+    <string name="google_sheets_connected">Verbonden met Google Sheets</string>
+    <string name="google_sheets_exporting">Exporteren naar Google Sheets…</string>
+    <string name="google_sheets_export_complete">Export voltooid</string>
+    <string name="google_sheets_export_failed">Export mislukt</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Verbinding maken met Google Calendar…</string>
+    <string name="google_calendar_connected">Verbonden met Google Calendar</string>
+    <string name="google_calendar_syncing">Kalender synchroniseren…</string>
+    <string name="google_calendar_sync_failed">Kalendersynchronisatie mislukt</string>
+    <string name="google_calendar_permission_denied">Toegang tot kalender geweigerd</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Verbinding maken met Google Docs…</string>
+    <string name="google_docs_connected">Verbonden met Google Docs</string>
+    <string name="google_docs_exporting">Exporteren naar Google Docs…</string>
+    <string name="google_docs_export_failed">Export mislukt</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Verbinding maken met Gemini…</string>
+    <string name="google_gemini_connected">Verbonden met Gemini</string>
+    <string name="google_gemini_requesting">Antwoord genereren…</string>
+    <string name="google_gemini_failed">Gemini-aanvraag mislukt</string>
+    <string name="google_gemini_rate_limited">Te veel aanvragen. Wacht even.</string>
+</resources>

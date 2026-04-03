@@ -1,0 +1,101 @@
+{
+  "typeKey": "sound_fx",
+  "icon": "ic_soundfx",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "sound_fx.audio_file",
+      "owner": "catalog",
+      "key": "audio_file",
+      "labelKey": "field_soundfx_audio",
+      "kind": "AUDIO",
+      "order": 0
+    },
+    {
+      "id": "sound_fx.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_soundfx_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "sound_fx.category",
+      "owner": "catalog",
+      "key": "category",
+      "labelKey": "field_soundfx_category",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "soundfx_category_ambience",
+          "soundfx_category_foley",
+          "soundfx_category_dialogue",
+          "soundfx_category_ui",
+          "soundfx_category_combat",
+          "soundfx_category_creature",
+          "soundfx_category_vehicle",
+          "soundfx_category_musical"
+        ]
+      }
+    },
+    {
+      "id": "sound_fx.play_style",
+      "owner": "catalog",
+      "key": "play_style",
+      "labelKey": "field_soundfx_play_style",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": {
+        "options": [
+          "soundfx_play_one_shot",
+          "soundfx_play_loopable",
+          "soundfx_play_randomized"
+        ]
+      }
+    },
+    {
+      "id": "sound_fx.duration",
+      "owner": "catalog",
+      "key": "duration",
+      "labelKey": "field_soundfx_duration",
+      "kind": "TEXT",
+      "order": 4
+    },
+    {
+      "id": "sound_fx.license",
+      "owner": "catalog",
+      "key": "license",
+      "labelKey": "field_soundfx_license",
+      "kind": "SINGLE_SELECT",
+      "order": 5,
+      "metadata": {
+        "options": [
+          "soundfx_license_royalty_free",
+          "soundfx_license_stock_library",
+          "soundfx_license_original_recording",
+          "soundfx_license_rights_managed",
+          "soundfx_license_public_domain"
+        ]
+      }
+    },
+    {
+      "id": "sound_fx.tags",
+      "owner": "catalog",
+      "key": "tags",
+      "labelKey": "field_soundfx_tags",
+      "kind": "TAGS",
+      "order": 6
+    },
+    {
+      "id": "sound_fx.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_soundfx_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

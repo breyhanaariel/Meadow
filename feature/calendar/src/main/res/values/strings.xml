@@ -1,0 +1,40 @@
+<resources>
+    <string name="feature_calendar">Calendar</string>
+    <string name="calendar">Calendar</string>
+    <string name="action_sync_now">Sync Now</string>
+    <string name="action_today">Today</string>
+    <string name="view_month">Month</string>
+    <string name="view_week">Week</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">All</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Series</string>
+    <string name="filter_projects">Projects</string>
+    <string name="filter_this_project">This Project</string>
+    <string name="label_color">Color</string>
+    <string name="label_recurrence">Repeats</string>
+    <string name="label_reminder">Reminder</string>
+    <string name="recurrence_none">Does not repeat</string>
+    <string name="recurrence_daily">Daily</string>
+    <string name="recurrence_weekly">Weekly</string>
+    <string name="recurrence_monthly">Monthly</string>
+    <string name="reminder_none">No reminder</string>
+    <string name="reminder_10">10 minutes before</string>
+    <string name="reminder_30">30 minutes before</string>
+    <string name="reminder_60">1 hour before</string>
+    <string name="delete_event_title">Delete event?</string>
+    <string name="delete_event_message">This will permanently delete %1$s. This action cannot be undone.</string>
+    <string name="no_events">No events yet</string>
+    <string name="add_event">Add event</string>
+    <string name="delete_event">Delete Event</string>
+    <string name="edit_event">Edit Event</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">All-day</string>
+    <string name="new_event">New Event</string>
+    <string name="search_month_or_year">Search month or year</string>
+    <string name="upcoming_event">Upcoming</string>
+    <string name="past_event">Past</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Kết nối tài khoản Google</string>
+    <string name="google_account_connected">Đã kết nối tài khoản Google</string>
+    <string name="google_account_disconnected">Ngắt kết nối tài khoản Google</string>
+    <string name="google_auth_signing_in">Đang đăng nhập…</string>
+    <string name="google_auth_sign_in_failed">Đăng nhập thất bại</string>
+    <string name="google_auth_signed_out">Đã đăng xuất</string>
+    <string name="google_auth_permission_required">Yêu cầu quyền từ Google</string>
+    <string name="google_auth_retry">Thử lại</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Đang kết nối với Google Drive…</string>
+    <string name="google_drive_connected"> Đã kết nối với Google Drive</string>
+    <string name="google_drive_syncing">Đang đồng bộ hóa với Google Drive…</string>
+    <string name="google_drive_sync_complete">Đồng bộ hóa Drive hoàn tất</string>
+    <string name="google_drive_sync_failed">Đồng bộ hóa Drive thất bại</string>
+    <string name="google_drive_permission_denied">Quyền truy cập Drive bị từ chối</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Đang kết nối với Google Sheets…</string>
+    <string name="google_sheets_connected">Đã kết nối với Google Sheets</string>
+    <string name="google_sheets_exporting">Đang xuất sang Google Sheets…</string>
+    <string name="google_sheets_export_complete">Xuất hoàn tất</string>
+    <string name="google_sheets_export_failed">Xuất thất bại</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Đang kết nối với Google Calendar…</string>
+    <string name="google_calendar_connected">Đã kết nối với Google Calendar</string>
+    <string name="google_calendar_syncing">Đang đồng bộ hóa lịch…</string>
+    <string name="google_calendar_sync_failed">Đồng bộ hóa lịch thất bại</string>
+    <string name="google_calendar_permission_denied">Quyền truy cập lịch bị từ chối</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Đang kết nối với Google Docs…</string>
+    <string name="google_docs_connected">Đã kết nối với Google Docs</string>
+    <string name="google_docs_exporting">Đang xuất sang Google Docs…</string>
+    <string name="google_docs_export_failed">Xuất thất bại</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Đang kết nối với Gemini…</string>
+    <string name="google_gemini_connected">Đã kết nối với Gemini</string>
+    <string name="google_gemini_requesting">Đang tạo phản hồi…</string>
+    <string name="google_gemini_failed">Yêu cầu Gemini thất bại</string>
+    <string name="google_gemini_rate_limited">Quá nhiều yêu cầu. Vui lòng chờ.</string>
+</resources>

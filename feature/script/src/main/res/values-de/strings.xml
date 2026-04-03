@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Skript</string>
+    <string name="script_list_title">Skripte</string>
+    <string name="script_new">Neues Skript</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialekt</string>
+    <string name="script_mode_structure">Struktur</string>
+    <string name="script_mode_outline">Gliederung</string>
+    <string name="script_mode_catalog_links">Katalog-Links</string>
+    <string name="script_mode_comments">Kommentare</string>
+    <string name="script_action_ai">KI</string>
+    <string name="script_action_export">Exportieren</string>
+    <string name="script_action_more">Mehr</string>
+    <string name="script_outline">Gliederung</string>
+    <string name="script_no_scripts">Noch keine Skripte</string>
+    <string name="script_create_failed">Skript konnte nicht erstellt werden</string>
+    <string name="script_saved">Gespeichert</string>
+    <string name="script_type_comic">Comic</string>
+    <string name="script_type_novel">Roman</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Spiel</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

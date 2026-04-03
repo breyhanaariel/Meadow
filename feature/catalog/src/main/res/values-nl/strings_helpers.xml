@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helper_character_arc">
+<b>NARRATIEVE SAMENVATTING BOUWER</b>\n
+<i>Combineer deze zinsbeginners tot één vloeiende paragraaf:</i>\n\n
+
+• <b>De Opzet:</b> "Achtervolgd door [Wond], gelooft [Naam] [Leugen/Vals Geloof]..."\n
+• <b>De Katalysator:</b> "Wanhopig om [Extern Doel], doen ze [Inciting Incident]..."\n
+• <b>De Verschuiving:</b> "Hoewel ze aanvankelijk [Oude Methode], verandert alles wanneer [Middelpunt]..."\n
+• <b>De Val:</b> "Echter, [Dieptepunt/Falen] dwingt hen om hun overtuigingen in twijfel te trekken..."\n
+• <b>De Keuze:</b> "Geconfronteerd met de keuze tussen [Veiligheid/Wens] and [Waarheid/Behoefte], doen ze [Climax Actie]..."\n
+• <b>De Ontknoping:</b> "Ze eindigen het verhaal als [Nieuwe Identiteit/Status]."\n\n
+Voorbeeld: Achtervolgd door de angst om vervangbaar te zijn, gelooft Lumi dat nut de enige munteenheid is die ertoe doet. Wanhopig om bij de elite van de academie te blijven, perfectioneert ze de rol van fixer—zachte stem, vaste handen, waterdichte geheimen. Hoewel ze aanvankelijk gelooft dat ze de groep bij elkaar houdt, verandert alles wanneer één geheim een lijk wordt. Echter, wanneer stilte haar ook dreigt te verteren, realiseert Lumi zich dat de waarheid niet volledig hoeft te zijn om effectief te zijn. Geconfronteerd met de keuze tussen morele zuiverheid en overleving, past ze het narratief aan. Ze eindigt het verhaal nog steeds aanbeden, nog steeds beschermd—niet langer onschuldig, maar eindelijk veilig. </string>
+
+    <string name="helper_character_goal">
+<b>EXTERN VS. INTERN</b>\n
+Het Doel is het <b>fysieke object of resultaat</b> dat het personage najaagt in het plot. Het moet de <b>Cameratest</b> doorstaan: Kun je het moment filmen waarop ze het bereiken?\n\n
+
+<b>FRASERING</b>\n
+Begin met een sterk actief werkwoord:\n
+• <b>Ontsnap</b> (uit een gevangenis)\n
+• <b>Bescherm</b> (een getuige)\n
+• <b>Vernietig</b> (een wapen)\n
+• <b>Vind</b> (een geneesmiddel)\n
+• <b>Win</b> (een wedstrijd)\n
+• <b>Los op</b> (een moord)\n\n
+
+<b>DE FORMULE</b>\n
+\"Om te [Actief werkwoord] + [Doel] + om [Beloning/Inzet] te garanderen.\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>Om het bewijsmateriaal te cureren</b> op de plaats delict en de tijdlijn van de groep aan te passen <b>om ervoor te zorgen</b> dat de politie de dood als een ongeval beschouwt, wat haar veiligheid binnen de elitekring garandeert.
+</string>
+
+    <string name="helper_character_motivation_outer">
+<b>DE DRUK (DE STOK)</b>\n
+Externe druk die aanzet tot actie. Dit is niet wat het personage <i>wil</i> doen—het is wat de wereld <i>eist</i> dat ze doen om rampspoed te voorkomen.\n\n
+
+<b>GEMEENSCHAPPELIJKE DRUK</b>\n
+• <b>Overleving:</b> Dreiging van dood of armoede.\n
+• <b>Plicht:</b> Een baan, een gelofte of een schuld om af te lossen.\n
+• <b>Rivaliteit:</b> Een vijand is in beweging; ze moeten reageren.\n
+• <b>Tikkende klok:</b> Een naderende deadline.\n\n
+
+<b>VRAAG JEZELF AF</b>\n
+• \"Welk vreselijk ding gebeurt er als ze weigeren te handelen?\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>Implicatie en hefboomwerking.</b> Lumi vindt het lichaam en realiseert zich dat ze al betrokken is door associatie. Ze wordt gedwongen te handelen, niet alleen om het schandaal te verbergen, maar omdat ze weet dat als ze dit oplost, de groep haar een levensschuld verschuldigd zal zijn die ze nooit kunnen terugbetalen.
+</string>
+
+    <string name="helper_character_motivation_inner">
+<b>DE HONGER (DE LEEGTE)</b>\n
+Het emotionele tekort onder het doel. Het is het psychologische gat dat ze proberen te vullen.\n\n
+
+<b>KERNBEHOEFTEN (MASLOW)</b>\n
+• <b>Veiligheid:</b> Ophouden met zich bang of kwetsbaar te voelen.\n
+• <b>Verbondenheid:</b> Geliefd of geaccepteerd worden.\n
+• <b>Waardering:</b> Gerespecteerd of machtig zijn.\n
+• <b>Autonomie:</b> Vrij zijn van controle.\n
+• <b>Verlossing:</b> Een fout uit het verleden herstellen.\n\n
+
+<b>VRAAG JEZELF AF</b>\n
+• \"Welke pijn proberen ze te verdoven?\"\n
+• \"Welk gevoel denken ze dat het Doel hen zal geven?\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>Macht (Onmisbaarheid).</b> Achtervolgd door de angst om vervangbaar te zijn, wordt Lumi gemotiveerd door een duistere behoefte om de <i>enige</i> te zijn die de waarheid kent. Ze gelooft dat als ze de geheimen bezit die iedereen zouden kunnen vernietigen, ze eindelijk veilig zal zijn voor verlating.
+</string>
+
+    <string name="helper_character_methodology">
+<b>AANPAK VS. ATTITUDE</b>\n
+• <b>Aanpak:</b> De zichtbare acties, tactieken en gedragingen die worden gebruikt om problemen op te lossen.\n
+• <b>Attitude:</b> De interne mindset, emotionele houding of filosofie.\n\n
+
+<b>DE STIJLEN</b>\n
+• <b>Assertief:</b> De leiding nemen en resultaten afdwingen.\n
+• <b>Responsief:</b> Aanpassen aan de omgeving/anderen.\n
+• <b>Preservatief:</b> Behouden van de status quo of middelen.\n
+• <b>Passief:</b> Toegeven of terugtrekken.\n
+• <b>Dogmatisch:</b> Zich houden aan een strikte code.\n
+• <b>Pragmatisch:</b> Doen wat werkt.\n
+• <b>Voorzichtig:</b> Risicomijdend.\n
+• <b>Riskant:</b> Hoge inzet.\n\n
+
+<b>VOORBEELD</b>\n
+<b>Type: Pragmatische Aanpak en Voorzichtige Attitude</b>\n
+Lumi overleeft door de \"Editor\" (Pragmatisch) te zijn, waarbij ze de waarheid behandelt als een ruwe versie die herschreven moet worden. Haar houding is <b>Voorzichtig</b>: ze creëert nooit een leugen die gemakkelijk kan worden weerlegd. In plaats daarvan past ze de waarheid net genoeg aan om de conclusie te veranderen.
+</string>
+
+    <string name="helper_character_requirement">
+<b>DE VOORWAARDE (DE SLEUTEL)</b>\n
+De essentiële stap, voorwaarde of item dat moet worden verkregen <i>voordat</i> het Doel kan worden bereikt. Als het Doel de gesloten deur is, is de Voorwaarde de sleutel.\n\n
+
+<b>GEMEENSCHAPPELIJKE TYPES</b>\n
+• <b>Verkrijgen:</b> Informatie verzamelen, een kaart, een wapen of een letterlijke sleutel.\n
+• <b>Doen:</b> Reizen naar een specifieke locatie, een kwalificatieronde winnen of een ritueel uitvoeren.\n
+• <b>Leren:</b> Een code ontcijferen, een vaardigheid beheersen of een geheim ontdekken.\n
+• <b>Worden:</b> Een rang verdienen, vertrouwen winnen of iemands aard veranderen.\n\n
+
+<b>VRAAG JEZELF AF</b>\n
+• \"Wat staat hen fysiek in de weg?\"\n
+• \"Wat moeten ze doen om überhaupt een kans te maken op het Doel?\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>Type: Creëren (Het Alibi)</b>\n
+Terwijl Lumi\'s uiteindelijke Doel <b>permanente veiligheid</b> (De Beloning) is, is de verplichte Voorwaarde waaraan ze moet voldoen het <b>construeren van een vlekkeloze tijdlijn</b> voor de nacht van de misdaad. Om te slagen, moet ze <b>een zondebok opofferen</b> (Type: Doen).
+</string>
+
+    <string name="helper_character_consequence">
+<b>DE CONSEQUENTIES (PRIJS VAN VERANDERING)</b>\n
+Wat zijn de blijvende resultaten van het nastreven van dit doel? Denk aan succes en falen.\n\n
+
+<b>OVERWEEG</b>\n
+• <b>Identiteit:</b> Hoe verandert de uitkomst wie ze zijn?\n
+• <b>Relaties:</b> Wie profiteert en wie lijdt?\n
+• <b>Trade-offs:</b> Wat wordt gewonnen, maar wat is voor altijd verloren?\n\n
+
+<b>VRAAG JEZELF AF</b>\n
+• \"Als het verhaal eindigt met dit doel opgelost, wat kan dan nooit meer worden zoals het was?\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>Succes vs. Falen</b>\n
+Als Lumi slaagt (de leugen wordt geloofd), is de consequentie <b>morele corruptie en veiligheid</b>—ze wordt de geheime leider van de groep. Als ze faalt, gaat ze naar de gevangenis. De ultieme consequentie is dat ze het verhaal aanbeden eindigt, maar haar onschuld voor altijd is verloren.
+</string>
+
+    <string name="helper_character_forewarning">
+<b>DE RODE VLAGGEN (SIGNALEN)</b>\n
+Welke waarschuwingen of tekenen verschijnen <i>voordat</i> de consequentie intreedt? Dit zijn de signalen die het personage vaak negeert.\n\n
+
+<b>TYPES</b>\n
+• <b>Intern:</b> Twijfel, schuldgevoel of aarzeling.\n
+• <b>Extern:</b> Voortekenen, vroege tegenslagen of kleine fouten.\n
+• <b>Relationeel:</b> Een vriend die hen waarschuwt, of verraad.\n\n
+
+<b>VRAAG JEZELF AF</b>\n
+• \"Wat vertelt het verhaal stilletjes aan het personage voordat de ramp toeslaat?\"\n\n
+
+<b>VOORBEELD</b>\n
+<b>De afwezigheid van gevoel</b>\n
+De vooraankondiging verschijnt wanneer Lumi naar het lichaam kijkt en <b>eerder ergernis dan afschuw</b> voelt. Dit signaleert dat haar empathie losraakt. Extern complimenteert een vriend haar dat ze \"zo goed kan liegen,\" een ijzingwekkend compliment dat haar ondergang voorspelt.
+</string>
+
+    <string name="helper_character_power_description">
+<b>KERNIDENTITEIT</b>\n
+Wat is de fundamentele aard van de vaardigheid?\n\n
+• Wat stelt het het personage in staat om te doen?\n
+• Is het altijd actief (passief) of moet het worden geactiveerd (actief)?\n
+• Is het magie, technologie, biologisch of op vaardigheden gebaseerd?\n\n
+<b>VOORBEELD</b>\n
+<b>Naam: Het Sociale Construct</b>\n
+Lumi bezit het vermogen om sociale narratieven te deconstrueren en opnieuw op te bouwen. Ze begrijpt dat \"waarheid\" slechts het verhaal is waar mensen het over eens zijn. Het is een cognitieve vaardigheid, aangescherpt door jarenlang mensen tevreden te stellen.
+</string>
+
+    <string name="helper_character_power_capabilities">
+<b>PIEKPRESTATIE</b>\n
+Wat kan deze kracht bereiken op zijn absolute best?\n\n
+• <b>Typisch gebruik:</b> Dagelijkse toepassing (bijv. een zwaard afweren).\n
+• <b>Maximale prestatie:</b> De bovengrens (bijv. een pijl ontwijken).\n
+• <b>Creatief gebruik:</b> Gebruik voor nut in plaats van gevecht.\n\n
+<b>VOORBEELD</b>\n
+<b>Gaslighting en Reframing</b>\n
+Op haar hoogtepunt kan Lumi een kamer vol getuigen ervan overtuigen dat ze niet hebben gezien wat ze dachten te zien. Door de context subtiel te veranderen, kan ze de geschiedenis van een gebeurtenis in real-time herschrijven tot het \"slachtoffer\" de agressor lijkt.
+</string>
+
+    <string name="helper_character_power_limitations">
+<b>DE KOSTEN (NERFING)</b>\n
+Wat voorkomt dat deze kracht elk probleem oplost?\n\n
+• <b>Harde limieten:</b> Cooldowns, resourcekosten (mana/stamina).\n
+• <b>Zwakke punten:</b> Specifieke counters (vuur, koud ijzer).\n
+• <b>Bijkomende schade:</b> Schade aan jezelf of de omgeving.\n\n
+<b>VOORBEELD</b>\n
+<b>Isolatie in menigten</b>\n
+Omdat ze de realiteit voortdurend aanpast, verliest Lumi haar grip op wat werkelijk echt is. Ze kan niemand meer vertrouwen omdat ze weet hoe makkelijk het is om te liegen. Haar kracht isoleert haar.
+</string>
+
+    <string name="helper_character_learning_style">
+<b>COGNITIEVE HIËRARCHIE (BLOOM)</b>\n
+Hoe verwerkt dit personage informatie om problemen op te lossen?\n\n
+
+• <b>Niveau 1: Onthouden</b> (Recall)\n
+Feiten of basisconcepten ophalen.\n\n
+
+• <b>Niveau 2: Begrijpen</b> (Explain)\n
+Ideeën interpreteren en vertalen.\n\n
+
+• <b>Niveau 3: Toepassen</b> (Use)\n
+Kennis gebruiken in nieuwe situaties.\n\n
+
+• <b>Niveau 4: Analyseren</b> (Deconstruct)\n
+Informatie afbreken om relaties en oorzaken te verkennen.\n\n
+
+• <b>Niveau 5: Evalueren</b> (Judge)\n
+Een standpunt of beslissing rechtvaardigen op basis van kritiek.\n\n
+
+• <b>Niveau 6: Creëren</b> (Synthesize)\n
+Nieuwe ideeën of patronen genereren.\n\n
+
+<b>VOORBEELD</b>\n
+<b>Primaire stijl: Niveau 6 (Creëren)</b>\n
+Lumi is verder gegaan dan Analyseren (Niveau 4). Om de groep te redden, moet ze <b>Creëren</b>. Ze synthetiseert ongelijksoortige feiten om een gloednieuwe realiteit te <i>construeren</i> waarin de moord een ongeluk was.
+</string>
+
+    <string name="helper_character_mental_wound">
+<b>HET SPOOK (TRAUMA)</b>\n
+Het bepalende psychologische letsel uit het verleden dat het personage vandaag achtervolgt.\n\n
+<b>VOORBEELDEN</b>\n
+• <b>Verlating:</b> Achtergelaten worden door een ouder.\n
+• <b>Verraad:</b> Een vertrouwde mentor die zich tegen hen keert.\n
+• <b>Schuldgevoel:</b> Falen om iemand te redden.\n\n
+<b>VOORBEELD</b>\n
+<b>Voorwaardelijke liefde</b>\n
+Lumi\'s wond is een kindertijd bepaald door <b>prestaties</b>. Ze leerde al vroeg dat ze alleen geprezen werd als ze perfect of nuttig was. Dit creëerde de overtuiging dat ze geen intrinsieke waarde heeft—ze is alleen "waard" wat ze voor anderen kan "doen".
+</string>
+
+    <string name="helper_character_mental_fear">
+<b>DE NACHTMERRIE</b>\n
+De specifieke angst die uit de wond voortkwam. Dit is waar ze voor weglopen.\n\n
+<b>VOORBEELDEN</b>\n
+• Angst voor intimiteit (omdat het tot verlies leidt).\n
+• Angst voor zwakte (omdat het tot misbruik leidt).\n
+• Angst voor falen (omdat het bewijst dat ze waardeloos zijn).\n\n
+<b>VOORBEELD</b>\n
+<b>Vervangbaarheid</b>\n
+Lumi is doodsbang om <b>afgedankt</b> te worden. Ze is bang voor het moment dat ze niet meer nuttig is en de groep zich tegen haar keert. Dit drijft haar om de bewaarder van hun donkerste geheimen te worden—zodat ze het zich <i>niet kunnen veroorloven</i> om haar kwijt te raken.
+</string>
+
+    <string name="helper_character_triggers">
+<b>DE LANDMIJNEN</b>\n
+Specifieke situaties of woorden die de logica omzeilen en de Wond onmiddellijk activeren.\n\n
+<b>VOORBEELDEN</b>\n
+• Genegeerd worden.\n
+• Iemand zien huilen.\n
+• Verlies van controle.\n\n
+<b>VOORBEELD</b>\n
+<b>Incompetentie en chaos</b>\n
+Lumi wordt getriggerd door <b>slordigheid</b>. Wanneer de anderen in de groep in paniek raken of slordige fouten maken die de leugen bedreigen, knapt ze. Het activeert haar overlevingsinstinct, waardoor ze de totale controle over de situatie overneemt.
+</string>
+
+    <string name="helper_character_stress_response">
+<b>FIGHT, FLIGHT, FREEZE, FAWN</b>\n
+Hoe reageert het personage wanneer getriggerd?\n\n
+• <b>Fight:</b> Agressie, controlerend gedrag.\n
+• <b>Flight:</b> Terugtrekken, isoleren, weglopen.\n
+• <b>Freeze:</b> Gevoelloosheid, dissociatie, besluiteloosheid.\n
+• <b>Fawn:</b> Mensen tevreden stellen, overdreven verontschuldigen.\n\n
+<b>VOORBEELD</b>\n
+<b>Cold Fight (Calculatie)</b>\n
+Lumi\'s reactie verschuift van Fawn naar een koude <b>Fight</b>-respons. In plaats van te schreeuwen, wordt ze griezelig kalm en bevelend. Ze sluit emoties uit om het dode lichaam als een probleem te behandelen dat moet worden opgelost.
+</string>
+
+    <string name="helper_character_mental_lie">
+<b>HET VALSE GELOOF</b>\n
+Een verkeerde regel over hoe de wereld werkt, gecreëerd om de Wond te beschermen.\n\n
+<b>VOORBEELDEN</b>\n
+• \"Ik ben onbeminnelijk.\"\n
+• \"Macht is de enige veiligheid.\"\n
+• \"Iedereen gaat uiteindelijk weg.\"\n\n
+<b>VOORBEELD</b>\n
+<b>\"De waarheid wordt overschat\"</b>\n
+Lumi gelooft: \"<b>Geschiedenis wordt geschreven door de overlevers.</b>\" Deze leugen rechtvaardigt haar manipulatie. Ze overtuigt zichzelf dat het aanpassen van het narratief geen liegen is—het is het beschermen van de mensen van wie ze houdt.
+</string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>DE SCHILDEN</b>\n
+Gedragingen die worden gebruikt om pijn te beheersen. Ze werken op korte termijn maar veroorzaken schade op lange termijn.\n\n
+<b>VOORBEELDEN</b>\n
+• <b>Humor:</b> Ernst afbuigen.\n
+• <b>Controle:</b> Micromanagen om chaos te voorkomen.\n
+• <b>Verslaving:</b> Gevoelens verdoven.\n\n
+<b>VOORBEELD</b>\n
+<b>Compartimentering</b>\n
+Lumi gaat hiermee om door <b>dingen in dozen op te sluiten</b>. Ze scheidt \"Lumi de Vriendin\" van \"Lumi de Fixer.\" Hierdoor kan ze thee drinken met het meisje dat ze erin luist zonder schuldgevoel te voelen.
+</string>
+
+    <string name="helper_character_id_ego_superego">
+<b>DE PSYCHE (FREUD)</b>\n
+Hoe is de geest van het personage verdeeld?\n\n
+• <b>Id (Het Beest):</b> Instinct, verlangen, overleving, agressie.\n
+• <b>Superego (De Rechter):</b> Moraal, schuld, strikte regels, idealen.\n
+• <b>Ego (De Piloot):</b> De beslisser die de twee in evenwicht probeert te houden.\n\n
+<b>VOORBEELD</b>\n
+<b>Ego-corruptie</b>\n
+Lumi\'s <b>Superego</b> (Moraliteit) is zwak. Haar <b>Id</b> (Overleving) is dominant. Haar <b>Ego</b> werkt overuren om de verlangens van het Id te rationaliseren, door haar ervan te overtuigen dat het verdoezelen van een moord eigenlijk een daad van \"loyaliteit\" is.
+</string>
+
+    <string name="helper_character_mask">
+<b>DE PERSONA (PUBLIEK GEZICHT)</b>\n
+Het gezicht dat het personage draagt om hun innerlijke zelf te beschermen. Het is een act.\n\n
+<b>VOORBEELDEN</b>\n
+• De Nar (verbergt verdriet).\n
+• De Stoïcijn (verbergt angst).\n
+• De Professional (verbergt chaos).\n\n
+<b>VOORBEELD</b>\n
+<b>De Onschuldige Bloem</b>\n
+Lumi draagt een masker van <b>fragiele tederheid</b>. Ze spreekt zacht en ziet er altijd behulpzaam uit. Dit masker is haar grootste wapen; niemand vermoedt dat het \"aardige meisje\" in staat is een cover-up te orkestreren.
+</string>
+
+    <string name="helper_character_self">
+<b>HET WARE ZELF (PRIVEGEZICHT)</b>\n
+Wie het personage is als ze alleen zijn in het donker. Dit omvat verborgen schaamte en ware verlangens.\n\n
+<b>VRAAG JEZELF AF</b>\n
+• \"Wat zou hen vernietigen als de wereld dit wist?\"\n\n
+<b>VOORBEELD</b>\n
+<b>De Koude Strateeg</b>\n
+Achter de lieve glimlach is Lumi <b>meedogenloos</b>. Ze houdt een mentale lijst bij van de geheimen van iedereen. Haar ware zelf is geen volger; ze is een poppenspeler die geniet van de macht die ze heeft over de elite.
+</string>
+
+    <string name="helper_character_alignment">
+<b>MOREEL KOMPAS</b>\n
+<b>Lawful ↔ Chaotic:</b> Volgen ze een code of hun impulsen?\n
+<b>Good ↔ Evil:</b> Offeren ze zich op voor anderen of voor zichzelf?\n\n
+<b>VOORBEELD</b>\n
+<b>Lawful Neutral verschuift naar Neutral Evil</b>\n
+Lumi begint als <b>Lawful Neutral</b>. Tegen het einde verschuift ze naar <b>Neutral Evil</b>. Ze gebruikt de regels om zichzelf te beschermen, bereid om het leven van een onschuldig persoon te vernietigen voor haar eigen status.
+</string>
+
+    <string name="helper_character_social_tone">
+<b>SOCIALE VIBE (INTERACTIEF)</b>\n
+Hoe gedragen ze zich in specifieke gesprekken? Dit verandert op basis van wie er in de kamer is.\n\n
+• <b>Met vijanden:</b> Dreigend, stil.\n
+• <b>Met bondgenoten:</b> Gereserveerd, professioneel.\n
+• <b>Met kwetsbare mensen:</b> Onhandig, zachtmoedig.\n\n
+<b>VOORBEELD</b>\n
+<b>Kalmerend en berekenend</b>\n
+Sociaal gezien fungeert Lumi als een balsem. Onder druk wordt haar toon echter <b>klinisch</b>. Ze stelt vragen niet om te helpen, maar om informatie te verzamelen die ze later kan gebruiken.
+</string>
+
+    <string name="helper_character_chronic_tone">
+<b>STANDAARD STEMMING (ATMOSFEER)</b>\n
+Het emotionele \"weer\" dat over het personage hangt wanneer er niets gebeurt.\n\n
+<b>VOORBEELDEN</b>\n
+• Melancholisch\n
+• Energiek\n
+• Angstig\n\n
+<b>VOORBEELD</b>\n
+<b>IJzige kalmte</b>\n
+Lumi\'s chronische toon is <b>ontrustende stilte</b>. Terwijl anderen panikeren, zit zij volkomen stil. Het is de kalmte van iemand die al drie zetten vooruit heeft gedacht.
+</string>
+
+    <string name="helper_character_archetypes">
+<b>MASKER ARCHETYPES</b>\n
+<i>De rol die ze in het openbaar speelt.</i>\n\n
+
+<b>Hervormer</b>: Komt principieel en beheerst over.\n
+<b>Helper</b>: Komt verzorgend en onmisbaar over.\n
+<b>Presteerder</b>: Komt gepolijst en succesvol over.\n
+<b>Individualist</b>: Komt expressief en uniek over.\n
+<b>Onderzoeker</b>: Komt afstandelijk en intellectueel gereserveerd over.\n
+<b>Loyalist</b>: Komt toegewijd en waakzaam over.\n
+<b>Enthousiast</b>: Komt vrolijk en speels over.\n
+<b>Uitdager</b>: Komt dominant en beschermend over.\n
+<b>Vredestichter</b>: Komt kalm en meegaand over.\n\n
+
+<b>VOORBEELD: LUMI</b>\n
+<b>Het Masker: De Helper (Vredestichter)</b>\n
+Lumi is de \"Onschuldige Bloem\". Dit masker beschermt haar tegen argwaan.\n
+<b>Het Zelf: De Onderzoeker (Architect)</b>\n
+Lumi is koud en oordelend. Ze ziet vrienden als \"assets\". Haar ware zelf wordt gedreven door een meedogenloze behoefte aan controle.
+</string>
+
+    <string name="helper_character_relationships">
+<b>RELATIONELE DYNAMIEK</b>\n
+Relaties zijn drukpunten die het personage dwingen om te handelen.\n\n
+
+• <b>Mirroring:</b> Wie weerspiegelt de slechtste eigenschappen van het personage?\n
+• <b>Reinforcement:</b> Wie beloont het personage voor het geloven in hun Leugen?\n
+• <b>Challenge:</b> Wie ziet door het masker heen?\n\n
+
+<b>VOORBEELD: LUMI\'S WEB</b>\n
+• <b>Seraphine:</b> <i>Versterkt de Leugen.</i> Beloont Lumi alleen als ze fouten herstelt.\n
+• <b>Violetta:</b> <i>Bedreigt het Masker.</i> Merkt de gaten in Lumi\'s verhalen op.
+</string>
+</resources>

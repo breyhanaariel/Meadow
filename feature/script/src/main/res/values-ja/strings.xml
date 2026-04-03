@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">脚本</string>
+    <string name="script_list_title">脚本一覧</string>
+    <string name="script_new">新規脚本</string>
+    <string name="script_editor_title">エディタ</string>
+    <string name="script_dialect">方言</string>
+    <string name="script_mode_structure">構成</string>
+    <string name="script_mode_outline">アウトライン</string>
+    <string name="script_mode_catalog_links">カタログリンク</string>
+    <string name="script_mode_comments">コメント</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">書き出し</string>
+    <string name="script_action_more">その他</string>
+    <string name="script_outline">アウトライン</string>
+    <string name="script_no_scripts">脚本がありません</string>
+    <string name="script_create_failed">脚本を作成できませんでした</string>
+    <string name="script_saved">保存済み</string>
+    <string name="script_type_comic">漫画</string>
+    <string name="script_type_novel">小説</string>
+    <string name="script_type_tv">テレビ</string>
+    <string name="script_type_movie">映画</string>
+    <string name="script_type_game">ゲーム</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

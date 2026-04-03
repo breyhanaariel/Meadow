@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Media Player -->
+    <string name="media_play">재생</string>
+    <string name="media_pause">일시정지</string>
+    <string name="media_stop">중지</string>
+    <string name="media_now_playing">재생 중</string>
+    <string name="media_loading">로딩 중</string>
+    <string name="media_no_audio">오디오가 로드되지 않았습니다</string>
+    <string name="media_no_video">비디오가 로드되지 않았습니다</string>
+    <string name="media_error">미디어 오류가 발생했습니다</string>
+
+    <!-- Image Loader -->
+    <string name="media_image_loading">이미지 로딩 중</string>
+    <string name="media_image_failed">이미지 로드 실패</string>
+
+    <!-- Subtitles -->
+    <string name="media_subtitle_unknown">[알 수 없는 자막]</string>
+
+    <!-- Metadata -->
+    <string name="media_no_metadata">메타데이터가 없습니다</string>
+    <string name="media_metadata_title">제목</string>
+    <string name="media_metadata_artist">아티스트</string>
+    <string name="media_metadata_album">앨범</string>
+    <string name="media_metadata_genre">장르</string>
+    <string name="media_metadata_duration">재생 시간</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">เล่น</string>
+    <string name="media_pause">หยุดชั่วคราว</string>
+    <string name="media_stop">หยุด</string>
+    <string name="media_now_playing">กำลังเล่นอยู่</string>
+    <string name="media_loading">กำลังโหลด</string>
+    <string name="media_no_audio">ไม่ได้โหลดเสียง</string>
+    <string name="media_no_video">ไม่ได้โหลดวิดีโอ</string>
+    <string name="media_error">เกิดข้อผิดพลาดของสื่อ</string>
+    <string name="media_image_loading">กำลังโหลดรูปภาพ</string>
+    <string name="media_image_failed">โหลดรูปภาพไม่สำเร็จ</string>
+    <string name="media_subtitle_unknown">[ไม่ทราบคำบรรยาย]</string>
+    <string name="media_no_metadata">ไม่พบข้อมูลเมตา</string>
+    <string name="media_metadata_title">ชื่อเรื่อง</string>
+    <string name="media_metadata_artist">ศิลปิน</string>
+    <string name="media_metadata_album">อัลบั้ม</string>
+    <string name="media_metadata_genre">ประเภท</string>
+    <string name="media_metadata_duration">ระยะเวลา</string>
+</resources>

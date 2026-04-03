@@ -1,0 +1,98 @@
+{
+  "typeKey": "set",
+  "icon": "ic_set",
+  "primaryFieldKey": "set_name",
+  "fields": [
+    {
+      "id": "set.set_name",
+      "owner": "catalog",
+      "key": "set_name",
+      "labelKey": "field_set_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "set.int_ext",
+      "owner": "catalog",
+      "key": "int_ext",
+      "labelKey": "field_set_intext",
+      "kind": "SINGLE_SELECT",
+      "order": 1,
+      "metadata": {
+        "options": [
+          "set_intext_interior",
+          "set_intext_exterior",
+          "set_intext_hybrid"
+        ]
+      }
+    },
+    {
+      "id": "set.type",
+      "owner": "catalog",
+      "key": "type",
+      "labelKey": "field_set_type",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "set_type_soundstage",
+          "set_type_practical_location",
+          "set_type_backlot",
+          "set_type_virtual_production",
+          "set_type_green_screen"
+        ]
+      }
+    },
+    {
+      "id": "set.status",
+      "owner": "catalog",
+      "key": "status",
+      "labelKey": "field_set_status",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": {
+        "options": [
+          "set_status_concept",
+          "set_status_under_construction",
+          "set_status_dressed_ready",
+          "set_status_hot_set",
+          "set_status_struck"
+        ]
+      }
+    },
+    {
+      "id": "set.location_ref",
+      "owner": "catalog",
+      "key": "location_ref",
+      "labelKey": "field_set_location",
+      "kind": "REFERENCE",
+      "order": 4,
+      "metadata": { "targetSchema": "location", "multi": false }
+    },
+    {
+      "id": "set.floor_plan",
+      "owner": "catalog",
+      "key": "floor_plan",
+      "labelKey": "field_set_floorplan",
+      "kind": "IMAGE",
+      "order": 5
+    },
+    {
+      "id": "set.dimensions",
+      "owner": "catalog",
+      "key": "dimensions",
+      "labelKey": "field_set_dimensions",
+      "kind": "TEXT",
+      "order": 6
+    },
+    {
+      "id": "set.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_set_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 7
+    }
+  ]
+}

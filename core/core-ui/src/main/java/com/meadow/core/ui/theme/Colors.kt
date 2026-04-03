@@ -1,0 +1,147 @@
+package com.meadow.core.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+object MeadowBrand {
+
+    val Lavender50 = Color(0xFFFBF7FF)
+    val Lavender100 = Color(0xFFF5EDFF)
+    val Lavender200 = Color(0xFFEAD9FF)
+    val Lavender300 = Color(0xFFD9BFFF)
+    val Lavender400 = Color(0xFFC49CFF)
+    val Lavender500 = Color(0xFFA977F5)
+    val Lavender600 = Color(0xFF8E5FD8)
+    val Lavender700 = Color(0xFF744DB1)
+    val Lavender25 = Color(0xFFFEFCFF)
+    val Lavender75 = Color(0xFFF9F2FF)
+    val Lavender150 = Color(0xFFF0E3FF)
+    val Lavender250 = Color(0xFFE4CEFF)
+    val Lavender350 = Color(0xFFCCA8FF)
+    val Lavender450 = Color(0xFFB985FF)
+    val Lavender550 = Color(0xFF996DE5)
+    val Lavender650 = Color(0xFF7F56C8)
+    val Lavender750 = Color(0xFF6442A3)
+    val Lavender800 = Color(0xFF4F3383)
+    val Lavender225 = Color(0xFFF0E5FF)
+
+
+    val Blush = Color(0xFFFFC6D9)
+    val BlushLight = Color(0xFFFFD5E5)
+    val BlushDark = Color(0xFFF9A7BF)
+    val Blush50 = Color(0xFFFFF2F7)
+    val Blush75 = Color(0xFFFFEAF2)
+    val Blush150 = Color(0xFFFFDDE9)
+    val Blush200 = Color(0xFFFFD0E0)
+    val Blush250 = Color(0xFFFFC1D4)
+    val Blush300 = Color(0xFFFFAECB)
+    val Blush350 = Color(0xFFF998BE)
+    val Blush400 = Color(0xFFF57EB0)
+    val Blush450 = Color(0xFFE8659E)
+    val Blush500 = Color(0xFFDB4F8E)
+    val Blush225 = Color(0xFFFFE3EA)
+
+
+    val Periwinkle = Color(0xFFC8E4FF)
+    val PeriwinkleLight = Color(0xFFE1F0FF)
+    val PeriwinkleDark = Color(0xFFA3C8F5)
+    val Periwinkle50 = Color(0xFFF7FAFF)
+    val Periwinkle75 = Color(0xFFEFF5FF)
+    val Periwinkle150 = Color(0xFFDCEBFF)
+    val Periwinkle200 = Color(0xFFCAE2FF)
+    val Periwinkle250 = Color(0xFFB5D6FA)
+    val Periwinkle300 = Color(0xFFA2C8F0)
+    val Periwinkle350 = Color(0xFF8EBAE6)
+    val Periwinkle400 = Color(0xFF79A7D1)
+    val Periwinkle450 = Color(0xFF5D8FB8)
+    val Periwinkle500 = Color(0xFF4779A0)
+
+    val Periwinkle225 = Color(0xFFE9EEFF)
+    val Mint = Color(0xFFC2F2D0)
+    val MintLight = Color(0xFFD8F9E0)
+    val MintDark = Color(0xFF97E0B5)
+    val Mint50 = Color(0xFFF4FFF8)
+    val Mint75 = Color(0xFFE9FFF2)
+    val Mint150 = Color(0xFFD2F7E2)
+    val Mint200 = Color(0xFFBFF3D2)
+    val Mint250 = Color(0xFFA8EAC3)
+    val Mint300 = Color(0xFF92DEB3)
+    val Mint350 = Color(0xFF7BCFA2)
+    val Mint400 = Color(0xFF63BD8C)
+    val Mint450 = Color(0xFF4CA976)
+    val Mint500 = Color(0xFF3F9163)
+
+    val Peach = Color(0xFFFFD5B8)
+    val PeachLight = Color(0xFFFFE9CC)
+    val PeachDark = Color(0xFFFFC09E)
+    val Peach50 = Color(0xFFFFFAF5)
+    val Peach75 = Color(0xFFFFF4EB)
+    val Peach100 = Color(0xFFFFECDD)
+    val Peach125 = Color(0xFFFFE7D3)
+    val Peach150 = Color(0xFFFFE2C9)
+    val Peach175 = Color(0xFFFFDCC0)
+    val Peach200 = Color(0xFFFFD5B6)
+    val Peach225 = Color(0xFFFFCDAA)
+    val Peach250 = Color(0xFFFFC59D)
+    val Peach300 = Color(0xFFFEBE91)
+    val Peach350 = Color(0xFFF8B684)
+    val Peach400 = Color(0xFFF3A977)
+    val Peach450 = Color(0xFFE89A66)
+    val Peach500 = Color(0xFFD88554)
+    val Peach550 = Color(0xFFCB7345)
+
+    val Cream = Color(0xFFFFF6E5)
+    val CreamLight = Color(0xFFFFF9EF)
+    val CreamDark = Color(0xFFFFEED2)
+    val Cream50 = Color(0xFFFFFCF7)
+    val Cream75 = Color(0xFFFFFAF3)
+    val Cream125 = Color(0xFFFFF7EC)
+    val Cream150 = Color(0xFFFFF3E3)
+    val Cream200 = Color(0xFFFFEED9)
+    val Cream250 = Color(0xFFFFE7C8)
+    val Cream300 = Color(0xFFFFDFB5)
+    val Cream350 = Color(0xFFF7D7A5)
+    val Cream400 = Color(0xFFECCB95)
+    val Cream450 = Color(0xFFE2C187)
+    val SnowWhite = Color(0xFFFFFFFF)
+    val SoftWhite = Color(0xFFFEFBFF)
+    val OrchidWhite = Color(0xFFFEF7FB)
+    val BlushWhite = Color(0xFFFFF8FA)
+    val LavenderWhite = Color(0xFFFDF8FF)
+    val BlueWhite = Color(0xFFF7FBFF)
+    val GreenWhite = Color(0xFFF6FFF9)
+
+    val GoldSoft = Color(0xFFF7E9B0)
+    val GoldSoftDark = Color(0xFFE6C879)
+    val RoseGold = Color(0xFFF6D6C8)
+    val RoseGoldDark = Color(0xFFE8B7A6)
+    val GoldMetallicDark = Color(0xFFC79A2B)
+    val GoldMetallic = Color(0xFFF5D76E)
+
+    val GlowPink = Color(0xFFFFE5EE)
+    val GlowPurple = Color(0xFFEDE1FF)
+    val GlowMint = Color(0xFFE5FFF3)
+    val GlowPeach = Color(0xFFF7E9FF)
+
+    val TextPrimary = Color(0xFF5E4E78)
+    val TextSecondary = Color(0xFF8E7BAF)
+    val TextDark = Color(0xFF3F2E5A)
+    val TextDisabled = Color(0xFFC3B7D9)
+
+    val BackgroundLight = Color(0xFFFFF9FF)
+    val SurfaceLight = Color(0xFFFFFFFF)
+    val SurfaceVariant = Color(0xFFF8F2FF)
+    val Outline = Color(0xFFE3D3F9)
+
+    val Success = Color(0xFFB6E2C8)
+    val Warning = Color(0xFFFFE4B5)
+    val Error = Color(0xFFF9B6C4)
+}
+
+enum class PastelTheme {
+    LAVENDER,
+    BLUSH,
+    PERIWINKLE,
+    MINT,
+    PEACH,
+    CREAM
+}

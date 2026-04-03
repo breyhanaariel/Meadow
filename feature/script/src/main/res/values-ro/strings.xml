@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Scenariu</string>
+    <string name="script_list_title">Scenarii</string>
+    <string name="script_new">Scenariu nou</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialect</string>
+    <string name="script_mode_structure">Structură</string>
+    <string name="script_mode_outline">Schiță (Outline)</string>
+    <string name="script_mode_catalog_links">Linkuri catalog</string>
+    <string name="script_mode_comments">Comentarii</string>
+    <string name="script_action_ai">IA</string>
+    <string name="script_action_export">Exportă</string>
+    <string name="script_action_more">Mai multe</string>
+    <string name="script_outline">Schiță</string>
+    <string name="script_no_scripts">Niciun scenariu încă</string>
+    <string name="script_create_failed">Scenariul nu a putut fi creat</string>
+    <string name="script_saved">Salvat</string>
+    <string name="script_type_comic">Bandă desenată</string>
+    <string name="script_type_novel">Roman</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Joc</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

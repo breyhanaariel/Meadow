@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Roteiro</string>
+    <string name="script_list_title">Roteiros</string>
+    <string name="script_new">Novo Roteiro</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialeto</string>
+    <string name="script_mode_structure">Estrutura</string>
+    <string name="script_mode_outline">Esboço</string>
+    <string name="script_mode_catalog_links">Links do Catálogo</string>
+    <string name="script_mode_comments">Comentários</string>
+    <string name="script_action_ai">IA</string>
+    <string name="script_action_export">Exportar</string>
+    <string name="script_action_more">Mais</string>
+    <string name="script_outline">Esboço</string>
+    <string name="script_no_scripts">Nenhum roteiro ainda</string>
+    <string name="script_create_failed">Não foi possível criar o roteiro</string>
+    <string name="script_saved">Salvo</string>
+    <string name="script_type_comic">HQ</string>
+    <string name="script_type_novel">Romance</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Filme</string>
+    <string name="script_type_game">Jogo</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

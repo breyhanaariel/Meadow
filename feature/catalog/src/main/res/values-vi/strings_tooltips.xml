@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Chỉ định vị trí cha để tạo phân cấp (ví dụ: Thành phố thuộc Quốc gia, Phòng thuộc Tòa nhà).</string>
+    <string name="tooltip_style_voice">Mô tả cấu trúc câu, nhịp điệu, tốc độ và dòng chảy phong cách.</string>
+    <string name="tooltip_style_lexicon">Các quy tắc liên quan đến tiếng lóng, từ viết tắt, từ ngữ tục tĩu, phương ngữ hoặc hạn chế từ vựng.</string>
+    <string name="tooltip_style_do_rules">Những điều giọng văn này nên nhấn mạnh hoặc đưa vào một cách nhất quán.</string>
+    <string name="tooltip_style_avoid_rules">Những điều giọng văn này phải tránh hoặc giảm thiểu.</string>
+    <string name="tooltip_style_formatting">Các quy tắc định dạng suy nghĩ nội tâm, thần giao cách cảm, tin nhắn văn bản hoặc đối thoại đặc biệt.</string>
+</resources>

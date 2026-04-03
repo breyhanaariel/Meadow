@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">पदानुक्रम बनाने के लिए एक मूल स्थान निर्दिष्ट करें (जैसे, एक शहर एक देश के अंतर्गत आता है, एक कमरा एक इमारत के अंतर्गत आता है)।</string>
+    <string name="tooltip_style_voice">वाक्य संरचना, लय, गति और शैलीगत प्रवाह का वर्णन करें।</string>
+    <string name="tooltip_style_lexicon">अपशब्दों, संकुचनों, अपशब्दों, बोली या शब्दावली प्रतिबंधों के संबंध में नियम।</string>
+    <string name="tooltip_style_do_rules">ऐसी चीज़ें जिन्हें इस स्वर में ज़ोर देना चाहिए या लगातार शामिल करना चाहिए।</string>
+    <string name="tooltip_style_avoid_rules">ऐसी चीज़ें जिनसे इस स्वर को बचना चाहिए या कम से कम करना चाहिए।</string>
+    <string name="tooltip_style_formatting">आंतरिक विचारों, टेलीपैथी, टेक्स्ट संदेशों या विशेष संवादों को स्वरूपित करने के नियम।</string>
+</resources>

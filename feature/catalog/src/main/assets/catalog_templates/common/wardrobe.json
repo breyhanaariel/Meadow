@@ -1,0 +1,53 @@
+{
+  "typeKey": "wardrobe",
+  "icon": "ic_wardrobe",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "wardrobe.image",
+      "owner": "catalog",
+      "key": "image",
+      "labelKey": "field_wardrobe_image",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "wardrobe.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_wardrobe_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "wardrobe.appears_in_scene",
+      "owner": "catalog",
+      "key": "appears_in_scene",
+      "labelKey": "field_appears_in_scene",
+      "kind": "RELATION",
+      "order": 2,
+      "metadata": {
+        "relationTypeKey": "scene",
+        "allowMultiple": true
+      }
+    },
+    {
+      "id": "wardrobe.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_wardrobe_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 3,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "wardrobe.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_wardrobe_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 4
+    }
+  ]
+}

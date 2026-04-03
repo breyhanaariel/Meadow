@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Reproduzir</string>
+    <string name="media_pause">Pausar</string>
+    <string name="media_stop">Parar</string>
+    <string name="media_now_playing">Reproduzindo agora</string>
+    <string name="media_loading">Carregando</string>
+    <string name="media_no_audio">Nenhum áudio carregado</string>
+    <string name="media_no_video">Nenhum vídeo carregado</string>
+    <string name="media_error">Ocorreu um erro de mídia</string>
+    <string name="media_image_loading">Carregando imagem</string>
+    <string name="media_image_failed">Falha ao carregar imagem</string>
+    <string name="media_subtitle_unknown">[Legenda desconhecida]</string>
+    <string name="media_no_metadata">Nenhum metadado encontrado</string>
+    <string name="media_metadata_title">Título</string>
+    <string name="media_metadata_artist">Artista</string>
+    <string name="media_metadata_album">Álbum</string>
+    <string name="media_metadata_genre">Gênero</string>
+    <string name="media_metadata_duration">Duração</string>
+</resources>

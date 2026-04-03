@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project">프로젝트</string>
+    <string name="series_and_projects">시리즈 및 프로젝트</string>
+    <string name="action_create_project">프로젝트 만들기</string>
+    <string name="action_edit_project">프로젝트 편집</string>
+    <string name="create_project">프로젝트 만들기</string>
+    <string name="new_project">새 프로젝트</string>
+    <string name="switch_project">프로젝트 전환</string>
+
+    <string name="project_created_success">프로젝트 생성됨</string>
+    <string name="project_created_failed">프로젝트가 생성되지 않음</string>
+    <string name="project_edited_success">프로젝트 업데이트됨</string>
+    <string name="project_edited_failed">프로젝트가 업데이트되지 않음</string>
+    <string name="project_deleted_success">프로젝트 삭제됨</string>
+    <string name="project_deleted_failed">프로젝트가 삭제되지 않음</string>
+
+    <string name="error_project_not_found">프로젝트를 찾을 수 없음</string>
+
+    <string name="field_project_type">프로젝트 유형</string>
+    <string name="field_project_title">제목</string>
+    <string name="field_project_description">설명</string>
+    <string name="field_project_pitch">피치</string>
+    <string name="field_project_premise">전제 (프리미스)</string>
+    <string name="field_project_plot">줄거리</string>
+    <string name="field_project_promise">약속 (프로미스)</string>
+    <string name="field_project_genre">장르</string>
+    <string name="field_project_format">형식</string>
+    <string name="field_project_rating">등급</string>
+    <string name="field_project_status">상태</string>
+    <string name="field_project_audience">타겟층</string>
+    <string name="field_project_elements">요소</string>
+    <string name="field_project_warnings">주의사항</string>
+    <string name="field_history_title">필드 기록</string>
+    <string name="field_appearance">필드 모양</string>
+    <string name="field_project_completed">완료됨</string>
+    <string name="field_project_archived">보관됨</string>
+
+    <string name="projects_title">프로젝트</string>
+    <string name="projects_empty">아직 프로젝트를 만들지 않았습니다.</string>
+    <string name="projects_no_results">검색 또는 필터와 일치하는 프로젝트가 없습니다.</string>
+    <string name="projects_in_series">이 시리즈의 프로젝트</string>
+    <string name="no_projects_found">프로젝트 없음</string>
+
+    <string name="search_projects">프로젝트 검색</string>
+    <string name="search_projects_hint">
+        피치, 전제, 줄거리, 약속, 설명 검색…
+    </string>
+
+    <string name="filters">필터</string>
+    <string name="sort">정렬</string>
+    <string name="visibility">가시성</string>
+    <string name="show_archived">보관된 항목 표시</string>
+    <string name="show_completed">완료된 항목 표시</string>
+
+    <string name="sort_project_count_asc">프로젝트 수 (적은 순)</string>
+    <string name="sort_project_count_desc">프로젝트 수 (많은 순)</string>
+
+    <string name="results_count">%1$d개 결과</string>
+    <string name="try_adjusting_filters">검색 또는 필터를 조정해보세요</string>
+
+    <string name="project_dashboard">프로젝트 대시보드</string>
+    <string name="project_details">프로젝트 세부정보</string>
+    <string name="project_overview">개요</string>
+    <string name="dashboard_overview">개요</string>
+    <string name="dashboard_details">세부정보</string>
+    <string name="dashboard_in_this_series">이 시리즈 포함</string>
+    <string name="project_quick_actions">빠른 작업</string>
+
+    <string name="project_cover">프로젝트 표지</string>
+    <string name="project_cover_placeholder">탭하여 표지 추가</string>
+    <string name="project_no_cover">표지 없음</string>
+    <string name="project_details_placeholder">
+        더 많은 프로젝트 정보가 향후 업데이트에서 여기에 표시됩니다.
+    </string>
+
+    <string name="history">기록</string>
+    <string name="history_title">기록</string>
+    <string name="history_empty">아직 변경 사항이 없습니다.</string>
+    <string name="history_added_value">값 추가됨</string>
+    <string name="history_cleared_value">값 지워짐</string>
+    <string name="history_source_manual">수동 편집</string>
+    <string name="history_source_migration">마이그레이션</string>
+    <string name="history_source_sync">동기화</string>
+    <string name="last_synced">최근 동기화</string>
+    <string name="last_synced_format">최근 동기화: %1$s</string>
+
+    <string name="choose_project">프로젝트 선택</string>
+    <string name="choose_project_type">프로젝트 유형 선택</string>
+
+    <string name="project_type_comic">만화</string>
+    <string name="project_type_novel">소설</string>
+    <string name="project_type_movie">영화</string>
+    <string name="project_type_tv_show">TV 프로그램</string>
+    <string name="project_type_game">게임</string>
+    <string name="project_type_unknown">알 수 없음</string>
+
+    <string name="select_project">프로젝트 선택</string>
+    <string name="backup_projects">프로젝트 백업</string>
+    <string name="sync_project">프로젝트 동기화</string>
+    <string name="sync_all_projects">모두 동기화</string>
+    <string name="sync_now">지금 동기화</string>
+    <string name="sync_in_progress">동기화 중…</string>
+    <string name="restore_from_drive">Drive에서 복원</string>
+    <string name="view_projects">프로젝트 보기</string>
+
+    <string name="edit_project_title">프로젝트 편집</string>
+    <string name="confirm_delete_project">프로젝트를 삭제하시겠습니까?</string>
+    <string name="delete_project_title">프로젝트 삭제</string>
+    <string name="delete_project_message">
+        이 프로젝트를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다.
+    </string>
+
+    <string name="series">시리즈</string>
+    <string name="choose_series">시리즈 선택</string>
+    <string name="select_or_create_series">시리즈 선택 또는 만들기</string>
+
+    <string name="action_add_series">시리즈 추가</string>
+    <string name="action_create_series">시리즈 만들기</string>
+    <string name="create_new_series">새 시리즈 만들기</string>
+
+    <string name="series_create_title">시리즈 만들기</string>
+    <string name="rename_series">시리즈 이름 변경</string>
+    <string name="series_rename_title">시리즈 이름 변경</string>
+
+    <string name="series_title">시리즈 제목</string>
+    <string name="series_name">시리즈 이름</string>
+    <string name="series_name_duplicate">이 이름의 시리즈가 이미 존재합니다</string>
+
+    <string name="series_manage">시리즈 관리</string>
+    <string name="series_metadata">시리즈 메타데이터</string>
+    <string name="series_summary">시리즈 요약</string>
+
+    <string name="series_empty">아직 시리즈가 없습니다</string>
+    <string name="no_series">시리즈 없음</string>
+    <string name="series_no_projects">이 시리즈에 프로젝트가 없습니다</string>
+
+    <string name="series_project_count">%1$d개 프로젝트</string>
+    <string name="series_projects">시리즈 프로젝트</string>
+
+    <string name="add_to_series">시리즈에 추가</string>
+    <string name="remove_from_series">시리즈에서 제거</string>
+    <string name="convert_to_series">시리즈로 변환</string>
+    <string name="revert_to_project">프로젝트로 되돌리기</string>
+
+    <string name="added_to_series_success">프로젝트가 시리즈에 추가됨</string>
+    <string name="added_to_series_failed">프로젝트가 시리즈에 추가되지 않음</string>
+    <string name="remove_from_series_success">프로젝트가 시리즈에서 제거되었습니다.</string>
+    <string name="remove_from_series_failed">프로젝트가 시리즈에서 제거되지 않았습니다.</string>
+    <string name="revert_to_project_success">프로젝트가 독립형 프로젝트로 되돌려졌습니다.</string>
+    <string name="revert_to_project_failed">프로젝트가 독립형 프로젝트로 되돌려지지 않았습니다.</string>
+    <string name="converted_to_series_success">프로젝트가 시리즈로 변환됨</string>
+    <string name="create_series_failed">시리즈가 생성되지 않음</string>
+
+    <string name="action_backup_project_catalog">프로젝트 카탈로그 백업</string>
+    <string name="action_backup_series_catalog">시리즈 카탈로그 백업</string>
+
+    <string name="series_renamed_success">시리즈 이름 변경 성공</string>
+    <string name="series_deleted_success">시리즈 삭제 성공</string>
+
+    <string name="delete_series_title">시리즈 삭제?</string>
+    <string name="confirm_delete_series">시리즈 “%1$s”을(를) 삭제하시겠습니까?</string>
+    <string name="delete_series_message">
+        정말로 시리즈 “%1$s”을(를) 삭제하시겠습니까?
+    </string>
+
+    <string name="series_delete_safety">%1$d개의 프로젝트는 연결이 해제되지만 삭제되지는 않습니다</string>
+    <string name="series_field_scope_series">시리즈 전체</string>
+    <string name="series_field_scope_project">프로젝트 전용</string>
+    <string name="search_series">시리즈 검색</string>
+    <string name="series_shared_field">공유 필드</string>
+    <string name="view_series">시리즈 보기</string>
+    <string name="series_add_projects">프로젝트 추가</string>
+
+    <string name="project_loading">프로젝트 불러오는 중…</string>
+    <string name="project_archived">보관됨</string>
+    <string name="project_completed">완료됨</string>
+    <string name="project_invalid_form">강조 표시된 필드를 수정하세요</string>
+    <string name="project_required_field">이 필드는 필수입니다</string>
+    <string name="project_sync_failed">프로젝트 동기화 실패</string>
+    <string name="project_sync_success">프로젝트 동기화됨</string>
+    <string name="project_no_enabled_features">이 프로젝트에 활성화된 기능이 없습니다</string>
+
+    <string name="group_production">제작</string>
+    <string name="field_project_page_count">페이지 수</string>
+    <string name="field_project_art_style">그림체</string>
+    <string name="art_style_manga">만화</string>
+    <string name="art_style_chibi">SD 캐릭터</string>
+    <string name="art_style_cartoon">카툰</string>
+    <string name="art_style_realistic">사실적</string>
+
+    <string name="group_design">디자인</string>
+    <string name="group_release">출시</string>
+    <string name="field_project_game_genre">게임 장르</string>
+    <string name="field_project_platforms">플랫폼</string>
+    <string name="game_genre_rpg">RPG</string>
+    <string name="game_genre_visual_novel">비주얼 노벨</string>
+    <string name="game_genre_simulation">시뮬레이션</string>
+    <string name="game_genre_strategy">전략</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_android">Android</string>
+    <string name="platform_ios">iOS</string>
+    <string name="platform_console">콘솔</string>
+    <string name="platform_web">웹</string>
+
+    <string name="field_project_runtime_minutes">상영 시간(분)</string>
+    <string name="field_project_budget">예산</string>
+
+    <string name="group_writing">집필</string>
+    <string name="field_project_word_count_target">목표 단어 수</string>
+    <string name="field_project_narrative_pov">서술 시점</string>
+    <string name="narrative_pov_first_person">1인칭</string>
+    <string name="narrative_pov_second_person">2인칭</string>
+    <string name="narrative_pov_third_person_limited">3인칭 제한적</string>
+    <string name="narrative_pov_third_person_omniscient">3인칭 전지적</string>
+
+    <string name="group_structure">구성</string>
+    <string name="field_project_seasons">시즌 수</string>
+    <string name="field_project_episodes_per_season">시즌당 에피소드 수</string>
+
+    <string name="group_classification">분류</string>
+    <string name="audience_adventurer">모험가</string>
+    <string name="audience_dreamer">몽상가</string>
+    <string name="audience_thinker">사색가</string>
+    <string name="audience_believer">신념가</string>
+    <string name="genre_group_adventurer">모험가</string>
+    <string name="genre_group_dreamer">몽상가</string>
+    <string name="genre_group_thinker">사색가</string>
+    <string name="genre_group_believer">신념가</string>
+    <string name="genre_action">액션</string>
+    <string name="genre_action_desc">전투 또는 육탄전</string>
+    <string name="genre_adventure">어드벤처</string>
+    <string name="genre_adventure_desc">대서사적 여행과 발견</string>
+    <string name="genre_cyberpunk">사이버펑크</string>
+    <string name="genre_cyberpunk_desc">과도하게 산업화된 미래 사회</string>
+    <string name="genre_steampunk">스팀펑크</string>
+    <string name="genre_steampunk_desc">증기 기관 기반의 대체 역사</string>
+    <string name="genre_fantasy">판타지</string>
+    <string name="genre_fantasy_desc">현실과 다른 세계</string>
+    <string name="genre_science">SF</string>
+    <string name="genre_science_desc">기술적으로 진보된 세계</string>
+    <string name="genre_horror">공포</string>
+    <string name="genre_horror_desc">공포감을 주기 위해 설계됨</string>
+    <string name="genre_gothic">고딕</string>
+    <string name="genre_gothic_desc">기괴하고 황량하며 숙명적인 분위기</string>
+    <string name="genre_paranormal">파라노말</string>
+    <string name="genre_paranormal_desc">과학적 설명을 넘어선 현상</string>
+    <string name="genre_supernatural">초자연</string>
+    <string name="genre_supernatural_desc">자연 법칙을 넘어선 현상</string>
+    <string name="genre_spiritual">영성</string>
+    <string name="genre_spiritual_desc">영적 믿음 탐구</string>
+    <string name="genre_religious">종교</string>
+    <string name="genre_religious_desc">종교적 교리를 중심으로 함</string>
+    <string name="genre_parody">패러디</string>
+    <string name="genre_parody_desc">해학적 모방</string>
+    <string name="genre_satire">풍자</string>
+    <string name="genre_satire_desc">비판적 유머</string>
+    <string name="genre_mystery">미스터리</string>
+    <string name="genre_mystery_desc">수수께끼 같은 범죄나 상황</string>
+    <string name="genre_romantic_comedy">로맨틱 코미디</string>
+    <string name="genre_romantic_comedy_desc">로맨스를 다룬 코미디</string>
+    <string name="genre_erotic_comedy">에로틱 코미디</string>
+    <string name="genre_erotic_comedy_desc">성을 다룬 코미디</string>
+    <string name="genre_gag">개그</string>
+    <string name="genre_gag_desc">부조리한 유머</string>
+    <string name="genre_comedy">코미디</string>
+    <string name="genre_comedy_desc">현실적인 유머</string>
+    <string name="genre_period_drama">시대극</string>
+    <string name="genre_period_drama_desc">역사적 사실에 근거한 드라마</string>
+    <string name="genre_drama">드라마</string>
+    <string name="genre_drama_desc">인간 관계와 성장</string>
+
+    <string name="elements_group_emotional">감정</string>
+    <string name="elements_group_sexual">성적 요소</string>
+    <string name="elements_group_paraphilia">성도착</string>
+    <string name="elements_angst">앵스트 (Angst)</string>
+    <string name="elements_angst_desc">극도의 감정적 고통 및 갈등</string>
+    <string name="elements_fluff">플러프 (Fluff)</string>
+    <string name="elements_fluff_desc">가볍고 훈훈하며 갈등이 없음</string>
+    <string name="elements_lime">라임</string>
+    <string name="elements_lime_desc">키스 및 노골적이지 않은 성적 관계</string>
+    <string name="elements_lemonade">레모네이드</string>
+    <string name="elements_lemonade_desc">로맨틱한 성관계</string>
+    <string name="elements_lemon">레몬</string>
+    <string name="elements_lemon_desc">노골적인 성관계</string>
+    <string name="elements_grapefruit">자몽</string>
+    <string name="elements_grapefruit_desc">합의되지 않은 성관계</string>
+    <string name="elements_bd">BD</string>
+    <string name="elements_bd_desc">속박 및 지배</string>
+    <string name="elements_sm">SM</string>
+    <string name="elements_sm_desc">사디즘 및 마조히즘</string>
+    <string name="elements_ve">VE</string>
+    <string name="elements_ve_desc">관음 및 노출</string>
+
+    <string name="rating_group_ratings">등급</string>
+    <string name="rating_all">전체 이용가</string>
+    <string name="rating_all_desc">비속어, 폭력, 선정성 또는 성인 테마 없음</string>
+    <string name="rating_preteen">12세 이용가</string>
+    <string name="rating_preteen_desc">10–12세. 경미한 비속어, 폭력, 선정성 및 성인 테마</string>
+    <string name="rating_tween">15세 이용가</string>
+    <string name="rating_tween_desc">13–15세. 약한 비속어, 폭력, 선정성 및 성인 테마</string>
+    <string name="rating_teen">청소년 관람불가(준)</string>
+    <string name="rating_teen_desc">16–17세. 중간 정도의 비속어, 폭력, 선정성 및 성인 테마</string>
+    <string name="rating_adult">성인</string>
+    <string name="rating_adult_desc">18세 이상. 노골적인 비속어, 폭력, 선정성 및 성인 테마</string>
+
+    <string name="warnings_group_all">전체 이용가</string>
+    <string name="warnings_group_preteen">12세 이용가</string>
+    <string name="warnings_group_tween">15세 이용가</string>
+    <string name="warnings_group_teen">청소년 관람불가(준)</string>
+    <string name="warnings_group_adult">성인</string>
+    <string name="warning_cartoon_violence">만화적 폭력</string>
+    <string name="warning_cartoon_violence_desc">현실적인 부상 없는 양식화되거나 과장된 폭력</string>
+    <string name="warning_potty_humor">화장실 유머</string>
+    <string name="warning_potty_humor_desc">화장실 관련 농담 또는 유머</string>
+    <string name="warning_slapstick_humor">슬랩스틱 유머</string>
+    <string name="warning_slapstick_humor_desc">과장된 실수를 포함하는 몸개그</string>
+    <string name="warning_minor_aggression">경미한 공격성</string>
+    <string name="warning_minor_aggression_desc">부상 없는 짧거나 가벼운 적대적 행동</string>
+    <string name="warning_fantasy_violence">판타지 폭력</string>
+    <string name="warning_fantasy_violence_desc">판타지 설정에서의 비현실적인 폭력</string>
+    <string name="warning_mild_aggression">약한 공격성</string>
+    <string name="warning_mild_aggression_desc">노골적이지 않은 대립 또는 위협</string>
+    <string name="warning_minor_violence">경미한 폭력</string>
+    <string name="warning_minor_violence_desc">짧고 노골적이지 않은 신체적 충돌</string>
+    <string name="warning_mild_gore">약한 유혈</string>
+    <string name="warning_mild_gore_desc">세부 묘사 없는 매우 제한적인 부상 표현</string>
+    <string name="warning_crude_humor">저속한 유머</string>
+    <string name="warning_crude_humor_desc">신체 기능이나 선정적인 주제를 포함한 농담</string>
+    <string name="warning_mild_language">약한 비속어</string>
+    <string name="warning_mild_language_desc">약한 욕설의 드문 사용</string>
+    <string name="warning_mild_fanservice">약한 팬서비스</string>
+    <string name="warning_mild_fanservice_desc">노골적인 의도 없는 선정적인 비주얼</string>
+    <string name="warning_mild_sexual_innuendo">약한 성적 암시</string>
+    <string name="warning_mild_sexual_innuendo_desc">간접적이거나 암시적인 성적 언급</string>
+    <string name="warning_tobacco_reference">담배 언급</string>
+    <string name="warning_tobacco_reference_desc">사용 묘사 없는 담배에 대한 언급</string>
+    <string name="warning_alcohol_reference">알코올 언급</string>
+    <string name="warning_alcohol_reference_desc">사용 묘사 없는 알코올에 대한 언급</string>
+    <string name="warning_drug_reference">약물 언급</string>
+    <string name="warning_drug_reference_desc">사용 묘사 없는 약물에 대한 언급</string>
+    <string name="warning_occultism">오컬트</string>
+    <string name="warning_occultism_desc">마법, 의식 또는 오컬트 신념과 관련된 주제</string>
+    <string name="warning_moderate_aggression">중간 수준의 공격성</string>
+    <string name="warning_moderate_aggression_desc">지속적이거나 강렬한 적대적 행동</string>
+    <string name="warning_moderate_violence">중간 수준의 폭력</string>
+    <string name="warning_moderate_violence_desc">눈에 띄는 충격이 있는 명확한 신체적 충돌</string>
+    <string name="warning_moderate_gore">중간 수준의 유혈</string>
+    <string name="warning_moderate_gore_desc">극단적인 세부 묘사 없는 눈에 띄는 부상 또는 피</string>
+    <string name="warning_sexual_humor">성적 유머</string>
+    <string name="warning_sexual_humor_desc">성적인 것을 언급하는 농담 또는 상황</string>
+    <string name="warning_moderate_language">중간 수준의 비속어</string>
+    <string name="warning_moderate_language_desc">강한 욕설의 빈번한 사용</string>
+    <string name="warning_nonsexual_nudity">비성적 노출</string>
+    <string name="warning_nonsexual_nudity_desc">성적 맥락 없이 제시되는 노출</string>
+    <string name="warning_moderate_fanservice">중간 수준의 팬서비스</string>
+    <string name="warning_moderate_fanservice_desc">매력을 끌기 위한 성적으로 선정적인 비주얼</string>
+    <string name="warning_moderate_sexual_innuendo">중간 수준의 성적 암시</string>
+    <string name="warning_moderate_sexual_innuendo_desc">명확하게 암시된 성적 의미</string>
+    <string name="warning_moderate_sexual_language">중간 수준의 성적 언어</string>
+    <string name="warning_moderate_sexual_language_desc">노골적인 세부 묘사 없는 직접적인 성적 용어</string>
+    <string name="warning_moderate_sexual_violence">중간 수준의 성폭력</string>
+    <string name="warning_moderate_sexual_violence_desc">노골적인 묘사 없이 언급되는 성폭력</string>
+    <string name="warning_pornography_reference">포르노 언급</string>
+    <string name="warning_pornography_reference_desc">포르노물에 대한 언급</string>
+    <string name="warning_tobacco_use">담배 사용</string>
+    <string name="warning_tobacco_use_desc">흡연 또는 담배 소비 묘사</string>
+    <string name="warning_alcohol_use">알코올 사용</string>
+    <string name="warning_alcohol_use_desc">알코올 소비 묘사</string>
+    <string name="warning_drug_use">약물 사용</string>
+    <string name="warning_drug_use_desc">약물 소비 묘사</string>
+    <string name="warning_explicit_aggression">노골적인 공격성</string>
+    <string name="warning_explicit_aggression_desc">극단적이거나 지속적인 폭력적 적개심</string>
+    <string name="warning_explicit_violence">노골적인 폭력</string>
+    <string name="warning_explicit_violence_desc">신체적 상해의 생생한 묘사</string>
+    <string name="warning_explicit_gore">노골적인 유혈</string>
+    <string name="warning_explicit_gore_desc">피, 부상 또는 절단의 상세한 묘사</string>
+    <string name="warning_sexual_themes">성적 주제</string>
+    <string name="warning_sexual_themes_desc">서사의 중심이 되는 성적 콘텐츠</string>
+    <string name="warning_explicit_language">노골적인 비속어</string>
+    <string name="warning_explicit_language_desc">빈번하고 극단적인 욕설</string>
+    <string name="warning_full_nudity">전신 노출</string>
+    <string name="warning_full_nudity_desc">화면에 표시되는 완전한 노출</string>
+    <string name="warning_explicit_sexual_innuendo">노골적인 성적 암시</string>
+    <string name="warning_explicit_sexual_innuendo_desc">강하게 암시된 성적 의미</string>
+    <string name="warning_explicit_sexual_language">노골적인 성적 언어</string>
+    <string name="warning_explicit_sexual_language_desc">생생한 성적 용어</string>
+    <string name="warning_explicit_sexual_violence">노골적인 성폭력</string>
+    <string name="warning_explicit_sexual_violence_desc">성폭력의 생생한 묘사</string>
+    <string name="format_group_timeline">타임라인</string>
+    <string name="format_group_structure">구조</string>
+    <string name="format_prequel">프리퀄</string>
+    <string name="format_prequel_desc">다른 이야기 이전에 발생</string>
+    <string name="format_inquel">인퀄</string>
+    <string name="format_inquel_desc">다른 이야기의 공백 기간 동안 발생</string>
+    <string name="format_paraquel">파라퀄</string>
+    <string name="format_paraquel_desc">다른 이야기와 동시에 발생</string>
+    <string name="format_interquel">인터퀄</string>
+    <string name="format_interquel_desc">한 이야기의 속편이자 다른 이야기의 전편</string>
+    <string name="format_circumquel">서컴퀄</string>
+    <string name="format_circumquel_desc">다른 이야기의 전후에 걸쳐 발생</string>
+    <string name="format_sequel">시퀄</string>
+    <string name="format_sequel_desc">다른 이야기 이후에 발생</string>
+    <string name="format_serial">연재물</string>
+    <string name="format_serial_desc">하나의 더 큰 서사 내의 이야기 그룹</string>
+    <string name="format_oneshot">단편 (원샷)</string>
+    <string name="format_oneshot_desc">공유된 세계관 내의 독립된 이야기</string>
+    <string name="format_omake">오마케</string>
+    <string name="format_omake_desc">비공식 보너스 자료 또는 제4의 벽 파괴</string>
+
+    <string name="group_progress">진행 상황</string>
+    <string name="status_draft">초안</string>
+    <string name="status_revising">수정 중</string>
+    <string name="status_complete">완료</string>
+    <string name="status_paused">일시 중지</string>
+    <string name="status_shelved">보류됨</string>
+    <string name="status_draft_desc">초기 기획 또는 집필 초기 단계</string>
+    <string name="status_revising_desc">적극적으로 편집 또는 재작성 중</string>
+    <string name="status_complete_desc">완성 및 확정됨</string>
+    <string name="status_paused_desc">일시적으로 대기 중</string>
+    <string name="status_shelved_desc">무기한 보류됨</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Bir hiyerarşi oluşturmak için bir üst konum atayın (örneğin, bir Şehir bir Ülkeye, bir Oda bir Binaya aittir).</string>
+    <string name="tooltip_style_voice">Cümle yapısını, ritmi, tempoyu ve üslup akışını açıklayın.</string>
+    <string name="tooltip_style_lexicon">Argonun kullanımı, kısaltmalar, küfür, lehçe veya kelime sınırlamalarıyla ilgili kurallar.</string>
+    <string name="tooltip_style_do_rules">Bu üslubun vurgulaması veya tutarlı bir şekilde içermesi gereken şeyler.</string>
+    <string name="tooltip_style_avoid_rules">Bu üslubun kaçınması veya en aza indirmesi gereken şeyler.</string>
+    <string name="tooltip_style_formatting">İçsel düşünceler, telepati, kısa mesajlar veya özel diyaloglar için biçimlendirme kuralları.</string>
+</resources>

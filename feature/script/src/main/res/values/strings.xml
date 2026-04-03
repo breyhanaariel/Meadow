@@ -1,0 +1,27 @@
+<resources>
+    <string name="feature_script">Script</string>
+    <string name="script_list_title">Scripts</string>
+    <string name="script_new">New Script</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialect</string>
+    <string name="script_mode_structure">Structure</string>
+    <string name="script_mode_outline">Outline</string>
+    <string name="script_mode_catalog_links">Catalog Links</string>
+    <string name="script_mode_comments">Comments</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Export</string>
+    <string name="script_action_more">More</string>
+    <string name="script_outline">Outline</string>
+    <string name="script_no_scripts">No scripts yet</string>
+    <string name="script_create_failed">Could not create script</string>
+    <string name="script_saved">Saved</string>
+
+    <string name="script_type_comic">Comic</string>
+    <string name="script_type_novel">Novel</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Movie</string>
+    <string name="script_type_game">Game</string>
+
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

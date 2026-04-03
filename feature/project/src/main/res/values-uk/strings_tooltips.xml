@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Короткий огляд проєкту.</string>
+    <string name="tooltip_project_pitch">Одне речення, покликане швидко продати ідею.</string>
+    <string name="tooltip_project_premise">Основне «що, якби?», яке рухає сюжет.</string>
+    <string name="tooltip_project_promise">Якого досвіду може очікувати глядач (тон, тема, емоційна віддача).</string>
+    <string name="tooltip_project_plot">Загальний план основних подій сюжету. Без дрібних деталей.</string>
+</resources>

@@ -1,0 +1,53 @@
+{
+  "typeKey": "prop",
+  "icon": "ic_prop",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "prop.image",
+      "owner": "catalog",
+      "key": "image",
+      "labelKey": "field_prop_image",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "prop.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_prop_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "prop.appears_in_scene",
+      "owner": "catalog",
+      "key": "appears_in_scene",
+      "labelKey": "field_appears_in_scene",
+      "kind": "RELATION",
+      "order": 2,
+      "metadata": {
+        "relationTypeKey": "scene",
+        "allowMultiple": true
+      }
+    },
+    {
+      "id": "prop.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_prop_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 3,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "prop.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_prop_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 4
+    }
+  ]
+}

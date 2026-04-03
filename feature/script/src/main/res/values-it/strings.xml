@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Sceneggiatura</string>
+    <string name="script_list_title">Sceneggiature</string>
+    <string name="script_new">Nuova sceneggiatura</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialetto</string>
+    <string name="script_mode_structure">Struttura</string>
+    <string name="script_mode_outline">Schema</string>
+    <string name="script_mode_catalog_links">Link catalogo</string>
+    <string name="script_mode_comments">Commenti</string>
+    <string name="script_action_ai">IA</string>
+    <string name="script_action_export">Esporta</string>
+    <string name="script_action_more">Altro</string>
+    <string name="script_outline">Schema</string>
+    <string name="script_no_scripts">Ancora nessuna sceneggiatura</string>
+    <string name="script_create_failed">Impossibile creare la sceneggiatura</string>
+    <string name="script_saved">Salvato</string>
+    <string name="script_type_comic">Fumetto</string>
+    <string name="script_type_novel">Romanzo</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Gioco</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

@@ -1,0 +1,20 @@
+package com.meadow.feature.script.domain.parser
+
+enum class BlockKind {
+    FOUNTAIN_SCENE_HEADING,
+    FOUNTAIN_ACTION,
+    FOUNTAIN_DIALOGUE,
+    FOUNTAIN_CHARACTER,
+    FOUNTAIN_SECTION,
+    FOUNTAIN_SYNOPSIS,
+    FOUNTAIN_METADATA,
+    RENPY_LABEL,
+    RENPY_MENU,
+    RENPY_JUMP,
+    RENPY_CALL,
+    RENPY_SCENE,
+    RENPY_SHOW,
+    RENPY_DIALOGUE,
+    RENPY_NARRATION,
+    RAW
+}

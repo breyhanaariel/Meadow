@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Minimal XML wrapper theme for Compose apps -->
+    <style name="Theme.Meadow.Main" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- Minimal splash theme -->
+    <style name="Theme.Meadow.Starting" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/bg_splash</item> <!-- Your actual splash -->
+        <item name="postSplashScreenTheme">@style/Theme.Meadow.Main</item>
+    </style>
+
+</resources>

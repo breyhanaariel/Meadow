@@ -1,0 +1,103 @@
+{
+  "typeKey": "style_guide",
+  "icon": "ic_style",
+  "primaryFieldKey": "guide_title",
+  "fields": [
+    {
+      "id": "style_guide.guide_title",
+      "owner": "catalog",
+      "key": "guide_title",
+      "labelKey": "field_style_guide_title",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "key": "applies_to",
+      "labelKey": "field_style_applies_to",
+      "kind": "REFERENCE",
+      "order": 1,
+      "metadata": {
+        "targetSchema": ["script"],
+        "multi": false
+      }
+    },
+    {
+      "id": "style_guide.pov_character",
+      "owner": "catalog",
+      "key": "pov_character",
+      "labelKey": "field_style_pov_character",
+      "kind": "REFERENCE",
+      "order": 2,
+      "metadata": { "targetSchema": "character", "multi": true }
+    },
+    {
+      "id": "style_guide.perspective_type",
+      "owner": "catalog",
+      "key": "perspective_type",
+      "labelKey": "field_style_perspective",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": { "options": ["style_pov_first", "style_pov_second", "style_pov_third_limited", "style_pov_third_omniscient", "style_pov_cinematic"] }
+    },
+    {
+      "id": "style_guide.tense",
+      "owner": "catalog",
+      "key": "tense",
+      "labelKey": "field_style_tense",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": { "options": ["style_tense_past", "style_tense_present", "style_tense_future"] }
+    },
+    {
+      "id": "style_guide.tone_keywords",
+      "owner": "catalog",
+      "key": "tone_keywords",
+      "labelKey": "field_style_tone",
+      "kind": "TEXT",
+      "order": 5,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "style_guide.voice_description",
+      "owner": "catalog",
+      "key": "voice_description",
+      "labelKey": "field_style_voice",
+      "kind": "MULTILINE_TEXT",
+      "order": 6,
+      "metadata": { "aiContext": true, "tooltipKey": "tooltip_style_voice" }
+    },
+    {
+      "id": "style_guide.lexicon_vocabulary",
+      "owner": "catalog",
+      "key": "lexicon_vocabulary",
+      "labelKey": "field_style_lexicon",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true, "tooltipKey": "tooltip_style_lexicon"}
+    },
+    {
+      "id": "style_guide.do_rules",
+      "key": "do_rules",
+      "labelKey": "field_style_do_rules",
+      "kind": "MULTILINE_TEXT",
+      "metadata": { "aiContext": true, "tooltipKey": "tooltip_style_do_rules" }
+    },
+    {
+      "id": "style_guide.avoid_rules",
+      "key": "avoid_rules",
+      "labelKey": "field_style_avoid_rules",
+      "kind": "MULTILINE_TEXT",
+      "metadata": { "aiContext": true, "tooltipKey": "tooltip_style_avoid_rules" }
+    },
+    {
+      "id": "style_guide.formatting_rules",
+      "owner": "catalog",
+      "key": "formatting_rules",
+      "labelKey": "field_style_formatting",
+      "kind": "MULTILINE_TEXT",
+      "order": 8,
+      "metadata": {"aiContext": true, "tooltipKey": "tooltip_style_formatting" }
+    }
+  ]
+}

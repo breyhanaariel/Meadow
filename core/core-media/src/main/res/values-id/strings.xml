@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Putar</string>
+    <string name="media_pause">Jeda</string>
+    <string name="media_stop">Berhenti</string>
+    <string name="media_now_playing">Sedang Diputar</string>
+    <string name="media_loading">Memuat</string>
+    <string name="media_no_audio">Tidak ada audio yang dimuat</string>
+    <string name="media_no_video">Tidak ada video yang dimuat</string>
+    <string name="media_error">Terjadi kesalahan media</string>
+    <string name="media_image_loading">Memuat gambar</string>
+    <string name="media_image_failed">Gagal memuat gambar</string>
+    <string name="media_subtitle_unknown">[Subtitle tidak dikenal]</string>
+    <string name="media_no_metadata">Metadata tidak ditemukan</string>
+    <string name="media_metadata_title">Judul</string>
+    <string name="media_metadata_artist">Artis</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Genre</string>
+    <string name="media_metadata_duration">Durasi</string>
+</resources>

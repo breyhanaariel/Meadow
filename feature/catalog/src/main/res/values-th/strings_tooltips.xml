@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">กำหนดสถานที่หลักเพื่อสร้างลำดับชั้น (เช่น เมืองเป็นส่วนหนึ่งของประเทศ ห้องเป็นส่วนหนึ่งของอาคาร)</string>
+    <string name="tooltip_style_voice">อธิบายโครงสร้างประโยค จังหวะ ความเร็ว และการไหลลื่นของสำนวน</string>
+    <string name="tooltip_style_lexicon">กฎเกณฑ์เกี่ยวกับคำแสลง คำย่อ คำหยาบคาย ภาษาถิ่น หรือข้อจำกัดด้านคลังคำ</string>
+    <string name="tooltip_style_do_rules">สิ่งที่น้ำเสียงนี้ควรเน้นย้ำหรือรวมไว้อย่างสม่ำเสมอ</string>
+    <string name="tooltip_style_avoid_rules">สิ่งที่น้ำเสียงนี้ต้องหลีกเลี่ยงหรือลดให้เหลือน้อยที่สุด</string>
+    <string name="tooltip_style_formatting">กฎเกณฑ์สำหรับการจัดรูปแบบความคิดภายใน พลังจิต ข้อความตัวอักษร หรือบทสนทนาพิเศษ</string>
+</resources>

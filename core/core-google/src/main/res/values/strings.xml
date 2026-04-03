@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE CONFIG (NON-TRANSLATABLE) -->
+    <!-- ================================================== -->
+    <string name="google_web_client_id" translatable="false">
+        YOUR_WEB_CLIENT_ID.apps.googleusercontent.com
+    </string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE SETTINGS -->
+    <!-- ================================================== -->
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Connect Google account</string>
+    <string name="google_account_connected">Google account connected</string>
+    <string name="google_account_disconnected">Disconnect Google account</string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE AUTH / ACCOUNT -->
+    <!-- ================================================== -->
+    <string name="google_auth_signing_in">Signing in…</string>
+    <string name="google_auth_sign_in_failed">Sign-in failed</string>
+    <string name="google_auth_signed_out">Signed out</string>
+    <string name="google_auth_permission_required">Google permission required</string>
+    <string name="google_auth_retry">Try again</string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE DRIVE -->
+    <!-- ================================================== -->
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Connecting to Google Drive…</string>
+    <string name="google_drive_connected">Connected to Google Drive</string>
+    <string name="google_drive_syncing">Syncing with Google Drive…</string>
+    <string name="google_drive_sync_complete">Drive sync complete</string>
+    <string name="google_drive_sync_failed">Drive sync failed</string>
+    <string name="google_drive_permission_denied">Drive access denied</string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE SHEETS -->
+    <!-- ================================================== -->
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Connecting to Google Sheets…</string>
+    <string name="google_sheets_connected">Connected to Google Sheets</string>
+    <string name="google_sheets_exporting">Exporting to Google Sheets…</string>
+    <string name="google_sheets_export_complete">Export complete</string>
+    <string name="google_sheets_export_failed">Export failed</string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE CALENDAR -->
+    <!-- ================================================== -->
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Connecting to Google Calendar…</string>
+    <string name="google_calendar_connected">Connected to Google Calendar</string>
+    <string name="google_calendar_syncing">Syncing calendar…</string>
+    <string name="google_calendar_sync_failed">Calendar sync failed</string>
+    <string name="google_calendar_permission_denied">Calendar access denied</string>
+
+    <!-- ================================================== -->
+    <!-- GOOGLE DOCS -->
+    <!-- ================================================== -->
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Connecting to Google Docs…</string>
+    <string name="google_docs_connected">Connected to Google Docs</string>
+    <string name="google_docs_exporting">Exporting to Google Docs…</string>
+    <string name="google_docs_export_failed">Export failed</string>
+
+    <!-- ================================================== -->
+    <!-- GEMINI / GOOGLE AI -->
+    <!-- ================================================== -->
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Connecting to Gemini…</string>
+    <string name="google_gemini_connected">Connected to Gemini</string>
+    <string name="google_gemini_requesting">Generating response…</string>
+    <string name="google_gemini_failed">Gemini request failed</string>
+    <string name="google_gemini_rate_limited">Too many requests. Please wait.</string>
+
+</resources>

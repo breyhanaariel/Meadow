@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Generate</string>
+    <string name="ai_mode_improve">Improve</string>
+    <string name="ai_mode_rewrite">Rewrite</string>
+    <string name="ai_mode_expand">Expand</string>
+    <string name="ai_mode_shorten">Shorten</string>
+    <string name="ai_action_manage_context">Manage context</string>
+    <string name="ai_action_open_chats">Open chats</string>
+    <string name="ai_choose_action">Choose an action</string>
+    <string name="ai_for_field">AI for: %1$s</string>
+    <string name="ai_picker_generate_title">Generate: Select fields</string>
+    <string name="ai_picker_improve_title">Improve: Select fields</string>
+    <string name="ai_picker_rewrite_title">Rewrite: Select fields</string>
+    <string name="ai_no_fields_available">No AI-enabled fields available.</string>
+    <string name="ai_preview_title">AI Change Preview</string>
+    <string name="ai_preview_scope">Scope: %1$s</string>
+    <string name="ai_preview_count">Changes: %1$d</string>
+    <string name="ai_preview_before">Before:</string>
+    <string name="ai_preview_after">After:</string>
+    <string name="ai_optional_note">Optional note (not sent)</string>
+    <string name="ai_applied">AI changes applied</string>
+    <string name="ai_failed_generic">AI failed</string>
+    <string name="ai_preview_empty">(empty)</string>
+    <string name="ai_context_title">AI Context</string>
+    <string name="ai_context_add">Add context</string>
+    <string name="ai_context_pinned">Pinned (always include)</string>
+    <string name="ai_context_title_label">Title</string>
+    <string name="ai_context_body_label">Context</string>
+    <string name="ai_context_edit">Edit context</string>
+    <string name="ai_context_delete">Delete context</string>
+    <string name="ai_select_field">Select a field</string>
+</resources>

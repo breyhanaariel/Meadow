@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Asigna una ubicación superior para crear una jerarquía (p. ej., una ciudad pertenece a un país, una habitación pertenece a un edificio).</string>
+    <string name="tooltip_style_voice">Describe la estructura de las oraciones, el ritmo, la cadencia y el flujo estilístico.</string>
+    <string name="tooltip_style_lexicon">Reglas sobre jerga, contracciones, blasfemias, dialectos o restricciones de vocabulario.</string>
+    <string name="tooltip_style_do_rules">Cosas que esta voz debe enfatizar o incluir consistentemente.</string>
+    <string name="tooltip_style_avoid_rules">Cosas que esta voz debe evitar o minimizar.</string>
+    <string name="tooltip_style_formatting">Reglas para formatear pensamientos internos, telepatía, mensajes de texto o diálogos especiales.</string>
+</resources>

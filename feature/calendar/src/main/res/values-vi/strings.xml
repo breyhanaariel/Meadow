@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Lịch</string>
+    <string name="calendar">Lịch</string>
+    <string name="action_sync_now">Đồng bộ hóa ngay</string>
+    <string name="action_today">Hôm nay</string>
+    <string name="view_month">Tháng</string>
+    <string name="view_week">Tuần</string>
+    <string name="view_agenda">Lịch trình</string>
+    <string name="filter_all">Tất cả</string>
+    <string name="filter_global">Toàn cầu</string>
+    <string name="filter_series">Chuỗi</string>
+    <string name="filter_projects">Dự án</string>
+    <string name="filter_this_project">Dự án này</string>
+    <string name="label_color">Màu sắc</string>
+    <string name="label_recurrence">Lặp lại</string>
+    <string name="label_reminder">Nhắc nhở</string>
+    <string name="recurrence_none">Không lặp lại</string>
+    <string name="recurrence_daily">Hàng ngày</string>
+    <string name="recurrence_weekly">Hàng tuần</string>
+    <string name="recurrence_monthly">Hàng tháng</string>
+    <string name="reminder_none">Không nhắc nhở</string>
+    <string name="reminder_10">10 phút trước</string>
+    <string name="reminder_30">30 phút trước</string>
+    <string name="reminder_60">1 giờ trước</string>
+    <string name="delete_event_title">Xóa sự kiện?</string>
+    <string name="delete_event_message">Thao tác này sẽ xóa vĩnh viễn %1$s. Không thể hoàn tác hành động này.</string>
+    <string name="no_events">Chưa có sự kiện nào</string>
+    <string name="add_event">Thêm sự kiện</string>
+    <string name="delete_event">Xóa sự kiện</string>
+    <string name="edit_event">Sửa sự kiện</string>
+    <string name="month">Tháng</string>
+    <string name="week">Tuần</string>
+    <string name="agenda">Lịch trình</string>
+    <string name="all_day">Cả ngày</string>
+    <string name="new_event">Sự kiện mới</string>
+    <string name="search_month_or_year">Tìm tháng hoặc năm</string>
+    <string name="upcoming_event">Sắp tới</string>
+    <string name="past_event">Đã qua</string>
+</resources>

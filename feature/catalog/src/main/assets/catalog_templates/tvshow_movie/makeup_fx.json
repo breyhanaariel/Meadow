@@ -1,0 +1,93 @@
+{
+  "typeKey": "makeup_fx",
+  "icon": "ic_makeupfx",
+  "primaryFieldKey": "effect_name",
+  "fields": [
+    {
+      "id": "makeup_fx.effect_name",
+      "owner": "catalog",
+      "key": "effect_name",
+      "labelKey": "field_makeupfx_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "makeup_fx.category",
+      "owner": "catalog",
+      "key": "category",
+      "labelKey": "field_makeupfx_category",
+      "kind": "SINGLE_SELECT",
+      "order": 1,
+      "metadata": {
+        "options": [
+          "makeupfx_category_beauty_corrective",
+          "makeupfx_category_old_age",
+          "makeupfx_category_wound_gore",
+          "makeupfx_category_prosthetic_creature",
+          "makeupfx_category_tattoo_body_art",
+          "makeupfx_category_dirt_grime"
+        ]
+      }
+    },
+    {
+      "id": "makeup_fx.body_location",
+      "owner": "catalog",
+      "key": "body_location",
+      "labelKey": "field_makeupfx_location",
+      "kind": "MULTI_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "makeupfx_location_face",
+          "makeupfx_location_neck",
+          "makeupfx_location_hands_arms",
+          "makeupfx_location_torso",
+          "makeupfx_location_legs_feet",
+          "makeupfx_location_full_body"
+        ]
+      }
+    },
+    {
+      "id": "makeup_fx.applied_to",
+      "owner": "catalog",
+      "key": "applied_to",
+      "labelKey": "field_makeupfx_applied_to",
+      "kind": "REFERENCE",
+      "order": 3,
+      "metadata": { "targetSchema": "character", "multi": true }
+    },
+    {
+      "id": "makeup_fx.reference_image",
+      "owner": "catalog",
+      "key": "reference_image",
+      "labelKey": "field_makeupfx_image",
+      "kind": "IMAGE",
+      "order": 4
+    },
+    {
+      "id": "makeup_fx.application_time",
+      "owner": "catalog",
+      "key": "application_time",
+      "labelKey": "field_makeupfx_time",
+      "kind": "TEXT",
+      "order": 5
+    },
+    {
+      "id": "makeup_fx.products",
+      "owner": "catalog",
+      "key": "products",
+      "labelKey": "field_makeupfx_products",
+      "kind": "MULTILINE_TEXT",
+      "order": 6
+    },
+    {
+      "id": "makeup_fx.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_makeupfx_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 7
+    }
+  ]
+}

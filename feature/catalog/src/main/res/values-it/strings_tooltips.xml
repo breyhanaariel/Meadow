@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Assegna una posizione superiore per creare una gerarchia (es. una città appartiene a un paese, una stanza appartiene a un edificio).</string>
+    <string name="tooltip_style_voice">Descrivi la struttura delle frasi, il ritmo, il passo e il flusso stilistico.</string>
+    <string name="tooltip_style_lexicon">Regole relative a slang, contrazioni, imprecazioni, dialetti o restrizioni di vocabolario.</string>
+    <string name="tooltip_style_do_rules">Cose che questa voce dovrebbe enfatizzare o includere costantemente.</string>
+    <string name="tooltip_style_avoid_rules">Cose che questa voce deve evitare o minimizzare.</string>
+    <string name="tooltip_style_formatting">Regole per formattare pensieri interni, telepatia, messaggi di testo o dialoghi speciali.</string>
+</resources>

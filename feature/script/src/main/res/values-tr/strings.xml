@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Senaryo</string>
+    <string name="script_list_title">Senaryolar</string>
+    <string name="script_new">Yeni Senaryo</string>
+    <string name="script_editor_title">Editör</string>
+    <string name="script_dialect">Lehçe</string>
+    <string name="script_mode_structure">Yapı</string>
+    <string name="script_mode_outline">Taslak</string>
+    <string name="script_mode_catalog_links">Katalog Bağlantıları</string>
+    <string name="script_mode_comments">Yorumlar</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Dışa Aktar</string>
+    <string name="script_action_more">Daha Fazla</string>
+    <string name="script_outline">Taslak</string>
+    <string name="script_no_scripts">Henüz senaryo yok</string>
+    <string name="script_create_failed">Senaryo oluşturulamadı</string>
+    <string name="script_saved">Kaydedildi</string>
+    <string name="script_type_comic">Çizgi Roman</string>
+    <string name="script_type_novel">Roman</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Oyun</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

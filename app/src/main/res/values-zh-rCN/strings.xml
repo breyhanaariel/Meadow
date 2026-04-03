@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">创意工作空间</string>
+
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">创意工作空间</string>
+    <string name="home_open_settings">打开设置</string>
+
+    <string name="menu_home">主页</string>
+    <string name="menu_settings">设置</string>
+
+    <string name="back_home">返回主页</string>
+
+    <string name="cd_home">主页</string>
+</resources>

@@ -1,0 +1,170 @@
+{
+  "typeKey": "crew_member",
+  "icon": "ic_crew",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "crew_member.photo",
+      "owner": "catalog",
+      "key": "photo",
+      "labelKey": "field_crew_photo",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "crew_member.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_crew_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "crew_member.role",
+      "owner": "catalog",
+      "key": "role",
+      "labelKey": "field_crew_role",
+      "kind": "MULTI_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "crew_role_producer",
+          "crew_role_executive_producer",
+          "crew_role_supervising_producer",
+          "crew_role_associate_producer",
+          "crew_role_development_producer",
+          "crew_role_production_manager",
+          "crew_role_production_coordinator",
+          "crew_role_production_assistant",
+
+          "crew_role_writer",
+          "crew_role_writers_assistant",
+
+          "crew_role_director",
+          "crew_role_assistant_director",
+          "crew_role_script_supervisor",
+
+          "crew_role_photography_director",
+          "crew_role_camera_operator",
+          "crew_role_1st_ac",
+
+          "crew_role_gaffer",
+          "crew_role_key_grip",
+
+          "crew_role_production_sound_mixer",
+          "crew_role_sound_designer",
+          "crew_role_sound_editor",
+          "crew_role_boom_operator",
+          "crew_role_voice_actor",
+
+          "crew_role_production_designer",
+          "crew_role_set_designer",
+          "crew_role_storyboard_artist",
+          "crew_role_prop_maker",
+
+          "crew_role_wardrobe_supervisor",
+          "crew_role_hair_stylist",
+          "crew_role_makeup_artist",
+
+          "crew_role_stunt_coordinator",
+          "crew_role_stunt_performer",
+          "crew_role_fight_choreographer",
+
+          "crew_role_special_effects_supervisor",
+          "crew_role_special_effects_makeup_artist",
+
+          "crew_role_post_production_supervisor",
+          "crew_role_editor",
+          "crew_role_colorist",
+
+          "crew_role_key_animator",
+          "crew_role_inbetween_animator",
+          "crew_role_color_coordinator",
+          "crew_role_background_artist"
+        ]
+      }
+    },
+    {
+      "id": "crew_member.department",
+      "owner": "catalog",
+      "key": "department",
+      "labelKey": "field_crew_department",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": {
+        "options": [
+          "crew_department_production",
+          "crew_department_writing",
+          "crew_department_direction",
+          "crew_department_camera",
+          "crew_department_lighting",
+          "crew_department_sound",
+          "crew_department_art",
+          "crew_department_wardrobe_hair_makeup",
+          "crew_department_stunts",
+          "crew_department_special_effects",
+          "crew_department_post_production",
+          "crew_department_animation"
+        ]
+      }
+    },
+    {
+      "id": "crew_member.status",
+      "owner": "catalog",
+      "key": "status",
+      "labelKey": "field_crew_status",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": {
+        "options": [
+          "availabilityavailable",
+          "availabilityunavailable",
+          "availabilitylimited",
+          "availabilityon_hold"
+        ]
+      }
+    },
+    {
+      "id": "crew_member.email",
+      "owner": "catalog",
+      "key": "email",
+      "labelKey": "field_crew_email",
+      "kind": "EMAIL",
+      "order": 5
+    },
+    {
+      "id": "crew_member.phone",
+      "owner": "catalog",
+      "key": "phone",
+      "labelKey": "field_crew_phone",
+      "kind": "PHONE",
+      "order": 6
+    },
+    {
+      "id": "crew.union_status",
+      "owner": "catalog",
+      "key": "union_status",
+      "labelKey": "field_crew_union",
+      "kind": "SINGLE_SELECT",
+      "order": 7,
+      "metadata": {
+        "options": [
+          "union_sag_aftra",
+          "union_equity",
+          "union_actra",
+          "union_non_union",
+          "union_sag_eligible"
+        ]
+      }
+    },
+    {
+      "id": "crew_member.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_crew_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 8
+    }
+  ]
+}

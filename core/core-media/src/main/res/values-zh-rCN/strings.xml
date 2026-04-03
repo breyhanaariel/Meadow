@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Media Player -->
+    <string name="media_play">播放</string>
+    <string name="media_pause">暂停</string>
+    <string name="media_stop">停止</string>
+    <string name="media_now_playing">正在播放</string>
+    <string name="media_loading">加载中</string>
+    <string name="media_no_audio">未加载音频</string>
+    <string name="media_no_video">未加载视频</string>
+    <string name="media_error">发生媒体错误</string>
+
+    <!-- Image Loader -->
+    <string name="media_image_loading">正在加载图像</string>
+    <string name="media_image_failed">加载图像失败</string>
+
+    <!-- Subtitles -->
+    <string name="media_subtitle_unknown">[字幕未知]</string>
+
+    <!-- Metadata -->
+    <string name="media_no_metadata">未找到元数据</string>
+    <string name="media_metadata_title">标题</string>
+    <string name="media_metadata_artist">艺术家</string>
+    <string name="media_metadata_album">专辑</string>
+    <string name="media_metadata_genre">类型</string>
+    <string name="media_metadata_duration">时长</string>
+</resources>

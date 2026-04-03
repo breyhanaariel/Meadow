@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="helper_character_arc">
+<b>CÔNG CỤ XÂY DỰNG TÓM TẮT TRUYỆN</b>\n
+<i>Kết hợp các phần mở đầu này thành một đoạn văn hoàn chỉnh:</i>\n\n
+
+• <b>Thiết lập:</b> "Bị ám ảnh bởi [Vết thương], [Tên] tin rằng [Niềm tin sai lầm]..."\n
+• <b>Chất xúc tác:</b> "Khao khát đạt được [Mục tiêu bên ngoài], họ đã [Sự kiện kích động]..."\n
+• <b>Sự chuyển biến:</b> "Dù ban đầu họ dùng [Phương pháp cũ], mọi thứ thay đổi khi [Điểm giữa]..."\n
+• <b>Sa sút:</b> "Tuy nhiên, [Thất bại] buộc họ phải nghi ngờ niềm tin của mình..."\n
+• <b>Lựa chọn:</b> "Đối mặt với sự lựa chọn giữa [An toàn] và [Sự thật], họ [Hành động cao trào]..."\n
+• <b>Giải quyết:</b> "Họ kết thúc câu chuyện với tư cách là [Danh tính mới]."
+    </string>
+
+    <string name="helper_character_goal">
+<b>BÊN NGOÀI VS BÊN TRONG</b>\n
+Mục tiêu là <b>vật thể hoặc kết quả vật chất</b> mà nhân vật theo đuổi xuyên suốt cốt truyện.
+    </string>
+
+    <string name="helper_character_motivation_outer">
+<b>ÁP LỰC (CHIẾC ROI)</b>\n
+Áp lực bên ngoài buộc phải hành động. Đây là điều thế giới <i>đòi hỏi</i> họ làm để tránh thảm họa.
+    </string>
+
+    <string name="helper_character_motivation_inner">
+<b>SỰ KHAO KHÁT (KHOẢNG TRỐNG)</b>\n
+Sự thiếu hụt cảm xúc bên dưới mục tiêu. Đó là lỗ hổng tâm lý họ đang cố lấp đầy.
+    </string>
+
+    <string name="helper_character_methodology">
+<b>PHƯƠNG PHÁP VS THÁI ĐỘ</b>\n
+• <b>Phương pháp:</b> Các hành động và chiến thuật hữu hình được sử dụng.\n
+• <b>Thái độ:</b> Tư duy nội tâm hoặc triết lý sống.
+    </string>
+
+    <string name="helper_character_requirement">
+<b>ĐIỀU KIỆN TIÊN QUYẾT (CHÌA KHÓA)</b>\n
+Bước hoặc vật phẩm thiết yếu phải có được <i>trước khi</i> đạt được mục tiêu.
+    </string>
+
+    <string name="helper_character_consequence">
+<b>HỆ QUẢ (GIÁ PHẢI TRẢ)</b>\n
+Kết quả lâu dài của việc theo đuổi mục tiêu này là gì? Xem xét cả thành công và thất bại.
+    </string>
+
+    <string name="helper_character_forewarning">
+<b>CẢNH BÁO (TÍN HIỆU)</b>\n
+Những cảnh báo hoặc dấu hiệu xuất hiện <i>trước khi</i> hệ quả ập đến.
+    </string>
+
+    <string name="helper_character_power_description">
+<b>BẢN CHẤT NĂNG LỰC</b>\n
+Bản chất cơ bản của khả năng là gì? Phép thuật, công nghệ hay kỹ năng?
+    </string>
+
+    <string name="helper_character_power_capabilities">
+<b>HIỆU SUẤT TỐI ĐA</b>\n
+Sức mạnh này có thể đạt được những gì ở mức tốt nhất?
+    </string>
+
+    <string name="helper_character_power_limitations">
+<b>GIỚI HẠN (ĐIỂM YẾU)</b>\n
+Điều gì ngăn cản năng lực này giải quyết mọi vấn đề?
+    </string>
+
+    <string name="helper_character_learning_style">
+<b>HỆ THỐNG NHẬN THỨC</b>\n
+Nhân vật này xử lý thông tin như thế nào? (Ghi nhớ, Hiểu, Vận dụng, Phân tích, Đánh giá, Sáng tạo).
+    </string>
+
+    <string name="helper_character_mental_wound">
+<b>VẾT THƯƠNG TÂM LÝ (GHOST)</b>\n
+Tổn thương tâm lý trong quá khứ vẫn ám ảnh nhân vật cho đến nay.
+    </string>
+
+    <string name="helper_character_mental_fear">
+<b>ÁC MỘNG</b>\n
+Nỗi sợ cụ thể nảy sinh từ vết thương. Đây là điều họ đang chạy trốn.
+    </string>
+
+    <string name="helper_character_triggers">
+<b>NGÒI NỔ</b>\n
+Các tình huống hoặc từ ngữ cụ thể kích hoạt vết thương tâm lý ngay lập tức.
+    </string>
+
+    <string name="helper_character_stress_response">
+<b>CHIẾN, BIẾN, ĐÔNG CỨNG, XU NỊNH</b>\n
+Nhân vật phản ứng thế nào khi bị kích động?
+    </string>
+
+    <string name="helper_character_mental_lie">
+<b>NIỀM TIN SAI LẦM</b>\n
+Một quy tắc sai lầm về cách thế giới vận hành, được tạo ra để bảo vệ vết thương.
+    </string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>LỚP VỎ BỌC</b>\n
+Các hành vi được sử dụng để chế ngự nỗi đau.
+    </string>
+
+    <string name="helper_character_id_ego_superego">
+<b>BẢN NGÃ (FREUD)</b>\n
+Tâm trí nhân vật được phân chia thế nào? (Id, Ego, Superego).
+    </string>
+
+    <string name="helper_character_mask">
+<b>MẶT NẠ (DIỆN MẠO CÔNG KHAI)</b>\n
+Diện mạo nhân vật trưng ra để bảo vệ con người thật bên trong.
+    </string>
+
+    <string name="helper_character_self">
+<b>CON NGƯỜI THẬT (DIỆN MẠO RIÊNG TƯ)</b>\n
+Nhân vật là ai khi họ ở một mình trong bóng tối.
+    </string>
+
+    <string name="helper_character_alignment">
+<b>LA BÀN ĐẠO ĐỨC</b>\n
+Trật tự ↔ Hỗn loạn | Thiện ↔ Ác.
+    </string>
+
+    <string name="helper_character_social_tone">
+<b>SẮC THÁI XÃ HỘI</b>\n
+Họ hành động thế nào trong các cuộc hội thoại cụ thể.
+    </string>
+
+    <string name="helper_character_chronic_tone">
+<b>TÂM TRẠNG CHỦ ĐẠO</b>\n
+"Thời tiết" cảm xúc bao trùm lên nhân vật khi không có chuyện gì xảy ra.
+    </string>
+
+    <string name="helper_character_archetypes">
+<b>HÌNH MẪU MẶT NẠ</b>\n
+Vai diễn họ thực hiện trước công chúng (VD: Người giúp đỡ, Người cải cách, Người thách thức).
+    </string>
+
+    <string name="helper_character_relationships">
+<b>ĐỘNG LỰC QUAN HỆ</b>\n
+Các mối quan hệ là điểm gây áp lực buộc nhân vật phải hành động.
+    </string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">连接 Google 账号</string>
+    <string name="google_account_connected">Google 账号已连接</string>
+    <string name="google_account_disconnected">断开 Google 账号</string>
+
+    <string name="google_auth_signing_in">正在登录…</string>
+    <string name="google_auth_sign_in_failed">登录失败</string>
+    <string name="google_auth_signed_out">已退出登录</string>
+    <string name="google_auth_permission_required">需要 Google 权限</string>
+    <string name="google_auth_retry">重试</string>
+
+    <string name="google_drive_title">Google 云端硬盘</string>
+    <string name="google_drive_connecting">正在连接 Google 云端硬盘…</string>
+    <string name="google_drive_connected">已连接 Google 云端硬盘</string>
+    <string name="google_drive_syncing">正在与 Google 云端硬盘同步…</string>
+    <string name="google_drive_sync_complete">云端硬盘同步完成</string>
+    <string name="google_drive_sync_failed">云端硬盘同步失败</string>
+    <string name="google_drive_permission_denied">云端硬盘访问被拒绝</string>
+
+    <string name="google_sheets_title">Google 表格</string>
+    <string name="google_sheets_connecting">正在连接 Google 表格…</string>
+    <string name="google_sheets_connected">已连接 Google 表格</string>
+    <string name="google_sheets_exporting">正在导出到 Google 表格…</string>
+    <string name="google_sheets_export_complete">导出完成</string>
+    <string name="google_sheets_export_failed">导出失败</string>
+
+    <string name="google_calendar_title">Google 日历</string>
+    <string name="google_calendar_connecting">正在连接 Google 日历…</string>
+    <string name="google_calendar_connected">已连接 Google 日历</string>
+    <string name="google_calendar_syncing">正在同步日历…</string>
+    <string name="google_calendar_sync_failed">日历同步失败</string>
+    <string name="google_calendar_permission_denied">日历访问被拒绝</string>
+
+    <string name="google_docs_title">Google 文档</string>
+    <string name="google_docs_connecting">正在连接 Google 文档…</string>
+    <string name="google_docs_connected">已连接 Google 文档</string>
+    <string name="google_docs_exporting">正在导出到 Google 文档…</string>
+    <string name="google_docs_export_failed">导出失败</string>
+
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">正在连接 Gemini…</string>
+    <string name="google_gemini_connected">已连接 Gemini</string>
+    <string name="google_gemini_requesting">正在生成回复…</string>
+    <string name="google_gemini_failed">Gemini 请求失败</string>
+    <string name="google_gemini_rate_limited">请求过多。请稍候。</string>
+</resources>

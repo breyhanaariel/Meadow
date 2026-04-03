@@ -1,0 +1,107 @@
+{
+  "typeKey": "stunt",
+  "icon": "ic_stunt",
+  "primaryFieldKey": "stunt_name",
+  "fields": [
+    {
+      "id": "stunt.video_file",
+      "owner": "catalog",
+      "key": "video_file",
+      "labelKey": "field_stuntfx_video",
+      "kind": "VIDEO",
+      "order": 0
+    },
+    {
+      "id": "stunt.stunt_name",
+      "owner": "catalog",
+      "key": "stunt_name",
+      "labelKey": "field_stunt_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "stunt.category",
+      "owner": "catalog",
+      "key": "category",
+      "labelKey": "field_stunt_category",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "stunt_category_hand_to_hand",
+          "stunt_category_weaponry",
+          "stunt_category_high_fall",
+          "stunt_category_vehicle",
+          "stunt_category_wirework",
+          "stunt_category_fire_pyro",
+          "stunt_category_water",
+          "stunt_category_parkour"
+        ]
+      }
+    },
+    {
+      "id": "stunt.risk_level",
+      "owner": "catalog",
+      "key": "risk_level",
+      "labelKey": "field_stunt_risk",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": {
+        "options": [
+          "stunt_risk_low",
+          "stunt_risk_medium",
+          "stunt_risk_high",
+          "stunt_risk_extreme"
+        ]
+      }
+    },
+    {
+      "id": "stunt.performer",
+      "owner": "catalog",
+      "key": "performer",
+      "labelKey": "field_stunt_performer",
+      "kind": "REFERENCE",
+      "order": 4,
+      "metadata": {
+        "targetSchema": "crew_member",
+        "multi": true
+      }
+    },
+    {
+      "id": "stunt.rehearsal_required",
+      "owner": "catalog",
+      "key": "rehearsal_required",
+      "labelKey": "field_stunt_rehearsal",
+      "kind": "BOOLEAN",
+      "order": 5
+    },
+    {
+      "id": "stunt.equipment",
+      "owner": "catalog",
+      "key": "equipment",
+      "labelKey": "field_stunt_equipment",
+      "kind": "MULTILINE_TEXT",
+      "order": 6,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "stunt.safety_protocols",
+      "owner": "catalog",
+      "key": "safety_protocols",
+      "labelKey": "field_stunt_safety",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "stunt.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_stunt_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 8,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

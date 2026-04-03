@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Kreativní pracovní prostor</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Kreativní pracovní prostor</string>
+    <string name="home_open_settings">Otevřít nastavení</string>
+    <string name="menu_home">Domů</string>
+    <string name="menu_settings">Nastavení</string>
+    <string name="back_home">Zpět domů</string>
+    <string name="cd_home">Domů</string>
+</resources>

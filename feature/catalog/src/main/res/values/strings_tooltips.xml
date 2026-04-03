@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Assign a parent location to create a hierarchy (e.g., a City belongs to a Country, a Room belongs to a Building).</string>
+    <string name="tooltip_style_voice">Describe sentence structure, rhythm, pacing, and stylistic flow.</string>
+    <string name="tooltip_style_lexicon">Rules regarding slang, contractions, profanity, dialect, or vocabulary restrictions.</string>
+    <string name="tooltip_style_do_rules">Things this voice should emphasize or consistently include.</string>
+    <string name="tooltip_style_avoid_rules">Things this voice must avoid or minimize.</string>
+    <string name="tooltip_style_formatting">Rules for formatting internal thoughts, telepathy, text messages, or special dialogue.</string>
+</resources>

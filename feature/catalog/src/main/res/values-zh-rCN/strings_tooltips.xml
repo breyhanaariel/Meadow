@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">分配父级位置以创建层级结构（例如，城市属于国家，房间属于建筑物）。</string>
+    <string name="tooltip_style_voice">描述句子结构、节奏、语速和风格流畅度。</string>
+    <string name="tooltip_style_lexicon">关于俚语、缩写、脏话、方言或词汇限制的规则。</string>
+    <string name="tooltip_style_do_rules">此文风应强调或始终包含的内容。</string>
+    <string name="tooltip_style_avoid_rules">此文风必须避免或尽量减少的内容。</string>
+    <string name="tooltip_style_formatting">内部想法、心灵感应、短信或特殊对话的格式规则。</string>
+</resources>

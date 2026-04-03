@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Atribuiți o locație părinte pentru a crea o ierarhie (de ex., un oraș aparține unei țări, o cameră aparține unei clădiri).</string>
+    <string name="tooltip_style_voice">Descrie structura propozițiilor, ritmul, cadența și fluxul stilistic.</string>
+    <string name="tooltip_style_lexicon">Reguli privind argoul, contracțiile, profanarea, dialectul sau restricțiile de vocabular.</string>
+    <string name="tooltip_style_do_rules">Lucruri pe care această voce ar trebui să le sublinieze sau să le includă în mod constant.</string>
+    <string name="tooltip_style_avoid_rules">Lucruri pe care această voce trebuie să le evite sau să le minimizeze.</string>
+    <string name="tooltip_style_formatting">Reguli pentru formatarea gândurilor interne, telepatiei, mesajelor text sau dialogurilor speciale.</string>
+</resources>

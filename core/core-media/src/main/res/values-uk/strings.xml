@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Відтворити</string>
+    <string name="media_pause">Пауза</string>
+    <string name="media_stop">Зупинити</string>
+    <string name="media_now_playing">Зараз відтворюється</string>
+    <string name="media_loading">Завантаження</string>
+    <string name="media_no_audio">Аудіо не завантажено</string>
+    <string name="media_no_video">Відео не завантажено</string>
+    <string name="media_error">Виникла помилка медіа</string>
+    <string name="media_image_loading">Завантаження зображення</string>
+    <string name="media_image_failed">Не вдалося завантажити зображення</string>
+    <string name="media_subtitle_unknown">[Невідомі субтитри]</string>
+    <string name="media_no_metadata">Метадані не знайдено</string>
+    <string name="media_metadata_title">Назва</string>
+    <string name="media_metadata_artist">Виконавець</string>
+    <string name="media_metadata_album">Альбом</string>
+    <string name="media_metadata_genre">Жанр</string>
+    <string name="media_metadata_duration">Тривалість</string>
+</resources>

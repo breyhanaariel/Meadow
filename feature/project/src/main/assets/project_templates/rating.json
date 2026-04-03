@@ -1,0 +1,28 @@
+{
+  "id": "project.rating",
+  "owner": "project",
+  "key": "rating",
+  "labelKey": "field_project_rating",
+  "kind": "SINGLE_SELECT",
+  "group": "Classification",
+  "order": 10,
+  "isRequired": true,
+  "metadata": {
+    "groupedOptions": {
+      "rating_group_ratings": {
+        "rating_all": "rating_all_desc",
+        "rating_preteen": "rating_preteen_desc",
+        "rating_tween": "rating_tween_desc",
+        "rating_teen": "rating_teen_desc",
+        "rating_adult": "rating_adult_desc"
+      }
+    },
+    "flatOptions": [
+      "rating_all",
+      "rating_preteen",
+      "rating_tween",
+      "rating_teen",
+      "rating_adult"
+    ]
+  }
+}

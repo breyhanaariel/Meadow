@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Сгенерировать</string>
+    <string name="ai_mode_improve">Улучшить</string>
+    <string name="ai_mode_rewrite">Переписать</string>
+    <string name="ai_month">Дополнить</string>
+    <string name="ai_mode_shorten">Сократить</string>
+    <string name="ai_action_manage_context">Управление контекстом</string>
+    <string name="ai_action_open_chats">Открыть чаты</string>
+    <string name="ai_choose_action">Выберите действие</string>
+    <string name="ai_for_field">ИИ для: %1$s</string>
+    <string name="ai_picker_generate_title">Сгенерировать: выберите поля</string>
+    <string name="ai_picker_improve_title">Улучшить: выберите поля</string>
+    <string name="ai_picker_rewrite_title">Переписать: выберите поля</string>
+    <string name="ai_no_fields_available">Нет полей с поддержкой ИИ.</string>
+    <string name="ai_preview_title">Предпросмотр изменений ИИ</string>
+    <string name="ai_preview_scope">Область: %1$s</string>
+    <string name="ai_preview_count">Изменений: %1$d</string>
+    <string name="ai_preview_before">До:</string>
+    <string name="ai_preview_after">После:</string>
+    <string name="ai_optional_note">Необязательная заметка (не отправляется)</string>
+    <string name="ai_applied">Изменения ИИ применены</string>
+    <string name="ai_failed_generic">Ошибка ИИ</string>
+    <string name="ai_preview_empty">(пусто)</string>
+    <string name="ai_context_title">Контекст ИИ</string>
+    <string name="ai_context_add">Добавить контекст</string>
+    <string name="ai_context_pinned">Закреплено (включать всегда)</string>
+    <string name="ai_context_title_label">Название</string>
+    <string name="ai_context_body_label">Контекст</string>
+    <string name="ai_context_edit">Изменить контекст</string>
+    <string name="ai_context_delete">Удалить контекст</string>
+    <string name="ai_select_field">Выберите поле</string>
+</resources>

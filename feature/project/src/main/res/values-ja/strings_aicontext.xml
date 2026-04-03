@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">生成</string>
+    <string name="ai_mode_improve">改善</string>
+    <string name="ai_mode_rewrite">書き直し</string>
+    <string name="ai_mode_expand">詳しく書く</string>
+    <string name="ai_mode_shorten">短くする</string>
+    <string name="ai_action_manage_context">コンテキストの管理</string>
+    <string name="ai_action_open_chats">チャットを開く</string>
+    <string name="ai_choose_action">アクションを選択</string>
+    <string name="ai_for_field">AIの対象: %1$s</string>
+    <string name="ai_picker_generate_title">生成: フィールドを選択</string>
+    <string name="ai_picker_improve_title">改善: フィールドを選択</string>
+    <string name="ai_picker_rewrite_title">書き直し: フィールドを選択</string>
+    <string name="ai_no_fields_available">AI対応のフィールドがありません。</string>
+    <string name="ai_preview_title">AI変更のプレビュー</string>
+    <string name="ai_preview_scope">範囲: %1$s</string>
+    <string name="ai_preview_count">変更数: %1$d</string>
+    <string name="ai_preview_before">変更前:</string>
+    <string name="ai_preview_after">変更後:</string>
+    <string name="ai_optional_note">任意のメモ (送信されません)</string>
+    <string name="ai_applied">AIの変更を適用しました</string>
+    <string name="ai_failed_generic">AIエラー</string>
+    <string name="ai_preview_empty">(空)</string>
+    <string name="ai_context_title">AIコンテキスト</string>
+    <string name="ai_context_add">コンテキストを追加</string>
+    <string name="ai_context_pinned">固定（常に含める）</string>
+    <string name="ai_context_title_label">タイトル</string>
+    <string name="ai_context_body_label">コンテキスト</string>
+    <string name="ai_context_edit">コンテキストを編集</string>
+    <string name="ai_context_delete">コンテキストを削除</string>
+    <string name="ai_select_field">フィールドを選択</string>
+</resources>

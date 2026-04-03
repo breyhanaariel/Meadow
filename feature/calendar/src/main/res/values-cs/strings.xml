@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Kalendář</string>
+    <string name="calendar">Kalendář</string>
+    <string name="action_sync_now">Synchronizovat nyní</string>
+    <string name="action_today">Dnes</string>
+    <string name="view_month">Měsíc</string>
+    <string name="view_week">Týden</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Vše</string>
+    <string name="filter_global">Globální</string>
+    <string name="filter_series">Série</string>
+    <string name="filter_projects">Projekty</string>
+    <string name="filter_this_project">Tento projekt</string>
+    <string name="label_color">Barva</string>
+    <string name="label_recurrence">Opakování</string>
+    <string name="label_reminder">Připomenutí</string>
+    <string name="recurrence_none">Neopakuje se</string>
+    <string name="recurrence_daily">Denně</string>
+    <string name="recurrence_weekly">Týdně</string>
+    <string name="recurrence_monthly">Měsíčně</string>
+    <string name="reminder_none">Žádné připomenutí</string>
+    <string name="reminder_10">10 minut předem</string>
+    <string name="reminder_30">30 minut předem</string>
+    <string name="reminder_60">1 hodinu předem</string>
+    <string name="delete_event_title">Smazat událost?</string>
+    <string name="delete_event_message">Tímto trvale smažete %1$s. Tuto akci nelze vrátit zpět.</string>
+    <string name="no_events">Zatím žádné události</string>
+    <string name="add_event">Přidat událost</string>
+    <string name="delete_event">Smazat událost</string>
+    <string name="edit_event">Upravit událost</string>
+    <string name="month">Měsíc</string>
+    <string name="week">Týden</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Celý den</string>
+    <string name="new_event">Nová událost</string>
+    <string name="search_month_or_year">Hledat měsíc nebo rok</string>
+    <string name="upcoming_event">Nadcházející</string>
+    <string name="past_event">Minulé</string>
+</resources>

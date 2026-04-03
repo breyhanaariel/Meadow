@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="helper_character_arc">
+<b>TVŮRCE NARATIVNÍHO SHRNUTÍ</b>\n
+<i>Zkombinujte tyto začátky vět do jednoho plynulého odstavce:</i>\n\n
+
+• <b>Nastavení:</b> „Pronásledován [Ránou], [Jméno] věří [Lži/Falešnému přesvědčení]...“\n
+• <b>Katalyzátor:</b> „V zoufalé snaze [Externí cíl], udělá [Podnětná událost]...“\n
+• <b>Posun:</b> „Zatímco zpočátku [Stará metoda], vše se změní, když [Bod zvratu]...“\n
+• <b>Pád:</b> „Nicméně [Bod selhání] je donutí pochybovat o svých přesvědčeních...“\n
+• <b>Volba:</b> „Tváří v tvář volbě mezi [Bezpečím/Touhou] a [Pravdou/Potřebou], udělá [Vyvrcholení]...“\n
+• <b>Rozuzlení:</b> „Příběh končí jako [Nová identita/Stav].“\n\n
+Příklad: Pronásledována strachem z nahraditelnosti, Lumi věří, že užitečnost je jedinou měnou, na které záleží. V zoufalé snaze zůstat mezi elitou akademie zdokonaluje roli „řešitelky“ – tichý hlas, pevné ruce, neprůstřelná tajemství. Zatímco zpočátku věří, že drží skupinu pohromadě, vše se změní, když se z jednoho tajemství stane mrtvé tělo. Když ji však začne pohlcovat ticho, Lumi si uvědomí, že pravda nemusí být úplná, aby byla účinná. Tváří v tvář volbě mezi morální čistotou a přežitím upraví narativ. Příběh končí stále zbožňovaná, stále chráněná – již ne nevinná, ale konečně v bezpečí. </string>
+
+    <string name="helper_character_goal">
+<b>EXTERNÍ VS. INTERNÍ</b>\n
+Cíl je <b>fyzický objekt nebo výsledek</b>, za kterým postava v ději jde. Musí projít <b>Testem kamery</b>: Lze natočit okamžik, kdy ho dosáhnou?\n\n
+
+<b>FORMULACE</b>\n
+Začněte silným aktivním slovesem:\n
+• <b>Utéct</b> (z vězení)\n
+• <b>Chránit</b> (svědka)\n
+• <b>Zničit</b> (zbraň)\n
+• <b>Najít</b> (lék)\n
+• <b>Vyhrát</b> (soutěž)\n
+• <b>Vyřešit</b> (vraždu)\n\n
+
+<b>VZOREC</b>\n
+„[Aktivní sloveso] + [Cíl] + za účelem [Odměna/Sázky].“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Upravit</b> důkazy na místě činu a změnit časovou osu skupiny <b>za účelem</b> zajištění, aby policie označila smrt za nehodu, což jí zaručí bezpečnost v elitním kruhu.
+</string>
+
+    <string name="helper_character_motivation_outer">
+<b>TLAK (CUKR A BIČ)</b>\n
+Vnější tlak vynucující akci. Není to to, co postava <i>chce</i> udělat – je to to, co svět <i>vyžaduje</i>, aby se vyhnula katastrofě.\n\n
+
+<b>BĚŽNÉ TLAKY</b>\n
+• <b>Přežití:</b> Hrozba smrti nebo chudoby.\n
+• <b>Povinnost:</b> Práce, slib nebo dluh.\n
+• <b>Rivalita:</b> Nepřítel jedná; postava musí reagovat.\n
+• <b>Tikající hodiny:</b> Blížící se termín.\n\n
+
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Jaká strašná věc se stane, pokud odmítnou jednat?“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Implikace a páka.</b> Lumi najde tělo a uvědomí si, že je již zapletena skrze asociaci. Je nucena jednat nejen proto, aby skryla skandál, ale protože ví, že pokud to vyřeší, skupina jí bude dlužit životní dluh, který nikdy nesplatí.
+</string>
+
+    <string name="helper_character_motivation_inner">
+<b>HLAD (PRÁZDNOTA)</b>\n
+Emocionální deficit pod cílem. Je to psychologická díra, kterou se snaží zaplnit.\n\n
+
+<b>ZÁKLADNÍ POTŘEBY (MASLOW)</b>\n
+• <b>Bezpečí:</b> Přestat se cítit ohrožen nebo zranitelný.\n
+• <b>Sounáležitost:</b> Být milován nebo přijat.\n
+• <b>Uznání:</b> Být respektován nebo mocný.\n
+• <b>Autonomie:</b> Být svobodný od kontroly.\n
+• <b>Vykoupení:</b> Napravit minulou chybu.\n\n
+
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Jakou bolest se snaží otupit?“\n
+• „Jaký pocit si myslí, že jim Cíl přinese?“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Moc (Nenahraditelnost).</b> Pronásledována strachem z nahraditelnosti, Lumi je motivována temnou potřebou být <i>jedinou</i>, kdo zná pravdu. Věří, že pokud bude držet tajemství, která by mohla zničit všechny ostatní, bude konečně v bezpečí před opuštěním.
+</string>
+
+    <string name="helper_character_methodology">
+<b>PŘÍSTUP VS. POSTOJ</b>\n
+• <b>Přístup:</b> Viditelné činy, taktika a chování použité k řešení problémů.\n
+• <b>Postoj:</b> Vnitřní nastavení mysli, emocionální postoj nebo filozofie.\n\n
+
+<b>STYLY</b>\n
+• <b>Asertivní:</b> Převzetí kontroly a vynucování výsledků.\n
+• <b>Responzivní:</b> Přizpůsobení se prostředí/ostatním.\n
+• <b>Preservativní:</b> Udržování status quo nebo zdrojů.\n
+• <b>Pasivní:</b> Ustoupení nebo stažení se.\n
+• <b>Dogmatický:</b> Dodržování přísného kodexu.\n
+• <b>Pragmatický:</b> Dělání čehokoli, co funguje.\n
+• <b>Opatrný:</b> Vyhýbání se riziku.\n
+• <b>Riskantní:</b> Vysoké sázky.\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Typ: Pragmatický přístup a opatrný postoj</b>\n
+Lumi přežívá tím, že je „Editorkou“ (Pragmatik), přičemž s pravdou zachází jako s hrubým konceptem, který potřebuje přepsat. Její postoj je <b>Opatrný</b>: nikdy nevytvoří lež, kterou lze snadno vyvrátit. Místo toho upraví pravdu jen natolik, aby změnila závěr, přičemž upřednostňuje přežití před morálkou.
+</string>
+
+    <string name="helper_character_requirement">
+<b>PŘEDPOKLAD (KLÍČ)</b>\n
+Nezbytný krok, podmínka nebo předmět, který musí být získán <i>předtím</i>, než lze dosáhnout Cíle. Pokud je Cíl zamčenými dveřmi, Předpoklad je klíčem.\n\n
+
+<b>BĚŽNÉ TYPY</b>\n
+• <b>Získání:</b> Shromažďování informací, mapy, zbraně nebo doslovného klíče.\n
+• <b>Konání:</b> Cesta na konkrétní místo, výhra v kvalifikaci nebo vykonání rituálu.\n
+• <b>Učení:</b> Rozluštění kódu, ovládnutí dovednosti nebo odhalení tajemství.\n
+• <b>Stávání se:</b> Získání hodnosti, důvěry nebo změna vlastní povahy.\n\n
+
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Co jim fyzicky stojí v cestě?“\n
+• „Co musí udělat, aby vůbec dostali šanci na Cíl?“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Typ: Vytváření (Alibi)</b>\n
+Zatímco Lumiiným konečným Cílem je <b>trvalé bezpečí</b> (Odměna), povinným Předpokladem, který musí splnit, je <b>sestavit bezchybnou časovou osu</b> pro noc činu. Aby uspěla, musí <b>obětovat obětního beránka</b> (Typ: Konání), a nasměrovat úřady k cizinci, aby uzavřely případ.
+</string>
+
+    <string name="helper_character_consequence">
+<b>NÁSLEDKY (CENA ZA ZMĚNU)</b>\n
+Jaké jsou trvalé výsledky sledování tohoto cíle? Zvažte úspěch i neúspěch.\n\n
+
+<b>ZVAŽTE</b>\n
+• <b>Identita:</b> Jak výsledek změní to, kým jsou?\n
+• <b>Vztahy:</b> Kdo získá a kdo trpí?\n
+• <b>Kompromisy:</b> Co je získáno, ale co je navždy ztraceno?\n\n
+
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Pokud příběh skončí vyřešením tohoto cíle, co se už nikdy nemůže vrátit do původního stavu?“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Úspěch vs. Neúspěch</b>\n
+Pokud Lumi uspěje (lži se uvěří), následkem je <b>morální zkaženost a bezpečí</b> – stává se tajnou vůdkyní skupiny, svázanou s nimi vzájemným zničením. Pokud selže, jde do vězení. Konečným následkem je, že končí příběh zbožňovaná, ale navždy ztratila svou nevinnost.
+</string>
+
+    <string name="helper_character_forewarning">
+<b>VAROVNÉ SIGNÁLY (VAROVÁNÍ)</b>\n
+Jaká varování nebo znamení se objeví <i>předtím</i>, než dorazí následek? Jsou to signály, které postava často ignoruje.\n\n
+
+<b>TYPY</b>\n
+• <b>Interní:</b> Pochybnosti, vina nebo váhání u obvykle sebevědomé postavy.\n
+• <b>Externí:</b> Předzvěsti, rané nezdary nebo drobné chyby v plánu.\n
+• <b>Vztahové:</b> Varování přítele nebo zrada.\n\n
+
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Co příběh postavě tiše říká předtím, než zasáhne katastrofa?“\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Absence citu</b>\n
+Varování se objeví, když se Lumi podívá na tělo a cítí <b>spíše mrzutost než hrůzu</b>. To signalizuje, že se její empatie odpojuje. Externě jí přítel složí poklonu, že „umí tak dobře lhát“ – mrazivý kompliment, který předznamenává její pád do role profesionální manipulátorky.
+</string>
+
+    <string name="helper_character_power_description">
+<b>ZÁKLADNÍ IDENTITA</b>\n
+Jaká je podstata této schopnosti?\n\n
+• Co postavě umožňuje dělat?\n
+• Je vždy aktivní (pasivní), nebo musí být spuštěna (aktivní)?\n
+• Je to magie, technologie, biologická vlastnost nebo dovednost?\n\n
+<b>PŘÍKLAD</b>\n
+<b>Název: Sociální konstrukt</b>\n
+Lumi má schopnost dekonstruovat sociální narativy a znovu je budovat. Chápe, že „pravda“ je jen příběh, na kterém se lidé shodnou. Je to kognitivní dovednost zbroušená roky snahy zavděčit se, což jí umožňuje odhalit mezery vnímání lidí a zaplnit je tím, co chtějí vidět.
+</string>
+
+    <string name="helper_character_power_capabilities">
+<b>MAXIMÁLNÍ VÝKON</b>\n
+Čeho může tato síla dosáhnout ve svém absolutním vrcholu?\n\n
+• <b>Běžné použití:</b> Každodenní aplikace (např. odražení meče).\n
+• <b>Maximální výkon:</b> Horní hranice (např. vyhnutí se šípu).\n
+• <b>Kreativní použití:</b> Použití pro užitek spíše než boj.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Gaslighting a přerámování</b>\n
+Na svém vrcholu dokáže Lumi přesvědčit místnost plnou svědků, že neviděli to, co si mysleli. Jemnou změnou kontextu – vypuštěním fámy zde, schováním telefonu tam – může v reálném čase přepsat historii události, dokud „oběť“ nevypadá jako agresor.
+</string>
+
+    <string name="helper_character_power_limitations">
+<b>NÁKLADY (OSLABENÍ)</b>\n
+Co brání této síle vyřešit každý problém?\n\n
+• <b>Pevné limity:</b> Doby obnovy, náklady na zdroje (mana/stamina).\n
+• <b>Slabiny:</b> Konkrétní protihráči (oheň, chladné železo).\n
+• <b>Vedlejší škody:</b> Poškození sebe sama nebo prostředí.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Izolace v davu</b>\n
+Protože neustále upravuje realitu, Lumi ztrácí kontakt s tím, co je skutečně reálné. Nemůže už nikomu věřit, protože ví, jak snadné je lhát. Její síla ji izoluje; je obklopena přáteli, kteří zbožňují verzi jí samotné, která neexistuje.
+</string>
+
+    <string name="helper_character_learning_style">
+<b>KOGNITIVNÍ HIERARCHIE (BLOOMOVA)</b>\n
+Jak tato postava zpracovává informace k řešení problémů?\n\n
+
+• <b>Úroveň 1: Zapamatovat</b> (Vybavit si)\n
+Vybavování faktů nebo základních pojmů.\n\n
+
+• <b>Úroveň 2: Pochopit</b> (Vysvětlit)\n
+Interpretace a překlad myšlenek.\n\n
+
+• <b>Úroveň 3: Aplikovat</b> (Použít)\n
+Použití znalostí v nových situacích.\n\n
+
+• <b>Úroveň 4: Analyzovat</b> (Dekonstruovat)\n
+Rozkládání informací za účelem prozkoumání vztahů.\n\n
+
+• <b>Úroveň 5: Hodnotit</b> (Posoudit)\n
+Obhajoba stanoviska nebo rozhodnutí.\n\n
+
+• <b>Úroveň 6: Tvořit</b> (Syntetizovat)\n
+Generování nových myšlenek nebo vzorců.\n\n
+
+<b>PŘÍKLAD</b>\n
+<b>Primární styl: Úroveň 6 (Tvořit)</b>\n
+Lumi se posunula za hranici analýzy. Aby zachránila skupinu, musí <b>Tvořit</b>. Syntetizuje nesourodá fakta a důkazy, aby <i>zkonstruovala</i> zcela novou realitu, kde vražda byla nehodou. Skládačku neřeší; ona ji navrhuje.
+</string>
+
+    <string name="helper_character_mental_wound">
+<b>DUCH (TRAUMA)</b>\n
+Definující psychologické zranění z minulosti, které postavu pronásleduje dodnes.\n\n
+<b>PŘÍKLADY</b>\n
+• <b>Opuštění:</b> Zanechání rodičem.\n
+• <b>Zrada:</b> Důvěryhodný mentor se obrátí proti nim.\n
+• <b>Vina:</b> Selhání při záchraně někoho.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Podmíněná láska</b>\n
+Lumiinou ranou je dětství definované <b>výkonem</b>. Brzy se naučila, že byla chválena pouze tehdy, když byla dokonalá nebo užitečná. To vytvořilo přesvědčení, že nemá žádnou vnitřní hodnotu – má „cenu“ jen podle toho, co může „udělat“ pro ostatní.
+</string>
+
+    <string name="helper_character_mental_fear">
+<b>NOČNÍ MŮRA</b>\n
+Specifický strach, který vyrostl z rány. To je to, před čím utíkají.\n\n
+<b>PŘÍKLADY</b>\n
+• Strach z intimity (protože vede ke ztrátě).\n
+• Strach ze slabosti (protože vede ke zneužívání).\n
+• Strach ze selhání (protože dokazuje jejich bezcennost).\n\n
+<b>PŘÍKLAD</b>\n
+<b>Postradatelnost</b>\n
+Lumi se děsí toho, že bude <b>odvržena</b>. Bojí se okamžiku, kdy přestane být užitečná a skupina se obrátí proti ní. To ji nutí stát se strážkyní jejich nejtemnějších tajemství – aby si <i>nemohli</i> dovolit se jí zbavit.
+</string>
+
+    <string name="helper_character_triggers">
+<b>NÁŠLAPNÉ MINY</b>\n
+Specifické situace nebo slova, která obcházejí logiku a okamžitě aktivují Ránu.\n\n
+<b>PŘÍKLADY</b>\n
+• Ignorování.\n
+• Vidět někoho plakat.\n
+• Ztráta kontroly.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Nekompetence a chaos</b>\n
+Lumi triggruje <b>nepořádnost</b>. Když ostatní ve skupině začnou panikařit nebo dělat chaotické chyby, které ohrožují lež, vybuchne. Aktivuje to její instinkt přežití a nutí ji převzít totální, autoritářskou kontrolu nad situací.
+</string>
+
+    <string name="helper_character_stress_response">
+<b>BOJ, ÚTĚK, ZAMRZNUTÍ, PODBÍZENÍ</b>\n
+Jak postava reaguje při aktivaci triggeru?\n\n
+• <b>Boj (Fight):</b> Agrese, kontrolující chování.\n
+• <b>Útěk (Flight):</b> Stažení se, izolace, útěk.\n
+• <b>Zamrznutí (Freeze):</b> Otupělost, disociace, nerozhodnost.\n
+• <b>Podbízení (Fawn):</b> Snaha zavděčit se, nadměrné omlouvání.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Chladný boj (Kalkulace)</b>\n
+Lumiina reakce se mění z podbízení na chladný <b>Boj</b>. Místo křiku se stává děsivě klidnou a velitelskou. Vypne emoce, aby s mrtvým tělem zacházela jako s problémem, který je třeba vyřešit, a své přátele řídí jako šachové figurky.
+</string>
+
+    <string name="helper_character_mental_lie">
+<b>FALEŠNÉ PŘESVĚDČENÍ (LEŽ)</b>\n
+Chybné pravidlo o tom, jak svět funguje, vytvořené k ochraně Rány.\n\n
+<b>PŘÍKLADY</b>\n
+• „Jsem nemilovatelný.“\n
+• „Moc je jediné bezpečí.“\n
+• „Všichni nakonec odejdou.“\n\n
+<b>PŘÍKLAD</b>\n
+<b>„Pravda je přeceňovaná“</b>\n
+Lumi věří: „<b>Historii píší ti, co přežijí.</b>“ Tato lež ospravedlňuje její manipulaci. Přesvědčuje samu sebe, že úprava narativu není lhaní – je to ochrana lidí, které miluje, před „nedorozuměním“.
+</string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>ŠTÍTY</b>\n
+Chování používané ke zvládání bolesti. Krátkodobě fungují, ale dlouhodobě škodí.\n\n
+<b>PŘÍKLADY</b>\n
+• <b>Humor:</b> Odvádění pozornosti od vážnosti.\n
+• <b>Kontrola:</b> Mikromanagement k vyhnutí se chaosu.\n
+• <b>Závislost:</b> Otupování pocitů.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Kompartmentalizace</b>\n
+Lumi se vyrovnává s realitou tím, že <b>věci zamyká do krabiček</b>. Odděluje „Lumi kamarádku“ od „Lumi řešitelky“. To jí umožňuje pít čaj s dívkou, na kterou hází vinu, aniž by cítila výčitky. Dlouhodobě to štěpí její psychiku.
+</string>
+
+    <string name="helper_character_id_ego_superego">
+<b>PSYCHÉ (FREUD)</b>\n
+Jak je mysl postavy rozdělena?\n\n
+• <b>Id (Zvíře):</b> Instinkt, touha, přežití, agrese.\n
+• <b>Superego (Soudce):</b> Morálka, vina, přísná pravidla, ideály.\n
+• <b>Ego (Pilot):</b> Rozhodovatel snažící se vyvážit oba póly.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Korupce Ega</b>\n
+Lumiino <b>Superego</b> (morálka) je slabé, nahlodané potřebou někam patřit. Její <b>Id</b> (přežití) dominuje. Její <b>Ego</b> pracuje přesčas, aby racionalizovalo touhy Id a přesvědčilo ji, že zakrytí vraždy je vlastně aktem „loajality“ a „přátelství“.
+</string>
+
+    <string name="helper_character_mask">
+<b>PERSONA (VEŘEJNÁ TVÁŘ)</b>\n
+Tvář, kterou postava nosí, aby chránila své vnitřní já. Je to představení.\n\n
+<b>PŘÍKLADY</b>\n
+• Šašek (skrývající smutek).\n
+• Stoik (skrývající strach).\n
+• Profesionál (skrývající chaos).\n\n
+<b>PŘÍKLAD</b>\n
+<b>Nevinný kvítek</b>\n
+Lumi nosí masku <b>křehké sladkosti</b>. Mluví tiše, obléká se skromně a vždy vypadá nápomocně. Tato maska je její největší zbraní; nikdo nepodezřívá „hodnou holku“, že je schopná zorganizovat krytí zločinu.
+</string>
+
+    <string name="helper_character_self">
+<b>PRAVÉ JÁ (SOUKROMÁ TVÁŘ)</b>\n
+Kdo je postava, když je sama ve tmě. To zahrnuje skrytou hanbu, jemné emoce a skutečné touhy.\n\n
+<b>ZEPTEJTE SE SAMI SEBE</b>\n
+• „Co by je zničilo, kdyby to svět věděl?“\n\n
+<b>PŘÍKLAD</b>\n
+<b>Chladná stratégyně</b>\n
+Za sladkým úsměvem je Lumi <b>bezohledná</b>. Vede si mentální seznam tajemství všech ostatních. Její pravé já není následovnice; je to loutkářka, která si užívá moc, kterou drží nad elitou akademie.
+</string>
+
+    <string name="helper_character_alignment">
+<b>MORÁLNÍ KOMPAS</b>\n
+<b>Zákonný ↔ Chaotický:</b> Řídí se kodexem, nebo impulzy?\n
+<b>Dobrý ↔ Zlý:</b> Obětují se pro ostatní, nebo ostatní pro sebe?\n\n
+<b>PŘÍKLAD</b>\n
+<b>Zákonně neutrální se mění na Neutrálně zlou</b>\n
+Lumi začíná jako <b>Zákonně neutrální</b>, udržující společenský řád. Na konci se posouvá k <b>Neutrálně zlé</b>. Používá pravidla (Zákon) k ochraně sebe sama (Zlo).
+</string>
+
+    <string name="helper_character_social_tone">
+<b>SPOLEČENSKÉ VYZAŘOVÁNÍ (INTERAKTIVNÍ)</b>\n
+Jak se chovají v konkrétních rozhovorech? To se mění podle toho, kdo je v místnosti.\n\n
+• <b>S nepřáteli:</b> Vyhrožující, tichý.\n
+• <b>Se spojenci:</b> Ostražitý, profesionální.\n
+• <b>Se zranitelnými:</b> Rozpačitý, jemný.\n\n
+<b>PŘÍKLAD</b>\n
+<b>Uklidňující a kalkulující</b>\n
+Společensky Lumi působí jako balzám. Její hlas je vždy vyrovnaný. Pod tlakem se však její tón stává <b>klinickým</b>. Klade otázky ne proto, aby pomohla, ale aby shromáždila informace, které může později použít.
+</string>
+
+    <string name="helper_character_chronic_tone">
+<b>VÝCHOZÍ NÁLADA (ATMOSFÉRA)</b>\n
+Emocionální „počasí“, které nad postavou visí, když se nic neděje.\n\n
+<b>PŘÍKLADY</b>\n
+• Melancholie\n
+• Energická\n
+• Úzkostná\n\n
+<b>PŘÍKLAD</b>\n
+<b>Ledový klid</b>\n
+Lumiin chronický tón je <b>znepokojivá nehybnost</b>. Zatímco ostatní jsou neklidní nebo panikaří, ona sedí dokonale nehybně. Je to klid někoho, kdo už promyslel tři tahy dopředu.
+</string>
+
+    <string name="helper_character_archetypes">
+<b>ARCHETYPY MASKY</b>\n
+<i>Role, kterou hraje na veřejnosti.</i>\n\n
+
+<b>Reformátor</b>: Působí zásadově, vyrovnaně a morálně jistě.\n
+<b>Pomocník</b>: Působí pečovatelsky, pozorně a postradatelně.\n
+<b>Úspěšný</b>: Působí upraveně, úspěšně a záviděníhodně.\n
+<b>Individualista</b>: Působí expresivně, emocionálně a esteticky jedinečně.\n
+<b>Vyšetřovatel</b>: Působí odtažitě, všímavě a intelektuálně ostražitě.\n
+<b>Loajalista</b>: Působí oddaně, opatrně a bděle.\n
+<b>Nadšenec</b>: Působí jasně, hravě a roztržitě.\n
+<b>Vyzývatel</b>: Působí dominantně, ochranitelsky a nebojácně.\n
+<b>Mírotvůrce</b>: Působí klidně, souhlasně a přizpůsobivě.\n\n
+
+<b>PŘÍKLAD: LUMI</b>\n
+<b>Maska: Pomocník (Mírotvůrce)</b>\n
+Pro akademii je Lumi „Nevinným kvítkem“. Je definována měkkými svetry a nasloucháním. Tato maska ji chrání před podezřením.\n
+<b>Já: Vyšetřovatel (Architekt)</b>\n
+V soukromí je Lumi chladná a klinická. Své přátele vnímá jako „závazky“ nebo „aktiva“. Její pravé já je poháněno bezohlednou potřebou kontroly.
+</string>
+
+    <string name="helper_character_relationships">
+<b>RELAČNÍ DYNAMIKA</b>\n
+Vztahy jsou tlakové body, které nutí postavu jednat.\n\n
+
+• <b>Zrcadlení:</b> Kdo odráží nejhorší vlastnosti postavy?\n
+• <b>Posilování:</b> Kdo odměňuje postavu za to, že věří své Lži?\n
+• <b>Výzva:</b> Kdo prohlédne masku a ohrožuje jejich bezpečí?\n\n
+
+<b>PŘÍKLAD: LUMIINA SÍŤ</b>\n
+• <b>Seraphine (Moc):</b> <i>Posiluje Lež.</i> Odměňuje Lumi chválou, jen když Lumi vyřeší její chyby.\n
+• <b>Violetta (Pozorovatel):</b> <i>Ohrožuje Masku.</i> Všímá si mezer v Lumiiných příbězích. Její přesnost působí nebezpečně.
+</string>
+</resources>

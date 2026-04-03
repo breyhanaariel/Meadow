@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Згенерувати</string>
+    <string name="ai_mode_improve">Покращити</string>
+    <string name="ai_mode_rewrite">Переписати</string>
+    <string name="ai_mode_expand">Розширити</string>
+    <string name="ai_mode_shorten">Скоротити</string>
+    <string name="ai_action_manage_context">Керувати контекстом</string>
+    <string name="ai_action_open_chats">Відкрити чати</string>
+    <string name="ai_choose_action">Виберіть дію</string>
+    <string name="ai_for_field">ШІ для: %1$s</string>
+    <string name="ai_picker_generate_title">Згенерувати: Виберіть поля</string>
+    <string name="ai_picker_improve_title">Покращити: Виберіть поля</string>
+    <string name="ai_picker_rewrite_title">Переписати: Виберіть поля</string>
+    <string name="ai_no_fields_available">Немає доступних полів із підтримкою ШІ.</string>
+    <string name="ai_preview_title">Попередній перегляд змін ШІ</string>
+    <string name="ai_preview_scope">Область: %1$s</string>
+    <string name="ai_preview_count">Зміни: %1$d</string>
+    <string name="ai_preview_before">До:</string>
+    <string name="ai_preview_after">Після:</string>
+    <string name="ai_optional_note">Додаткова примітка (не надсилається)</string>
+    <string name="ai_applied">Зміни ШІ застосовано</string>
+    <string name="ai_failed_generic">Помилка ШІ</string>
+    <string name="ai_preview_empty">(порожньо)</string>
+    <string name="ai_context_title">Контекст ШІ</string>
+    <string name="ai_context_add">Додати контекст</string>
+    <string name="ai_context_pinned">Закріплено (включати завжди)</string>
+    <string name="ai_context_title_label">Назва</string>
+    <string name="ai_context_body_label">Контекст</string>
+    <string name="ai_context_edit">Редагувати контекст</string>
+    <string name="ai_context_delete">Видалити контекст</string>
+    <string name="ai_select_field">Виберіть поле</string>
+</resources>

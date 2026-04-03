@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="helper_character_arc">
+<b>SAMMANFATTNING AV BERÄTTELSEN</b>\n
+<i>Kombinera dessa meningar till ett flytande stycke:</i>\n\n
+
+• <b>Introduktionen:</b> "Hemsökt av [Sår], tror [Namn] att [Lögn/Falsk tro]..."\n
+• <b>Katalysatorn:</b> "I desperation att [Externt mål], gör de [Utlösande händelse]..."\n
+• <b>Skiftet:</b> "Även om de till en början [Gammal metod], förändras allt när [Mittpunkt]..."\n
+• <b>Fallet:</b> "Men [Lågpunkt/Misslyckande] tvingar dem att ifrågasätta sin tro..."\n
+• <b>Valet:</b> "Ställd inför valet mellan [Trygghet/Begär] och [Sanning/Behov], gör de [Klimax]..."\n
+• <b>Upplösningen:</b> "De avslutar berättelsen som [Ny identitet/Status]."
+    </string>
+
+    <string name="helper_character_goal">
+<b>EXTERNT VS. INTERNT</b>\n
+Målet är det <b>fysiska föremålet eller resultatet</b> som karaktären jagar genom handlingen. Det måste klara <b>Kameratestet</b>: Kan du filma ögonblicket de uppnår det?\n\n
+
+<b>FRASERING</b>\n
+Börja med ett starkt aktivt verb:\n
+• <b>Fly</b> (ett fängelse)\n
+• <b>Skydda</b> (ett vittne)\n
+• <b>Förstöra</b> (ett vapen)\n
+• <b>Hitta</b> (ett botemedel)\n
+• <b>Vinna</b> (en tävling)\n
+• <b>Lösa</b> (ett mord)\n\n
+
+<b>FORMLEN</b>\n
+\"Att [Aktivt verb] + [Mål] + för att [Belöning/Insats].\"
+    </string>
+
+    <string name="helper_character_motivation_outer">
+<b>TRYCKET (PISKAN)</b>\n
+Yttre tryck som tvingar fram handling. Detta är inte vad karaktären <i>vill</i> göra – det är vad världen <i>kräver</i> att de gör för att undvika katastrof.\n\n
+
+<b>VANLIGA TRYCK</b>\n
+• <b>Överlevnad:</b> Hot om död eller fattigdom.\n
+• <b>Plikt:</b> Ett jobb, ett löfte eller en skuld att betala.\n
+• <b>Rivalitet:</b> En fiende agerar; de måste reagera.\n
+• <b>Tickande klocka:</b> En deadline som närmar sig.\n\n
+
+<b>FRÅGA DIG SJÄLV</b>\n
+• \"Vilken fruktansvärd sak händer om de vägrar agera?\"
+    </string>
+
+    <string name="helper_character_motivation_inner">
+<b>HUNGERN (TOMRUMMET)</b>\n
+Den känslomässiga bristen bakom målet. Det är det psykologiska hålet de försöker fylla.\n\n
+
+<b>KÄRNBEHOV (MASLOW)</b>\n
+• <b>Trygghet:</b> Att sluta känna sig rädd eller sårbar.\n
+• <b>Tillhörighet:</b> Att bli älskad eller accepterad.\n
+• <b>Uppskattning:</b> Att bli respektfullt behandlad eller mäktig.\n
+• <b>Självständighet:</b> Att vara fri från kontroll.\n
+• <b>Gottgörelse:</b> Att ställa till rätta ett tidigare misstag.
+    </string>
+
+    <string name="helper_character_methodology">
+<b>METOD VS. ATTITYD</b>\n
+• <b>Metod:</b> De synliga handlingarna och taktiken som används.\n
+• <b>Attityd:</b> Det inre tänkesättet eller filosofin.\n\n
+
+<b>STILARNA</b>\n
+• <b>Pragmatisk:</b> Gör det som fungerar (t.ex. använder fula knep).\n
+• <b>Försiktig:</b> Riskmedveten och planerar noga.\n
+• <b>Hävdande:</b> Tar kontroll och tvingar fram resultat.
+    </string>
+
+    <string name="helper_character_requirement">
+<b>FÖRUTSÄTTNINGEN (NYCKELN)</b>\n
+Det nödvändiga steget eller föremålet som måste uppnås <i>innan</i> målet kan nås.
+    </string>
+
+    <string name="helper_character_consequence">
+<b>KONSEKVENSEN (KOSTNADEN FÖR FÖRÄNDRING)</b>\n
+Vilka är de bestående resultaten av att följa detta mål? Tänk på både framgång och misslyckande.
+    </string>
+
+    <string name="helper_character_forewarning">
+<b>VARNINGSSIGNALER</b>\n
+Vilka tecken dyker upp <i>innan</i> konsekvensen inträffar? Signaler som karaktären ofta ignorerar.
+    </string>
+
+    <string name="helper_character_power_description">
+<b>KÄRNIDENTITET</b>\n
+Förmågans grundläggande natur. Vad tillåter den karaktären att göra?
+    </string>
+
+    <string name="helper_character_power_capabilities">
+<b>TOPPRESTATION</b>\n
+Vad kan denna kraft åstadkomma när den är som bäst?
+    </string>
+
+    <string name="helper_character_power_limitations">
+<b>KOSTNADER (BEGRÄNSNINGAR)</b>\n
+Vad hindrar denna kraft från att lösa alla problem?
+    </string>
+
+    <string name="helper_character_learning_style">
+<b>KOGNITIV HIERARKI</b>\n
+Hur bearbetar denna karaktär information för att lösa problem? (Nivå 1–6: Minnas till Skapa).
+    </string>
+
+    <string name="helper_character_mental_wound">
+<b>SPÖKET (TRAUMA)</b>\n
+Den definierande psykologiska skadan från det förflutna.
+    </string>
+
+    <string name="helper_character_mental_fear">
+<b>MARDRÖMMEN</b>\n
+Den specifika rädsla som växte fram ur såret. Det de flyr *från*.
+    </string>
+
+    <string name="helper_character_triggers">
+<b>MINERNA</b>\n
+Specifika situationer som omedelbart aktiverar såret.
+    </string>
+
+    <string name="helper_character_stress_response">
+<b>KÄMPA, FLY, FRYS, FÖRSÖKA VARA TILL LAGS</b>\n
+Hur reagerar karaktären vid stress?
+    </string>
+
+    <string name="helper_character_mental_lie">
+<b>DEN FALSKA TRON</b>\n
+En felaktig regel om hur världen fungerar, skapad för att skydda såret.
+    </string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>SKÖLDARNA</b>\n
+Beteenden som används för att hantera smärta.
+    </string>
+
+    <string name="helper_character_id_ego_superego">
+<b>PSYKET (FREUD)</b>\n
+Hur är karaktärens sinne uppdelat mellan drift (Id), moral (Superego) och beslutsfattande (Ego)?
+    </string>
+
+    <string name="helper_character_mask">
+<b>PERSONAN (OFFENTLIGT ANSIKTE)</b>\n
+Masken karaktären bär för att skydda sitt inre jag.
+    </string>
+
+    <string name="helper_character_self">
+<b>DET SANNA JAGET (PRIVAT ANSIKTE)</b>\n
+Vem karaktären är när de är helt ensamma.
+    </string>
+
+    <string name="helper_character_alignment">
+<b>MORALISK KOMPASS</b>\n
+Laglydig mot Kaotisk | God mot Ond.
+    </string>
+
+    <string name="helper_character_social_tone">
+<b>SOCIAL VIBB</b>\n
+Hur de agerar i specifika konversationer.
+    </string>
+
+    <string name="helper_character_chronic_tone">
+<b>GRUNDSTÄMNING</b>\n
+Det emotionella "vädret" som hänger över karaktären som baslinje.
+    </string>
+
+    <string name="helper_character_archetypes">
+<b>MASK-ARKETYPER</b>\n
+Rollen de spelar offentligt (t.ex. Hjälpare, Reformator, Utmanare).
+    </string>
+
+    <string name="helper_character_relationships">
+<b>RELATIONSDYNAMIK</b>\n
+Hur andra speglar, förstärker eller utmanar karaktärens inre lögn.
+    </string>
+</resources>

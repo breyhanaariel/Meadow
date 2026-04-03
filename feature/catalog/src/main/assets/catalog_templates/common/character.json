@@ -1,0 +1,883 @@
+{
+  "typeKey": "character",
+  "icon": "ic_character",
+  "primaryFieldKey": "full_name",
+  "fields": [
+
+    {
+      "id": "character.full_name",
+      "owner": "catalog",
+      "key": "full_name",
+      "labelKey": "field_character_full_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0,
+      "metadata": { "section": "identity" }
+    },
+    {
+      "id": "character.name_meaning",
+      "owner": "catalog",
+      "key": "name_meaning",
+      "labelKey": "field_character_name_meaning",
+      "kind": "MULTILINE_TEXT",
+      "order": 1,
+      "metadata": { "section": "identity", "aiContext": true }
+    },
+    {
+      "id": "character.nickname",
+      "owner": "catalog",
+      "key": "nickname",
+      "labelKey": "field_character_nickname",
+      "kind": "TEXT",
+      "order": 2,
+      "metadata": { "section": "identity", "aiContext": true }
+    },
+    {
+      "id": "character.nickname_origin",
+      "owner": "catalog",
+      "key": "nickname_origin",
+      "labelKey": "field_character_nickname_origin",
+      "kind": "MULTILINE_TEXT",
+      "order": 3,
+      "metadata": { "section": "identity", "aiContext": true }
+    },
+    {
+      "id": "character.alias",
+      "owner": "catalog",
+      "key": "alias",
+      "labelKey": "field_character_alias",
+      "kind": "TEXT",
+      "order": 4,
+      "metadata": { "section": "identity" }
+    },
+    {
+      "id": "character.alternate_names",
+      "owner": "catalog",
+      "key": "alternate_names",
+      "labelKey": "field_character_alternate_names",
+      "kind": "TEXT",
+      "order": 5,
+      "metadata": { "section": "identity", "repeatable": true }
+    },
+    {
+      "id": "character.actor",
+      "owner": "catalog",
+      "key": "actor",
+      "labelKey": "field_character_actor",
+      "kind": "REFERENCE",
+      "order": 6,
+      "metadata": { "section": "identity", "targetSchema": "actor", "multi": true }
+    },
+    {
+      "id": "character.quote",
+      "owner": "catalog",
+      "key": "quote",
+      "labelKey": "field_character_quote",
+      "kind": "MULTILINE_TEXT",
+      "order": 12,
+      "metadata": { "section": "overview", "aiContext": true }
+    },
+    {
+      "id": "character.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_character_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 13,
+      "metadata": { "section": "overview", "aiContext": true }
+    },
+    {
+      "id": "character.background",
+      "owner": "catalog",
+      "key": "background",
+      "labelKey": "field_character_background",
+      "kind": "MULTILINE_TEXT",
+      "order": 14,
+      "metadata": { "section": "overview", "aiContext": true }
+    },
+
+    {
+      "id": "character.function",
+      "owner": "catalog",
+      "key": "function",
+      "labelKey": "field_character_function",
+      "kind": "SINGLE_SELECT",
+      "order": 20,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_function_main",
+          "character_function_major",
+          "character_function_minor",
+          "character_function_mascot",
+          "character_function_miscellaneous"
+        ]
+      }
+    },
+    {
+      "id": "character.archetype",
+      "owner": "catalog",
+      "key": "archetype",
+      "labelKey": "field_character_archetype",
+      "kind": "SINGLE_SELECT",
+      "order": 21,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_archetype_protagonist",
+          "character_archetype_deuteragonist",
+          "character_archetype_tritagonist",
+          "character_archetype_antagonist",
+          "character_archetype_contagonist",
+          "character_archetype_decoy_protagonist",
+          "character_archetype_focal",
+          "character_archetype_viewpoint"
+        ]
+      }
+    },
+    {
+      "id": "character.role",
+      "owner": "catalog",
+      "key": "role",
+      "labelKey": "field_character_role",
+      "kind": "SINGLE_SELECT",
+      "order": 22,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_role_hero",
+          "character_role_heroine",
+          "character_role_villain",
+          "character_role_villainess",
+          "character_role_herald",
+          "character_role_guardian",
+          "character_role_ally",
+          "character_role_confidante",
+          "character_role_mentor",
+          "character_role_sidekick",
+          "character_role_tempter",
+          "character_role_skeptic",
+          "character_role_trickster",
+          "character_role_shapeshifter",
+          "character_role_love_interest",
+          "character_role_comic_relief"
+        ]
+      }
+    },
+    {
+      "id": "character.arc_type",
+      "owner": "catalog",
+      "key": "arc_type",
+      "labelKey": "field_character_arc_type",
+      "kind": "SINGLE_SELECT",
+      "order": 23,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_arc_type_change",
+          "character_arc_type_flat",
+          "character_arc_type_growth",
+          "character_arc_type_shift",
+          "character_arc_type_disillusionment",
+          "character_arc_type_fall",
+          "character_arc_type_corruption"
+        ]
+      }
+    },
+    {
+      "id": "character.arc",
+      "owner": "catalog",
+      "key": "arc",
+      "labelKey": "field_character_arc",
+      "kind": "MULTILINE_TEXT",
+      "order": 24,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_arc" }
+    },
+    {
+      "id": "character.arc_result",
+      "owner": "catalog",
+      "key": "arc_result",
+      "labelKey": "field_character_arc_result",
+      "kind": "SINGLE_SELECT",
+      "order": 25,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_arc_result_better_healthier",
+          "character_arc_result_better_unhealthier",
+          "character_arc_result_worse_healthier",
+          "character_arc_result_worse_unhealthier",
+          "character_arc_result_same"
+        ]
+      }
+      },
+    {
+      "id": "character.goal",
+      "owner": "catalog",
+      "key": "goal",
+      "labelKey": "field_character_goal",
+      "kind": "MULTILINE_TEXT",
+      "order": 26,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_goal" }
+    },
+    {
+      "id": "character.motivation_outer",
+      "owner": "catalog",
+      "key": "motivation_outer",
+      "labelKey": "field_character_motivation_outer",
+      "kind": "MULTILINE_TEXT",
+      "order": 27,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_motivation_outer" }
+    },
+    {
+      "id": "character.motivation_inner",
+      "owner": "catalog",
+      "key": "motivation_inner",
+      "labelKey": "field_character_motivation_inner",
+      "kind": "MULTILINE_TEXT",
+      "order": 28,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_motivation_inner" }
+    },
+    {
+      "id": "character.methodology",
+      "owner": "catalog",
+      "key": "methodology",
+      "labelKey": "field_character_methodology",
+      "kind": "GROUP",
+      "order": 29,
+      "metadata": {
+        "section": "portrayal",
+        "repeatable": true,
+        "fields" :[
+          { "key": "methodology_type", "kind": "SINGLE_SELECT", "metadata": { "options": ["character_assertive_approach","character_assertive_attitude","character_responsive_approach","character_responsive_attitude","character_preservative_approach","character_preservative_attitude","character_passive_approach","character_passive_attitude","character_dogmatic_approach","character_dogmatic_attitude","character_pragmatic_approach","character_pragmatic_attitude","character_cautious_approach","character_cautious_attitude","character_risky_approach","character_risky_attitude"] } },
+          { "key": "methodology_description", "kind": "MULTILINE_TEXT", "metadata": { "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_methodology" } }
+        ]
+      }
+    },
+    {
+      "id": "character.requirement",
+      "owner": "catalog",
+      "key": "requirement",
+      "labelKey": "field_character_requirement",
+      "kind": "GROUP",
+      "order": 30,
+      "metadata": {
+        "section": "portrayal",
+        "repeatable": true,
+        "fields" :[
+          { "key": "requirement_type", "kind": "SINGLE_SELECT", "metadata": { "options": ["character_assertive_approach","character_assertive_attitude","character_responsive_approach","character_responsive_attitude","character_preservative_approach","character_preservative_attitude","character_passive_approach","character_passive_attitude","character_dogmatic_approach","character_dogmatic_attitude","character_pragmatic_approach","character_pragmatic_attitude","character_cautious_approach","character_cautious_attitude","character_risky_approach","character_risky_attitude"] } },
+          { "key": "requirement_description", "kind": "MULTILINE_TEXT", "metadata": { "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_requirement" } }
+        ]
+      }
+    },
+    {
+      "id": "character.consequence",
+      "owner": "catalog",
+      "key": "consequence",
+      "labelKey": "field_character_consequence",
+      "kind": "MULTILINE_TEXT",
+      "order": 31,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_consequence" }
+    },
+    {
+      "id": "character.forewarning",
+      "owner": "catalog",
+      "key": "forewarning",
+      "labelKey": "field_character_forewarning",
+      "kind": "MULTILINE_TEXT",
+      "order": 32,
+      "metadata": { "section": "portrayal", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_forewarning" }
+    },
+    {
+      "id": "character.prescribed_event",
+      "owner": "catalog",
+      "key": "prescribed_event",
+      "labelKey": "field_character_prescribed_event",
+      "kind": "GROUP",
+      "order": 40,
+      "metadata": { "section": "points", "repeatable": true, "timelineMappable": true, "fields": ["date","description"] }
+    },
+    {
+      "id": "character.pivotal_event",
+      "owner": "catalog",
+      "key": "pivotal_event",
+      "labelKey": "field_character_pivotal_event",
+      "kind": "GROUP",
+      "order": 41,
+      "metadata": { "section": "points", "repeatable": true, "timelineMappable": true, "fields": ["point_date","point_description"] }
+    },
+    {
+      "id": "character.potential_event",
+      "owner": "catalog",
+      "key": "potential_event",
+      "labelKey": "field_character_potential_event",
+      "kind": "GROUP",
+      "order": 42,
+      "metadata": { "section": "points", "repeatable": true, "timelineMappable": true, "fields": ["point_date","point_description"] }
+    },
+    {
+      "id": "character.story_points",
+      "owner": "catalog",
+      "key": "story_points",
+      "labelKey": "field_character_story_points",
+      "kind": "GROUP",
+      "order": 43,
+      "metadata": { "section": "points", "repeatable": true, "timelineMappable": true, "fields": ["point_type","point_date","point_description"] }
+    },
+    {
+      "id": "character.date_of_birth",
+      "owner": "catalog",
+      "key": "date_of_birth",
+      "labelKey": "field_character_dob",
+      "kind": "DATE",
+      "order": 50,
+      "metadata": { "section": "physical_measurable" }
+    },
+    {
+      "id": "character.age",
+      "owner": "catalog",
+      "key": "age",
+      "labelKey": "field_character_age",
+      "kind": "NUMBER",
+      "order": 51,
+      "metadata": { "section": "physical_measurable", "derivedFrom": "date_of_birth", "readOnly": true }
+    },
+    {
+      "id": "character.distinguishing_features",
+      "owner": "catalog",
+      "key": "distinguishing_features",
+      "labelKey": "field_character_distinguishing_features",
+      "kind": "MULTILINE_TEXT",
+      "order": 52,
+      "metadata": { "section": "physical_descriptive", "aiContext": true }
+    },
+    {
+      "id": "character.height",
+      "owner": "catalog",
+      "key": "height",
+      "labelKey": "field_character_height",
+      "kind": "NUMBER",
+      "order": 53,
+      "metadata": { "section": "physical_measurable", "unit": "cm" }
+    },
+    {
+      "id": "character.weight",
+      "owner": "catalog",
+      "key": "weight",
+      "labelKey": "field_character_weight",
+      "kind": "NUMBER",
+      "order": 54,
+      "metadata": { "section": "physical_measurable", "unit": "kg" }
+    },
+    {
+      "id": "character.blood_type",
+      "owner": "catalog",
+      "key": "blood_type",
+      "labelKey": "field_character_blood_type",
+      "kind": "SINGLE_SELECT",
+      "order": 55,
+      "metadata": {
+        "section": "physical_measurable",
+        "options": [
+        "character_blood_a_positive",
+        "character_blood_a_negative",
+        "character_blood_b_positive",
+        "character_blood_b_negative",
+        "character_blood_ab_positive",
+        "character_blood_ab_negative",
+        "character_blood_o_positive",
+        "character_blood_o_negative"
+        ]
+      }
+    },
+    {
+      "id": "character.race",
+      "owner": "catalog",
+      "key": "race",
+      "labelKey": "field_character_race",
+      "kind": "TEXT",
+      "order": 56,
+      "metadata": { "section": "physical_measurable" }
+    },
+    {
+      "id": "character.nationality",
+      "owner": "catalog",
+      "key": "race",
+      "labelKey": "field_character_nationality",
+      "kind": "REFERENCE",
+      "order": 57,
+      "metadata": { "section": "physical_measurable", "targetSchema": "nationality", "multi": true }
+    },
+    {
+      "id": "character.eye_color",
+      "owner": "catalog",
+      "key": "eye_color",
+      "labelKey": "field_character_eye_color",
+      "kind": "COLOR",
+      "order": 58,
+      "metadata": { "section": "physical_color", "colorRole": "eyes" }
+    },
+    {
+      "id": "character.hair_color",
+      "owner": "catalog",
+      "key": "hair_color",
+      "labelKey": "field_character_hair_color",
+      "kind": "COLOR",
+      "order": 59,
+      "metadata": { "section": "physical_color", "colorRole": "hair" }
+    },
+    {
+      "id": "character.hair_texture",
+      "owner": "catalog",
+      "key": "hair_texture",
+      "labelKey": "field_character_hair_texture",
+      "kind": "TEXT",
+      "order": 60,
+      "metadata": { "section": "physical_descriptive" }
+    },
+    {
+      "id": "character.hair_pattern",
+      "owner": "catalog",
+      "key": "hair_pattern",
+      "labelKey": "field_character_hair_pattern",
+      "kind": "TEXT",
+      "order": 61,
+      "metadata": { "section": "physical_descriptive" }
+    },
+    {
+      "id": "character.skin_color",
+      "owner": "catalog",
+      "key": "skin_color",
+      "labelKey": "field_character_skin_color",
+      "kind": "COLOR",
+      "order": 62,
+      "metadata": { "section": "physical_color", "colorRole": "skin" }
+    },
+    {
+      "id": "character.lip_color",
+      "owner": "catalog",
+      "key": "lip_color",
+      "labelKey": "field_character_lip_color",
+      "kind": "COLOR",
+      "order": 63,
+      "metadata": { "section": "physical_color" }
+    },
+    {
+      "id": "character.powers",
+      "owner": "catalog",
+      "key": "powers",
+      "labelKey": "field_character_powers",
+      "kind": "GROUP",
+      "order": 70,
+      "metadata": {
+        "section": "powers",
+        "repeatable": true,
+        "fields": [
+          {
+            "key": "power_name",
+            "kind": "TEXT",
+            "metadata": {
+              "isPrimary": true
+            }
+          },
+          {
+            "key": "power_type",
+            "kind": "SINGLE_SELECT",
+            "metadata": {
+              "options": [
+                "character_power_type_physical",
+                "character_power_type_mental",
+                "character_power_type_elemental",
+                "character_power_type_magical",
+                "character_power_type_technological",
+                "character_power_type_biological",
+                "character_power_type_cosmic",
+                "character_power_type_supernatural",
+                "character_power_type_hybrid"
+              ]
+            }
+          },
+          {
+            "key": "power_source",
+            "kind": "SINGLE_SELECT",
+            "metadata": {
+              "options": [
+                "character_power_source_innate",
+                "character_power_source_genetic",
+                "character_power_source_magic",
+                "character_power_source_technology",
+                "character_power_source_artifact",
+                "character_power_source_experiment",
+                "character_power_source_curse",
+                "character_power_source_blessing",
+                "character_power_source_training",
+                "character_power_source_unknown"
+              ]
+            }
+          },
+          {
+            "key": "power_activation",
+            "kind": "SINGLE_SELECT",
+            "metadata": {
+              "options": [
+                "character_power_activation_passive",
+                "character_power_activation_active",
+                "character_power_activation_triggered",
+                "character_power_activation_conditional",
+                "character_power_activation_voluntary",
+                "character_power_activation_involuntary"
+              ]
+            }
+          },
+          {
+            "key": "power_cost",
+            "kind": "MULTI_SELECT",
+            "metadata": {
+              "options": [
+                "character_power_cost_physical_exhaustion",
+                "character_power_cost_mental_strain",
+                "character_power_cost_emotional_toll",
+                "character_power_cost_lifespan_reduction",
+                "character_power_cost_resource_consumption",
+                "character_power_cost_moral_consequence",
+                "character_power_cost_environmental_damage"
+              ]
+            }
+          },
+          {
+            "key": "power_description",
+            "kind": "MULTILINE_TEXT",
+            "metadata": {
+              "aiContext": true,
+              "helperType": "BOTTOM_SHEET",
+              "helperKey": "helper_character_power_description"
+            }
+          },
+          {
+            "key": "power_capabilities",
+            "kind": "MULTILINE_TEXT",
+            "metadata": {
+              "aiContext": true,
+              "helperType": "BOTTOM_SHEET",
+              "helperKey": "helper_character_power_capabilities"
+            }
+          },
+          {
+            "key": "power_limitations",
+            "kind": "MULTILINE_TEXT",
+            "metadata": {
+              "aiContext": true,
+              "helperType": "BOTTOM_SHEET",
+              "helperKey": "helper_character_power_limitations"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "character.clinical_disorders",
+      "owner": "catalog",
+      "key": "clinical_disorders",
+      "labelKey": "field_character_clinical_disorders",
+      "kind": "REFERENCE",
+      "order": 100,
+      "metadata": { "section": "psychology_clinical", "targetSchema": "disorder", "multi": true }
+    },
+
+    {
+      "id": "character.mental_wound",
+      "owner": "catalog",
+      "key": "mental_wound",
+      "labelKey": "field_character_mental_wound",
+      "kind": "MULTILINE_TEXT",
+      "order": 101,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_mental_wound" }
+    },
+    {
+      "id": "character.mental_fear",
+      "owner": "catalog",
+      "key": "mental_fear",
+      "labelKey": "field_character_mental_fear",
+      "kind": "MULTILINE_TEXT",
+      "order": 102,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_mental_fear" }
+    },
+    {
+      "id": "character.mental_lie",
+      "owner": "catalog",
+      "key": "mental_lie",
+      "labelKey": "field_character_mental_lie",
+      "kind": "MULTILINE_TEXT",
+      "order": 103,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_mental_lie" }
+    },
+    {
+      "id": "character.coping_mechanisms",
+      "owner": "catalog",
+      "key": "coping_mechanisms",
+      "labelKey": "field_character_coping_mechanisms",
+      "kind": "MULTILINE_TEXT",
+      "order": 104,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_coping_mechanisms" }
+    },
+    {
+      "id": "character.triggers",
+      "owner": "catalog",
+      "key": "triggers",
+      "labelKey": "field_character_triggers",
+      "kind": "MULTILINE_TEXT",
+      "order": 105,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_triggers" }
+    },
+    {
+      "id": "character.stress_response",
+      "owner": "catalog",
+      "key": "stress_response",
+      "labelKey": "field_character_stress_response",
+      "kind": "MULTILINE_TEXT",
+      "order": 106,
+      "metadata": { "section": "psychology_narrative", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_stress_response" }
+    },
+    {
+      "id": "character.id_ego_superego",
+      "owner": "catalog",
+      "key": "id_ego_superego",
+      "labelKey": "field_character_id_ego_superego",
+      "kind": "MULTILINE_TEXT",
+      "order": 110,
+      "metadata": { "section": "personality_core", "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_id_ego_superego" }
+    },
+    {
+      "id": "character.mask",
+      "owner": "catalog",
+      "key": "mask",
+      "labelKey": "field_character_mask",
+      "kind": "GROUP",
+      "order": 111,
+      "metadata": {
+        "section": "personality_core",
+        "fields": [
+          {"key": "mask_archetype", "kind": "SINGLE_SELECT", "metadata": {"options": ["character_reformer", "character_helper", "character_achiever", "character_individualist", "character_investigator", "character_loyalist", "character_enthusiast", "character_challenger", "character_peacemaker"], "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_archetypes"}},
+          {"key": "mask_expression", "kind": "MULTILINE_TEXT", "metadata": { "aiContext": true, "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_mask"} }
+        ]
+      }
+    },
+    {
+      "id": "character.self",
+      "owner": "catalog",
+      "key": "self",
+      "labelKey": "field_character_self",
+      "kind": "GROUP",
+      "order": 112,
+      "metadata": {
+        "section": "personality_core",
+        "fields": [
+          {
+            "key": "self_archetype",
+            "kind": "SINGLE_SELECT",
+            "metadata": {
+              "options": [
+                "Reformer",
+                "Helper",
+                "Achiever",
+                "Individualist",
+                "Investigator",
+                "Loyalist",
+                "Enthusiast",
+                "Challenger",
+                "Peacemaker"
+              ],
+              "helperType": "BOTTOM_SHEET",
+              "helperKey": "helper_character_archetypes"
+            }
+          },
+          {
+            "key": "self_expression",
+            "kind": "MULTILINE_TEXT",
+            "metadata": {
+              "aiContext": true,
+              "helperType": "BOTTOM_SHEET",
+              "helperKey": "helper_character_self"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "character.alignment",
+      "owner": "catalog",
+      "key": "alignment",
+      "labelKey": "field_character_alignment",
+      "kind": "SINGLE_SELECT",
+      "order": 113,
+      "metadata": {
+        "section": "portrayal",
+        "options": [
+          "character_alignment_lawful_good",
+          "character_alignment_neutral_good",
+          "character_alignment_chaotic_good",
+          "character_alignment_lawful_neutral",
+          "character_alignment_true_neutral",
+          "character_alignment_chaotic_neutral",
+          "character_alignment_lawful_evil",
+          "character_alignment_neutral_evil",
+          "character_alignment_chaotic_evil"
+        ]
+      }
+      },
+    {
+      "id": "character.social_tone",
+      "owner": "catalog",
+      "key": "social_tone",
+      "labelKey": "field_character_social_tone",
+      "kind": "MULTI_SELECT",
+      "order": 114,
+      "metadata": {
+        "section": "personality_expression",
+        "options": [
+          "character_tone_enthusiasm",
+          "character_tone_cheerfulness",
+          "character_tone_strong_interest",
+          "character_tone_mild_interest",
+          "character_tone_boredom",
+          "character_tone_monotony",
+          "character_tone_antagonism",
+          "character_tone_hate",
+          "character_tone_anger",
+          "character_tone_fear",
+          "character_tone_apathy",
+          "character_tone_pain",
+          "character_tone_covert_hostility"
+        ]
+      }
+    },
+    {
+      "id": "character.chronic_tone",
+      "owner": "catalog",
+      "key": "chronic_tone",
+      "labelKey": "field_character_chronic_tone",
+      "kind": "MULTI_SELECT",
+      "order": 115,
+      "metadata": {
+        "section": "personality_expression",
+        "options": [
+          "character_tone_enthusiasm",
+          "character_tone_cheerfulness",
+          "character_tone_strong_interest",
+          "character_tone_mild_interest",
+          "character_tone_boredom",
+          "character_tone_monotony",
+          "character_tone_antagonism",
+          "character_tone_hate",
+          "character_tone_anger",
+          "character_tone_fear",
+          "character_tone_apathy",
+          "character_tone_pain"
+        ]
+      }
+    },
+    {
+      "id": "character.signature_items",
+      "owner": "catalog",
+      "key": "signature_items",
+      "labelKey": "field_character_items",
+      "kind": "REFERENCE",
+      "order": 116,
+      "metadata": { "section": "personality_expression", "targetSchema": "inventory_item", "multi": true, "placeholder": "Items they are never seen without."
+      }
+    },
+    {
+      "id": "character.social_class",
+      "owner": "catalog",
+      "key": "social_class",
+      "labelKey": "field_character_class",
+      "kind": "SINGLE_SELECT",
+      "order": 117,
+      "metadata": {
+        "section": "personality_expression",
+        "options": [
+          "character_class_lower",
+          "character_class_working",
+          "character_class_middle",
+          "character_class_upper",
+          "character_class_nobility",
+          "character_class_outcast"
+        ]
+      }
+    },
+    {
+      "id": "character.vernacular",
+      "owner": "catalog",
+      "key": "vernacular",
+      "labelKey": "field_character_vernacular",
+      "kind": "MULTILINE_TEXT",
+      "order": 118,
+      "metadata": { "section": "personality_expression", "aiContext": true }
+    },
+    {
+      "id": "character.demeanor",
+      "owner": "catalog",
+      "key": "demeanor",
+      "labelKey": "field_character_demeanor",
+      "kind": "MULTILINE_TEXT",
+      "order": 119,
+      "metadata": { "section": "personality_expression", "aiContext": true }
+    },
+    {
+      "id": "character.mannerisms",
+      "owner": "catalog",
+      "key": "mannerisms",
+      "labelKey": "field_character_mannerisms",
+      "kind": "MULTILINE_TEXT",
+      "order": 120,
+      "metadata": { "section": "personality_expression", "aiContext": true }
+    },
+
+    {
+      "id": "character.education",
+      "owner": "catalog",
+      "key": "education",
+      "labelKey": "field_character_education",
+      "kind": "GROUP",
+      "order": 121,
+      "metadata": {
+        "section": "personality_expression",
+        "repeatable": true,
+        "fields": [
+          { "key": "learning_style", "kind": "SINGLE_SELECT", "metadata": { "options": ["character_learning_remember","character_learning_understand","character_learning_apply","character_learning_analyze","character_learning_evaluate","character_learning_create"], "helperType": "BOTTOM_SHEET", "helperKey": "helper_character_learning_style"} },
+          { "key": "education_level", "kind": "SINGLE_SELECT", "metadata": { "options": ["character_education_none", "character_education_self_taught", "character_education_apprenticeship", "character_education_elementary", "character_education_high_school", "character_education_trade", "character_education_university", "character_education_postgraduate", "character_education_military"]} },
+          { "key": "education_description", "kind": "MULTILINE_TEXT", "metadata": { "aiContext": true } }
+        ]
+      }
+    },
+    {
+      "id": "character.occupation",
+      "owner": "catalog",
+      "key": "occupation",
+      "labelKey": "field_character_occupation",
+      "kind": "TEXT",
+      "order": 122,
+      "metadata": { "section": "personality_expression", "aiContext": true }
+    },
+    {
+      "id": "character.relationships",
+      "owner": "catalog",
+      "key": "relationships",
+      "labelKey": "field_character_relationships",
+      "kind": "GROUP",
+      "order": 130,
+      "metadata": {
+        "section": "relationships",
+        "repeatable": true,
+        "fields": [
+          { "key": "related_character", "kind": "REFERENCE", "metadata": { "targetSchema": "character", "multi": true } },
+          { "key": "relationship_type", "kind": "MULTI_SELECT", "metadata": { "options": ["character_relationship_romantic","character_relationship_familial","character_relationship_platonic","character_relationship_professional","character_relationship_rival","character_relationship_antagonistic","character_relationship_dependent","character_relationship_protective"] } },
+          { "key": "relationship_description", "kind": "MULTILINE_TEXT", "metadata": { "aiContext": true, "helperKey": "helper_character_relationships", "helperType": "BOTTOM_SHEET"} },
+          { "key": "compatibility", "kind": "MULTI_SELECT", "metadata": { "options": ["character_compatibility_high","character_compatibility_moderate","character_compatibility_low","character_compatibility_volatile","character_compatibility_conditional"] } },
+          { "key": "interaction", "kind": "MULTI_SELECT", "metadata": { "options": ["character_interaction_affectionate","character_interaction_conflictual","character_interaction_manipulative","character_interaction_avoidant","character_interaction_supportive","character_interaction_transactional","character_interaction_obsessive"] } },
+          { "key": "attachment_style", "kind": "MULTI_SELECT", "metadata": { "options": ["character_attachment_secure","character_attachment_anxious","character_attachment_avoidant","character_attachment_disorganized","character_attachment_anxious_preoccupied","character_attachment_dismissive_avoidant","character_attachment_fearful_avoidant"] } }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">परियोजना का एक संक्षिप्त विवरण।</string>
+    <string name="tooltip_project_pitch">विचार को जल्दी से समझाने के लिए एक वाक्य।</string>
+    <string name="tooltip_project_premise">मुख्य "क्या होगा अगर?" जो कहानी को आगे बढ़ाता है।</string>
+    <string name="tooltip_project_promise">दर्शक किस अनुभव की अपेक्षा कर सकते हैं (स्वर, विषय, भावनात्मक परिणाम)।</string>
+    <string name="tooltip_project_plot">कहानी के प्रमुख उतार-चढ़ाव की रूपरेखा। हर विवरण नहीं।</string>
+</resources>

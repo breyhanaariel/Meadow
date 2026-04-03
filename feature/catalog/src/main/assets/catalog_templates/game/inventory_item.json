@@ -1,0 +1,76 @@
+{
+  "typeKey": "inventory_item",
+  "icon": "ic_item",
+  "primaryFieldKey": "item_name",
+  "fields": [
+    {
+      "id": "inventory_item.icon_image",
+      "owner": "catalog",
+      "key": "icon_image",
+      "labelKey": "field_inventory_icon",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "inventory_item.item_name",
+      "owner": "catalog",
+      "key": "item_name",
+      "labelKey": "field_inventory_item_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "inventory_item.type",
+      "owner": "catalog",
+      "key": "type",
+      "labelKey": "field_inventory_type",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": { "options": ["Weapon", "Armor", "Consumable", "Crafting Material", "Key Item/Quest", "Currency"] }
+    },
+    {
+      "id": "inventory_item.rarity",
+      "owner": "catalog",
+      "key": "rarity",
+      "labelKey": "field_inventory_rarity",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": { "options": ["Common", "Uncommon", "Rare", "Epic", "Legendary", "Mythic"] }
+    },
+
+    {
+      "id": "inventory_item.value",
+      "owner": "catalog",
+      "key": "value",
+      "labelKey": "field_inventory_value",
+      "kind": "NUMBER",
+      "order": 4
+    },
+    {
+      "id": "inventory_item.weight",
+      "owner": "catalog",
+      "key": "weight",
+      "labelKey": "field_inventory_weight",
+      "kind": "NUMBER",
+      "order": 5
+    },
+    {
+      "id": "inventory_item.max_stack",
+      "owner": "catalog",
+      "key": "max_stack",
+      "labelKey": "field_inventory_stack",
+      "kind": "NUMBER",
+      "order": 6
+    },
+    {
+      "id": "inventory_item.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_inventory_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

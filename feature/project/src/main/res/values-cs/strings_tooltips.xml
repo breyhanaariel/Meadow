@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Krátký přehled projektu.</string>
+    <string name="tooltip_project_pitch">Jedna věta určená k rychlému prodeji nápadu.</string>
+    <string name="tooltip_project_premise">Základní „co kdyby?“, které pohání příběh.</string>
+    <string name="tooltip_project_promise">Zážitek, který může publika očekávat (tón, téma, emocionální vyústění).</string>
+    <string name="tooltip_project_plot">Stručný přehled hlavních bodů příběhu. Ne každý detail.</string>
+</resources>

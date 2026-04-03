@@ -1,0 +1,94 @@
+{
+  "typeKey": "visual_fx",
+  "icon": "ic_visualfx",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "visual_fx.reference_image",
+      "owner": "catalog",
+      "key": "reference_image",
+      "labelKey": "field_visualfx_image",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "visual_fx.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_visualfx_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "visual_fx.category",
+      "owner": "catalog",
+      "key": "category",
+      "labelKey": "field_visualfx_category",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "visualfx_category_environment",
+          "visualfx_category_cgi_character",
+          "visualfx_category_simulation",
+          "visualfx_category_compositing",
+          "visualfx_category_cleanup",
+          "visualfx_category_ui_graphics",
+          "visualfx_category_matte_painting"
+        ]
+      }
+    },
+    {
+      "id": "visual_fx.status",
+      "owner": "catalog",
+      "key": "status",
+      "labelKey": "field_visualfx_status",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": {
+        "options": [
+          "visualfx_status_concept",
+          "visualfx_status_previs",
+          "visualfx_status_in_progress",
+          "visualfx_status_awaiting_approval",
+          "visualfx_status_fixes_required",
+          "visualfx_status_final"
+        ]
+      }
+    },
+    {
+      "id": "visual_fx.method",
+      "owner": "catalog",
+      "key": "method",
+      "labelKey": "field_visualfx_method",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": {
+        "options": [
+          "visualfx_method_full_cgi",
+          "visualfx_method_practical_integration",
+          "visualfx_method_hybrid",
+          "visualfx_method_deepfake_ai"
+        ]
+      }
+    },
+    {
+      "id": "visual_fx.vendor",
+      "owner": "catalog",
+      "key": "vendor",
+      "labelKey": "field_visualfx_vendor",
+      "kind": "TEXT",
+      "order": 5
+    },
+    {
+      "id": "visual_fx.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_visualfx_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 6,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

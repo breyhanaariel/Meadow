@@ -1,0 +1,101 @@
+{
+  "typeKey": "color_guide",
+  "icon": "ic_color",
+  "primaryFieldKey": "palette_name",
+  "fields": [
+    {
+      "id": "color_guide.palette_name",
+      "owner": "catalog",
+      "key": "palette_name",
+      "labelKey": "field_color_palette_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "color_guide.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_color_desc",
+      "kind": "MULTILINE_TEXT",
+      "order": 1,
+      "metadata": { "aiContext": true }
+    },
+    {
+      "id": "color_guide.temperature",
+      "owner": "catalog",
+      "key": "temperature",
+      "labelKey": "field_color_temperature",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "color_temp_warm",
+          "color_temp_cool",
+          "color_temp_neutral",
+          "color_temp_mixed"
+        ]
+      }
+    },
+    {
+      "id": "color_guide.swatches",
+      "owner": "catalog",
+      "key": "swatches",
+      "labelKey": "field_color_swatches",
+      "kind": "GROUP",
+      "order": 3,
+      "metadata": {
+        "repeatable": true,
+        "label": "Color Swatches"
+      },
+      "fields": [
+        {
+          "id": "color_guide.target_ref",
+          "owner": "catalog",
+          "key": "target_ref",
+          "labelKey": "field_color_target",
+          "kind": "REFERENCE",
+          "order": 0,
+          "metadata": {
+            "targetSchema": ["character", "location", "inventory_item", "animal"],
+            "multi": false
+          }
+        },
+        {
+          "id": "color_guide.zone_name",
+          "owner": "catalog",
+          "key": "zone_name",
+          "labelKey": "field_color_zone",
+          "kind": "TEXT",
+          "order": 1
+        },
+        {
+          "id": "color_guide.color_value",
+          "owner": "catalog",
+          "key": "color_value",
+          "labelKey": "field_color_value",
+          "kind": "COLOR",
+          "order": 2
+        },
+        {
+          "id": "color_guide.finish",
+          "owner": "catalog",
+          "key": "finish",
+          "labelKey": "field_color_finish",
+          "kind": "SINGLE_SELECT",
+          "order": 3,
+          "metadata": {
+            "options": [
+              "color_finish_matte",
+              "color_finish_glossy",
+              "color_finish_metallic",
+              "color_finish_emissive",
+              "color_finish_translucent",
+              "color_finish_rough"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

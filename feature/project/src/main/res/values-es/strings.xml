@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project">Proyecto</string>
+    <string name="series_and_projects">Series y proyectos</string>
+    <string name="action_create_project">Crear proyecto</string>
+    <string name="action_edit_project">Editar proyecto</string>
+    <string name="create_project">Crear proyecto</string>
+    <string name="new_project">Nuevo proyecto</string>
+    <string name="switch_project">Cambiar proyecto</string>
+
+    <string name="project_created_success">Proyecto creado</string>
+    <string name="project_created_failed">Proyecto no creado</string>
+    <string name="project_edited_success">Proyecto actualizado</string>
+    <string name="project_edited_failed">Proyecto no actualizado</string>
+    <string name="project_deleted_success">Proyecto eliminado</string>
+    <string name="project_deleted_failed">Proyecto no eliminado</string>
+
+    <string name="error_project_not_found">Proyecto no encontrado</string>
+
+    <string name="field_project_type">Tipo de proyecto</string>
+    <string name="field_project_title">Título</string>
+    <string name="field_project_description">Descripción</string>
+    <string name="field_project_pitch">Pitch</string>
+    <string name="field_project_premise">Premisa</string>
+    <string name="field_project_plot">Trama</string>
+    <string name="field_project_promise">Promesa</string>
+    <string name="field_project_genre">Género</string>
+    <string name="field_project_format">Formato</string>
+    <string name="field_project_rating">Clasificación</string>
+    <string name="field_project_status">Estado</string>
+    <string name="field_project_audience">Audiencia</string>
+    <string name="field_project_elements">Elementos</string>
+    <string name="field_project_warnings">Advertencias</string>
+    <string name="field_history_title">Historial del campo</string>
+    <string name="field_appearance">Apariencia del campo</string>
+    <string name="field_project_completed">Completado</string>
+    <string name="field_project_archived">Archivado</string>
+
+    <string name="projects_title">Proyectos</string>
+    <string name="projects_empty">Aún no has creado ningún proyecto.</string>
+    <string name="projects_no_results">Ningún proyecto coincide con tu búsqueda o filtros.</string>
+    <string name="projects_in_series">Proyectos en esta serie</string>
+    <string name="no_projects_found">No se encontraron proyectos</string>
+
+    <string name="search_projects">Buscar proyectos</string>
+    <string name="search_projects_hint">
+        Buscar pitch, premisa, trama, promesa, descripción…
+    </string>
+
+    <string name="filters">Filtros</string>
+    <string name="sort">Ordenar</string>
+    <string name="visibility">Visibilidad</string>
+    <string name="show_archived">Mostrar archivados</string>
+    <string name="show_completed">Mostrar completados</string>
+
+    <string name="sort_project_count_asc">Número de proyectos (menor a mayor)</string>
+    <string name="sort_project_count_desc">Número de proyectos (mayor a menor)</string>
+
+    <string name="results_count">%1$d resultados</string>
+    <string name="try_adjusting_filters">Intenta ajustar tu búsqueda o filtros</string>
+
+    <string name="project_dashboard">Tablero del proyecto</string>
+    <string name="project_details">Detalles del proyecto</string>
+    <string name="project_overview">Resumen</string>
+    <string name="dashboard_overview">Resumen</string>
+    <string name="dashboard_details">Detalles</string>
+    <string name="dashboard_in_this_series">En esta serie</string>
+    <string name="project_quick_actions">Acciones rápidas</string>
+
+    <string name="project_cover">Portada del proyecto</string>
+    <string name="project_cover_placeholder">Toca para añadir portada</string>
+    <string name="project_no_cover">Sin portada</string>
+    <string name="project_details_placeholder">
+        Más información del proyecto aparecerá aquí en una futura actualización.
+    </string>
+
+    <string name="history">Historial</string>
+    <string name="history_title">Historial</string>
+    <string name="history_empty">Aún no hay cambios.</string>
+    <string name="history_added_value">Valor añadido</string>
+    <string name="history_cleared_value">Valor borrado</string>
+    <string name="history_source_manual">Edición manual</string>
+    <string name="history_source_migration">Migración</string>
+    <string name="history_source_sync">Sincronización</string>
+    <string name="last_synced">Última sincronización</string>
+    <string name="last_synced_format">Última sincronización: %1$s</string>
+
+    <string name="choose_project">Elegir proyecto</string>
+    <string name="choose_project_type">Elegir tipo de proyecto</string>
+
+    <string name="project_type_comic">Cómic</string>
+    <string name="project_type_novel">Novela</string>
+    <string name="project_type_movie">Película</string>
+    <string name="project_type_tv_show">Serie de TV</string>
+    <string name="project_type_game">Juego</string>
+    <string name="project_type_unknown">Desconocido</string>
+
+    <string name="select_project">Seleccionar proyecto</string>
+    <string name="backup_projects">Copia de seguridad de proyectos</string>
+    <string name="sync_project">Sincronizar proyecto</string>
+    <string name="sync_all_projects">Sincronizar todo</string>
+    <string name="sync_now">Sincronizar ahora</string>
+    <string name="sync_in_progress">Sincronizando…</string>
+    <string name="restore_from_drive">Restaurar desde Drive</string>
+    <string name="view_projects">Ver proyectos</string>
+
+    <string name="edit_project_title">Editar proyecto</string>
+    <string name="confirm_delete_project">¿Eliminar proyecto?</string>
+    <string name="delete_project_title">Eliminar proyecto</string>
+    <string name="delete_project_message">
+        ¿Estás seguro de que quieres eliminar este proyecto? Esta acción no se puede deshacer.
+    </string>
+
+    <string name="series">Serie</string>
+    <string name="choose_series">Elegir serie</string>
+    <string name="select_or_create_series">Seleccionar o crear serie</string>
+
+    <string name="action_add_series">Añadir serie</string>
+    <string name="action_create_series">Crear serie</string>
+    <string name="create_new_series">Crear nueva serie</string>
+
+    <string name="series_create_title">Crear serie</string>
+    <string name="rename_series">Renombrar serie</string>
+    <string name="series_rename_title">Renombrar serie</string>
+
+    <string name="series_title">Título de la serie</string>
+    <string name="series_name">Nombre de la serie</string>
+    <string name="series_name_duplicate">Ya existe una serie con este nombre</string>
+
+    <string name="series_manage">Gestionar serie</string>
+    <string name="series_metadata">Metadatos de la serie</string>
+    <string name="series_summary">Resumen de la serie</string>
+
+    <string name="series_empty">Aún no hay series</string>
+    <string name="no_series">Sin serie</string>
+    <string name="series_no_projects">No hay proyectos en esta serie</string>
+
+    <string name="series_project_count">%1$d proyectos</string>
+    <string name="series_projects">Proyectos de la serie</string>
+
+    <string name="add_to_series">Añadir a la serie</string>
+    <string name="remove_from_series">Quitar de la serie</string>
+    <string name="convert_to_series">Convertir a serie</string>
+    <string name="revert_to_project">Revertir a proyecto</string>
+
+    <string name="added_to_series_success">Proyecto añadido a la serie</string>
+    <string name="added_to_series_failed">No se añadió el proyecto a la serie</string>
+    <string name="remove_from_series_success">El proyecto se ha quitado de la serie.</string>
+    <string name="remove_from_series_failed">No se ha quitado el proyecto de la serie.</string>
+    <string name="revert_to_project_success">El proyecto se ha revertido a proyecto independiente.</string>
+    <string name="revert_to_project_failed">No se ha revertido el proyecto a independiente.</string>
+    <string name="converted_to_series_success">Proyecto convertido a serie</string>
+    <string name="create_series_failed">Serie no creada</string>
+
+    <string name="action_backup_project_catalog">Copia de seguridad del catálogo del proyecto</string>
+    <string name="action_backup_series_catalog">Copia de seguridad del catálogo de la serie</string>
+
+    <string name="series_renamed_success">Serie renombrada con éxito</string>
+    <string name="series_deleted_success">Serie eliminada con éxito</string>
+
+    <string name="delete_series_title">¿Eliminar serie?</string>
+    <string name="confirm_delete_series">¿Eliminar la serie “%1$s”?</string>
+    <string name="delete_series_message">
+        ¿Estás seguro de que quieres eliminar la serie “%1$s”?
+    </string>
+
+    <string name="series_delete_safety">%1$d proyectos se desenlazarán pero no se eliminarán</string>
+    <string name="series_field_scope_series">Toda la serie</string>
+    <string name="series_field_scope_project">Específico del proyecto</string>
+    <string name="search_series">Buscar serie</string>
+    <string name="series_shared_field">Campo compartido</string>
+    <string name="view_series">Ver serie</string>
+    <string name="series_add_projects">Añadir proyectos</string>
+
+    <string name="project_loading">Cargando proyecto…</string>
+    <string name="project_archived">Archivado</string>
+    <string name="project_completed">Completado</string>
+    <string name="project_invalid_form">Por favor, corrige los campos resaltados</string>
+    <string name="project_required_field">Este campo es obligatorio</string>
+    <string name="project_sync_failed">Fallo en sincronización del proyecto</string>
+    <string name="project_sync_success">Proyecto sincronizado</string>
+    <string name="project_no_enabled_features">No hay funciones habilitadas para este proyecto</string>
+
+    <string name="group_production">Producción</string>
+    <string name="field_project_page_count">Número de páginas</string>
+    <string name="field_project_art_style">Estilo artístico</string>
+    <string name="art_style_manga">Manga</string>
+    <string name="art_style_chibi">Chibi</string>
+    <string name="art_style_cartoon">Dibujos animados</string>
+    <string name="art_style_realistic">Realista</string>
+
+    <string name="group_design">Diseño</string>
+    <string name="group_release">Lanzamiento</string>
+    <string name="field_project_game_genre">Género de juego</string>
+    <string name="field_project_platforms">Plataformas</string>
+    <string name="game_genre_rpg">RPG</string>
+    <string name="game_genre_visual_novel">Novela visual</string>
+    <string name="game_genre_simulation">Simulación</string>
+    <string name="game_genre_strategy">Estrategia</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_android">Android</string>
+    <string name="platform_ios">iOS</string>
+    <string name="platform_console">Consola</string>
+    <string name="platform_web">Web</string>
+
+    <string name="field_project_runtime_minutes">Duración (minutos)</string>
+    <string name="field_project_budget">Presupuesto</string>
+
+    <string name="group_writing">Escritura</string>
+    <string name="field_project_word_count_target">Objetivo de palabras</string>
+    <string name="field_project_narrative_pov">Punto de vista narrativo</string>
+    <string name="narrative_pov_first_person">Primera persona</string>
+    <string name="narrative_pov_second_person">Segunda persona</string>
+    <string name="narrative_pov_third_person_limited">Tercera persona limitada</string>
+    <string name="narrative_pov_third_person_omniscient">Tercera persona omnisciente</string>
+
+    <string name="group_structure">Estructura</string>
+    <string name="field_project_seasons">Número de temporadas</string>
+    <string name="field_project_episodes_per_season">Episodios por temporada</string>
+
+
+    <string name="group_classification">Clasificación</string>
+    <string name="audience_adventurer">Aventurero</string>
+    <string name="audience_dreamer">Soñador</string>
+    <string name="audience_thinker">Pensador</string>
+    <string name="audience_believer">Creyente</string>
+    <string name="genre_group_adventurer">Aventurero</string>
+    <string name="genre_group_dreamer">Soñador</string>
+    <string name="genre_group_thinker">Pensador</string>
+    <string name="genre_group_believer">Creyente</string>
+    <string name="genre_action">Acción</string>
+    <string name="genre_action_desc">Combate o lucha cuerpo a cuerpo</string>
+    <string name="genre_adventure">Aventura</string>
+    <string name="genre_adventure_desc">Viajes épicos y descubrimientos</string>
+    <string name="genre_cyberpunk">Ciberpunk</string>
+    <string name="genre_cyberpunk_desc">Sociedad futurista sobreindustrializada</string>
+    <string name="genre_steampunk">Steampunk</string>
+    <string name="genre_steampunk_desc">Historia alternativa a vapor</string>
+    <string name="genre_fantasy">Fantasía</string>
+    <string name="genre_fantasy_desc">Mundos diferentes a la realidad</string>
+    <string name="genre_science">Ciencia ficción</string>
+    <string name="genre_science_desc">Mundos tecnológicamente avanzados</string>
+    <string name="genre_horror">Terror</string>
+    <string name="genre_horror_desc">Diseñado para asustar</string>
+    <string name="genre_gothic">Gótico</string>
+    <string name="genre_gothic_desc">Atmósfera grotesca, desolada y fatalista</string>
+    <string name="genre_paranormal">Paranormal</string>
+    <string name="genre_paranormal_desc">Más allá de la explicación científica</string>
+    <string name="genre_supernatural">Sobrenatural</string>
+    <string name="genre_supernatural_desc">Más allá de las leyes naturales</string>
+    <string name="genre_spiritual">Espiritual</string>
+    <string name="genre_spiritual_desc">Explora la creencia espiritual</string>
+    <string name="genre_religious">Religioso</string>
+    <string name="genre_religious_desc">Centrado en doctrina religiosa</string>
+    <string name="genre_parody">Parodia</string>
+    <string name="genre_parody_desc">Imitación humorística</string>
+    <string name="genre_satire">Sátira</string>
+    <string name="genre_satire_desc">Humor crítico</string>
+    <string name="genre_mystery">Misterio</string>
+    <string name="genre_mystery_desc">Crimen o circunstancia desconcertante</string>
+    <string name="genre_romantic_comedy">Comedia romántica</string>
+    <string name="genre_romantic_comedy_desc">Comedia sobre el romance</string>
+    <string name="genre_erotic_comedy">Comedia erótica</string>
+    <string name="genre_erotic_comedy_desc">Comedia sobre la sexualidad</string>
+    <string name="genre_gag">Gag</string>
+    <string name="genre_gag_desc">Humor absurdo</string>
+    <string name="genre_comedy">Comedia</string>
+    <string name="genre_comedy_desc">Humor realista</string>
+    <string name="genre_period_drama">Drama de época</string>
+    <string name="genre_period_drama_desc">Drama fundamentado históricamente</string>
+    <string name="genre_drama">Drama</string>
+    <string name="genre_drama_desc">Relaciones humanas y crecimiento</string>
+
+
+    <string name="elements_group_emotional">Emocional</string>
+    <string name="elements_group_sexual">Sexual</string>
+    <string name="elements_group_paraphilia">Parafilia</string>
+    <string name="elements_angst">Angustia</string>
+    <string name="elements_angst_desc">Sobrecarga emocional</string>
+    <string name="elements_fluff">Fluff</string>
+    <string name="elements_fluff_desc">Alegre y sin angustia</string>
+    <string name="elements_lime">Lima</string>
+    <string name="elements_lime_desc">Besos y relaciones sexuales no explícitas</string>
+    <string name="elements_lemonade">Limonada</string>
+    <string name="elements_lemonade_desc">Sexo romántico</string>
+    <string name="elements_lemon">Lemon</string>
+    <string name="elements_lemon_desc">Sexo explícito</string>
+    <string name="elements_grapefruit">Pomelo</string>
+    <string name="elements_grapefruit_desc">Sexo no consentido</string>
+    <string name="elements_bd">BD</string>
+    <string name="elements_bd_desc">Bondage y dominación</string>
+    <string name="elements_sm">SM</string>
+    <string name="elements_sm_desc">Sadismo y masoquismo</string>
+    <string name="elements_ve">VE</string>
+    <string name="elements_ve_desc">Voyeurismo y exhibicionismo</string>
+
+    <string name="rating_group_ratings">Clasificaciones</string>
+    <string name="rating_all">Todos</string>
+    <string name="rating_all_desc">Sin lenguaje, violencia, sexualidad o temas para adultos</string>
+    <string name="rating_preteen">Preadolescente</string>
+    <string name="rating_preteen_desc">10–12 años. Lenguaje, violencia, sexualidad y temas para adultos menores</string>
+    <string name="rating_tween">Adolescencia temprana</string>
+    <string name="rating_tween_desc">13–15 años. Lenguaje, violencia, sexualidad y temas para adultos leves</string>
+    <string name="rating_teen">Adolescente</string>
+    <string name="rating_teen_desc">16–17 años. Lenguaje, violencia, sexualidad y temas para adultos moderados</string>
+    <string name="rating_adult">Adulto</string>
+    <string name="rating_adult_desc">18+. Lenguaje, violencia, sexualidad y temas para adultos explícitos</string>
+
+    <string name="warnings_group_all">Todas las edades</string>
+    <string name="warnings_group_preteen">Preadolescente</string>
+    <string name="warnings_group_tween">Adolescencia temprana</string>
+    <string name="warnings_group_teen">Adolescente</string>
+    <string name="warnings_group_adult">Adulto</string>
+    <string name="warning_cartoon_violence">Violencia de dibujos animados</string>
+    <string name="warning_cartoon_violence_desc">Violencia estilizada o exagerada sin lesiones realistas</string>
+    <string name="warning_potty_humor">Humor escatológico</string>
+    <string name="warning_potty_humor_desc">Chistes o humor relacionados con el baño</string>
+    <string name="warning_slapstick_humor">Humor slapstick</string>
+    <string name="warning_slapstick_humor_desc">Comedia física con percances exagerados</string>
+    <string name="warning_minor_aggression">Agresión menor</string>
+    <string name="warning_minor_aggression_desc">Comportamiento hostil breve o leve sin lesiones</string>
+    <string name="warning_fantasy_violence">Violencia de fantasía</string>
+    <string name="warning_fantasy_violence_desc">Violencia no realista en entornos fantásticos</string>
+    <string name="warning_mild_aggression">Agresión leve</string>
+    <string name="warning_mild_aggression_desc">Confrontaciones o amenazas no gráficas</string>
+    <string name="warning_minor_violence">Violencia menor</string>
+    <string name="warning_minor_violence_desc">Conflicto físico breve y no gráfico</string>
+    <string name="warning_mild_gore">Gore leve</string>
+    <string name="warning_mild_gore_desc">Representación muy limitada de lesiones sin detalle</string>
+    <string name="warning_crude_humor">Humor crudo</string>
+    <string name="warning_crude_humor_desc">Chistes sobre funciones corporales o temas sugerentes</string>
+    <string name="warning_mild_language">Lenguaje leve</string>
+    <string name="warning_mild_language_desc">Uso poco frecuente de blasfemias leves</string>
+    <string name="warning_mild_fanservice">Fanservice leve</string>
+    <string name="warning_mild_fanservice_desc">Imágenes sugerentes sin intención explícita</string>
+    <string name="warning_mild_sexual_innuendo">Insinuación sexual leve</string>
+    <string name="warning_mild_sexual_innuendo_desc">Referencias sexuales indirectas o implícitas</string>
+    <string name="warning_tobacco_reference">Referencia al tabaco</string>
+    <string name="warning_tobacco_reference_desc">Menciones al tabaco sin representar su uso</string>
+    <string name="warning_alcohol_reference">Referencia al alcohol</string>
+    <string name="warning_alcohol_reference_desc">Menciones al alcohol sin representar su uso</string>
+    <string name="warning_drug_reference">Referencia a las drogas</string>
+    <string name="warning_drug_reference_desc">Menciones a las drogas sin representar su uso</string>
+    <string name="warning_occultism">Ocultismo</string>
+    <string name="warning_occultism_desc">Temas de magia, rituales o creencias ocultas</string>
+    <string name="warning_moderate_aggression">Agresión moderada</string>
+    <string name="warning_moderate_aggression_desc">Comportamiento hostil sostenido o intenso</string>
+    <string name="warning_moderate_violence">Violencia moderada</string>
+    <string name="warning_moderate_violence_desc">Conflicto físico claro con impacto visible</string>
+    <string name="warning_moderate_gore">Gore moderado</string>
+    <string name="warning_moderate_gore_desc">Lesiones o sangre visibles sin detalles extremos</string>
+    <string name="warning_sexual_humor">Humor sexual</string>
+    <string name="warning_sexual_humor_desc">Chistes o situaciones que hacen referencia a la sexualidad</string>
+    <string name="warning_moderate_language">Lenguaje moderado</string>
+    <string name="warning_moderate_language_desc">Uso frecuente de blasfemias fuertes</string>
+    <string name="warning_nonsexual_nudity">Desnudez no sexual</string>
+    <string name="warning_nonsexual_nudity_desc">Desnudez presentada sin contexto sexual</string>
+    <string name="warning_moderate_fanservice">Fanservice moderado</string>
+    <string name="warning_moderate_fanservice_desc">Imágenes sexualmente sugerentes destinadas a atraer</string>
+    <string name="warning_moderate_sexual_innuendo">Insinuación sexual moderada</string>
+    <string name="warning_moderate_sexual_innuendo_desc">Significado sexual implícito claro</string>
+    <string name="warning_moderate_sexual_language">Lenguaje sexual moderado</string>
+    <string name="warning_moderate_sexual_language_desc">Terminología sexual directa sin detalles gráficos</string>
+    <string name="warning_moderate_sexual_violence">Violencia sexual moderada</string>
+    <string name="warning_moderate_sexual_violence_desc">Violencia sexual mencionada sin representación explícita</string>
+    <string name="warning_pornography_reference">Referencia a la pornografía</string>
+    <string name="warning_pornography_reference_desc">Referencias a material pornográfico</string>
+    <string name="warning_tobacco_use">Consumo de tabaco</string>
+    <string name="warning_tobacco_use_desc">Representación de fumar o consumo de tabaco</string>
+    <string name="warning_alcohol_use">Consumo de alcohol</string>
+    <string name="warning_alcohol_use_desc">Representación del consumo de alcohol</string>
+    <string name="warning_drug_use">Consumo de drogas</string>
+    <string name="warning_drug_use_desc">Representación del consumo de drogas</string>
+    <string name="warning_explicit_aggression">Agresión explícita</string>
+    <string name="warning_explicit_aggression_desc">Hostilidad violenta extrema o sostenida</string>
+    <string name="warning_explicit_violence">Violencia explícita</string>
+    <string name="warning_explicit_violence_desc">Representación gráfica de daño físico</string>
+    <string name="warning_explicit_gore">Gore explícito</string>
+    <string name="warning_explicit_gore_desc">Representación detallada de sangre, lesiones o desmembramiento</string>
+    <string name="warning_sexual_themes">Temas sexuales</string>
+    <string name="warning_sexual_themes_desc">Contenido sexual central en la narrativa</string>
+    <string name="warning_explicit_language">Lenguaje explícito</string>
+    <string name="warning_explicit_language_desc">Blasfemias frecuentes y extremas</string>
+    <string name="warning_full_nudity">Desnudez total</string>
+    <string name="warning_full_nudity_desc">Desnudez completa mostrada en pantalla</string>
+    <string name="warning_explicit_sexual_innuendo">Insinuación sexual explícita</string>
+    <string name="warning_explicit_sexual_innuendo_desc">Fuerte significado sexual implícito</string>
+    <string name="warning_explicit_sexual_language">Lenguaje sexual explícito</string>
+    <string name="warning_explicit_sexual_language_desc">Terminología sexual gráfica</string>
+    <string name="warning_explicit_sexual_violence">Violencia sexual explícita</string>
+    <string name="warning_explicit_sexual_violence_desc">Representación gráfica de violencia sexual</string>
+    <string name="format_group_timeline">Línea temporal</string>
+    <string name="format_group_structure">Estructura</string>
+    <string name="format_prequel">Precuela</string>
+    <string name="format_prequel_desc">Tiene lugar antes de otra historia</string>
+    <string name="format_inquel">Inquel</string>
+    <string name="format_inquel_desc">Tiene lugar durante una brecha en otra historia</string>
+    <string name="format_paraquel">Paraquel</string>
+    <string name="format_paraquel_desc">Tiene lugar simultáneamente con otra historia</string>
+    <string name="format_interquel">Interquel</string>
+    <string name="format_interquel_desc">Secuela de una historia y precuela de otra</string>
+    <string name="format_circumquel">Circumquel</string>
+    <string name="format_circumquel_desc">Tiene lugar en parte antes y después de otra historia</string>
+    <string name="format_sequel">Secuela</string>
+    <string name="format_sequel_desc">Tiene lugar después de otra historia</string>
+    <string name="format_serial">Serie</string>
+    <string name="format_serial_desc">Grupo de historias dentro de una narrativa más grande</string>
+    <string name="format_oneshot">Oneshot</string>
+    <string name="format_oneshot_desc">Historia independiente en un universo compartido</string>
+    <string name="format_omake">Omake</string>
+    <string name="format_omake_desc">Material extra no canónico o rupturas de la cuarta pared</string>
+
+    <string name="group_progress">Progreso</string>
+    <string name="status_draft">Borrador</string>
+    <string name="status_revising">En revisión</string>
+    <string name="status_complete">Completado</string>
+    <string name="status_paused">Pausado</string>
+    <string name="status_shelved">Apartado</string>
+    <string name="status_draft_desc">Planificación inicial o fase de escritura temprana</string>
+    <string name="status_revising_desc">Editando o reescribiendo activamente</string>
+    <string name="status_complete_desc">Terminado y finalizado</string>
+    <string name="status_paused_desc">Temporalmente en espera</string>
+    <string name="status_shelved_desc">Apartado indefinidamente</string>
+</resources>

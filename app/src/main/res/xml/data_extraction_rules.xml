@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Include only safe user data -->
+        <include domain="database" />
+        <include domain="sharedpref" />
+    </cloud-backup>
+
+    <device-transfer>
+        <!-- Skip cache and temp -->
+        <exclude domain="cache" />
+        <exclude domain="file" path="tmp/" />
+    </device-transfer>
+</data-extraction-rules>

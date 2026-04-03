@@ -1,0 +1,10 @@
+{
+  "scope": "series",
+  "templates": [
+    {
+      "key": "field_helper",
+      "title": "Series field helper",
+      "prompt": "Use the series context to keep continuity, recurring details, and naming consistent across related items."
+    }
+  ]
+}

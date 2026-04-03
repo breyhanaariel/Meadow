@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">उत्पन्न करें</string>
+    <string name="ai_mode_improve">सुधारें</string>
+    <string name="ai_mode_rewrite">पुनः लिखें</string>
+    <string name="ai_mode_expand">विस्तार करें</string>
+    <string name="ai_mode_shorten">छोटा करें</string>
+    <string name="ai_action_manage_context">संदर्भ प्रबंधित करें</string>
+    <string name="ai_action_open_chats">चैट खोलें</string>
+    <string name="ai_choose_action">एक क्रिया चुनें</string>
+    <string name="ai_for_field">%1$s के लिए AI</string>
+    <string name="ai_picker_generate_title">उत्पन्न करें: फ़ील्ड चुनें</string>
+    <string name="ai_picker_improve_title">सुधारें: फ़ील्ड चुनें</string>
+    <string name="ai_picker_rewrite_title">पुनः लिखें: फ़ील्ड चुनें</string>
+    <string name="ai_no_fields_available">कोई AI-सक्षम फ़ील्ड उपलब्ध नहीं है।</string>
+    <string name="ai_preview_title">AI परिवर्तनों का पूर्वावलोकन</string>
+    <string name="ai_preview_scope">दायरा: %1$s</string>
+    <string name="ai_preview_count">परिवर्तन: %1$d</string>
+    <string name="ai_preview_before">पहले:</string>
+    <string name="ai_preview_after">बाद में:</string>
+    <string name="ai_optional_note">वैकल्पिक नोट (भेजा नहीं गया)</string>
+    <string name="ai_applied">AI परिवर्तन लागू किए गए</string>
+    <string name="ai_failed_generic">AI विफल रहा</string>
+    <string name="ai_preview_empty">(खाली)</string>
+    <string name="ai_context_title">AI संदर्भ</string>
+    <string name="ai_context_add">संदर्भ जोड़ें</string>
+    <string name="ai_context_pinned">पिन किया गया (हमेशा शामिल करें)</string>
+    <string name="ai_context_title_label">शीर्षक</string>
+    <string name="ai_context_body_label">संदर्भ</string>
+    <string name="ai_context_edit">संदर्भ संपादित करें</string>
+    <string name="ai_context_delete">संदर्भ हटाएं</string>
+    <string name="ai_select_field">एक फ़ील्ड चुनें</string>
+</resources>

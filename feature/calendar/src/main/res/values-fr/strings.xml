@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Calendrier</string>
+    <string name="calendar">Calendrier</string>
+    <string name="action_sync_now">Synchroniser maintenant</string>
+    <string name="action_today">Aujourd\'hui</string>
+    <string name="view_month">Mois</string>
+    <string name="view_week">Semaine</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Tout</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Séries</string>
+    <string name="filter_projects">Projets</string>
+    <string name="filter_this_project">Ce projet</string>
+    <string name="label_color">Couleur</string>
+    <string name="label_recurrence">Répétitions</string>
+    <string name="label_reminder">Rappel</string>
+    <string name="recurrence_none">Ne se répète pas</string>
+    <string name="recurrence_daily">Quotidien</string>
+    <string name="recurrence_weekly">Hebdomadaire</string>
+    <string name="recurrence_monthly">Mensuel</string>
+    <string name="reminder_none">Pas de rappel</string>
+    <string name="reminder_10">10 minutes avant</string>
+    <string name="reminder_30">30 minutes avant</string>
+    <string name="reminder_60">1 heure avant</string>
+    <string name="delete_event_title">Supprimer l\'événement ?</string>
+    <string name="delete_event_message">Cela supprimera définitivement %1$s. Cette action est irréversible.</string>
+    <string name="no_events">Aucun événement pour le moment</string>
+    <string name="add_event">Ajouter un événement</string>
+    <string name="delete_event">Supprimer l\'événement</string>
+    <string name="edit_event">Modifier l\'événement</string>
+    <string name="month">Mois</string>
+    <string name="week">Semaine</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Toute la journée</string>
+    <string name="new_event">Nouvel événement</string>
+    <string name="search_month_or_year">Rechercher un mois ou une année</string>
+    <string name="upcoming_event">À venir</string>
+    <string name="past_event">Passés</string>
+</resources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">A Creative Workspace</string>
+
+    <!-- Home -->
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">A Creative Workspace</string>
+    <string name="home_open_settings">Open Settings</string>
+
+    <!-- Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Settings -->
+    <string name="back_home">Back to Home</string>
+
+    <!-- Accessibility -->
+    <string name="cd_home">Home</string>
+
+</resources>

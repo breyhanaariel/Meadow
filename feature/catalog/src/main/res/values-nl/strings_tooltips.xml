@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Wijs een bovenliggende locatie toe om een hiërarchie te maken (bijv. een stad hoort bij een land, een kamer hoort bij een gebouw).</string>
+    <string name="tooltip_style_voice">Beschrijf zinsbouw, ritme, tempo en stilistische flow.</string>
+    <string name="tooltip_style_lexicon">Regels met betrekking tot jargon, verkortingen, godslastering, dialect of vocabulairebeperkingen.</string>
+    <string name="tooltip_style_do_rules">Zaken die deze stem moet benadrukken of consequent moet bevatten.</string>
+    <string name="tooltip_style_avoid_rules">Zaken die deze stem moet vermijden of minimaliseren.</string>
+    <string name="tooltip_style_formatting">Regels voor het opmaken van innerlijke gedachten, telepathie, sms-berichten of speciale dialogen.</string>
+</resources>

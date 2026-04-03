@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">
+        プロジェクトの簡単な概要。
+    </string>
+
+    <string name="tooltip_project_pitch">
+        アイデアを素早く売り込むための1文。
+    </string>
+
+    <string name="tooltip_project_premise">
+        物語を動かす中心的な「もしも（What if?）」。
+    </string>
+
+    <string name="tooltip_project_promise">
+        観客が期待できる体験（トーン、テーマ、感情的な見返り）。
+    </string>
+
+    <string name="tooltip_project_plot">
+        主要なストーリービートの概略。細部までは不要。
+    </string>
+</resources>

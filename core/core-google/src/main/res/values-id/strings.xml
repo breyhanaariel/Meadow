@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Hubungkan akun Google</string>
+    <string name="google_account_connected">Akun Google terhubung</string>
+    <string name="google_account_disconnected">Putuskan akun Google</string>
+    <string name="google_auth_signing_in">Masuk…</string>
+    <string name="google_auth_sign_in_failed">Gagal masuk</string>
+    <string name="google_auth_signed_out">Keluar</string>
+    <string name="google_auth_permission_required">Izin Google diperlukan</string>
+    <string name="google_auth_retry">Coba lagi</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Menghubungkan ke Google Drive…</string>
+    <string name="google_drive_connected">Terhubung ke Google Drive</string>
+    <string name="google_drive_syncing">Sinkronisasi dengan Google Drive…</string>
+    <string name="google_drive_sync_complete">Sinkronisasi Drive selesai</string>
+    <string name="google_drive_sync_failed">Sinkronisasi Drive gagal</string>
+    <string name="google_drive_permission_denied">Akses Drive ditolak</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Menghubungkan ke Google Sheets…</string>
+    <string name="google_sheets_connected">Terhubung ke Google Sheets</string>
+    <string name="google_sheets_exporting">Mengekspor ke Google Sheets…</string>
+    <string name="google_sheets_export_complete">Ekspor selesai</string>
+    <string name="google_sheets_export_failed">Ekspor gagal</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Menghubungkan ke Google Calendar…</string>
+    <string name="google_calendar_connected">Terhubung ke Google Calendar</string>
+    <string name="google_calendar_syncing">Sinkronisasi kalender…</string>
+    <string name="google_calendar_sync_failed">Sinkronisasi kalender gagal</string>
+    <string name="google_calendar_permission_denied">Akses kalender ditolak</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Menghubungkan ke Google Docs…</string>
+    <string name="google_docs_connected">Terhubung ke Google Docs</string>
+    <string name="google_docs_exporting">Mengekspor ke Google Docs…</string>
+    <string name="google_docs_export_failed">Ekspor gagal</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Menghubungkan ke Gemini…</string>
+    <string name="google_gemini_connected">Terhubung ke Gemini</string>
+    <string name="google_gemini_requesting">Menghasilkan respons…</string>
+    <string name="google_gemini_failed">Permintaan Gemini gagal</string>
+    <string name="google_gemini_rate_limited">Terlalu banyak permintaan. Silakan tunggu.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Een kort overzicht van het project.</string>
+    <string name="tooltip_project_pitch">Eén zin die bedoeld is om het idee snel te verkopen.</string>
+    <string name="tooltip_project_premise">De kernvraag "wat als?" die het verhaal drijft.</string>
+    <string name="tooltip_project_promise">Welke ervaring het publiek kan verwachten (toon, thema, emotionele voldoening).</string>
+    <string name="tooltip_project_plot">Een algemene schets van de belangrijkste verhaalpunten. Niet elk detail.</string>
+</resources>

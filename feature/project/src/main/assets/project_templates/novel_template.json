@@ -1,0 +1,41 @@
+{
+  "typeKey": "novel",
+  "displayName": "project_type_novel",
+  "color": "#B89BD8",
+  "enabledFeatures": [
+    "calendar",
+    "catalog",
+    "script",
+    "plot_cards",
+    "timeline",
+    "mindmap",
+    "wiki",
+    "family_tree"
+  ],
+  "fields": [
+    {
+      "id": "project.word_count_target",
+      "key": "word_count_target",
+      "labelKey": "field_project_word_count_target",
+      "kind": "NUMBER",
+      "group": "group_writing",
+      "order": 20
+    },
+    {
+      "id": "project.narrative_pov",
+      "key": "narrative_pov",
+      "labelKey": "field_project_narrative_pov",
+      "kind": "SINGLE_SELECT",
+      "group": "group_writing",
+      "order": 21,
+      "metadata": {
+        "options": [
+          "narrative_pov_first_person",
+          "narrative_pov_second_person",
+          "narrative_pov_third_person_limited",
+          "narrative_pov_third_person_omniscient"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">
+        Un bref aperçu du projet.
+    </string>
+
+    <string name="tooltip_project_pitch">
+        Une phrase destinée à vendre l\'idée rapidement.
+    </string>
+
+    <string name="tooltip_project_premise">
+        Le « et si ? » central qui motive l\'histoire.
+    </string>
+
+    <string name="tooltip_project_promise">
+        L\'expérience à laquelle le public peut s\'attendre (ton, thème, impact émotionnel).
+    </string>
+
+    <string name="tooltip_project_plot">
+        Les grandes lignes des moments clés de l\'histoire. Pas tous les détails.
+    </string>
+</resources>

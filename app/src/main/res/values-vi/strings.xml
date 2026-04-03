@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Một không gian làm việc sáng tạo</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Một không gian làm việc sáng tạo</string>
+    <string name="home_open_settings">Mở Cài đặt</string>
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="back_home">Quay lại Trang chủ</string>
+    <string name="cd_home">Trang chủ</string>
+</resources>

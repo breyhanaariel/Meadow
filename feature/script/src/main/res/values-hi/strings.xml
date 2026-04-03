@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">स्क्रिप्ट</string>
+    <string name="script_list_title">स्क्रिप्ट्स</string>
+    <string name="script_new">नई स्क्रिप्ट</string>
+    <string name="script_editor_title">संपादक</string>
+    <string name="script_dialect">बोली (Dialect)</string>
+    <string name="script_mode_structure">संरचना</string>
+    <string name="script_mode_outline">रूपरेखा</string>
+    <string name="script_mode_catalog_links">कैटलॉग लिंक</string>
+    <string name="script_mode_comments">टिप्पणियाँ</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">निर्यात करें</string>
+    <string name="script_action_more">अधिक</string>
+    <string name="script_outline">रूपरेखा</string>
+    <string name="script_no_scripts">अभी तक कोई स्क्रिप्ट नहीं है</string>
+    <string name="script_create_failed">स्क्रिप्ट नहीं बनाई जा सकी</string>
+    <string name="script_saved">सहेजा गया</string>
+    <string name="script_type_comic">कॉमिक</string>
+    <string name="script_type_novel">उपन्यास</string>
+    <string name="script_type_tv">टीवी</string>
+    <string name="script_type_movie">फिल्म</string>
+    <string name="script_type_game">गेम</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

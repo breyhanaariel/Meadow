@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Przypisz lokalizację nadrzędną, aby utworzyć hierarchię (np. miasto należy do kraju, pokój należy do budynku).</string>
+    <string name="tooltip_style_voice">Opisz strukturę zdań, rytm, tempo i przepływ stylistyczny.</string>
+    <string name="tooltip_style_lexicon">Zasady dotyczące slangu, skrótów, wulgaryzmów, dialektu lub ograniczeń słownictwa.</string>
+    <string name="tooltip_style_do_rules">Rzeczy, które ten głos powinien podkreślać lub konsekwentnie zawierać.</string>
+    <string name="tooltip_style_avoid_rules">Rzeczy, których ten głos musi unikać lub które powinien minimalizować.</string>
+    <string name="tooltip_style_formatting">Zasady formatowania myśli wewnętrznych, telepatii, wiadomości tekstowych lub specjalnych dialogów.</string>
+</resources>

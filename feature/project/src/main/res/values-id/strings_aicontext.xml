@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Hasilkan</string>
+    <string name="ai_mode_improve">Tingkatkan</string>
+    <string name="ai_mode_rewrite">Tulis Ulang</string>
+    <string name="ai_mode_expand">Perluas</string>
+    <string name="ai_mode_shorten">Perpendek</string>
+    <string name="ai_action_manage_context">Kelola Konteks</string>
+    <string name="ai_action_open_chats">Buka Percakapan</string>
+    <string name="ai_choose_action">Pilih tindakan</string>
+    <string name="ai_for_field">AI untuk: %1$s</string>
+    <string name="ai_picker_generate_title">Hasilkan: Pilih bidang</string>
+    <string name="ai_picker_improve_title">Tingkatkan: Pilih bidang</string>
+    <string name="ai_picker_rewrite_title">Tulis Ulang: Pilih bidang</string>
+    <string name="ai_no_fields_available">Tidak ada bidang bertenaga AI yang tersedia.</string>
+    <string name="ai_preview_title">Pratinjau Perubahan AI</string>
+    <string name="ai_preview_scope">Cakupan: %1$s</string>
+    <string name="ai_preview_count">Perubahan: %1$d</string>
+    <string name="ai_preview_before">Sebelum:</string>
+    <string name="ai_preview_after">Sesudah:</string>
+    <string name="ai_optional_note">Catatan opsional (tidak dikirim)</string>
+    <string name="ai_applied">Perubahan AI diterapkan</string>
+    <string name="ai_failed_generic">AI gagal</string>
+    <string name="ai_preview_empty">(kosong)</string>
+    <string name="ai_context_title">Konteks AI</string>
+    <string name="ai_context_add">Tambah Konteks</string>
+    <string name="ai_context_pinned">Disematkan (selalu sertakan)</string>
+    <string name="ai_context_title_label">Judul</string>
+    <string name="ai_context_body_label">Konteks</string>
+    <string name="ai_context_edit">Edit konteks</string>
+    <string name="ai_context_delete">Hapus konteks</string>
+    <string name="ai_select_field">Pilih bidang</string>
+</resources>

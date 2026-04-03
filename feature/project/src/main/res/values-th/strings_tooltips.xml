@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">ภาพรวมคร่าวๆ ของโปรเจกต์</string>
+    <string name="tooltip_project_pitch">ประโยคเดียวที่ใช้ในการนำเสนอไอเดียอย่างรวดเร็ว</string>
+    <string name="tooltip_project_premise">คำถามหลัก "จะเกิดอะไรขึ้นถ้า...?" ที่เป็นตัวดำเนินเรื่อง</string>
+    <string name="tooltip_project_promise">ประสบการณ์ที่ผู้ชมจะได้รับ (โทนเรื่อง, ธีม, ผลลัพธ์ทางอารมณ์)</string>
+    <string name="tooltip_project_plot">โครงเรื่องคร่าวๆ ของจุดสำคัญในเรื่อง ไม่ใช่ทุกรายละเอียด</string>
+</resources>

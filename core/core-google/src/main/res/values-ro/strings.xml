@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Conectați contul Google</string>
+    <string name="google_account_connected">Cont Google conectat</string>
+    <string name="google_account_disconnected">Deconectați contul Google</string>
+    <string name="google_auth_signing_in">Se conectează…</string>
+    <string name="google_auth_sign_in_failed">Conectarea a eșuat</string>
+    <string name="google_auth_signed_out">Deconectat</string>
+    <string name="google_auth_permission_required">Permisiune Google necesară</string>
+    <string name="google_auth_retry">Încercați din nou</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Se conectează la Google Drive…</string>
+    <string name="google_drive_connected">Conectat la Google Drive</string>
+    <string name="google_drive_syncing">Se sincronizează cu Google Drive…</string>
+    <string name="google_drive_sync_complete">Sincronizarea Drive finalizată</string>
+    <string name="google_drive_sync_failed">Sincronizarea Drive a eșuat</string>
+    <string name="google_drive_permission_denied">Acces la Drive refuzat</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Se conectează la Google Sheets…</string>
+    <string name="google_sheets_connected">Conectat la Google Sheets</string>
+    <string name="google_sheets_exporting">Se exportă în Google Sheets…</string>
+    <string name="google_sheets_export_complete">Export finalizat</string>
+    <string name="google_sheets_export_failed">Export eșuat</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Se conectează la Google Calendar…</string>
+    <string name="google_calendar_connected">Conectat la Google Calendar</string>
+    <string name="google_calendar_syncing">Se sincronizează calendarul…</string>
+    <string name="google_calendar_sync_failed">Sincronizarea calendarului a eșuat</string>
+    <string name="google_calendar_permission_denied">Acces la calendar refuzat</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Se conectează la Google Docs…</string>
+    <string name="google_docs_connected">Conectat la Google Docs</string>
+    <string name="google_docs_exporting">Se exportă în Google Docs…</string>
+    <string name="google_docs_export_failed">Export eșuat</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Se conectează la Gemini…</string>
+    <string name="google_gemini_connected">Conectat la Gemini</string>
+    <string name="google_gemini_requesting">Se generează răspunsul…</string>
+    <string name="google_gemini_failed">Cererea Gemini a eșuat</string>
+    <string name="google_gemini_rate_limited">Prea multe cereri. Vă rugăm să așteptați.</string>
+</resources>

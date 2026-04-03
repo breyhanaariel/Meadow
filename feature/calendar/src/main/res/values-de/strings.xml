@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Kalender</string>
+    <string name="calendar">Kalender</string>
+    <string name="action_sync_now">Jetzt synchronisieren</string>
+    <string name="action_today">Heute</string>
+    <string name="view_month">Monat</string>
+    <string name="view_week">Woche</string>
+    <string name="view_agenda">Terminübersicht</string>
+    <string name="filter_all">Alle</string>
+    <string name="filter_global">Global</string>
+    <string name="filter_series">Serien</string>
+    <string name="filter_projects">Projekte</string>
+    <string name="filter_this_project">Dieses Projekt</string>
+    <string name="label_color">Farbe</string>
+    <string name="label_recurrence">Wiederholungen</string>
+    <string name="label_reminder">Erinnerung</string>
+    <string name="recurrence_none">Keine Wiederholung</string>
+    <string name="recurrence_daily">Täglich</string>
+    <string name="recurrence_weekly">Wöchentlich</string>
+    <string name="recurrence_monthly">Monatlich</string>
+    <string name="reminder_none">Keine Erinnerung</string>
+    <string name="reminder_10">10 Minuten vorher</string>
+    <string name="reminder_30">30 Minuten vorher</string>
+    <string name="reminder_60">1 Stunde vorher</string>
+    <string name="delete_event_title">Ereignis löschen?</string>
+    <string name="delete_event_message">Dies wird %1$s dauerhaft löschen. Diese Aktion kann nicht rückgängig gemacht werden.</string>
+    <string name="no_events">Noch keine Ereignisse</string>
+    <string name="add_event">Ereignis hinzufügen</string>
+    <string name="delete_event">Ereignis löschen</string>
+    <string name="edit_event">Ereignis bearbeiten</string>
+    <string name="month">Monat</string>
+    <string name="week">Woche</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Ganztägig</string>
+    <string name="new_event">Neues Ereignis</string>
+    <string name="search_month_or_year">Monat oder Jahr suchen</string>
+    <string name="upcoming_event">Anstehend</string>
+    <string name="past_event">Vergangen</string>
+</resources>

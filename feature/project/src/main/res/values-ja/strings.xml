@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project">プロジェクト</string>
+    <string name="series_and_projects">シリーズとプロジェクト</string>
+    <string name="action_create_project">プロジェクトを作成</string>
+    <string name="action_edit_project">プロジェクトを編集</string>
+    <string name="create_project">プロジェクトを作成</string>
+    <string name="new_project">新規プロジェクト</string>
+    <string name="switch_project">プロジェクトを切り替え</string>
+
+    <string name="project_created_success">プロジェクトを作成しました</string>
+    <string name="project_created_failed">プロジェクトを作成できませんでした</string>
+    <string name="project_edited_success">プロジェクトを更新しました</string>
+    <string name="project_edited_failed">プロジェクトを更新できませんでした</string>
+    <string name="project_deleted_success">プロジェクトを削除しました</string>
+    <string name="project_deleted_failed">プロジェクトを削除できませんでした</string>
+
+    <string name="error_project_not_found">プロジェクトが見つかりません</string>
+
+    <string name="field_project_type">プロジェクトタイプ</string>
+    <string name="field_project_title">タイトル</string>
+    <string name="field_project_description">説明</string>
+    <string name="field_project_pitch">ピッチ</string>
+    <string name="field_project_premise">前提</string>
+    <string name="field_project_plot">プロット</string>
+    <string name="field_project_promise">約束（プロミス）</string>
+    <string name="field_project_genre">ジャンル</string>
+    <string name="field_project_format">フォーマット</string>
+    <string name="field_project_rating">レーティング</string>
+    <string name="field_project_status">ステータス</string>
+    <string name="field_project_audience">ターゲット層</string>
+    <string name="field_project_elements">要素</string>
+    <string name="field_project_warnings">警告</string>
+    <string name="field_history_title">フィールド履歴</string>
+    <string name="field_appearance">フィールドの外観</string>
+    <string name="field_project_completed">完了</string>
+    <string name="field_project_archived">アーカイブ済み</string>
+
+    <string name="projects_title">プロジェクト</string>
+    <string name="projects_empty">まだプロジェクトを作成していません。</string>
+    <string name="projects_no_results">検索やフィルターに一致するプロジェクトはありません。</string>
+    <string name="projects_in_series">このシリーズのプロジェクト</string>
+    <string name="no_projects_found">プロジェクトが見つかりません</string>
+
+    <string name="search_projects">プロジェクトを検索</string>
+    <string name="search_projects_hint">
+        ピッチ、前提、プロット、約束、説明を検索…
+    </string>
+
+    <string name="filters">フィルター</string>
+    <string name="sort">並べ替え</string>
+    <string name="visibility">表示設定</string>
+    <string name="show_archived">アーカイブを表示</string>
+    <string name="show_completed">完了済みを表示</string>
+
+    <string name="sort_project_count_asc">プロジェクト数 (少ない順)</string>
+    <string name="sort_project_count_desc">プロジェクト数 (多い順)</string>
+
+    <string name="results_count">%1$d 件の結果</string>
+    <string name="try_adjusting_filters">検索キーワードやフィルターを調整してみてください</string>
+
+    <string name="project_dashboard">プロジェクトダッシュボード</string>
+    <string name="project_details">プロジェクト詳細</string>
+    <string name="project_overview">概要</string>
+    <string name="dashboard_overview">概要</string>
+    <string name="dashboard_details">詳細</string>
+    <string name="dashboard_in_this_series">このシリーズ内</string>
+    <string name="project_quick_actions">クイックアクション</string>
+
+    <string name="project_cover">プロジェクトの表紙</string>
+    <string name="project_cover_placeholder">タップして表紙を追加</string>
+    <string name="project_no_cover">表紙なし</string>
+    <string name="project_details_placeholder">
+        プロジェクトの詳細情報は今後のアップデートでここに表示されます。
+    </string>
+
+    <string name="history">履歴</string>
+    <string name="history_title">履歴</string>
+    <string name="history_empty">変更はありません。</string>
+    <string name="history_added_value">追加された値</string>
+    <string name="history_cleared_value">消去された値</string>
+    <string name="history_source_manual">手動編集</string>
+    <string name="history_source_migration">移行</string>
+    <string name="history_source_sync">同期</string>
+    <string name="last_synced">最終同期</string>
+    <string name="last_synced_format">最終同期: %1$s</string>
+
+    <string name="choose_project">プロジェクトを選択</string>
+    <string name="choose_project_type">プロジェクトタイプを選択</string>
+
+    <string name="project_type_comic">コミック</string>
+    <string name="project_type_novel">小説</string>
+    <string name="project_type_movie">映画</string>
+    <string name="project_type_tv_show">テレビ番組</string>
+    <string name="project_type_game">ゲーム</string>
+    <string name="project_type_unknown">不明</string>
+
+    <string name="select_project">プロジェクトを選択</string>
+    <string name="backup_projects">プロジェクトをバックアップ</string>
+    <string name="sync_project">プロジェクトを同期</string>
+    <string name="sync_all_projects">すべて同期</string>
+    <string name="sync_now">今すぐ同期</string>
+    <string name="sync_in_progress">同期中…</string>
+    <string name="restore_from_drive">Driveから復元</string>
+    <string name="view_projects">プロジェクトを表示</string>
+
+    <string name="edit_project_title">プロジェクトを編集</string>
+    <string name="confirm_delete_project">プロジェクトを削除しますか？</string>
+    <string name="delete_project_title">プロジェクトを削除</string>
+    <string name="delete_project_message">
+        本当にこのプロジェクトを削除しますか？この操作は元に戻せません。
+    </string>
+
+    <string name="series">シリーズ</string>
+    <string name="choose_series">シリーズを選択</string>
+    <string name="select_or_create_series">シリーズを選択または作成</string>
+
+    <string name="action_add_series">シリーズを追加</string>
+    <string name="action_create_series">シリーズを作成</string>
+    <string name="create_new_series">新規シリーズを作成</string>
+
+    <string name="series_create_title">シリーズを作成</string>
+    <string name="rename_series">シリーズ名を変更</string>
+    <string name="series_rename_title">シリーズ名を変更</string>
+
+    <string name="series_title">シリーズタイトル</string>
+    <string name="series_name">シリーズ名</string>
+    <string name="series_name_duplicate">この名前のシリーズは既に存在します</string>
+
+    <string name="series_manage">シリーズを管理</string>
+    <string name="series_metadata">シリーズメタデータ</string>
+    <string name="series_summary">シリーズ概要</string>
+
+    <string name="series_empty">シリーズはまだありません</string>
+    <string name="no_series">シリーズなし</string>
+    <string name="series_no_projects">このシリーズにはプロジェクトがありません</string>
+
+    <string name="series_project_count">%1$d プロジェクト</string>
+    <string name="series_projects">シリーズのプロジェクト</string>
+
+    <string name="add_to_series">シリーズに追加</string>
+    <string name="remove_from_series">シリーズから削除</string>
+    <string name="convert_to_series">シリーズに変換</string>
+    <string name="revert_to_project">プロジェクトに戻す</string>
+
+    <string name="added_to_series_success">プロジェクトをシリーズに追加しました</string>
+    <string name="added_to_series_failed">プロジェクトをシリーズに追加できませんでした</string>
+    <string name="remove_from_series_success">プロジェクトをシリーズから削除しました。</string>
+    <string name="remove_from_series_failed">プロジェクトをシリーズから削除できませんでした。</string>
+    <string name="revert_to_project_success">プロジェクトを単独のプロジェクトに戻しました。</string>
+    <string name="revert_to_project_failed">プロジェクトを単独のプロジェクトに戻せませんでした。</string>
+    <string name="converted_to_series_success">プロジェクトをシリーズに変換しました</string>
+    <string name="create_series_failed">シリーズを作成できませんでした</string>
+
+    <string name="action_backup_project_catalog">プロジェクトカタログをバックアップ</string>
+    <string name="action_backup_series_catalog">シリーズカタログをバックアップ</string>
+
+    <string name="series_renamed_success">シリーズ名を変更しました</string>
+    <string name="series_deleted_success">シリーズを削除しました</string>
+
+    <string name="delete_series_title">シリーズを削除しますか？</string>
+    <string name="confirm_delete_series">シリーズ「%1$s」を削除しますか？</string>
+    <string name="delete_series_message">
+        本当にシリーズ「%1$s」を削除しますか？
+    </string>
+
+    <string name="series_delete_safety">%1$d 個のプロジェクトはリンク解除されますが、削除はされません</string>
+    <string name="series_field_scope_series">シリーズ全体</string>
+    <string name="series_field_scope_project">プロジェクト固有</string>
+    <string name="search_series">シリーズを検索</string>
+    <string name="series_shared_field">共有フィールド</string>
+    <string name="view_series">シリーズを表示</string>
+    <string name="series_add_projects">プロジェクトを追加</string>
+
+    <string name="project_loading">プロジェクトを読み込み中…</string>
+    <string name="project_archived">アーカイブ済み</string>
+    <string name="project_completed">完了</string>
+    <string name="project_invalid_form">ハイライトされたフィールドを修正してください</string>
+    <string name="project_required_field">このフィールドは必須です</string>
+    <string name="project_sync_failed">プロジェクトの同期に失敗しました</string>
+    <string name="project_sync_success">プロジェクトを同期しました</string>
+    <string name="project_no_enabled_features">このプロジェクトで有効な機能はありません</string>
+
+    <string name="group_production">制作</string>
+    <string name="field_project_page_count">ページ数</string>
+    <string name="field_project_art_style">画風</string>
+    <string name="art_style_manga">マンガ</string>
+    <string name="art_style_chibi">ちびキャラ</string>
+    <string name="art_style_cartoon">カートゥーン</string>
+    <string name="art_style_realistic">リアル</string>
+
+    <string name="group_design">デザイン</string>
+    <string name="group_release">リリース</string>
+    <string name="field_project_game_genre">ゲームジャンル</string>
+    <string name="field_project_platforms">プラットフォーム</string>
+    <string name="game_genre_rpg">RPG</string>
+    <string name="game_genre_visual_novel">ビジュアルノベル</string>
+    <string name="game_genre_simulation">シミュレーション</string>
+    <string name="game_genre_strategy">ストラテジー</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_android">Android</string>
+    <string name="platform_ios">iOS</string>
+    <string name="platform_console">コンソール</string>
+    <string name="platform_web">Web</string>
+
+    <string name="field_project_runtime_minutes">上映時間（分）</string>
+    <string name="field_project_budget">予算</string>
+
+    <string name="group_writing">執筆</string>
+    <string name="field_project_word_count_target">目標文字数</string>
+    <string name="field_project_narrative_pov">語りの視点</string>
+    <string name="narrative_pov_first_person">一人称</string>
+    <string name="narrative_pov_second_person">二人称</string>
+    <string name="narrative_pov_third_person_limited">三人称一元視点</string>
+    <string name="narrative_pov_third_person_omniscient">三人称神の視点</string>
+
+    <string name="group_structure">構成</string>
+    <string name="field_project_seasons">シーズン数</string>
+    <string name="field_project_episodes_per_season">シーズンごとのエピソード数</string>
+
+    <string name="group_classification">分類</string>
+    <string name="audience_adventurer">冒険者</string>
+    <string name="audience_dreamer">夢想家</string>
+    <string name="audience_thinker">思想家</string>
+    <string name="audience_believer">信奉者</string>
+    <string name="genre_group_adventurer">冒険者</string>
+    <string name="genre_group_dreamer">夢想家</string>
+    <string name="genre_group_thinker">思想家</string>
+    <string name="genre_group_believer">信奉者</string>
+    <string name="genre_action">アクション</string>
+    <string name="genre_action_desc">戦闘または格闘</string>
+    <string name="genre_adventure">アドベンチャー</string>
+    <string name="genre_adventure_desc">壮大な旅と発見</string>
+    <string name="genre_cyberpunk">サイバーパンク</string>
+    <string name="genre_cyberpunk_desc">過度に工業化された未来社会</string>
+    <string name="genre_steampunk">スチームパンク</string>
+    <string name="genre_steampunk_desc">蒸気機関が発達した歴史改変</string>
+    <string name="genre_fantasy">ファンタジー</string>
+    <string name="genre_fantasy_desc">現実とは異なる世界</string>
+    <string name="genre_science">SF</string>
+    <string name="genre_science_desc">科学技術が発達した世界</string>
+    <string name="genre_horror">ホラー</string>
+    <string name="genre_horror_desc">恐怖を与えることを目的とする</string>
+    <string name="genre_gothic">ゴシック</string>
+    <string name="genre_gothic_desc">奇怪、荒廃、運命的な雰囲気</string>
+    <string name="genre_paranormal">パラノーマル</string>
+    <string name="genre_paranormal_desc">科学的説明を超えた現象</string>
+    <string name="genre_supernatural">スーパーナチュラル</string>
+    <string name="genre_supernatural_desc">自然法則を超えた現象</string>
+    <string name="genre_spiritual">スピリチュアル</string>
+    <string name="genre_spiritual_desc">精神的信仰を探求する</string>
+    <string name="genre_religious">宗教</string>
+    <string name="genre_religious_desc">宗教的教義を中心とする</string>
+    <string name="genre_parody">パロディ</string>
+    <string name="genre_parody_desc">ユーモラスな模倣</string>
+    <string name="genre_satire">風刺</string>
+    <string name="genre_satire_desc">批判的ユーモア</string>
+    <string name="genre_mystery">ミステリー</string>
+    <string name="genre_mystery_desc">不可解な犯罪や状況</string>
+    <string name="genre_romantic_comedy">ラブコメディ</string>
+    <string name="genre_romantic_comedy_desc">恋愛をテーマにしたコメディ</string>
+    <string name="genre_erotic_comedy">エロティックコメディ</string>
+    <string name="genre_erotic_comedy_desc">性をテーマにしたコメディ</string>
+    <string name="genre_gag">ギャグ</string>
+    <string name="genre_gag_desc">不条理なユーモア</string>
+    <string name="genre_comedy">コメディ</string>
+    <string name="genre_comedy_desc">現実的なユーモア</string>
+    <string name="genre_period_drama">歴史ドラマ</string>
+    <string name="genre_period_drama_desc">史実に基づいたドラマ</string>
+    <string name="genre_drama">ドラマ</string>
+    <string name="genre_drama_desc">人間関係と成長</string>
+
+    <string name="elements_group_emotional">感情</string>
+    <string name="elements_group_sexual">性的</string>
+    <string name="elements_group_paraphilia">パラフィリア</string>
+    <string name="elements_angst">シリアス</string>
+    <string name="elements_angst_desc">感情的な重さや葛藤</string>
+    <string name="elements_fluff">ほのぼの</string>
+    <string name="elements_fluff_desc">明るく、シリアスな要素がない</string>
+    <string name="elements_lime">ライム</string>
+    <string name="elements_lime_desc">キスや直接的でない性的描写</string>
+    <string name="elements_lemonade">レモネード</string>
+    <string name="elements_lemonade_desc">ロマンチックな性行為</string>
+    <string name="elements_lemon">レモン</string>
+    <string name="elements_lemon_desc">直接的な性的描写</string>
+    <string name="elements_grapefruit">グレープフルーツ</string>
+    <string name="elements_grapefruit_desc">合意のない性行為</string>
+    <string name="elements_bd">BD</string>
+    <string name="elements_bd_desc">緊縛と支配</string>
+    <string name="elements_sm">SM</string>
+    <string name="elements_sm_desc">加虐と被虐</string>
+    <string name="elements_ve">VE</string>
+    <string name="elements_ve_desc">窃視と露出</string>
+
+    <string name="rating_group_ratings">レーティング</string>
+    <string name="rating_all">全年齢</string>
+    <string name="rating_all_desc">不適切な言葉、暴力、性的描写、成人向けテーマを含まない</string>
+    <string name="rating_preteen">プレティーン</string>
+    <string name="rating_preteen_desc">10〜12歳。軽度の不適切な言葉、暴力、性的描写、成人向けテーマ</string>
+    <string name="rating_tween">ローティーン</string>
+    <string name="rating_tween_desc">13〜15歳。中程度の不適切な言葉、暴力、性的描写、成人向けテーマ</string>
+    <string name="rating_teen">ハイティーン</string>
+    <string name="rating_teen_desc">16〜17歳。やや強い不適切な言葉、暴力、性的描写、成人向けテーマ</string>
+    <string name="rating_adult">成人向け</string>
+    <string name="rating_adult_desc">18歳以上。露骨な不適切な言葉、暴力、性的描写、成人向けテーマ</string>
+
+    <string name="warnings_group_all">全年齢</string>
+    <string name="warnings_group_preteen">プレティーン</string>
+    <string name="warnings_group_tween">ローティーン</string>
+    <string name="warnings_group_teen">ハイティーン</string>
+    <string name="warnings_group_adult">成人向け</string>
+    <string name="warning_cartoon_violence">漫画的な暴力</string>
+    <string name="warning_cartoon_violence_desc">怪我の描写がない、様式的または誇張された暴力</string>
+    <string name="warning_potty_humor">下品なユーモア</string>
+    <string name="warning_potty_humor_desc">排泄物に関するジョークやユーモア</string>
+    <string name="warning_slapstick_humor">スラップスティック</string>
+    <string name="warning_slapstick_humor_desc">誇張された失敗を含む身体的なコメディ</string>
+    <string name="warning_minor_aggression">軽微な攻撃性</string>
+    <string name="warning_minor_aggression_desc">怪我を伴わない、短時間または軽度の敵対的行動</string>
+    <string name="warning_fantasy_violence">ファンタジー暴力</string>
+    <string name="warning_fantasy_violence_desc">架空の設定における非現実的な暴力</string>
+    <string name="warning_mild_aggression">穏やかな攻撃性</string>
+    <string name="warning_mild_aggression_desc">描写の激しくない対立や脅迫</string>
+    <string name="warning_minor_violence">軽微な暴力</string>
+    <string name="warning_minor_violence_desc">短時間で、描写の激しくない身体的衝突</string>
+    <string name="warning_mild_gore">軽度のゴア</string>
+    <string name="warning_mild_gore_desc">詳細な描写のない、非常に限定的な怪我の表現</string>
+    <string name="warning_crude_humor">粗野なユーモア</string>
+    <string name="warning_crude_humor_desc">生理現象や際どいテーマを含むジョーク</string>
+    <string name="warning_mild_language">軽度の不適切な言葉</string>
+    <string name="warning_mild_language_desc">軽度の冒涜的な言葉の頻度の低い使用</string>
+    <string name="warning_mild_fanservice">軽度のファンサービス</string>
+    <string name="warning_mild_fanservice_desc">露骨な意図のない、示唆的なビジュアル</string>
+    <string name="warning_mild_sexual_innuendo">軽度の性的なほのめかし</string>
+    <string name="warning_mild_sexual_innuendo_desc">間接的または暗示的な性的言及</string>
+    <string name="warning_tobacco_reference">タバコへの言及</string>
+    <string name="warning_tobacco_reference_desc">使用描写のないタバコへの言及</string>
+    <string name="warning_alcohol_reference">アルコールへの言及</string>
+    <string name="warning_alcohol_reference_desc">使用描写のないアルコールへの言及</string>
+    <string name="warning_drug_reference">薬物への言及</string>
+    <string name="warning_drug_reference_desc">使用描写のない薬物への言及</string>
+    <string name="warning_occultism">オカルト</string>
+    <string name="warning_occultism_desc">魔法、儀式、オカルト信仰を含むテーマ</string>
+    <string name="warning_moderate_aggression">中程度の攻撃性</string>
+    <string name="warning_moderate_aggression_desc">持続的または激しい敵対的行動</string>
+    <string name="warning_moderate_violence">中程度の暴力</string>
+    <string name="warning_moderate_violence_desc">目に見える影響を伴う明確な身体的衝突</string>
+    <string name="warning_moderate_gore">中程度のゴア</string>
+    <string name="warning_moderate_gore_desc">極端な詳細さはないが、目に見える怪我や流血</string>
+    <string name="warning_sexual_humor">性的なユーモア</string>
+    <string name="warning_sexual_humor_desc">性に関するジョークや状況</string>
+    <string name="warning_moderate_language">中程度の不適切な言葉</string>
+    <string name="warning_moderate_language_desc">強い冒涜的な言葉の頻繁な使用</string>
+    <string name="warning_nonsexual_nudity">非性的なヌード</string>
+    <string name="warning_nonsexual_nudity_desc">性的な文脈なしで提示されるヌード</string>
+    <string name="warning_moderate_fanservice">中程度のファンサービス</string>
+    <string name="warning_moderate_fanservice_desc">魅力を意図した性的に示唆的なビジュアル</string>
+    <string name="warning_moderate_sexual_innuendo">中程度の性的なほのめかし</string>
+    <string name="warning_moderate_sexual_innuendo_desc">明確に暗示された性的意味</string>
+    <string name="warning_moderate_sexual_language">中程度の性的な言葉</string>
+    <string name="warning_moderate_sexual_language_desc">詳細な描写のない直接的な性的用語</string>
+    <string name="warning_moderate_sexual_violence">中程度の性的暴力</string>
+    <string name="warning_moderate_sexual_violence_desc">露骨な描写なしに言及される性的暴力</string>
+    <string name="warning_pornography_reference">ポルノへの言及</string>
+    <string name="warning_pornography_reference_desc">ポルノ素材への言及</string>
+    <string name="warning_tobacco_use">タバコの使用</string>
+    <string name="warning_tobacco_use_desc">喫煙またはタバコ消費の描写</string>
+    <string name="warning_alcohol_use">アルコールの使用</string>
+    <string name="warning_alcohol_use_desc">アルコール消費の描写</string>
+    <string name="warning_drug_use">薬物の使用</string>
+    <string name="warning_drug_use_desc">薬物消費の描写</string>
+    <string name="warning_explicit_aggression">露骨な攻撃性</string>
+    <string name="warning_explicit_aggression_desc">極端または持続的な暴力的敵意</string>
+    <string name="warning_explicit_violence">露骨な暴力</string>
+    <string name="warning_explicit_violence_desc">身体的危害のグラフィックな描写</string>
+    <string name="warning_explicit_gore">露骨なゴア</string>
+    <string name="warning_explicit_gore_desc">流血、怪我、または切断の詳細な描写</string>
+    <string name="warning_sexual_themes">性的なテーマ</string>
+    <string name="warning_sexual_themes_desc">物語の中心となる性的コンテンツ</string>
+    <string name="warning_explicit_language">露骨な不適切な言葉</string>
+    <string name="warning_explicit_language_desc">頻繁で極端な冒涜的な言葉</string>
+    <string name="warning_full_nudity">完全なヌード</string>
+    <string name="warning_full_nudity_desc">画面に表示される完全なヌード</string>
+    <string name="warning_explicit_sexual_innuendo">露骨な性的なほのめかし</string>
+    <string name="warning_explicit_sexual_innuendo_desc">強く暗示された性的意味</string>
+    <string name="warning_explicit_sexual_language">露骨な性的な言葉</string>
+    <string name="warning_explicit_sexual_language_desc">グラフィックな性的用語</string>
+    <string name="warning_explicit_sexual_violence">露骨な性的暴力</string>
+    <string name="warning_explicit_sexual_violence_desc">性的暴力のグラフィックな描写</string>
+    <string name="format_group_timeline">タイムライン</string>
+    <string name="format_group_structure">構成</string>
+    <string name="format_prequel">プリクエル</string>
+    <string name="format_prequel_desc">別の物語の前に起こる</string>
+    <string name="format_inquel">インクエル</string>
+    <string name="format_inquel_desc">別の物語の間の空白期間に起こる</string>
+    <string name="format_paraquel">パラクエル</string>
+    <string name="format_paraquel_desc">別の物語と同時に進行する</string>
+    <string name="format_interquel">インタークエル</string>
+    <string name="format_interquel_desc">ある物語の続編であり、別の物語の前日譚</string>
+    <string name="format_circumquel">サーカムクエル</string>
+    <string name="format_circumquel_desc">一部が別の物語の前後にまたがる</string>
+    <string name="format_sequel">シークエル</string>
+    <string name="format_sequel_desc">別の物語の後に起こる</string>
+    <string name="format_serial">連載</string>
+    <string name="format_serial_desc">一つの大きな物語内のストーリー群</string>
+    <string name="format_oneshot">ワンショット</string>
+    <string name="format_oneshot_desc">共有ユニバース内の独立した物語（読み切り）</string>
+    <string name="format_omake">おまけ</string>
+    <string name="format_omake_desc">非公式の特典コンテンツや第四の壁を破るもの</string>
+
+    <string name="group_progress">進捗</string>
+    <string name="status_draft">下書き</string>
+    <string name="status_revising">推敲中</string>
+    <string name="status_complete">完了</string>
+    <string name="status_paused">一時停止</string>
+    <string name="status_shelved">棚上げ</string>
+    <string name="status_draft_desc">初期計画または執筆初期段階</string>
+    <string name="status_revising_desc">積極的に編集または書き直し中</string>
+    <string name="status_complete_desc">完成して確定済み</string>
+    <string name="status_paused_desc">一時的に保留</string>
+    <string name="status_shelved_desc">無期限に保留</string>
+</resources>

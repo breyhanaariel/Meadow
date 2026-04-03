@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">O scurtă prezentare generală a proiectului.</string>
+    <string name="tooltip_project_pitch">O singură propoziție menită să vândă ideea rapid.</string>
+    <string name="tooltip_project_premise">Nucleul „ce-ar fi dacă?” care pune povestea în mișcare.</string>
+    <string name="tooltip_project_promise">Ce experiență poate aștepta publicul (ton, temă, satisfacție emoțională).</string>
+    <string name="tooltip_project_plot">O schiță generală a punctelor majore ale poveștii. Nu fiecare detaliu.</string>
+</resources>

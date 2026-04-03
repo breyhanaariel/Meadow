@@ -1,0 +1,59 @@
+{
+  "typeKey": "cast_member",
+  "icon": "ic_cast",
+  "primaryFieldKey": "actor_ref",
+  "fields": [
+    {
+      "id": "cast_member.character_ref",
+      "owner": "catalog",
+      "key": "character_ref",
+      "labelKey": "field_cast_character",
+      "kind": "REFERENCE",
+      "isRequired": true,
+      "order": 0,
+      "metadata": {
+        "targetSchema": "character",
+        "multi": true
+      }
+    },
+    {
+      "id": "cast_member.actor_ref",
+      "owner": "catalog",
+      "key": "actor_ref",
+      "labelKey": "field_cast_actor",
+      "kind": "REFERENCE",
+      "order": 1,
+      "metadata": {
+        "targetSchema": "actor",
+        "multi": false
+      }
+    },
+    {
+      "id": "cast_member.role_type",
+      "owner": "catalog",
+      "key": "role_type",
+      "labelKey": "field_cast_role_type",
+      "kind": "MULTI_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "cast_role_lead",
+          "cast_role_supporting",
+          "cast_role_recurring",
+          "cast_role_guest_star",
+          "cast_role_cameo",
+          "cast_role_background_extra",
+          "cast_role_voice_only"
+        ]
+      }
+    },
+    {
+      "id": "cast_member.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_cast_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 3
+    }
+  ]
+}

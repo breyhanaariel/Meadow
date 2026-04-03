@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Призначте батьківське місцеположение, щоб створити ієрархію (наприклад, місто належить країні, кімната належить будівлі).</string>
+    <string name="tooltip_style_voice">Опишіть структуру речень, ритм, темп та стилістику розповіді.</string>
+    <string name="tooltip_style_lexicon">Правила щодо сленгу, скорочень, ненормативної лексики, діалектів або обмежень словникового запасу.</string>
+    <string name="tooltip_style_do_rules">Речі, на яких цей голос має наголошувати або використовувати постійно.</string>
+    <string name="tooltip_style_avoid_rules">Речі, яких цей голос повинен уникати або мінімізувати.</string>
+    <string name="tooltip_style_formatting">Правила форматування внутрішніх думок, телепатії, текстових повідомлень або особливих діалогів.</string>
+</resources>

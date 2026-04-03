@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">Креативний робочий простір</string>
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">Креативний робочий простір</string>
+    <string name="home_open_settings">Відкрити налаштування</string>
+    <string name="menu_home">Головна</string>
+    <string name="menu_settings">Налаштування</string>
+    <string name="back_home">Назад на головну</string>
+    <string name="cd_home">Головна</string>
+</resources>

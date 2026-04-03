@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">창작을 위한 공간</string>
+
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">창작을 위한 공간</string>
+    <string name="home_open_settings">설정 열기</string>
+
+    <string name="menu_home">홈</string>
+    <string name="menu_settings">설정</string>
+
+    <string name="back_home">홈으로 돌아가기</string>
+
+    <string name="cd_home">홈</string>
+</resources>

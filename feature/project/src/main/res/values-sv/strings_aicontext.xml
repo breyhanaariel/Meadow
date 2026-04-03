@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Generera</string>
+    <string name="ai_mode_improve">Förbättra</string>
+    <string name="ai_mode_rewrite">Skriv om</string>
+    <string name="ai_mode_expand">Utöka</string>
+    <string name="ai_mode_shorten">Korta ner</string>
+    <string name="ai_action_manage_context">Hantera kontext</string>
+    <string name="ai_action_open_chats">Öppna chattar</string>
+    <string name="ai_choose_action">Välj en åtgärd</string>
+    <string name="ai_for_field">AI för: %1$s</string>
+    <string name="ai_picker_generate_title">Generera: Välj fält</string>
+    <string name="ai_picker_improve_title">Förbättra: Välj fält</string>
+    <string name="ai_picker_rewrite_title">Skriv om: Välj fält</string>
+    <string name="ai_no_fields_available">Inga AI-aktiverade fält tillgängliga.</string>
+    <string name="ai_preview_title">Förhandsgranska AI-ändringar</string>
+    <string name="ai_preview_scope">Omfång: %1$s</string>
+    <string name="ai_preview_count">Ändringar: %1$d</string>
+    <string name="ai_preview_before">Före:</string>
+    <string name="ai_preview_after">Efter:</string>
+    <string name="ai_optional_note">Valfri anteckning (skickas ej)</string>
+    <string name="ai_applied">AI-ändringar tillämpade</string>
+    <string name="ai_failed_generic">AI misslyckades</string>
+    <string name="ai_preview_empty">(tom)</string>
+    <string name="ai_context_title">AI-kontext</string>
+    <string name="ai_context_add">Lägg till kontext</string>
+    <string name="ai_context_pinned">Fäst (inkludera alltid)</string>
+    <string name="ai_context_title_label">Titel</string>
+    <string name="ai_context_body_label">Kontext</string>
+    <string name="ai_context_edit">Redigera kontext</string>
+    <string name="ai_context_delete">Ta bort kontext</string>
+    <string name="ai_select_field">Välj ett fält</string>
+</resources>

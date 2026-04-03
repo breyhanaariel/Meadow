@@ -1,0 +1,41 @@
+{
+  "typeKey": "comic",
+  "displayName": "project_type_comic",
+  "color": "#F6A5C0",
+  "enabledFeatures": [
+    "calendar",
+    "catalog",
+    "script",
+    "plot_cards",
+    "timeline",
+    "mindmap",
+    "wiki",
+    "family_tree"
+  ],
+  "fields": [
+    {
+      "id": "project.page_count",
+      "key": "page_count",
+      "labelKey": "field_project_page_count",
+      "kind": "NUMBER",
+      "group": "group_production",
+      "order": 20
+    },
+    {
+      "id": "project.art_style",
+      "key": "art_style",
+      "labelKey": "field_project_art_style",
+      "kind": "SINGLE_SELECT",
+      "group": "group_production",
+      "order": 21,
+      "metadata": {
+        "options": [
+          "art_style_manga",
+          "art_style_chibi",
+          "art_style_cartoon",
+          "art_style_realistic"
+        ]
+      }
+    }
+  ]
+}

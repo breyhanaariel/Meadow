@@ -1,0 +1,95 @@
+{
+  "typeKey": "hair_fx",
+  "icon": "ic_hairfx",
+  "primaryFieldKey": "style_name",
+  "fields": [
+    {
+      "id": "hair_fx.style_name",
+      "owner": "catalog",
+      "key": "style_name",
+      "labelKey": "field_hairfx_style_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "hair_fx.type",
+      "owner": "catalog",
+      "key": "type",
+      "labelKey": "field_hairfx_type",
+      "kind": "SINGLE_SELECT",
+      "order": 1,
+      "metadata": {
+        "options": [
+          "hairfx_type_natural_styling",
+          "hairfx_type_full_wig",
+          "hairfx_type_lace_front",
+          "hairfx_type_extensions_weave",
+          "hairfx_type_bald_cap_prosthetic",
+          "hairfx_type_facial_hair",
+          "hairfx_type_hair_piece_toupee"
+        ]
+      }
+    },
+    {
+      "id": "hair_fx.texture",
+      "owner": "catalog",
+      "key": "texture",
+      "labelKey": "field_hairfx_texture",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "hairfx_texture_straight",
+          "hairfx_texture_wavy",
+          "hairfx_texture_curly",
+          "hairfx_texture_coily",
+          "hairfx_texture_kinky",
+          "hairfx_texture_braided",
+          "hairfx_texture_locs_twists",
+          "hairfx_texture_shaved_buzz"
+        ]
+      }
+    },
+    {
+      "id": "hair_fx.color",
+      "owner": "catalog",
+      "key": "color",
+      "labelKey": "field_hairfx_color",
+      "kind": "TEXT",
+      "order": 3
+    },
+    {
+      "id": "hair_fx.reference_image",
+      "owner": "catalog",
+      "key": "reference_image",
+      "labelKey": "field_hairfx_image",
+      "kind": "IMAGE",
+      "order": 4
+    },
+    {
+      "id": "hair_fx.application_time",
+      "owner": "catalog",
+      "key": "application_time",
+      "labelKey": "field_hairfx_time",
+      "kind": "TEXT",
+      "order": 5
+    },
+    {
+      "id": "hair_fx.products",
+      "owner": "catalog",
+      "key": "products",
+      "labelKey": "field_hairfx_products",
+      "kind": "MULTILINE_TEXT",
+      "order": 6
+    },
+    {
+      "id": "hair_fx.notes",
+      "owner": "catalog",
+      "key": "notes",
+      "labelKey": "field_hairfx_notes",
+      "kind": "MULTILINE_TEXT",
+      "order": 7
+    }
+  ]
+}

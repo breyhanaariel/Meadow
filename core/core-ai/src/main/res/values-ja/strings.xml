@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_close_chat">AIチャットを閉じる</string>
+    <string name="cd_page_number">%1$dページ</string>
+    <string name="cd_thumbnail_number">サムネイル %1$d</string>
+
+    <string name="ai_settings_section">AI</string>
+    <string name="ai_settings_title">AI設定</string>
+    <string name="ai_settings_core">コアペルソナプロンプト</string>
+    <string name="ai_settings_library">プロンプトライブラリ</string>
+    <string name="ai_settings_add_prompt">プロンプトを追加</string>
+    <string name="ai_settings_core_prompt_label">プロンプトテンプレート</string>
+    <string name="ai_settings_empty_library">保存されたプロンプトはまだありません。</string>
+    <string name="ai_settings_reset_default">デフォルトにリセット</string>
+    <string name="ai_settings_prompt_persona">ペルソナ: %1$s</string>
+
+    <string name="ai_generating">生成中…</string>
+    <string name="ai_thinking">思考中…</string>
+    <string name="ai_try_again">再試行</string>
+
+    <string name="ai_context_library">AIコンテキストライブラリ</string>
+    <string name="ai_context_all_personas">すべてのペルソナ</string>
+    <string name="ai_edit_context">AIコンテキストを編集</string>
+    <string name="ai_project_context">プロジェクトAIコンテキスト</string>
+    <string name="ai_series_context">シリーズAIコンテキスト</string>
+    <string name="ai_context_summary">概要</string>
+    <string name="ai_context_tone">トーン</string>
+    <string name="ai_context_themes">テーマ</string>
+    <string name="ai_no_fields_available">利用可能なAI対応フィールドがありません。</string>
+    <string name="ai_add_context">AIコンテキストを追加</string>
+    <string name="ai_search_context">コンテキストを検索</string>
+    <string name="ai_delete_context_title">コンテキストを削除</string>
+    <string name="ai_delete_context_message">「%1$s」を完全に削除してもよろしいですか？この操作は取り消せません。</string>
+    <string name="ai_new_context">新規コンテキスト</string>
+    <string name="ai_context_title">タイトル</string>
+    <string name="ai_context_body">コンテキスト本文</string>
+
+
+    <string name="ai_persona_bud">Bud (バド)</string>
+    <string name="ai_placeholder_bud">このフィールドのテキストを生成または修正…</string>
+
+    <string name="ai_persona_vine">Vine (ヴァイン)</string>
+    <string name="ai_placeholder_vine">ここにシーンや章の下書きを作成…</string>
+
+    <string name="ai_persona_sprout">Sprout (スプラウト)</string>
+    <string name="ai_sprout_title">Sprout アイデアジェネレーター</string>
+    <string name="ai_sprout_idea_request">ユーザーアイデアのリクエスト</string>
+    <string name="ai_sprout_extra_context">追加コンテキスト</string>
+    <string name="ai_placeholder_sprout">今日は何をブレインストーミングしますか？</string>
+
+    <string name="ai_persona_petal">Petal (ペタル)</string>
+    <string name="ai_petal_title">Petal 章の批評</string>
+    <string name="ai_petal_chapter_to_critique">批評する章</string>
+    <string name="ai_petal_author_notes">著者のメモまたは制約</string>
+    <string name="ai_placeholder_petal">分析する章を入力してください</string>
+
+    <string name="ai_persona_bloom">Bloom (ブルーム)</string>
+    <string name="ai_bloom_title">Bloom 強化エディター</string>
+    <string name="ai_bloom_original_text">原文</string>
+    <string name="ai_bloom_editing_instructions">書き換え / 編集の指示</string>
+    <string name="ai_placeholder_bloom">このシーンを書き直す</string>
+
+    <string name="ai_persona_meadow">Meadow (メドウ)</string>
+    <string name="ai_meadow_title">Meadow 執筆アシスタント</string>
+    <string name="ai_meadow_source">ソース</string>
+    <string name="ai_meadow_page">p.</string>
+    <string name="ai_meadow_user_question">ユーザーの質問</string>
+    <string name="ai_meadow_relevant_excerpts">関連する執筆ガイドの抜粋</string>
+    <string name="ai_meadow_excerpt">抜粋</string>
+    <string name="ai_placeholder_meadow">何でも聞いてください</string>
+
+    <string name="ai_chat_panel_title">AIアシスタント</string>
+    <string name="ai_chat_panel_placeholder">何でも聞いてください</string>
+    <string name="ai_chat_panel_send">送信</string>
+
+    <string name="ai_new_chat">新しいチャット</string>
+    <string name="ai_choose_chat">チャットを選択</string>
+    <string name="ai_create_new_chat">新しいチャットを作成</string>
+    <string name="ai_rename_chat">名前を変更</string>
+    <string name="ai_rename_title">チャット名を変更</string>
+    <string name="ai_chat_name">チャット名</string>
+    <string name="ai_no_chats">利用可能なチャットはありません</string>
+
+    <string name="ai_error_generic">AIはそのリクエストを完了できませんでした。</string>
+    <string name="ai_error_rate_limited">リクエストが多すぎます。お待ちください。</string>
+    <string name="ai_error_context_too_large">コンテキストが長すぎます。</string>
+
+    <string name="ai_tooltip_message">AIのヒント</string>
+
+    <string name="ai_use_prompt_button">プロンプトを使用</string>
+
+    <string name="ai_dialog_assistant_title">AIアシスタント</string>
+    <string name="ai_dialog_unicorn_assistant">ユニコーンアシスタント</string>
+    <string name="ai_dialog_link_bookmark">ブックマークをカタログ項目にリンク</string>
+    <string name="ai_dialog_catalog_id">カタログID</string>
+    <string name="ai_dialog_link">リンク</string>
+
+    <string name="ai_help_tooltip">AIアシスタントヘルプ</string>
+    <string name="ai_help_button">使い方</string>
+    <string name="ai_help_title">AIアシスタントの使用</string>
+    <string name="ai_help_description">
+        AIアシスタントは、下書き、編集、整理、アイデア生成を支援します。
+        チャットパネルを開いて、何でも質問してください。
+    </string>
+
+    <string name="ai_select_writing_guide">執筆ガイドを選択</string>
+    <string name="ai_pdf_document_label">PDFドキュメント</string>
+    <string name="ai_pdf_select_document_placeholder">PDFを選択</string>
+    <string name="ai_pdf_page">%1$dページ</string>
+    <string name="ai_pdf_search_label">PDF内を検索</string>
+    <string name="ai_pdf_search_icon_desc">検索</string>
+    <string name="ai_pdf_load_failed">PDFの読み込みに失敗しました。</string>
+    <string name="ai_open_pdf_page">PDFを開く \u2022 %1$dページ</string>
+    <string name="ai_pdf_viewer_page">%2$dページ中%1$dページ</string>
+    <string name="ai_pdf_viewer_previous">前へ</string>
+    <string name="ai_pdf_viewer_next">次へ</string>
+    <string name="ai_pdf_viewer_add_bookmark">ブックマークを追加</string>
+    <string name="ai_pdf_viewer_back">← 戻る</string>
+
+    <string name="ai_pdf_link_title">カタログにリンク</string>
+    <string name="ai_pdf_link_message">カタログIDを入力:</string>
+
+    <string name="ai_selection_result_title">AIの結果</string>
+    <string name="ai_selection_replace">選択範囲を置換</string>
+    <string name="ai_selection_insert_below">下に挿入</string>
+    <string name="ai_selection_failed">AIエラー: %1$s</string>
+    <string name="ai_action_sprout">Sprout: アイデア</string>
+    <string name="ai_action_vine">Vine: 下書き</string>
+    <string name="ai_action_petal">Petal: 添削</string>
+    <string name="ai_action_bloom">Bloom: リライト</string>
+</resources>

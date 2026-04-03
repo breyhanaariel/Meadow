@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Google hesabını bağla</string>
+    <string name="google_account_connected">Google hesabı bağlandı</string>
+    <string name="google_account_disconnected">Google hesabının bağlantısını kes</string>
+    <string name="google_auth_signing_in">Oturum açılıyor…</string>
+    <string name="google_auth_sign_in_failed">Oturum açma başarısız</string>
+    <string name="google_auth_signed_out">Oturum kapatıldı</string>
+    <string name="google_auth_permission_required">Google izni gerekiyor</string>
+    <string name="google_auth_retry">Tekrar dene</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Google Drive\'a bağlanılıyor…</string>
+    <string name="google_drive_connected">Google Drive\'a bağlandı</string>
+    <string name="google_drive_syncing">Google Drive ile senkronize ediliyor…</string>
+    <string name="google_drive_sync_complete">Drive senkronizasyonu tamamlandı</string>
+    <string name="google_drive_sync_failed">Drive senkronizasyonu başarısız</string>
+    <string name="google_drive_permission_denied">Drive erişimi reddedildi</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Google Sheets\'e bağlanılıyor…</string>
+    <string name="google_sheets_connected">Google Sheets\'e bağlandı</string>
+    <string name="google_sheets_exporting">Google Sheets\'e aktarılıyor…</string>
+    <string name="google_sheets_export_complete">Aktarım tamamlandı</string>
+    <string name="google_sheets_export_failed">Aktarım başarısız</string>
+    <string name="google_calendar_title">Google Takvim</string>
+    <string name="google_calendar_connecting">Google Takvim\'e bağlanılıyor…</string>
+    <string name="google_calendar_connected">Google Takvim\'e bağlandı</string>
+    <string name="google_calendar_syncing">Takvim senkronize ediliyor…</string>
+    <string name="google_calendar_sync_failed">Takvim senkronizasyonu başarısız</string>
+    <string name="google_calendar_permission_denied">Takvim erişimi reddedildi</string>
+    <string name="google_docs_title">Google Dokümanlar</string>
+    <string name="google_docs_connecting">Google Dokümanlar\'a bağlanılıyor…</string>
+    <string name="google_docs_connected">Google Dokümanlar\'a bağlandı</string>
+    <string name="google_docs_exporting">Google Dokümanlar\'a aktarılıyor…</string>
+    <string name="google_docs_export_failed">Aktarım başarısız</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Gemini\'ye bağlanılıyor…</string>
+    <string name="google_gemini_connected">Gemini\'ye bağlandı</string>
+    <string name="google_gemini_requesting">Yanıt oluşturuluyor…</string>
+    <string name="google_gemini_failed">Gemini isteği başarısız</string>
+    <string name="google_gemini_rate_limited">Çok fazla istek. Lütfen bekleyin.</string>
+</resources>

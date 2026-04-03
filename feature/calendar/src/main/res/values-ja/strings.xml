@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">カレンダー</string>
+    <string name="calendar">カレンダー</string>
+    <string name="action_sync_now">今すぐ同期</string>
+    <string name="action_today">今日</string>
+    <string name="view_month">月</string>
+    <string name="view_week">週</string>
+    <string name="view_agenda">予定</string>
+    <string name="filter_all">すべて</string>
+    <string name="filter_global">グローバル</string>
+    <string name="filter_series">シリーズ</string>
+    <string name="filter_projects">プロジェクト</string>
+    <string name="filter_this_project">このプロジェクト</string>
+    <string name="label_color">色</string>
+    <string name="label_recurrence">繰り返し</string>
+    <string name="label_reminder">リマインダー</string>
+    <string name="recurrence_none">繰り返さない</string>
+    <string name="recurrence_daily">毎日</string>
+    <string name="recurrence_weekly">毎週</string>
+    <string name="recurrence_monthly">毎月</string>
+    <string name="reminder_none">なし</string>
+    <string name="reminder_10">10分前</string>
+    <string name="reminder_30">30分前</string>
+    <string name="reminder_60">1時間前</string>
+    <string name="delete_event_title">イベントを削除しますか？</string>
+    <string name="delete_event_message">%1$s は完全に削除されます。この操作は取り消せません。</string>
+    <string name="no_events">イベントはまだありません</string>
+    <string name="add_event">イベントを追加</string>
+    <string name="delete_event">イベントを削除</string>
+    <string name="edit_event">イベントを編集</string>
+    <string name="month">月</string>
+    <string name="week">週</string>
+    <string name="agenda">アジェンダ</string>
+    <string name="all_day">終日</string>
+    <string name="new_event">新しいイベント</string>
+    <string name="search_month_or_year">月または年を検索</string>
+    <string name="upcoming_event">今後の予定</string>
+    <string name="past_event">過去の予定</string>
+</resources>

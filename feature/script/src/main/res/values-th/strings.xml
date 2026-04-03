@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">บท</string>
+    <string name="script_list_title">รายการบท</string>
+    <string name="script_new">สร้างบทใหม่</string>
+    <string name="script_editor_title">ตัวแก้ไข</string>
+    <string name="script_dialect">ภาษาเขียน (Dialect)</string>
+    <string name="script_mode_structure">โครงสร้าง</string>
+    <string name="script_mode_outline">โครงเรื่อง</string>
+    <string name="script_mode_catalog_links">ลิงก์แคตตาล็อก</string>
+    <string name="script_mode_comments">ความคิดเห็น</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">ส่งออก</string>
+    <string name="script_action_more">เพิ่มเติม</string>
+    <string name="script_outline">โครงเรื่อง</string>
+    <string name="script_no_scripts">ยังไม่มีบท</string>
+    <string name="script_create_failed">ไม่สามารถสร้างบทได้</string>
+    <string name="script_saved">บันทึกแล้ว</string>
+    <string name="script_type_comic">คอมมิก</string>
+    <string name="script_type_novel">นิยาย</string>
+    <string name="script_type_tv">ทีวี</string>
+    <string name="script_type_movie">ภาพยนตร์</string>
+    <string name="script_type_game">เกม</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

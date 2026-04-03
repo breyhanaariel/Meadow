@@ -1,0 +1,50 @@
+{
+  "typeKey": "disorder",
+  "icon": "ic_disorder",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "disorder.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_disorder_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "disorder.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_disorder_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 1
+    }
+  ],
+  "seedData": [
+    { "name": "disorder_intellectual_disability_name", "description": "disorder_intellectual_disability_description" },
+    { "name": "disorder_speech_sound_name", "description": "disorder_speech_sound_description" },
+    { "name": "disorder_childhood_fluency_name", "description": "disorder_childhood_fluency_description" },
+    { "name": "disorder_autism_spectrum_name", "description": "disorder_autism_spectrum_description" },
+    { "name": "disorder_adhd_name", "description": "disorder_adhd_description" },
+    { "name": "disorder_tourettes_name", "description": "disorder_tourettes_description" },
+    { "name": "disorder_schizotypal_name", "description": "disorder_schizotypal_description" },
+    { "name": "disorder_delusional_name", "description": "disorder_delusional_description" },
+    { "name": "disorder_brief_psychotic_name", "description": "disorder_brief_psychotic_description" },
+    { "name": "disorder_schizophreniform_name", "description": "disorder_schizophreniform_description" },
+    { "name": "disorder_schizophrenia_name", "description": "disorder_schizophrenia_description" },
+    { "name": "disorder_psychotic_medical_name", "description": "disorder_psychotic_medical_description" },
+    { "name": "disorder_catatonia_name", "description": "disorder_catatonia_description" },
+    { "name": "disorder_bipolar_1_name", "description": "disorder_bipolar_1_description" },
+    { "name": "disorder_bipolar_2_name", "description": "disorder_bipolar_2_description" },
+    { "name": "disorder_cyclothymic_name", "description": "disorder_cyclothymic_description" },
+    { "name": "disorder_dmdd_name", "description": "disorder_dmdd_description" },
+    { "name": "disorder_major_depressive_name", "description": "disorder_major_depressive_description" },
+    { "name": "disorder_persistent_depressive_name", "description": "disorder_persistent_depressive_description" },
+    { "name": "disorder_selective_mutism_name", "description": "disorder_selective_mutism_description" },
+    { "name": "disorder_specific_phobia_name", "description": "disorder_specific_phobia_description" },
+    { "name": "disorder_social_anxiety_name", "description": "disorder_social_anxiety_description" },
+    { "name": "disorder_ptsd_name", "description": "disorder_ptsd_description" },
+    { "name": "disorder_gender_dysphoria_name", "description": "disorder_gender_dysphoria_description" }
+  ]
+}

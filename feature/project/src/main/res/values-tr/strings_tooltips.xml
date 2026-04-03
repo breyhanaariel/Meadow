@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Projeye kısa bir bakış.</string>
+    <string name="tooltip_project_pitch">Fikri hızlıca pazarlamayı amaçlayan tek bir cümle.</string>
+    <string name="tooltip_project_premise">Hikayeyi besleyen temel "ya şöyle olsaydı?" sorusu.</string>
+    <string name="tooltip_project_promise">İzleyicinin ne tür bir deneyim bekleyebileceği (ton, tema, duygusal karşılık).</string>
+    <string name="tooltip_project_plot">Hikayenin ana hatlarının genel bir özeti. Her ayrıntıyı içermez.</string>
+</resources>

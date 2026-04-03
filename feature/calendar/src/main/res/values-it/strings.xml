@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Calendario</string>
+    <string name="calendar">Calendario</string>
+    <string name="action_sync_now">Sincronizza ora</string>
+    <string name="action_today">Oggi</string>
+    <string name="view_month">Mese</string>
+    <string name="view_week">Settimana</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Tutto</string>
+    <string name="filter_global">Globale</string>
+    <string name="filter_series">Serie</string>
+    <string name="filter_projects">Progetti</string>
+    <string name="filter_this_project">Questo progetto</string>
+    <string name="label_color">Colore</string>
+    <string name="label_recurrence">Ripetizioni</string>
+    <string name="label_reminder">Promemoria</string>
+    <string name="recurrence_none">Non si ripete</string>
+    <string name="recurrence_daily">Giornaliero</string>
+    <string name="recurrence_weekly">Settimanale</string>
+    <string name="recurrence_monthly">Mensile</string>
+    <string name="reminder_none">Nessun promemoria</string>
+    <string name="reminder_10">10 minuti prima</string>
+    <string name="reminder_30">30 minuti prima</string>
+    <string name="reminder_60">1 ora prima</string>
+    <string name="delete_event_title">Eliminare evento?</string>
+    <string name="delete_event_message">Questo eliminerà permanentemente %1$s. L\'azione non può essere annullata.</string>
+    <string name="no_events">Ancora nessun evento</string>
+    <string name="add_event">Aggiungi evento</string>
+    <string name="delete_event">Elimina evento</string>
+    <string name="edit_event">Modifica evento</string>
+    <string name="month">Mese</string>
+    <string name="week">Settimana</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Tutto il giorno</string>
+    <string name="new_event">Nuovo evento</string>
+    <string name="search_month_or_year">Cerca mese o anno</string>
+    <string name="upcoming_event">In arrivo</string>
+    <string name="past_event">Passati</string>
+</resources>

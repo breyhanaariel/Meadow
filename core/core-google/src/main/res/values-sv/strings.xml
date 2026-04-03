@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Anslut Google-konto</string>
+    <string name="google_account_connected">Google-konto anslutet</string>
+    <string name="google_account_disconnected">Koppla från Google-konto</string>
+    <string name="google_auth_signing_in">Loggar in…</string>
+    <string name="google_auth_sign_in_failed">Inloggningen misslyckades</string>
+    <string name="google_auth_signed_out">Utloggad</string>
+    <string name="google_auth_permission_required">Google-tillstånd krävs</string>
+    <string name="google_auth_retry">Försök igen</string>
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Ansluter till Google Drive…</string>
+    <string name="google_drive_connected">Ansluten till Google Drive</string>
+    <string name="google_drive_syncing">Synkroniserar med Google Drive…</string>
+    <string name="google_drive_sync_complete">Drive-synkronisering klar</string>
+    <string name="google_drive_sync_failed">Drive-synkronisering misslyckades</string>
+    <string name="google_drive_permission_denied">Åtkomst till Drive nekad</string>
+    <string name="google_sheets_title">Google Sheets</string>
+    <string name="google_sheets_connecting">Ansluter till Google Sheets…</string>
+    <string name="google_sheets_connected">Ansluten till Google Sheets</string>
+    <string name="google_sheets_exporting">Exporterar till Google Sheets…</string>
+    <string name="google_sheets_export_complete">Export klar</string>
+    <string name="google_sheets_export_failed">Export misslyckades</string>
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Ansluter till Google Calendar…</string>
+    <string name="google_calendar_connected">Ansluten till Google Calendar</string>
+    <string name="google_calendar_syncing">Synkroniserar kalender…</string>
+    <string name="google_calendar_sync_failed">Kalendersynkronisering misslyckades</string>
+    <string name="google_calendar_permission_denied">Åtkomst till kalender nekad</string>
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Ansluter till Google Docs…</string>
+    <string name="google_docs_connected">Ansluten till Google Docs</string>
+    <string name="google_docs_exporting">Exporterar till Google Docs…</string>
+    <string name="google_docs_export_failed">Export misslyckades</string>
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Ansluter till Gemini…</string>
+    <string name="google_gemini_connected">Ansluten till Gemini</string>
+    <string name="google_gemini_requesting">Genererar svar…</string>
+    <string name="google_gemini_failed">Gemini-begäran misslyckades</string>
+    <string name="google_gemini_rate_limited">För många begäranden. Vänta lite.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Воспроизвести</string>
+    <string name="media_pause">Пауза</string>
+    <string name="media_stop">Остановить</string>
+    <string name="media_now_playing">Сейчас играет</string>
+    <string name="media_loading">Загрузка</string>
+    <string name="media_no_audio">Аудио не загружено</string>
+    <string name="media_no_video">Видео не загружено</string>
+    <string name="media_error">Ошибка мультимедиа</string>
+    <string name="media_image_loading">Загрузка изображения</string>
+    <string name="media_image_failed">Ошибка загрузки изображения</string>
+    <string name="media_subtitle_unknown">[Неизвестные субтитры]</string>
+    <string name="media_no_metadata">Метаданные не найдены</string>
+    <string name="media_metadata_title">Название</string>
+    <string name="media_metadata_artist">Исполнитель</string>
+    <string name="media_metadata_album">Альбом</string>
+    <string name="media_metadata_genre">Жанр</string>
+    <string name="media_metadata_duration">Длительность</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">스크립트</string>
+    <string name="script_list_title">스크립트 목록</string>
+    <string name="script_new">새 스크립트</string>
+    <string name="script_editor_title">편집기</string>
+    <string name="script_dialect">방언</string>
+    <string name="script_mode_structure">구조</string>
+    <string name="script_mode_outline">개요</string>
+    <string name="script_mode_catalog_links">카탈로그 링크</string>
+    <string name="script_mode_comments">댓글</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">내보내기</string>
+    <string name="script_action_more">더 보기</string>
+    <string name="script_outline">개요</string>
+    <string name="script_no_scripts">작성된 스크립트 없음</string>
+    <string name="script_create_failed">스크립트를 생성할 수 없습니다</string>
+    <string name="script_saved">저장됨</string>
+    <string name="script_type_comic">만화</string>
+    <string name="script_type_novel">소설</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">영화</string>
+    <string name="script_type_game">게임</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Weisen Sie einen übergeordneten Ort zu, um eine Hierarchie zu erstellen (z. B. gehört eine Stadt zu einem Land, ein Raum zu einem Gebäude).</string>
+    <string name="tooltip_style_voice">Beschreiben Sie Satzbau, Rhythmus, Tempo und stilistischen Fluss.</string>
+    <string name="tooltip_style_lexicon">Regeln für Slang, Abkürzungen, Flüche, Dialekte oder Wortschatzbeschränkungen.</string>
+    <string name="tooltip_style_do_rules">Dinge, die diese Stimme betonen oder konsequent enthalten sollte.</string>
+    <string name="tooltip_style_avoid_rules">Dinge, die diese Stimme vermeiden oder minimieren muss.</string>
+    <string name="tooltip_style_formatting">Regeln für die Formatierung von inneren Gedanken, Telepathie, Textnachrichten oder speziellen Dialogen.</string>
+</resources>

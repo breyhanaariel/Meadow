@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="media_play">Phát</string>
+    <string name="media_pause">Tạm dừng</string>
+    <string name="media_stop">Dừng</string>
+    <string name="media_now_playing">Đang phát</string>
+    <string name="media_loading">Đang tải</string>
+    <string name="media_no_audio">Chưa tải âm thanh</string>
+    <string name="media_no_video">Chưa tải video</string>
+    <string name="media_error">Đã xảy ra lỗi đa phương tiện</string>
+    <string name="media_image_loading">Đang tải hình ảnh</string>
+    <string name="media_image_failed">Tải hình ảnh thất bại</string>
+    <string name="media_subtitle_unknown">[Phụ đề không xác định]</string>
+    <string name="media_no_metadata">Không tìm thấy siêu dữ liệu</string>
+    <string name="media_metadata_title">Tiêu đề</string>
+    <string name="media_metadata_artist">Nghệ sĩ</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Thể loại</string>
+    <string name="media_metadata_duration">Thời lượng</string>
+</resources>

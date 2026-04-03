@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Scénář</string>
+    <string name="script_list_title">Scénáře</string>
+    <string name="script_new">Nový scénář</string>
+    <string name="script_editor_title">Editor</string>
+    <string name="script_dialect">Dialekt</string>
+    <string name="script_mode_structure">Struktura</string>
+    <string name="script_mode_outline">Osnova</string>
+    <string name="script_mode_catalog_links">Odkazy na katalog</string>
+    <string name="script_mode_comments">Komentáře</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Exportovat</string>
+    <string name="script_action_more">Více</string>
+    <string name="script_outline">Osnova</string>
+    <string name="script_no_scripts">Zatím žádné scénáře</string>
+    <string name="script_create_failed">Nepodařilo se vytvořit scénář</string>
+    <string name="script_saved">Uloženo</string>
+    <string name="script_type_comic">Komiks</string>
+    <string name="script_type_novel">Román</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Hra</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

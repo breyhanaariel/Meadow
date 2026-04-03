@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project">Проект</string>
+    <string name="series_and_projects">Серии и проекты</string>
+    <string name="action_create_project">Создать проект</string>
+    <string name="action_edit_project">Редактировать проект</string>
+    <string name="create_project">Создать проект</string>
+    <string name="new_project">Новый проект</string>
+    <string name="switch_project">Переключить проект</string>
+
+    <string name="project_created_success">Проект создан</string>
+    <string name="project_created_failed">Проект не создан</string>
+    <string name="project_edited_success">Проект обновлен</string>
+    <string name="project_edited_failed">Проект не обновлен</string>
+    <string name="project_deleted_success">Проект удален</string>
+    <string name="project_deleted_failed">Проект не удален</string>
+
+    <string name="error_project_not_found">Проект не найден</string>
+
+    <string name="field_project_type">Тип проекта</string>
+    <string name="field_project_title">Название</string>
+    <string name="field_project_description">Описание</string>
+    <string name="field_project_pitch">Питч</string>
+    <string name="field_project_premise">Премис</string>
+    <string name="field_project_plot">Сюжет</string>
+    <string name="field_project_promise">Обещание (Promise)</string>
+    <string name="field_project_genre">Жанр</string>
+    <string name="field_project_format">Формат</string>
+    <string name="field_project_rating">Рейтинг</string>
+    <string name="field_project_status">Статус</string>
+    <string name="field_project_audience">Аудитория</string>
+    <string name="field_project_elements">Элементы</string>
+    <string name="field_project_warnings">Предупреждения</string>
+    <string name="field_history_title">История поля</string>
+    <string name="field_appearance">Вид поля</string>
+    <string name="field_project_completed">Завершено</string>
+    <string name="field_project_archived">Архивировано</string>
+
+    <string name="projects_title">Проекты</string>
+    <string name="projects_empty">Вы еще не создали ни одного проекта.</string>
+    <string name="projects_no_results">Нет проектов, соответствующих поиску или фильтрам.</string>
+    <string name="projects_in_series">Проекты в этой серии</string>
+    <string name="no_projects_found">Проекты не найдены</string>
+
+    <string name="search_projects">Поиск проектов</string>
+    <string name="search_projects_hint">
+        Поиск питча, премиса, сюжета, описания…
+    </string>
+
+    <string name="filters">Фильтры</string>
+    <string name="sort">Сортировка</string>
+    <string name="visibility">Видимость</string>
+    <string name="show_archived">Показать архивные</string>
+    <string name="show_completed">Показать завершенные</string>
+
+    <string name="sort_project_count_asc">Кол-во проектов (по возрастанию)</string>
+    <string name="sort_project_count_desc">Кол-во проектов (по убыванию)</string>
+
+
+    <string name="results_count">%1$d результатов</string>
+    <string name="try_adjusting_filters">Попробуйте изменить поиск или фильтры</string>
+
+    <string name="project_dashboard">Панель проекта</string>
+    <string name="project_details">Детали проекта</string>
+    <string name="project_overview">Обзор</string>
+    <string name="dashboard_overview">Обзор</string>
+    <string name="dashboard_details">Детали</string>
+    <string name="dashboard_in_this_series">В этой серии</string>
+    <string name="project_quick_actions">Быстрые действия</string>
+
+    <string name="project_cover">Обложка проекта</string>
+    <string name="project_cover_placeholder">Нажмите, чтобы добавить обложку</string>
+    <string name="project_no_cover">Без обложки</string>
+    <string name="project_details_placeholder">
+        Дополнительная информация о проекте появится здесь в будущем обновлении.
+    </string>
+
+    <string name="history">История</string>
+    <string name="history_title">История</string>
+    <string name="history_empty">Пока нет изменений.</string>
+    <string name="history_added_value">Значение добавлено</string>
+    <string name="history_cleared_value">Значение очищено</string>
+    <string name="history_source_manual">Ручное редактирование</string>
+    <string name="history_source_migration">Миграция</string>
+    <string name="history_source_sync">Синхронизация</string>
+    <string name="last_synced">Последняя синхронизация</string>
+    <string name="last_synced_format">Последняя синхронизация: %1$s</string>
+
+    <string name="choose_project">Выберите проект</string>
+    <string name="choose_project_type">Выберите тип проекта</string>
+
+    <string name="project_type_comic">Комикс</string>
+    <string name="project_type_novel">Роман</string>
+    <string name="project_type_movie">Фильм</string>
+    <string name="project_type_tv_show">ТВ-шоу</string>
+    <string name="project_type_game">Игра</string>
+    <string name="project_type_unknown">Неизвестно</string>
+
+    <string name="select_project">Выбрать проект</string>
+    <string name="backup_projects">Резервное копирование проектов</string>
+    <string name="sync_project">Синхронизировать проект</string>
+    <string name="sync_all_projects">Синхронизировать все</string>
+    <string name="sync_now">Синхронизировать сейчас</string>
+    <string name="sync_in_progress">Синхронизация…</string>
+    <string name="restore_from_drive">Восстановить из Диска</string>
+    <string name="view_projects">Просмотреть проекты</string>
+
+    <string name="edit_project_title">Редактировать проект</string>
+    <string name="confirm_delete_project">Удалить проект?</string>
+    <string name="delete_project_title">Удалить проект</string>
+    <string name="delete_project_message">
+        Вы уверены, что хотите удалить этот проект? Это действие нельзя отменить.
+    </string>
+
+    <string name="series">Серия</string>
+    <string name="choose_series">Выбрать серию</string>
+    <string name="select_or_create_series">Выбрать или создать серию</string>
+
+    <string name="action_add_series">Добавить серию</string>
+    <string name="action_create_series">Создать серию</string>
+    <string name="create_new_series">Создать новую серию</string>
+
+    <string name="series_create_title">Создать серию</string>
+    <string name="rename_series">Переименовать серию</string>
+    <string name="series_rename_title">Переименовать серию</string>
+
+    <string name="series_title">Название серии</string>
+    <string name="series_name">Имя серии</string>
+    <string name="series_name_duplicate">Серия с таким именем уже существует</string>
+
+    <string name="series_manage">Управление серией</string>
+    <string name="series_metadata">Метаданные серии</string>
+    <string name="series_summary">Краткое содержание серии</string>
+
+    <string name="series_empty">Пока нет серий</string>
+    <string name="no_series">Нет серии</string>
+    <string name="series_no_projects">В этой серии нет проектов</string>
+
+    <string name="series_project_count">%1$d проектов</string>
+    <string name="series_projects">Проекты серии</string>
+
+    <string name="add_to_series">Добавить в серию</string>
+    <string name="remove_from_series">Удалить из серии</string>
+    <string name="convert_to_series">Преобразовать в серию</string>
+    <string name="revert_to_project">Вернуть в проект</string>
+
+    <string name="added_to_series_success">Проект добавлен в серию</string>
+    <string name="added_to_series_failed">Проект не добавлен в серию</string>
+    <string name="remove_from_series_success">Проект удален из серии.</string>
+    <string name="remove_from_series_failed">Проект не удален из серии.</string>
+    <string name="revert_to_project_success">Проект возвращен как отдельный проект.</string>
+    <string name="revert_to_project_failed">Проект не возвращен как отдельный проект.</string>
+    <string name="converted_to_series_success">Проект преобразован в серию</string>
+    <string name="create_series_failed">Серия не создана</string>
+
+    <string name="action_backup_project_catalog">Резервная копия каталога проекта</string>
+    <string name="action_backup_series_catalog">Резервная копия каталога серии</string>
+
+    <string name="series_renamed_success">Серия успешно переименована</string>
+    <string name="series_deleted_success">Серия успешно удалена</string>
+
+    <string name="delete_series_title">Удалить серию?</string>
+    <string name="confirm_delete_series">Удалить серию “%1$s”?</string>
+    <string name="delete_series_message">
+        Вы уверены, что хотите удалить серию “%1$s”?
+    </string>
+
+    <string name="series_delete_safety">%1$d проектов будут отвязаны, но не удалены</string>
+    <string name="series_field_scope_series">Вся серия</string>
+    <string name="series_field_scope_project">Только проект</string>
+    <string name="search_series">Поиск серии</string>
+    <string name="series_shared_field">Общее поле</string>
+    <string name="view_series">Просмотреть серию</string>
+    <string name="series_add_projects">Добавить проекты</string>
+
+    <string name="project_loading">Загрузка проекта…</string>
+    <string name="project_archived">В архиве</string>
+    <string name="project_completed">Завершено</string>
+    <string name="project_invalid_form">Пожалуйста, исправьте выделенные поля</string>
+    <string name="project_required_field">Это поле обязательно</string>
+    <string name="project_sync_failed">Ошибка синхронизации проекта</string>
+    <string name="project_sync_success">Проект синхронизирован</string>
+    <string name="project_no_enabled_features">Нет включенных функций для этого проекта</string>
+
+    <string name="group_production">Производство</string>
+    <string name="field_project_page_count">Количество страниц</string>
+    <string name="field_project_art_style">Художественный стиль</string>
+    <string name="art_style_manga">Манга</string>
+    <string name="art_style_chibi">Чиби</string>
+    <string name="art_style_cartoon">Мультфильм</string>
+    <string name="art_style_realistic">Реалистичный</string>
+
+    <string name="group_design">Дизайн</string>
+    <string name="group_release">Релиз</string>
+    <string name="field_project_game_genre">Жанр игры</string>
+    <string name="field_project_platforms">Платформы</string>
+    <string name="game_genre_rpg">РПГ</string>
+    <string name="game_genre_visual_novel">Визуальная новелла</string>
+    <string name="game_genre_simulation">Симулятор</string>
+    <string name="game_genre_strategy">Стратегия</string>
+    <string name="platform_pc">ПК</string>
+    <string name="platform_android">Android</string>
+    <string name="platform_ios">iOS</string>
+    <string name="platform_console">Консоль</string>
+    <string name="platform_web">Веб</string>
+
+    <string name="field_project_runtime_minutes">Продолжительность (минуты)</string>
+    <string name="field_project_budget">Бюджет</string>
+
+    <string name="group_writing">Написание</string>
+    <string name="field_project_word_count_target">Целевое количество слов</string>
+    <string name="field_project_narrative_pov">Повествование</string>
+    <string name="narrative_pov_first_person">Первое лицо</string>
+    <string name="narrative_pov_second_person">Второе лицо</string>
+    <string name="narrative_pov_third_person_limited">Третье лицо (ограниченное)</string>
+    <string name="narrative_pov_third_person_omniscient">Третье лицо (всеведущее)</string>
+
+    <string name="group_structure">Структура</string>
+    <string name="field_project_seasons">Количество сезонов</string>
+    <string name="field_project_episodes_per_season">Эпизодов в сезоне</string>
+
+    <string name="group_classification">Классификация</string>
+    <string name="audience_adventurer">Искатель приключений</string>
+    <string name="audience_dreamer">Мечтатель</string>
+    <string name="audience_thinker">Мыслитель</string>
+    <string name="audience_believer">Верующий</string>
+    <string name="genre_group_adventurer">Искатель приключений</string>
+    <string name="genre_group_dreamer">Мечтатель</string>
+    <string name="genre_group_thinker">Мыслитель</string>
+    <string name="genre_group_believer">Верующий</string>
+    <string name="genre_action">Боевик</string>
+    <string name="genre_action_desc">Сражения или рукопашный бой</string>
+    <string name="genre_adventure">Приключения</string>
+    <string name="genre_adventure_desc">Эпические путешествия и открытия</string>
+    <string name="genre_cyberpunk">Киберпанк</string>
+    <string name="genre_cyberpunk_desc">Сверхиндустриальное общество будущего</string>
+    <string name="genre_steampunk">Стимпанк</string>
+    <string name="genre_steampunk_desc">Паровая альтернативная история</string>
+    <string name="genre_fantasy">Фэнтези</string>
+    <string name="genre_fantasy_desc">Миры, отличные от реальности</string>
+    <string name="genre_science">Научная фантастика</string>
+    <string name="genre_science_desc">Технологически развитые миры</string>
+    <string name="genre_horror">Ужасы</string>
+    <string name="genre_horror_desc">Призвано пугать</string>
+    <string name="genre_gothic">Готика</string>
+    <string name="genre_gothic_desc">Гротескная, мрачная, фаталистическая атмосфера</string>
+    <string name="genre_paranormal">Паранормальное</string>
+    <string name="genre_paranormal_desc">За гранью научного объяснения</string>
+    <string name="genre_supernatural">Сверхъестественное</string>
+    <string name="genre_supernatural_desc">За гранью законов природы</string>
+    <string name="genre_spiritual">Духовное</string>
+    <string name="genre_spiritual_desc">Исследует духовные верования</string>
+    <string name="genre_religious">Религиозное</string>
+    <string name="genre_religious_desc">Сосредоточено на религиозных доктринах</string>
+    <string name="genre_parody">Пародия</string>
+    <string name="genre_parody_desc">Юмористическое подражание</string>
+    <string name="genre_satire">Сатира</string>
+    <string name="genre_satire_desc">Критический юмор</string>
+    <string name="genre_mystery">Мистика/Детектив</string>
+    <string name="genre_mystery_desc">Загадочное преступление или обстоятельство</string>
+    <string name="genre_romantic_comedy">Романтическая комедия</string>
+    <string name="genre_romantic_comedy_desc">Комедия вокруг романтики</string>
+    <string name="genre_erotic_comedy">Эротическая комедия</string>
+    <string name="genre_erotic_comedy_desc">Комедия вокруг сексуальности</string>
+    <string name="genre_gag">Гэг</string>
+    <string name="genre_gag_desc">Абсурдный юмор</string>
+    <string name="genre_comedy">Комедия</string>
+    <string name="genre_comedy_desc">Реалистичный юмор</string>
+    <string name="genre_period_drama">Историческая драма</string>
+    <string name="genre_period_drama_desc">Исторически обоснованная драма</string>
+    <string name="genre_drama">Драма</string>
+    <string name="genre_drama_desc">Человеческие отношения и рост</string>
+
+    <string name="elements_group_emotional">Эмоциональные</string>
+    <string name="elements_group_sexual">Сексуальные</string>
+    <string name="elements_group_paraphilia">Парафилия</string>
+    <string name="elements_angst">Ангст</string>
+    <string name="elements_angst_desc">Эмоциональные переживания и страдания</string>
+    <string name="elements_fluff">Флафф</string>
+    <string name="elements_fluff_desc">Легкая, теплая атмосфера без драмы</string>
+    <string name="elements_lime">Лайм</string>
+    <string name="elements_lime_desc">Поцелуи и намеки на секс без детального описания</string>
+    <string name="elements_lemonade">Лимонад</string>
+    <string name="elements_lemonade_desc">Романтический секс</string>
+    <string name="elements_lemon">Лимон</string>
+    <string name="elements_lemon_desc">Откровенное описание секса (NC-17)</string>
+    <string name="elements_grapefruit">Грейпфрут</string>
+    <string name="elements_grapefruit_desc">Секс без согласия</string>
+    <string name="elements_bd">БД</string>
+    <string name="elements_bd_desc">Бондаж и доминирование</string>
+    <string name="elements_sm">СМ</string>
+    <string name="elements_sm_desc">Садизм и мазохизм</string>
+    <string name="elements_ve">ВЭ</string>
+    <string name="elements_ve_desc">Вуайеризм и эксгибиционизм</string>
+
+    <string name="rating_group_ratings">Рейтинги</string>
+    <string name="rating_all">Все (G)</string>
+    <string name="rating_all_desc">Без грубой лексики, насилия, секса и взрослых тем</string>
+    <string name="rating_preteen">Детский (PG)</string>
+    <string name="rating_preteen_desc">10–12 лет. Минимум грубой лексики, насилия и намеков</string>
+    <string name="rating_tween">Подростковый (PG-13)</string>
+    <string name="rating_tween_desc">13–15 лет. Умеренная лексика, насилие и взрослые темы</string>
+    <string name="rating_teen">Юношеский (R)</string>
+    <string name="rating_teen_desc">16–17 лет. Содержит грубую лексику, насилие и взрослые темы</string>
+    <string name="rating_adult">Взрослый (NC-17)</string>
+    <string name="rating_adult_desc">18+. Откровенная лексика, насилие, секс и взрослые темы</string>
+
+    <string name="warnings_group_all">Для всех</string>
+    <string name="warnings_group_preteen">Детский (PG)</string>
+    <string name="warnings_group_tween">Подростковый (PG-13)</string>
+    <string name="warnings_group_teen">Юношеский (R)</string>
+    <string name="warnings_group_adult">Взрослый (NC-17)</string>
+    <string name="warning_cartoon_violence">Мультяшное насилие</string>
+    <string name="warning_cartoon_violence_desc">Стилизованное или преувеличенное насилие без реалистичных травм</string>
+    <string name="warning_potty_humor">Туалетный юмор</string>
+    <string name="warning_potty_humor_desc">Шутки или юмор, связанные с туалетом</string>
+    <string name="warning_slapstick_humor">Слэпстик</string>
+    <string name="warning_slapstick_humor_desc">Физическая комедия с преувеличенными неудачами</string>
+    <string name="warning_minor_aggression">Незначительная агрессия</string>
+    <string name="warning_minor_aggression_desc">Краткое или мягкое враждебное поведение без травм</string>
+    <string name="warning_fantasy_violence">Фэнтезийное насилие</string>
+    <string name="warning_fantasy_violence_desc">Нереалистичное насилие в фантастических условиях</string>
+    <string name="warning_mild_aggression">Мягкая агрессия</string>
+    <string name="warning_mild_aggression_desc">Неявные конфронтации или угрозы</string>
+    <string name="warning_minor_violence">Незначительное насилие</string>
+    <string name="warning_minor_violence_desc">Краткий, неявный физический конфликт</string>
+    <string name="warning_mild_gore">Мягкая жестокость</string>
+    <string name="warning_mild_gore_desc">Очень ограниченное изображение травм без деталей</string>
+    <string name="warning_crude_humor">Грубый юмор</string>
+    <string name="warning_crude_humor_desc">Шутки о функциях организма или непристойные темы</string>
+    <string name="warning_mild_language">Мягкая лексика</string>
+    <string name="warning_mild_language_desc">Редкое использование мягкой ненормативной лексики</string>
+    <string name="warning_mild_fanservice">Мягкий фансервис</string>
+    <string name="warning_mild_fanservice_desc">Многозначительные визуальные эффекты без явного намерения</string>
+    <string name="warning_mild_sexual_innuendo">Мягкий сексуальный подтекст</string>
+    <string name="warning_mild_sexual_innuendo_desc">Косвенные или подразумеваемые сексуальные отсылки</string>
+    <string name="warning_tobacco_reference">Упоминание табака</string>
+    <string name="warning_tobacco_reference_desc">Упоминание табака без изображения употребления</string>
+    <string name="warning_alcohol_reference">Упоминание алкоголя</string>
+    <string name="warning_alcohol_reference_desc">Упоминание алкоголя без изображения употребления</string>
+    <string name="warning_drug_reference">Упоминание наркотиков</string>
+    <string name="warning_drug_reference_desc">Упоминание наркотиков без изображения употребления</string>
+    <string name="warning_occultism">Оккультизм</string>
+    <string name="warning_occultism_desc">Темы, связанные с магией, ритуалами или оккультными верованиями</string>
+    <string name="warning_moderate_aggression">Умеренная агрессия</string>
+    <string name="warning_moderate_aggression_desc">Длительное или интенсивное враждебное поведение</string>
+    <string name="warning_moderate_violence">Умеренное насилие</string>
+    <string name="warning_moderate_violence_desc">Явный физический конфликт с видимыми последствиями</string>
+    <string name="warning_moderate_gore">Умеренная жестокость</string>
+    <string name="warning_moderate_gore_desc">Видимые травмы или кровь без крайних деталей</string>
+    <string name="warning_sexual_humor">Сексуальный юмор</string>
+    <string name="warning_sexual_humor_desc">Шутки или ситуации, ссылающиеся на сексуальность</string>
+    <string name="warning_moderate_language">Умеренная лексика</string>
+    <string name="warning_moderate_language_desc">Частое использование сильной ненормативной лексики</string>
+    <string name="warning_nonsexual_nudity">Несексуальная нагота</string>
+    <string name="warning_nonsexual_nudity_desc">Нагота, представленная без сексуального контекста</string>
+    <string name="warning_moderate_fanservice">Умеренный фансервис</string>
+    <string name="warning_moderate_fanservice_desc">Сексуально многозначительные визуальные эффекты для привлечения внимания</string>
+    <string name="warning_moderate_sexual_innuendo">Умеренный сексуальный подтекст</string>
+    <string name="warning_moderate_sexual_innuendo_desc">Ясный подразумеваемый сексуальный смысл</string>
+    <string name="warning_moderate_sexual_language">Умеренная сексуальная лексика</string>
+    <string name="warning_moderate_sexual_language_desc">Прямая сексуальная терминология без графических деталей</string>
+    <string name="warning_moderate_sexual_violence">Умеренное сексуальное насилие</string>
+    <string name="warning_moderate_sexual_violence_desc">Упоминание сексуального насилия без явного изображения</string>
+    <string name="warning_pornography_reference">Упоминание порнографии</string>
+    <string name="warning_pornography_reference_desc">Ссылки на порнографические материалы</string>
+    <string name="warning_tobacco_use">Употребление табака</string>
+    <string name="warning_tobacco_use_desc">Изображение курения или употребления табака</string>
+    <string name="warning_alcohol_use">Употребление алкоголя</string>
+    <string name="warning_alcohol_use_desc">Изображение употребления алкоголя</string>
+    <string name="warning_drug_use">Употребление наркотиков</string>
+    <string name="warning_drug_use_desc">Изображение употребления наркотиков</string>
+    <string name="warning_explicit_aggression">Явная агрессия</string>
+    <string name="warning_explicit_aggression_desc">Крайняя или длительная насильственная враждебность</string>
+    <string name="warning_explicit_violence">Явное насилие</string>
+    <string name="warning_explicit_violence_desc">Графическое изображение физического вреда</string>
+    <string name="warning_explicit_gore">Явная жестокость</string>
+    <string name="warning_explicit_gore_desc">Детальное изображение крови, травм или расчленения</string>
+    <string name="warning_sexual_themes">Сексуальные темы</string>
+    <string name="warning_sexual_themes_desc">Сексуальный контент, центральный для повествования</string>
+    <string name="warning_explicit_language">Явная лексика</string>
+    <string name="warning_explicit_language_desc">Частая и крайняя ненормативная лексика</string>
+    <string name="warning_full_nudity">Полная нагота</string>
+    <string name="warning_full_nudity_desc">Полная нагота, показанная на экране</string>
+    <string name="warning_explicit_sexual_innuendo">Явный сексуальный подтекст</string>
+    <string name="warning_explicit_sexual_innuendo_desc">Сильный подразумеваемый сексуальный смысл</string>
+    <string name="warning_explicit_sexual_language">Явная сексуальная лексика</string>
+    <string name="warning_explicit_sexual_language_desc">Графическая сексуальная терминология</string>
+    <string name="warning_explicit_sexual_violence">Явное сексуальное насилие</string>
+    <string name="warning_explicit_sexual_violence_desc">Графическое изображение сексуального насилия</string>
+    <string name="format_group_timeline">Хронология</string>
+    <string name="format_group_structure">Структура</string>
+    <string name="format_prequel">Приквел</string>
+    <string name="format_prequel_desc">Происходит перед другой историей</string>
+    <string name="format_inquel">Инквел</string>
+    <string name="format_inquel_desc">Происходит во время пробела в другой истории</string>
+    <string name="format_paraquel">Параквел</string>
+    <string name="format_paraquel_desc">Происходит одновременно с другой историей</string>
+    <string name="format_interquel">Интерквел</string>
+    <string name="format_interquel_desc">Сиквел одной истории и приквел другой</string>
+    <string name="format_circumquel">Циркумквел</string>
+    <string name="format_circumquel_desc">Происходит частично до и после другой истории</string>
+    <string name="format_sequel">Сиквел</string>
+    <string name="format_sequel_desc">Происходит после другой истории</string>
+    <string name="format_serial">Сериал</string>
+    <string name="format_serial_desc">Группа историй в рамках одного большого повествования</string>
+    <string name="format_oneshot">Ваншот</string>
+    <string name="format_oneshot_desc">Самостоятельная история в общей вселенной</string>
+    <string name="format_omake">Омаке</string>
+    <string name="format_omake_desc">Неканонический бонусный материал или разрушение четвертой стены</string>
+
+    <string name="group_progress">Прогресс</string>
+    <string name="status_draft">Черновик</string>
+    <string name="status_revising">Редактирование</string>
+    <string name="status_complete">Завершено</string>
+    <string name="status_paused">На паузе</string>
+    <string name="status_shelved">Отложено</string>
+    <string name="status_draft_desc">Начальное планирование или ранняя стадия написания</string>
+    <string name="status_revising_desc">Активное редактирование или переписывание</string>
+    <string name="status_complete_desc">Закончено и финализировано</string>
+    <string name="status_paused_desc">Временно приостановлено</string>
+    <string name="status_shelved_desc">Отложено на неопределенный срок</string>
+</resources>

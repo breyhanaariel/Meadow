@@ -1,0 +1,39 @@
+{
+  "id": "project.elements",
+  "owner": "project",
+  "key": "elements",
+  "labelKey": "field_project_elements",
+  "kind": "MULTI_SELECT",
+  "group": "Classification",
+  "order": 9,
+  "metadata": {
+    "groupedOptions": {
+      "elements_group_emotional": {
+        "elements_angst": "elements_angst_desc",
+        "elements_fluff": "elements_fluff_desc"
+      },
+      "elements_group_sexual": {
+        "elements_lime": "elements_lime_desc",
+        "elements_lemonade": "elements_lemonade_desc",
+        "elements_lemon": "elements_lemon_desc",
+        "elements_grapefruit": "elements_grapefruit_desc"
+      },
+      "elements_group_paraphilia": {
+        "elements_bd": "elements_bd_desc",
+        "elements_sm": "elements_sm_desc",
+        "elements_ve": "elements_ve_desc"
+      }
+    },
+    "flatOptions": [
+      "elements_angst",
+      "elements_fluff",
+      "elements_lime",
+      "elements_lemonade",
+      "elements_lemon",
+      "elements_grapefruit",
+      "elements_bd",
+      "elements_sm",
+      "elements_ve"
+    ]
+  }
+}

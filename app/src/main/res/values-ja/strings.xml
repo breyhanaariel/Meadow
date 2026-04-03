@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meadow</string>
+    <string name="app_tagline">創作のためのワークスペース</string>
+
+    <string name="home_title">Meadow</string>
+    <string name="home_tagline">創作のためのワークスペース</string>
+    <string name="home_open_settings">設定を開く</string>
+
+    <string name="menu_home">ホーム</string>
+    <string name="menu_settings">設定</string>
+
+    <string name="back_home">ホームに戻る</string>
+
+    <string name="cd_home">ホーム</string>
+</resources>

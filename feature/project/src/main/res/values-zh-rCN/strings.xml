@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="project">项目</string>
+    <string name="series_and_projects">系列与项目</string>
+    <string name="action_create_project">创建项目</string>
+    <string name="action_edit_project">编辑项目</string>
+    <string name="create_project">创建项目</string>
+    <string name="new_project">新项目</string>
+    <string name="switch_project">切换项目</string>
+
+    <string name="project_created_success">项目已创建</string>
+    <string name="project_created_failed">项目未创建</string>
+    <string name="project_edited_success">项目已更新</string>
+    <string name="project_edited_failed">项目未更新</string>
+    <string name="project_deleted_success">项目已删除</string>
+    <string name="project_deleted_failed">项目未删除</string>
+
+    <string name="error_project_not_found">未找到项目</string>
+
+    <string name="field_project_type">项目类型</string>
+    <string name="field_project_title">标题</string>
+    <string name="field_project_description">描述</string>
+    <string name="field_project_pitch">提案 (Pitch)</string>
+    <string name="field_project_premise">前提</string>
+    <string name="field_project_plot">情节</string>
+    <string name="field_project_promise">承诺</string>
+    <string name="field_project_genre">类型</string>
+    <string name="field_project_format">格式</string>
+    <string name="field_project_rating">分级</string>
+    <string name="field_project_status">状态</string>
+    <string name="field_project_audience">受众</string>
+    <string name="field_project_elements">要素</string>
+    <string name="field_project_warnings">警告</string>
+    <string name="field_history_title">字段历史</string>
+    <string name="field_appearance">字段外观</string>
+    <string name="field_project_completed">已完成</string>
+    <string name="field_project_archived">已归档</string>
+
+    <string name="projects_title">项目</string>
+    <string name="projects_empty">您尚未创建任何项目。</string>
+    <string name="projects_no_results">没有符合您搜索或筛选条件的项目。</string>
+    <string name="projects_in_series">此系列中的项目</string>
+    <string name="no_projects_found">未找到项目</string>
+
+    <string name="search_projects">搜索项目</string>
+    <string name="search_projects_hint">
+        搜索提案、前提、情节、承诺、描述…
+    </string>
+
+    <string name="filters">筛选</string>
+    <string name="sort">排序</string>
+    <string name="visibility">可见性</string>
+    <string name="show_archived">显示已归档</string>
+    <string name="show_completed">显示已完成</string>
+
+    <string name="sort_project_count_asc">项目数量 (从低到高)</string>
+    <string name="sort_project_count_desc">项目数量 (从高到低)</string>
+
+    <string name="results_count">%1$d 个结果</string>
+    <string name="try_adjusting_filters">尝试调整您的搜索或筛选条件</string>
+
+    <string name="project_dashboard">项目仪表板</string>
+    <string name="project_details">项目详情</string>
+    <string name="project_overview">概览</string>
+    <string name="dashboard_overview">概览</string>
+    <string name="dashboard_details">详情</string>
+    <string name="dashboard_in_this_series">在此系列中</string>
+    <string name="project_quick_actions">快速操作</string>
+
+    <string name="project_cover">项目封面</string>
+    <string name="project_cover_placeholder">点击添加封面</string>
+    <string name="project_no_cover">无封面</string>
+    <string name="project_details_placeholder">
+        更多项目信息将在此后的更新中显示。
+    </string>
+
+    <string name="history">历史记录</string>
+    <string name="history_title">历史记录</string>
+    <string name="history_empty">暂无更改。</string>
+    <string name="history_added_value">已添加值</string>
+    <string name="history_cleared_value">已清除值</string>
+    <string name="history_source_manual">手动编辑</string>
+    <string name="history_source_migration">迁移</string>
+    <string name="history_source_sync">同步</string>
+    <string name="last_synced">上次同步</string>
+    <string name="last_synced_format">上次同步：%1$s</string>
+
+    <string name="choose_project">选择项目</string>
+    <string name="choose_project_type">选择项目类型</string>
+
+    <string name="project_type_comic">漫画</string>
+    <string name="project_type_novel">小说</string>
+    <string name="project_type_movie">电影</string>
+    <string name="project_type_tv_show">电视剧</string>
+    <string name="project_type_game">游戏</string>
+    <string name="project_type_unknown">未知</string>
+
+    <string name="select_project">选择项目</string>
+    <string name="backup_projects">备份项目</string>
+    <string name="sync_project">同步项目</string>
+    <string name="sync_all_projects">同步所有</string>
+    <string name="sync_now">立即同步</string>
+    <string name="sync_in_progress">正在同步…</string>
+    <string name="restore_from_drive">从 Drive 恢复</string>
+    <string name="view_projects">查看项目</string>
+
+    <string name="edit_project_title">编辑项目</string>
+    <string name="confirm_delete_project">删除项目？</string>
+    <string name="delete_project_title">删除项目</string>
+    <string name="delete_project_message">
+        您确定要删除此项目吗？此操作无法撤销。
+    </string>
+
+    <string name="series">系列</string>
+    <string name="choose_series">选择系列</string>
+    <string name="select_or_create_series">选择或创建系列</string>
+
+    <string name="action_add_series">添加系列</string>
+    <string name="action_create_series">创建系列</string>
+    <string name="create_new_series">创建新系列</string>
+
+    <string name="series_create_title">创建系列</string>
+    <string name="rename_series">重命名系列</string>
+    <string name="series_rename_title">重命名系列</string>
+
+    <string name="series_title">系列标题</string>
+    <string name="series_name">系列名称</string>
+    <string name="series_name_duplicate">已存在同名系列</string>
+
+    <string name="series_manage">管理系列</string>
+    <string name="series_metadata">系列元数据</string>
+    <string name="series_summary">系列摘要</string>
+
+    <string name="series_empty">暂无系列</string>
+    <string name="no_series">无系列</string>
+    <string name="series_no_projects">此系列中无项目</string>
+
+    <string name="series_project_count">%1$d 个项目</string>
+    <string name="series_projects">系列项目</string>
+
+    <string name="add_to_series">添加到系列</string>
+    <string name="remove_from_series">从系列移除</string>
+    <string name="convert_to_series">转换为系列</string>
+    <string name="revert_to_project">恢复为项目</string>
+
+    <string name="added_to_series_success">项目已添加到系列</string>
+    <string name="added_to_series_failed">项目未添加到系列</string>
+    <string name="remove_from_series_success">项目已从系列中移除。</string>
+    <string name="remove_from_series_failed">项目未从系列中移除。</string>
+    <string name="revert_to_project_success">项目已恢复为独立项目。</string>
+    <string name="revert_to_project_failed">项目未恢复为独立项目。</string>
+    <string name="converted_to_series_success">项目已转换为系列</string>
+    <string name="create_series_failed">系列未创建</string>
+
+    <string name="action_backup_project_catalog">备份项目目录</string>
+    <string name="action_backup_series_catalog">备份系列目录</string>
+
+    <string name="series_renamed_success">系列重命名成功</string>
+    <string name="series_deleted_success">系列删除成功</string>
+
+    <string name="delete_series_title">删除系列？</string>
+    <string name="confirm_delete_series">删除系列 “%1$s”？</string>
+    <string name="delete_series_message">
+        您确定要删除系列 “%1$s” 吗？
+    </string>
+
+    <string name="series_delete_safety">%1$d 个项目将解除关联但不会被删除</string>
+    <string name="series_field_scope_series">全系列</string>
+    <string name="series_field_scope_project">项目专用</string>
+    <string name="search_series">搜索系列</string>
+    <string name="series_shared_field">共享字段</string>
+    <string name="view_series">查看系列</string>
+    <string name="series_add_projects">添加项目</string>
+
+    <string name="project_loading">正在加载项目…</string>
+    <string name="project_archived">已归档</string>
+    <string name="project_completed">已完成</string>
+    <string name="project_invalid_form">请修复高亮显示的字段</string>
+    <string name="project_required_field">此字段为必填项</string>
+    <string name="project_sync_failed">项目同步失败</string>
+    <string name="project_sync_success">项目已同步</string>
+    <string name="project_no_enabled_features">此项目未启用任何功能</string>
+
+    <string name="group_production">制作</string>
+    <string name="field_project_page_count">页数</string>
+    <string name="field_project_art_style">艺术风格</string>
+    <string name="art_style_manga">日漫</string>
+    <string name="art_style_chibi">Q版</string>
+    <string name="art_style_cartoon">卡通</string>
+    <string name="art_style_realistic">写实</string>
+
+    <string name="group_design">设计</string>
+    <string name="group_release">发布</string>
+    <string name="field_project_game_genre">游戏类型</string>
+    <string name="field_project_platforms">平台</string>
+    <string name="game_genre_rpg">RPG</string>
+    <string name="game_genre_visual_novel">视觉小说</string>
+    <string name="game_genre_simulation">模拟</string>
+    <string name="game_genre_strategy">策略</string>
+    <string name="platform_pc">PC</string>
+    <string name="platform_android">Android</string>
+    <string name="platform_ios">iOS</string>
+    <string name="platform_console">主机</string>
+    <string name="platform_web">网页</string>
+
+    <string name="field_project_runtime_minutes">时长（分钟）</string>
+    <string name="field_project_budget">预算</string>
+
+    <string name="group_writing">写作</string>
+    <string name="field_project_word_count_target">目标字数</string>
+    <string name="field_project_narrative_pov">叙事视角</string>
+    <string name="narrative_pov_first_person">第一人称</string>
+    <string name="narrative_pov_second_person">第二人称</string>
+    <string name="narrative_pov_third_person_limited">第三人称限制视角</string>
+    <string name="narrative_pov_third_person_omniscient">第三人称全知视角</string>
+
+    <string name="group_structure">结构</string>
+    <string name="field_project_seasons">季数</string>
+    <string name="field_project_episodes_per_season">每季集数</string>
+
+    <string name="group_classification">分类</string>
+    <string name="audience_adventurer">冒险家</string>
+    <string name="audience_dreamer">梦想家</string>
+    <string name="audience_thinker">思想者</string>
+    <string name="audience_believer">信仰者</string>
+    <string name="genre_group_adventurer">冒险家</string>
+    <string name="genre_group_dreamer">梦想家</string>
+    <string name="genre_group_thinker">思想者</string>
+    <string name="genre_group_believer">信仰者</string>
+    <string name="genre_action">动作</string>
+    <string name="genre_action_desc">战斗或肉搏</string>
+    <string name="genre_adventure">冒险</string>
+    <string name="genre_adventure_desc">史诗般的旅行和发现</string>
+    <string name="genre_cyberpunk">赛博朋克</string>
+    <string name="genre_cyberpunk_desc">过度工业化的未来社会</string>
+    <string name="genre_steampunk">蒸汽朋克</string>
+    <string name="genre_steampunk_desc">蒸汽动力的架空历史</string>
+    <string name="genre_fantasy">奇幻</string>
+    <string name="genre_fantasy_desc">不同于现实的世界</string>
+    <string name="genre_science">科幻</string>
+    <string name="genre_science_desc">技术先进的世界</string>
+    <string name="genre_horror">恐怖</string>
+    <string name="genre_horror_desc">旨在惊吓观众</string>
+    <string name="genre_gothic">哥特</string>
+    <string name="genre_gothic_desc">怪诞、荒凉、宿命的氛围</string>
+    <string name="genre_paranormal">超常</string>
+    <string name="genre_paranormal_desc">超出科学解释</string>
+    <string name="genre_supernatural">超自然</string>
+    <string name="genre_supernatural_desc">超越自然规律</string>
+    <string name="genre_spiritual">灵性</string>
+    <string name="genre_spiritual_desc">探索精神信仰</string>
+    <string name="genre_religious">宗教</string>
+    <string name="genre_religious_desc">以宗教教义为中心</string>
+    <string name="genre_parody">戏仿</string>
+    <string name="genre_parody_desc">幽默的模仿</string>
+    <string name="genre_satire">讽刺</string>
+    <string name="genre_satire_desc">批判性幽默</string>
+    <string name="genre_mystery">悬疑</string>
+    <string name="genre_mystery_desc">令人费解的犯罪或情况</string>
+    <string name="genre_romantic_comedy">浪漫喜剧</string>
+    <string name="genre_romantic_comedy_desc">围绕浪漫的喜剧</string>
+    <string name="genre_erotic_comedy">情色喜剧</string>
+    <string name="genre_erotic_comedy_desc">围绕性的喜剧</string>
+    <string name="genre_gag">搞怪</string>
+    <string name="genre_gag_desc">荒诞的幽默</string>
+    <string name="genre_comedy">喜剧</string>
+    <string name="genre_comedy_desc">现实的幽默</string>
+    <string name="genre_period_drama">历史剧</string>
+    <string name="genre_period_drama_desc">基于历史的戏剧</string>
+    <string name="genre_drama">剧情</string>
+    <string name="genre_drama_desc">人际关系与成长</string>
+
+    <string name="elements_group_emotional">情感</string>
+    <string name="elements_group_sexual">性相关</string>
+    <string name="elements_group_paraphilia">性倒错</string>
+    <string name="elements_angst">虐心</string>
+    <string name="elements_angst_desc">极度压抑或痛苦的情感体验</string>
+    <string name="elements_fluff">甜文</string>
+    <string name="elements_fluff_desc">轻松温馨，没有虐心情节</string>
+    <string name="elements_lime">青柠</string>
+    <string name="elements_lime_desc">接吻和非露骨的性行为</string>
+    <string name="elements_lemonade">柠檬水</string>
+    <string name="elements_lemonade_desc">浪漫的性行为</string>
+    <string name="elements_lemon">柠檬</string>
+    <string name="elements_lemon_desc">露骨的性行为</string>
+    <string name="elements_grapefruit">西柚</string>
+    <string name="elements_grapefruit_desc">未经同意的性行为</string>
+    <string name="elements_bd">BD</string>
+    <string name="elements_bd_desc">束缚与支配</string>
+    <string name="elements_sm">SM</string>
+    <string name="elements_sm_desc">施虐与受虐</string>
+    <string name="elements_ve">VE</string>
+    <string name="elements_ve_desc">窥淫与暴露</string>
+
+    <string name="rating_group_ratings">分级</string>
+    <string name="rating_all">全年龄</string>
+    <string name="rating_all_desc">无粗俗语言、暴力、色情或成人主题</string>
+    <string name="rating_preteen">前青春期</string>
+    <string name="rating_preteen_desc">10–12 岁。含轻微的粗俗语言、暴力、色情和成人主题</string>
+    <string name="rating_tween">青春期早期</string>
+    <string name="rating_tween_desc">13–15 岁。含温和的粗俗语言、暴力、色情和成人主题</string>
+    <string name="rating_teen">青少年</string>
+    <string name="rating_teen_desc">16–17 岁。含中度的粗俗语言、暴力、色情和成人主题</string>
+    <string name="rating_adult">成人</string>
+    <string name="rating_adult_desc">18 岁以上。含露骨的粗俗语言、暴力、色情和成人主题</string>
+
+    <string name="warnings_group_all">全年龄</string>
+    <string name="warnings_group_preteen">前青春期</string>
+    <string name="warnings_group_tween">青春期早期</string>
+    <string name="warnings_group_teen">青少年</string>
+    <string name="warnings_group_adult">成人</string>
+    <string name="warning_cartoon_violence">卡通暴力</string>
+    <string name="warning_cartoon_violence_desc">风格化或夸张的暴力，无真实伤害</string>
+    <string name="warning_potty_humor">厕所幽默</string>
+    <string name="warning_potty_humor_desc">与厕所相关的笑话或幽默</string>
+    <string name="warning_slapstick_humor">闹剧幽默</string>
+    <string name="warning_slapstick_humor_desc">涉及夸张意外的肢体喜剧</string>
+    <string name="warning_minor_aggression">轻微攻击</string>
+    <string name="warning_minor_aggression_desc">短暂或轻微的敌对行为，无伤害</string>
+    <string name="warning_fantasy_violence">幻想暴力</string>
+    <string name="warning_fantasy_violence_desc">幻想环境中的非现实暴力</string>
+    <string name="warning_mild_aggression">温和攻击</string>
+    <string name="warning_mild_aggression_desc">非直观的对抗或威胁</string>
+    <string name="warning_minor_violence">轻微暴力</string>
+    <string name="warning_minor_violence_desc">短暂、非直观的肢体冲突</string>
+    <string name="warning_mild_gore">轻微血腥</string>
+    <string name="warning_mild_gore_desc">非常有限的伤害描绘，无细节</string>
+    <string name="warning_crude_humor">粗俗幽默</string>
+    <string name="warning_crude_humor_desc">涉及身体功能或暗示性主题的笑话</string>
+    <string name="warning_mild_language">温和语言</string>
+    <string name="warning_mild_language_desc">不常使用温和的粗俗语</string>
+    <string name="warning_mild_fanservice">轻微杀必死 (Fanservice)</string>
+    <string name="warning_mild_fanservice_desc">无明确意图的暗示性视觉效果</string>
+    <string name="warning_mild_sexual_innuendo">轻微性暗示</string>
+    <string name="warning_mild_sexual_innuendo_desc">间接或隐含的性提及</string>
+    <string name="warning_tobacco_reference">烟草提及</string>
+    <string name="warning_tobacco_reference_desc">提及烟草但无使用描绘</string>
+    <string name="warning_alcohol_reference">酒精提及</string>
+    <string name="warning_alcohol_reference_desc">提及酒精但无使用描绘</string>
+    <string name="warning_drug_reference">药物提及</string>
+    <string name="warning_drug_reference_desc">提及药物但无使用描绘</string>
+    <string name="warning_occultism">神秘主义</string>
+    <string name="warning_occultism_desc">涉及魔法、仪式或神秘信仰的主题</string>
+    <string name="warning_moderate_aggression">中度攻击</string>
+    <string name="warning_moderate_aggression_desc">持续或激烈的敌对行为</string>
+    <string name="warning_moderate_violence">中度暴力</string>
+    <string name="warning_moderate_violence_desc">有明显影响的清晰肢体冲突</string>
+    <string name="warning_moderate_gore">中度血腥</string>
+    <string name="warning_moderate_gore_desc">可见的伤害或血液，无极端细节</string>
+    <string name="warning_sexual_humor">性幽默</string>
+    <string name="warning_sexual_humor_desc">提及性的笑话或情境</string>
+    <string name="warning_moderate_language">中度语言</string>
+    <string name="warning_moderate_language_desc">频繁使用强烈的粗俗语</string>
+    <string name="warning_nonsexual_nudity">非性裸露</string>
+    <string name="warning_nonsexual_nudity_desc">无性背景呈现的裸露</string>
+    <string name="warning_moderate_fanservice">中度杀必死 (Fanservice)</string>
+    <string name="warning_moderate_fanservice_desc">旨在吸引人的性暗示视觉效果</string>
+    <string name="warning_moderate_sexual_innuendo">中度性暗示</string>
+    <string name="warning_moderate_sexual_innuendo_desc">清晰的隐含性含义</string>
+    <string name="warning_moderate_sexual_language">中度性语言</string>
+    <string name="warning_moderate_sexual_language_desc">无直观细节的直接性术语</string>
+    <string name="warning_moderate_sexual_violence">中度性暴力</string>
+    <string name="warning_moderate_sexual_violence_desc">提及但无明确描绘的性暴力</string>
+    <string name="warning_pornography_reference">色情提及</string>
+    <string name="warning_pornography_reference_desc">提及色情材料</string>
+    <string name="warning_tobacco_use">烟草使用</string>
+    <string name="warning_tobacco_use_desc">吸烟或烟草消费的描绘</string>
+    <string name="warning_alcohol_use">酒精使用</string>
+    <string name="warning_alcohol_use_desc">酒精消费的描绘</string>
+    <string name="warning_drug_use">药物使用</string>
+    <string name="warning_drug_use_desc">药物消费的描绘</string>
+    <string name="warning_explicit_aggression">露骨攻击</string>
+    <string name="warning_explicit_aggression_desc">极端或持续的暴力敌意</string>
+    <string name="warning_explicit_violence">露骨暴力</string>
+    <string name="warning_explicit_violence_desc">身体伤害的直观描绘</string>
+    <string name="warning_explicit_gore">露骨血腥</string>
+    <string name="warning_explicit_gore_desc">血液、伤害或肢解的详细描绘</string>
+    <string name="warning_sexual_themes">性主题</string>
+    <string name="warning_sexual_themes_desc">作为叙事核心的性内容</string>
+    <string name="warning_explicit_language">露骨语言</string>
+    <string name="warning_explicit_language_desc">频繁且极端的粗俗语</string>
+    <string name="warning_full_nudity">全裸</string>
+    <string name="warning_full_nudity_desc">屏幕上显示的完全裸露</string>
+    <string name="warning_explicit_sexual_innuendo">露骨性暗示</string>
+    <string name="warning_explicit_sexual_innuendo_desc">强烈的隐含性含义</string>
+    <string name="warning_explicit_sexual_language">露骨性语言</string>
+    <string name="warning_explicit_sexual_language_desc">直观的性术语</string>
+    <string name="warning_explicit_sexual_violence">露骨性暴力</string>
+    <string name="warning_explicit_sexual_violence_desc">性暴力的直观描绘</string>
+    <string name="format_group_timeline">时间线</string>
+    <string name="format_group_structure">结构</string>
+    <string name="format_prequel">前传</string>
+    <string name="format_prequel_desc">发生在另一故事之前</string>
+    <string name="format_inquel">插传 (Inquel)</string>
+    <string name="format_inquel_desc">发生在另一故事的间隙中</string>
+    <string name="format_paraquel">平行传 (Paraquel)</string>
+    <string name="format_paraquel_desc">与另一故事同时发生</string>
+    <string name="format_interquel">间传 (Interquel)</string>
+    <string name="format_interquel_desc">一故事的续集及另一故事的前传</string>
+    <string name="format_circumquel">环传 (Circumquel)</string>
+    <string name="format_circumquel_desc">部分发生在另一故事之前和之后</string>
+    <string name="format_sequel">续集</string>
+    <string name="format_sequel_desc">发生在另一故事之后</string>
+    <string name="format_serial">连载</string>
+    <string name="format_serial_desc">一更大叙事中的故事组</string>
+    <string name="format_oneshot">单篇 (One-shot)</string>
+    <string name="format_oneshot_desc">共享宇宙中的独立故事</string>
+    <string name="format_omake">番外 (Omake)</string>
+    <string name="format_omake_desc">非正史的奖励材料或打破第四面墙</string>
+
+    <string name="group_progress">进度</string>
+    <string name="status_draft">草稿</string>
+    <string name="status_revising">修订中</string>
+    <string name="status_complete">已完成</string>
+    <string name="status_paused">暂停</string>
+    <string name="status_shelved">搁置</string>
+    <string name="status_draft_desc">初步规划或早期写作阶段</string>
+    <string name="status_revising_desc">正在积极编辑或重写</string>
+    <string name="status_complete_desc">已结束并定稿</string>
+    <string name="status_paused_desc">暂时挂起</string>
+    <string name="status_shelved_desc">无限期搁置</string>
+</resources>

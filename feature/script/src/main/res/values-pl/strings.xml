@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_script">Scenariusz</string>
+    <string name="script_list_title">Scenariusze</string>
+    <string name="script_new">Nowy scenariusz</string>
+    <string name="script_editor_title">Edytor</string>
+    <string name="script_dialect">Dialekt</string>
+    <string name="script_mode_structure">Struktura</string>
+    <string name="script_mode_outline">Konspekt</string>
+    <string name="script_mode_catalog_links">Linki do katalogu</string>
+    <string name="script_mode_comments">Komentarze</string>
+    <string name="script_action_ai">AI</string>
+    <string name="script_action_export">Eksportuj</string>
+    <string name="script_action_more">Więcej</string>
+    <string name="script_outline">Konspekt</string>
+    <string name="script_no_scripts">Brak scenariuszy</string>
+    <string name="script_create_failed">Nie udało się utworzyć scenariusza</string>
+    <string name="script_saved">Zapisano</string>
+    <string name="script_type_comic">Komiks</string>
+    <string name="script_type_novel">Powieść</string>
+    <string name="script_type_tv">TV</string>
+    <string name="script_type_movie">Film</string>
+    <string name="script_type_game">Gra</string>
+    <string name="script_dialect_fountain">Fountain</string>
+    <string name="script_dialect_renpy">Ren’Py</string>
+</resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_close_chat">关闭 AI 聊天</string>
+    <string name="cd_page_number">第 %1$d 页</string>
+    <string name="cd_thumbnail_number">缩略图 %1$d</string>
+
+    <string name="ai_settings_section">AI</string>
+    <string name="ai_settings_title">AI 设置</string>
+    <string name="ai_settings_core">核心角色提示词</string>
+    <string name="ai_settings_library">提示词库</string>
+    <string name="ai_settings_add_prompt">添加提示词</string>
+    <string name="ai_settings_core_prompt_label">提示词模板</string>
+    <string name="ai_settings_empty_library">暂无保存的提示词。</string>
+    <string name="ai_settings_reset_default">重置为默认</string>
+    <string name="ai_settings_prompt_persona">人设：%1$s</string>
+
+    <string name="ai_generating">生成中…</string>
+    <string name="ai_thinking">思考中…</string>
+    <string name="ai_try_again">重试</string>
+
+    <string name="ai_context_library">AI 上下文库</string>
+    <string name="ai_context_all_personas">所有角色</string>
+    <string name="ai_edit_context">编辑 AI 上下文</string>
+    <string name="ai_project_context">项目 AI 上下文</string>
+    <string name="ai_series_context">系列 AI 上下文</string>
+    <string name="ai_context_summary">摘要</string>
+    <string name="ai_context_tone">语气</string>
+    <string name="ai_context_themes">主题</string>
+    <string name="ai_no_fields_available">没有可用的 AI 字段。</string>
+    <string name="ai_add_context">添加 AI 上下文</string>
+    <string name="ai_search_context">搜索上下文</string>
+    <string name="ai_delete_context_title">删除上下文</string>
+    <string name="ai_delete_context_message">您确定要永久删除“%1$s”吗？此操作无法撤销。</string>
+    <string name="ai_new_context">新建上下文</string>
+    <string name="ai_context_title">标题</string>
+    <string name="ai_context_body">上下文正文</string>
+
+    <string name="ai_persona_bud">Bud</string>
+    <string name="ai_placeholder_bud">为此字段生成或优化文本…</string>
+
+    <string name="ai_persona_vine">Vine</string>
+    <string name="ai_placeholder_vine">在此起草场景或章节…</string>
+
+    <string name="ai_persona_sprout">Sprout</string>
+    <string name="ai_sprout_title">Sprout 创意生成器</string>
+    <string name="ai_sprout_idea_request">用户创意请求</string>
+    <string name="ai_sprout_extra_context">额外上下文</string>
+    <string name="ai_placeholder_sprout">今天我们要头脑风暴什么？</string>
+
+    <string name="ai_persona_petal">Petal</string>
+    <string name="ai_petal_title">Petal 章节评论</string>
+    <string name="ai_petal_chapter_to_critique">要评论的章节</string>
+    <string name="ai_petal_author_notes">作者注释或限制</string>
+    <string name="ai_placeholder_petal">输入您的章节以进行分析</string>
+
+    <string name="ai_persona_bloom">Bloom</string>
+    <string name="ai_bloom_title">Bloom 润色编辑器</string>
+    <string name="ai_bloom_original_text">原文</string>
+    <string name="ai_bloom_editing_instructions">重写/编辑说明</string>
+    <string name="ai_placeholder_bloom">重写此场景</string>
+
+    <string name="ai_persona_meadow">Meadow</string>
+    <string name="ai_meadow_title">Meadow 写作助手</string>
+    <string name="ai_meadow_source">来源</string>
+    <string name="ai_meadow_page">页码</string>
+    <string name="ai_meadow_user_question">用户问题</string>
+    <string name="ai_meadow_relevant_excerpts">相关写作指南摘录</string>
+    <string name="ai_meadow_excerpt">摘录</string>
+    <string name="ai_placeholder_meadow">问我任何问题</string>
+
+    <string name="ai_chat_panel_title">AI 助手</string>
+    <string name="ai_chat_panel_placeholder">问我任何问题</string>
+    <string name="ai_chat_panel_send">发送</string>
+
+    <string name="ai_new_chat">新聊天</string>
+    <string name="ai_choose_chat">选择聊天</string>
+    <string name="ai_create_new_chat">创建新聊天</string>
+    <string name="ai_rename_chat">重命名</string>
+    <string name="ai_rename_title">重命名聊天</string>
+    <string name="ai_chat_name">聊天名称</string>
+    <string name="ai_no_chats">暂无聊天</string>
+
+    <string name="ai_error_generic">AI 无法完成该请求。</string>
+    <string name="ai_error_rate_limited">请求过多。请稍候。</string>
+    <string name="ai_error_context_too_large">上下文过长。</string>
+
+    <string name="ai_tooltip_message">AI 提示</string>
+
+    <string name="ai_use_prompt_button">使用提示词</string>
+
+    <string name="ai_dialog_assistant_title">AI 助手</string>
+    <string name="ai_dialog_unicorn_assistant">独角兽助手</string>
+    <string name="ai_dialog_link_bookmark">将书签链接到目录条目</string>
+    <string name="ai_dialog_catalog_id">目录 ID</string>
+    <string name="ai_dialog_link">链接</string>
+
+    <string name="ai_help_tooltip">AI 助手帮助</string>
+    <string name="ai_help_button">工作原理</string>
+    <string name="ai_help_title">使用 AI 助手</string>
+    <string name="ai_help_description">
+        AI 助手可以帮助您起草、编辑、整理和生成创意。
+        打开聊天面板并询问任何问题。
+    </string>
+
+    <string name="ai_select_writing_guide">选择写作指南</string>
+    <string name="ai_pdf_document_label">PDF 文档</string>
+    <string name="ai_pdf_select_document_placeholder">选择 PDF</string>
+    <string name="ai_pdf_page">第 %1$d 页</string>
+    <string name="ai_pdf_search_label">在 PDF 中搜索</string>
+    <string name="ai_pdf_search_icon_desc">搜索</string>
+    <string name="ai_pdf_load_failed">加载 PDF 失败。</string>
+    <string name="ai_open_pdf_page">打开 PDF \u2022 第 %1$d 页</string>
+    <string name="ai_pdf_viewer_page">第 %1$d 页，共 %2$d 页</string>
+    <string name="ai_pdf_viewer_previous">上一页</string>
+    <string name="ai_pdf_viewer_next">下一页</string>
+    <string name="ai_pdf_viewer_add_bookmark">添加书签</string>
+    <string name="ai_pdf_viewer_back">← 返回</string>
+
+    <string name="ai_pdf_link_title">链接到目录</string>
+    <string name="ai_pdf_link_message">输入目录 ID：</string>
+
+    <string name="ai_selection_result_title">AI 结果</string>
+    <string name="ai_selection_replace">替换所选内容</string>
+    <string name="ai_selection_insert_below">在下方插入</string>
+    <string name="ai_selection_failed">AI 出错: %1$s</string>
+    <string name="ai_action_sprout">Sprout: 创意</string>
+    <string name="ai_action_vine">Vine: 草稿</string>
+    <string name="ai_action_petal">Petal: 评审</string>
+    <string name="ai_action_bloom">Bloom: 重写</string>
+</resources>

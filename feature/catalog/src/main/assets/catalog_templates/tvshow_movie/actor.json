@@ -1,0 +1,295 @@
+{
+  "typeKey": "actor",
+  "icon": "ic_actor",
+  "primaryFieldKey": "full_name",
+  "fields": [
+    {
+      "id": "actor.photo",
+      "owner": "catalog",
+      "key": "photo",
+      "labelKey": "field_actor_photo",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "actor.full_name",
+      "owner": "catalog",
+      "key": "full_name",
+      "labelKey": "field_actor_full_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "actor.email",
+      "owner": "catalog",
+      "key": "email",
+      "labelKey": "field_actor_email",
+      "kind": "EMAIL",
+      "order": 2
+    },
+    {
+      "id": "actor.home_phone",
+      "owner": "catalog",
+      "key": "home_phone",
+      "labelKey": "field_actor_home_phone",
+      "kind": "PHONE",
+      "order": 3
+    },
+    {
+      "id": "actor.cell_phone",
+      "owner": "catalog",
+      "key": "cell_phone",
+      "labelKey": "field_actor_cell_phone",
+      "kind": "PHONE",
+      "order": 4
+    },
+
+    {
+      "id": "actor.current_roles",
+      "owner": "catalog",
+      "key": "current_roles",
+      "labelKey": "field_actor_current_roles",
+      "kind": "GROUP",
+      "order": 5,
+      "metadata": {
+        "repeatable": false
+      },
+      "fields": [
+        {
+          "id": "actor.current_internal_roles",
+          "owner": "catalog",
+          "key": "current_internal_roles",
+          "labelKey": "field_actor_internal_roles",
+          "kind": "REFERENCE",
+          "order": 0,
+          "metadata": {
+            "targetSchema": "character",
+            "multi": true
+          }
+        },
+        {
+          "id": "actor.external_roles",
+          "owner": "catalog",
+          "key": "current_external_roles",
+          "labelKey": "field_actor_external_roles",
+          "kind": "MULTILINE_TEXT",
+          "order": 1,
+          "metadata": {
+            "aiContext": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "actor.previous_roles",
+      "owner": "catalog",
+      "key": "previous_roles",
+      "labelKey": "field_actor_previous_roles",
+      "kind": "GROUP",
+      "order": 6,
+      "metadata": {
+        "repeatable": false
+      },
+      "fields": [
+        {
+          "id": "actor.previous_internal_roles",
+          "owner": "catalog",
+          "key": "previous_internal_roles",
+          "labelKey": "field_actor_internal_roles",
+          "kind": "REFERENCE",
+          "order": 0,
+          "metadata": {
+            "targetSchema": "character",
+            "multi": true
+          }
+        },
+        {
+          "id": "actor.previous_external_roles",
+          "owner": "catalog",
+          "key": "previous_external_roles",
+          "labelKey": "field_actor_external_roles",
+          "kind": "MULTILINE_TEXT",
+          "order": 1,
+          "metadata": {
+            "aiContext": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "actor.availability",
+      "owner": "catalog",
+      "key": "availability",
+      "labelKey": "field_actor_availability",
+      "kind": "SINGLE_SELECT",
+      "order": 7,
+      "metadata": {
+        "options": [
+          "availabilityavailable",
+          "availabilityunavailable",
+          "availabilitylimited",
+          "availabilityon_hold"
+        ]
+      }
+    },
+    {
+      "id": "actor.union_status",
+      "owner": "catalog",
+      "key": "union_status",
+      "labelKey": "field_actor_union",
+      "kind": "SINGLE_SELECT",
+      "order": 8,
+      "metadata": {
+        "options": [
+          "union_sag_aftra",
+          "union_equity",
+          "union_actra",
+          "union_non_union",
+          "union_sag_eligible"
+        ]
+      }
+    },
+    {
+      "id": "actor.agent_contact",
+      "owner": "catalog",
+      "key": "agent_contact",
+      "labelKey": "field_actor_agent",
+      "kind": "MULTILINE_TEXT",
+      "order": 9
+    },
+    {
+      "id": "actor.skills",
+      "owner": "catalog",
+      "key": "skills",
+      "labelKey": "field_actor_skills",
+      "kind": "MULTILINE_TEXT",
+      "order": 10
+    },
+    {
+      "id": "actor.gender_presentation",
+      "owner": "catalog",
+      "key": "gender_presentation",
+      "labelKey": "field_actor_gender",
+      "kind": "SINGLE_SELECT",
+      "order": 11,
+      "metadata": {
+        "options": [
+          "actor_gender_male",
+          "actor_gender_female",
+          "actor_gender_non_binary",
+          "actor_gender_transgender",
+          "actor_gender_other"
+        ]
+      }
+    },
+    {
+      "id": "actor.date_of_birth",
+      "owner": "catalog",
+      "key": "date_of_birth",
+      "labelKey": "field_actor_date_of_birth",
+      "kind": "DATE",
+      "order": 12
+    },
+    {
+      "id": "actor.age",
+      "owner": "catalog",
+      "key": "age",
+      "labelKey": "field_actor_age",
+      "kind": "NUMBER",
+      "order": 13,
+      "metadata": { "derivedFrom": "date_of_birth", "calculation": "age_years", "readOnly": true }
+    },
+    {
+      "id": "actor.height",
+      "owner": "catalog",
+      "key": "height",
+      "labelKey": "field_actor_height",
+      "kind": "NUMBER",
+      "order": 14,
+      "metadata": { "unit": "cm" }
+    },
+    {
+      "id": "actor.weight",
+      "owner": "catalog",
+      "key": "weight",
+      "labelKey": "field_actor_weight",
+      "kind": "NUMBER",
+      "order": 15,
+      "metadata": { "unit": "kg" }
+    },
+    {
+      "id": "actor.hair_color",
+      "owner": "catalog",
+      "key": "hair_color",
+      "labelKey": "field_actor_hair_color",
+      "kind": "COLOR",
+      "order": 16
+    },
+
+    {
+      "id": "actor.eye_color",
+      "owner": "catalog",
+      "key": "eye_color",
+      "labelKey": "field_actor_eye_color",
+      "kind": "COLOR",
+      "order": 17
+    },
+    {
+      "id": "actor.dress_size",
+      "owner": "catalog",
+      "key": "dress_size",
+      "labelKey": "field_actor_dress_size",
+      "kind": "TEXT",
+      "order": 18
+    },
+    {
+      "id": "actor.shirt_size",
+      "owner": "catalog",
+      "key": "shirt_size",
+      "labelKey": "field_actor_shirt_size",
+      "kind": "TEXT",
+      "order": 19
+    },
+    {
+      "id": "actor.jacket_size",
+      "owner": "catalog",
+      "key": "jacket_size",
+      "labelKey": "field_actor_jacket_size",
+      "kind": "TEXT",
+      "order": 20
+    },
+    {
+      "id": "actor.pant_size",
+      "owner": "catalog",
+      "key": "pant_size",
+      "labelKey": "field_actor_pant_size",
+      "kind": "TEXT",
+      "order": 21
+    },
+    {
+      "id": "actor.skirt_size",
+      "owner": "catalog",
+      "key": "skirt_size",
+      "labelKey": "field_actor_skirt_size",
+      "kind": "TEXT",
+      "order": 22
+    },
+    {
+      "id": "actor.shoe_size",
+      "owner": "catalog",
+      "key": "shoe_size",
+      "labelKey": "field_actor_shoe_size",
+      "kind": "TEXT",
+      "order": 23
+    },
+    {
+      "id": "actor.hat_size",
+      "owner": "catalog",
+      "key": "hat_size",
+      "labelKey": "field_actor_hat_size",
+      "kind": "TEXT",
+      "order": 24
+    }
+  ]
+}

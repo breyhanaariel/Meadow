@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Media Player -->
+    <string name="media_play">Riproduci</string>
+    <string name="media_pause">Pausa</string>
+    <string name="media_stop">Ferma</string>
+    <string name="media_now_playing">In riproduzione</string>
+    <string name="media_loading">Caricamento</string>
+    <string name="media_no_audio">Nessun audio caricato</string>
+    <string name="media_no_video">Nessun video caricato</string>
+    <string name="media_error">Si è verificato un errore multimediale</string>
+
+    <!-- Image Loader -->
+    <string name="media_image_loading">Caricamento immagine</string>
+    <string name="media_image_failed">Impossibile caricare l\'immagine</string>
+
+    <!-- Subtitles -->
+    <string name="media_subtitle_unknown">[Sottotitolo sconosciuto]</string>
+
+    <!-- Metadata -->
+    <string name="media_no_metadata">Nessun metadato trovato</string>
+    <string name="media_metadata_title">Titolo</string>
+    <string name="media_metadata_artist">Artista</string>
+    <string name="media_metadata_album">Album</string>
+    <string name="media_metadata_genre">Genere</string>
+    <string name="media_metadata_duration">Durata</string>
+</resources>

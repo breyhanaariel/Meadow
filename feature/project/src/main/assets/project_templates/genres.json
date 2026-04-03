@@ -1,0 +1,65 @@
+{
+  "id": "project.genre",
+  "owner": "project",
+  "key": "genre",
+  "labelKey": "field_project_genre",
+  "kind": "MULTI_SELECT",
+  "group": "Classification",
+  "order": 8,
+  "metadata": {
+    "groupedOptions": {
+      "genre_group_adventurer": {
+        "genre_action": "genre_action_desc",
+        "genre_adventure": "genre_adventure_desc",
+        "genre_cyberpunk": "genre_cyberpunk_desc",
+        "genre_steampunk": "genre_steampunk_desc",
+        "genre_fantasy": "genre_fantasy_desc",
+        "genre_science": "genre_science_desc"
+      },
+      "genre_group_dreamer": {
+        "genre_horror": "genre_horror_desc",
+        "genre_gothic": "genre_gothic_desc",
+        "genre_paranormal": "genre_paranormal_desc",
+        "genre_supernatural": "genre_supernatural_desc"
+      },
+      "genre_group_thinker": {
+        "genre_spiritual": "genre_spiritual_desc",
+        "genre_religious": "genre_religious_desc",
+        "genre_parody": "genre_parody_desc",
+        "genre_satire": "genre_satire_desc",
+        "genre_mystery": "genre_mystery_desc"
+      },
+      "genre_group_believer": {
+        "genre_romantic_comedy": "genre_romantic_comedy_desc",
+        "genre_erotic_comedy": "genre_erotic_comedy_desc",
+        "genre_gag": "genre_gag_desc",
+        "genre_comedy": "genre_comedy_desc",
+        "genre_period_drama": "genre_period_drama_desc",
+        "genre_drama": "genre_drama_desc"
+      }
+    },
+    "flatOptions": [
+      "genre_action",
+      "genre_adventure",
+      "genre_cyberpunk",
+      "genre_steampunk",
+      "genre_fantasy",
+      "genre_science",
+      "genre_horror",
+      "genre_gothic",
+      "genre_paranormal",
+      "genre_supernatural",
+      "genre_spiritual",
+      "genre_religious",
+      "genre_parody",
+      "genre_satire",
+      "genre_mystery",
+      "genre_romantic_comedy",
+      "genre_erotic_comedy",
+      "genre_gag",
+      "genre_comedy",
+      "genre_period_drama",
+      "genre_drama"
+    ]
+  }
+}

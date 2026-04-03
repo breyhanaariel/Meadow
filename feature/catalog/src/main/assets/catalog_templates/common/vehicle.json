@@ -1,0 +1,118 @@
+{
+  "typeKey": "vehicle",
+  "icon": "ic_vehicle",
+  "primaryFieldKey": "name",
+  "fields": [
+    {
+      "id": "vehicle.name",
+      "owner": "catalog",
+      "key": "name",
+      "labelKey": "field_vehicle_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 0
+    },
+    {
+      "id": "vehicle.type",
+      "owner": "catalog",
+      "key": "type",
+      "labelKey": "field_vehicle_type",
+      "kind": "SINGLE_SELECT",
+      "order": 1,
+      "metadata": {
+        "options": [
+          "vehicle_type_car",
+          "vehicle_type_truck",
+          "vehicle_type_motorcycle",
+          "vehicle_type_bus",
+          "vehicle_type_boat",
+          "vehicle_type_ship",
+          "vehicle_type_submarine",
+          "vehicle_type_aircraft",
+          "vehicle_type_helicopter",
+          "vehicle_type_drone",
+          "vehicle_type_train",
+          "vehicle_type_spacecraft",
+          "vehicle_type_armored_vehicle",
+          "vehicle_type_mount_creature",
+          "vehicle_type_magical_transport",
+          "vehicle_type_other"
+        ]
+      }
+    },
+    {
+      "id": "vehicle.power_source",
+      "owner": "catalog",
+      "key": "power_source",
+      "labelKey": "field_vehicle_power_source",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": {
+        "options": [
+          "vehicle_power_gasoline",
+          "vehicle_power_diesel",
+          "vehicle_power_electric",
+          "vehicle_power_nuclear",
+          "vehicle_power_magic",
+          "vehicle_power_biological",
+          "vehicle_power_hybrid",
+          "vehicle_power_other"
+        ]
+      }
+    },
+    {
+      "id": "vehicle.capacity",
+      "owner": "catalog",
+      "key": "capacity",
+      "labelKey": "field_vehicle_capacity",
+      "kind": "NUMBER",
+      "order": 3
+    },
+    {
+      "id": "vehicle.status",
+      "owner": "catalog",
+      "key": "status",
+      "labelKey": "field_vehicle_status",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": {
+        "options": [
+          "vehicle_status_active",
+          "vehicle_status_damaged",
+          "vehicle_status_destroyed",
+          "vehicle_status_decommissioned",
+          "vehicle_status_missing"
+        ]
+      }
+    },
+    {
+      "id": "vehicle.affiliation",
+      "owner": "catalog",
+      "key": "affiliation",
+      "labelKey": "field_vehicle_affiliation",
+      "kind": "RELATION",
+      "order": 5,
+      "metadata": {
+        "relationTypeKey": "organization",
+        "allowMultiple": false
+      }
+    },
+    {
+      "id": "vehicle.images",
+      "owner": "catalog",
+      "key": "images",
+      "labelKey": "field_vehicle_images",
+      "kind": "IMAGE",
+      "order": 6
+    },
+    {
+      "id": "vehicle.description",
+      "owner": "catalog",
+      "key": "description",
+      "labelKey": "field_vehicle_description",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}

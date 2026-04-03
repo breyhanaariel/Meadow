@@ -1,0 +1,135 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 1,
+    "identityHash": "e7977225a42c8416340a7b24d45d644b",
+    "entities": [
+      {
+        "tableName": "ai_contexts",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` TEXT NOT NULL, `title` TEXT NOT NULL, `text` TEXT NOT NULL, `category` TEXT NOT NULL, `scopeKey` TEXT, `personaKeysCsv` TEXT, `enabled` INTEGER NOT NULL, `pinned` INTEGER NOT NULL, `createdAtUtcMs` INTEGER NOT NULL, `updatedAtUtcMs` INTEGER NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "text",
+            "columnName": "text",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "category",
+            "columnName": "category",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "scopeKey",
+            "columnName": "scopeKey",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "personaKeysCsv",
+            "columnName": "personaKeysCsv",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "enabled",
+            "columnName": "enabled",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "pinned",
+            "columnName": "pinned",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "createdAtUtcMs",
+            "columnName": "createdAtUtcMs",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAtUtcMs",
+            "columnName": "updatedAtUtcMs",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_ai_contexts_scopeKey",
+            "unique": false,
+            "columnNames": [
+              "scopeKey"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_ai_contexts_scopeKey` ON `${TABLE_NAME}` (`scopeKey`)"
+          },
+          {
+            "name": "index_ai_contexts_enabled",
+            "unique": false,
+            "columnNames": [
+              "enabled"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_ai_contexts_enabled` ON `${TABLE_NAME}` (`enabled`)"
+          },
+          {
+            "name": "index_ai_contexts_pinned",
+            "unique": false,
+            "columnNames": [
+              "pinned"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_ai_contexts_pinned` ON `${TABLE_NAME}` (`pinned`)"
+          },
+          {
+            "name": "index_ai_contexts_personaKeysCsv",
+            "unique": false,
+            "columnNames": [
+              "personaKeysCsv"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_ai_contexts_personaKeysCsv` ON `${TABLE_NAME}` (`personaKeysCsv`)"
+          },
+          {
+            "name": "index_ai_contexts_personaKeysCsv_scopeKey",
+            "unique": false,
+            "columnNames": [
+              "personaKeysCsv",
+              "scopeKey"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_ai_contexts_personaKeysCsv_scopeKey` ON `${TABLE_NAME}` (`personaKeysCsv`, `scopeKey`)"
+          }
+        ],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'e7977225a42c8416340a7b24d45d644b')"
+    ]
+  }
+}

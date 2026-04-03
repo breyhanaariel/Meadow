@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Conectar cuenta de Google</string>
+    <string name="google_account_connected">Cuenta de Google conectada</string>
+    <string name="google_account_disconnected">Desconectar cuenta de Google</string>
+
+    <string name="google_auth_signing_in">Iniciando sesión…</string>
+    <string name="google_auth_sign_in_failed">Error al iniciar sesión</string>
+    <string name="google_auth_signed_out">Sesión cerrada</string>
+    <string name="google_auth_permission_required">Permiso de Google requerido</string>
+    <string name="google_auth_retry">Intentar de nuevo</string>
+
+    <string name="google_drive_title">Google Drive</string>
+    <string name="google_drive_connecting">Conectando a Google Drive…</string>
+    <string name="google_drive_connected">Conectado a Google Drive</string>
+    <string name="google_drive_syncing">Sincronizando con Google Drive…</string>
+    <string name="google_drive_sync_complete">Sincronización de Drive completa</string>
+    <string name="google_drive_sync_failed">Error en sincronización de Drive</string>
+    <string name="google_drive_permission_denied">Acceso a Drive denegado</string>
+
+    <string name="google_sheets_title">Hojas de cálculo de Google</string>
+    <string name="google_sheets_connecting">Conectando a Hojas de cálculo…</string>
+    <string name="google_sheets_connected">Conectado a Hojas de cálculo</string>
+    <string name="google_sheets_exporting">Exportando a Hojas de cálculo…</string>
+    <string name="google_sheets_export_complete">Exportación completa</string>
+    <string name="google_sheets_export_failed">Error al exportar</string>
+
+    <string name="google_calendar_title">Google Calendar</string>
+    <string name="google_calendar_connecting">Conectando a Google Calendar…</string>
+    <string name="google_calendar_connected">Conectado a Google Calendar</string>
+    <string name="google_calendar_syncing">Sincronizando calendario…</string>
+    <string name="google_calendar_sync_failed">Error en sincronización de calendario</string>
+    <string name="google_calendar_permission_denied">Acceso al calendario denegado</string>
+
+    <string name="google_docs_title">Google Docs</string>
+    <string name="google_docs_connecting">Conectando a Google Docs…</string>
+    <string name="google_docs_connected">Conectado a Google Docs</string>
+    <string name="google_docs_exporting">Exportando a Google Docs…</string>
+    <string name="google_docs_export_failed">Error al exportar</string>
+
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Conectando a Gemini…</string>
+    <string name="google_gemini_connected">Conectado a Gemini</string>
+    <string name="google_gemini_requesting">Generando respuesta…</string>
+    <string name="google_gemini_failed">Error en la solicitud a Gemini</string>
+    <string name="google_gemini_rate_limited">Demasiadas solicitudes. Por favor, espera.</string>
+</resources>

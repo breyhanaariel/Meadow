@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">
+        Краткий обзор проекта.
+    </string>
+
+    <string name="tooltip_project_pitch">
+        Одно предложение, призванное быстро продать идею.
+    </string>
+
+    <string name="tooltip_project_premise">
+        Ключевое «что если?», которое движет историей.
+    </string>
+
+    <string name="tooltip_project_promise">
+        Чего ожидать аудитории (тон, тема, эмоциональная отдача).
+    </string>
+
+    <string name="tooltip_project_plot">
+        Общий план основных сюжетных поворотов. Без лишних деталей.
+    </string>
+</resources>

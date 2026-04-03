@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">生成</string>
+    <string name="ai_mode_improve">改进</string>
+    <string name="ai_mode_rewrite">重写</string>
+    <string name="ai_mode_expand">扩充</string>
+    <string name="ai_mode_shorten">缩短</string>
+    <string name="ai_action_manage_context">管理上下文</string>
+    <string name="ai_action_open_chats">打开聊天</string>
+    <string name="ai_choose_action">选择操作</string>
+    <string name="ai_for_field">AI 用于：%1$s</string>
+    <string name="ai_picker_generate_title">生成：选择字段</string>
+    <string name="ai_picker_improve_title">改进：选择字段</string>
+    <string name="ai_picker_rewrite_title">重写：选择字段</string>
+    <string name="ai_no_fields_available">没有可用的 AI 字段。</string>
+    <string name="ai_preview_title">预览 AI 更改</string>
+    <string name="ai_preview_scope">范围：%1$s</string>
+    <string name="ai_preview_count">更改数：%1$d</string>
+    <string name="ai_preview_before">更改前：</string>
+    <string name="ai_preview_after">更改后：</string>
+    <string name="ai_optional_note">可选备注（不发送）</string>
+    <string name="ai_applied">已应用 AI 更改</string>
+    <string name="ai_failed_generic">AI 失败</string>
+    <string name="ai_preview_empty">(空)</string>
+    <string name="ai_context_title">AI 上下文</string>
+    <string name="ai_context_add">添加上下文</string>
+    <string name="ai_context_pinned">已置顶（始终包含）</string>
+    <string name="ai_context_title_label">标题</string>
+    <string name="ai_context_body_label">上下文</string>
+    <string name="ai_context_edit">编辑上下文</string>
+    <string name="ai_context_delete">删除上下文</string>
+    <string name="ai_select_field">选择字段</string>
+</resources>

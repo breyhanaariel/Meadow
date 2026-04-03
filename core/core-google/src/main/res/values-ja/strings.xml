@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_settings_title">Google</string>
+    <string name="google_connect_account">Googleアカウントを接続</string>
+    <string name="google_account_connected">Googleアカウント接続済み</string>
+    <string name="google_account_disconnected">Googleアカウントを切断</string>
+
+    <string name="google_auth_signing_in">ログイン中…</string>
+    <string name="google_auth_sign_in_failed">ログインに失敗しました</string>
+    <string name="google_auth_signed_out">ログアウトしました</string>
+    <string name="google_auth_permission_required">Googleの権限が必要です</string>
+    <string name="google_auth_retry">再試行</string>
+
+    <string name="google_drive_title">Googleドライブ</string>
+    <string name="google_drive_connecting">Googleドライブに接続中…</string>
+    <string name="google_drive_connected">Googleドライブに接続しました</string>
+    <string name="google_drive_syncing">Googleドライブと同期中…</string>
+    <string name="google_drive_sync_complete">ドライブの同期完了</string>
+    <string name="google_drive_sync_failed">ドライブの同期失敗</string>
+    <string name="google_drive_permission_denied">ドライブへのアクセスが拒否されました</string>
+
+    <string name="google_sheets_title">Googleスプレッドシート</string>
+    <string name="google_sheets_connecting">Googleスプレッドシートに接続中…</string>
+    <string name="google_sheets_connected">Googleスプレッドシートに接続しました</string>
+    <string name="google_sheets_exporting">Googleスプレッドシートにエクスポート中…</string>
+    <string name="google_sheets_export_complete">エクスポート完了</string>
+    <string name="google_sheets_export_failed">エクスポート失敗</string>
+
+    <string name="google_calendar_title">Googleカレンダー</string>
+    <string name="google_calendar_connecting">Googleカレンダーに接続中…</string>
+    <string name="google_calendar_connected">Googleカレンダーに接続しました</string>
+    <string name="google_calendar_syncing">カレンダーを同期中…</string>
+    <string name="google_calendar_sync_failed">カレンダーの同期失敗</string>
+    <string name="google_calendar_permission_denied">カレンダーへのアクセスが拒否されました</string>
+
+    <string name="google_docs_title">Googleドキュメント</string>
+    <string name="google_docs_connecting">Googleドキュメントに接続中…</string>
+    <string name="google_docs_connected">Googleドキュメントに接続しました</string>
+    <string name="google_docs_exporting">Googleドキュメントにエクスポート中…</string>
+    <string name="google_docs_export_failed">エクスポート失敗</string>
+
+    <string name="google_gemini_title">Gemini</string>
+    <string name="google_gemini_connecting">Geminiに接続中…</string>
+    <string name="google_gemini_connected">Geminiに接続しました</string>
+    <string name="google_gemini_requesting">回答を生成中…</string>
+    <string name="google_gemini_failed">Geminiリクエスト失敗</string>
+    <string name="google_gemini_rate_limited">リクエストが多すぎます。お待ちください。</string>
+</resources>

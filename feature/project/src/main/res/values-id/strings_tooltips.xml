@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Ringkasan singkat tentang proyek.</string>
+    <string name="tooltip_project_pitch">Satu kalimat yang dimaksudkan untuk menjual ide dengan cepat.</string>
+    <string name="tooltip_project_premise">Inti "bagaimana jika?" yang mendasari cerita.</string>
+    <string name="tooltip_project_promise">Pengalaman apa yang dapat diharapkan audiens (nada, tema, kepuasan emosional).</string>
+    <string name="tooltip_project_plot">Garis besar tingkat tinggi dari alur cerita utama. Bukan setiap detail.</string>
+</resources>

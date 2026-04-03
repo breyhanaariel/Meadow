@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="helper_character_arc">
+<b>ANLATICI ÖZET OLUŞTURUCU</b>\n
+<i>Bu cümle başlangıçlarını akıcı bir paragrafta birleştirin:</i>\n\n
+
+• <b>Kurulum:</b> "[Yara] tarafından travmatize edilen [İsim], [Yalan/Yanlış İnanç] olduğuna inanıyor..."\n
+• <b>Katalizör:</b> "[Dış Hedef] için çaresizce, [Tetikleyici Olay] yaparlar..."\n
+• <b>Değişim:</b> "Başlangıçta [Eski Yöntem] kullansalar da, [Orta Nokta] her şeyi değiştirir..."\n
+• <b>Düşüş:</b> "Ancak [Başarısızlık] onları inançlarını sorgulamaya zorlar..."\n
+• <b>Seçim:</b> "[Güvenlik] ile [Gerçek] arasında seçim yapmak zorunda kaldıklarında, [Doruk Noktası Eylemi] yaparlar..."\n
+• <b>Çözüm:</b> "Hikayeyi [Yeni Kimlik/Statü] olarak bitirirler."
+    </string>
+
+    <string name="helper_character_goal">
+<b>DIŞSAL VS. İÇSEL</b>\n
+Hedef, karakterin olay örgüsü boyunca kovaladığı <b>fiziksel nesne veya sonuçtur</b>.
+    </string>
+
+    <string name="helper_character_motivation_outer">
+<b>BASKI (KIRBAÇ)</b>\n
+Eyleme zorlayan dış baskı. Dünyanın felaketten kaçınmak için onlardan <i>yapmalarını beklediği</i> şeydir.
+    </string>
+
+    <string name="helper_character_motivation_inner">
+<b>AÇLIK (BOŞLUK)</b>\n
+Hedefin altındaki duygusal eksiklik. Doldurmaya çalıştıkları psikolojik boşluktur.
+    </string>
+
+    <string name="helper_character_methodology">
+<b>YAKLAŞIM VS. TUTUM</b>\n
+• <b>Yaklaşım:</b> Sorunları çözmek için kullanılan görünür eylemler ve taktikler.\n
+• <b>Tutum:</b> İçsel zihniyet veya felsefe.
+    </string>
+
+    <string name="helper_character_requirement">
+<b>ÖN KOŞUL (ANAHTAR)</b>\n
+Hedefe ulaşılmadan <i>önce</i> elde edilmesi gereken temel adım veya öğe.
+    </string>
+
+    <string name="helper_character_consequence">
+<b>RİSKLER (DEĞİŞİMİN BEDELİ)</b>\n
+Bu hedefin peşinden gitmenin kalıcı sonuçları nelerdir? Başarı ve başarısızlığı düşünün.
+    </string>
+
+    <string name="helper_character_forewarning">
+<b>UYARI SİNYALLERİ</b>\n
+Sonuç gelmeden <i>önce</i> hangi uyarılar veya işaretler görünür?
+    </string>
+
+    <string name="helper_character_power_description">
+<b>TEMEL KİMLİK</b>\n
+Yeteneklerin temel doğası nedir? Büyü mü, teknoloji mi, beceri mi?
+    </string>
+
+    <string name="helper_character_power_capabilities">
+<b>ZİRVE PERFORMANS</b>\n
+Bu güç en iyi durumunda neler başarabilir?
+    </string>
+
+    <string name="helper_character_power_limitations">
+<b>BEDELLER (KISITLAMALAR)</b>\n
+Bu gücün her sorunu çözmesini engelleyen nedir?
+    </string>
+
+    <string name="helper_character_learning_style">
+<b>BİLİŞSEL HİYERARŞİ</b>\n
+Karakter sorunları çözmek için bilgiyi nasıl işler? (Hatırlama, Anlama, Uygulama, Analiz, Değerlendirme, Yaratma).
+    </string>
+
+    <string name="helper_character_mental_wound">
+<b>HAYALET (TRAVMA)</b>\n
+Karakterin peşini bırakmayan geçmişteki tanımlayıcı psikolojik yara.
+    </string>
+
+    <string name="helper_character_mental_fear">
+<b>KABUS</b>\n
+Yaradan doğan spesifik korku. Kaçtıkları şey budur.
+    </string>
+
+    <string name="helper_character_triggers">
+<b>MAYINLAR</b>\n
+Mantığı devre dışı bırakan ve yarayı anında tetikleyen durumlar veya kelimeler.
+    </string>
+
+    <string name="helper_character_stress_response">
+<b>SAVAŞ, KAÇ, DON, YAĞCILIK YAP</b>\n
+Karakter tetiklendiğinde nasıl tepki verir?
+    </string>
+
+    <string name="helper_character_mental_lie">
+<b>YANLIŞ İNANÇ</b>\n
+Yarayı korumak için oluşturulmuş, dünyanın işleyişine dair yanlış bir kural.
+    </string>
+
+    <string name="helper_character_coping_mechanisms">
+<b>KALKANLAR</b>\n
+Acıyı yönetmek için kullanılan davranışlar.
+    </string>
+
+    <string name="helper_character_id_ego_superego">
+<b>PSİŞE (FREUD)</b>\n
+Karakterin zihni nasıl bölünmüştür? (Alt Benlik, Üst Benlik, Benlik).
+    </string>
+
+    <string name="helper_character_mask">
+<b>MASKE (TOPLUMSAL YÜZ)</b>\n
+Karakterin iç benliğini korumak için taktığı yüz. Bir performanstır.
+    </string>
+
+    <string name="helper_character_self">
+<b>GERÇEK BENLİK (ÖZEL YÜZ)</b>\n
+Karakter karanlıkta yalnız kaldığında kimdir?
+    </string>
+
+    <string name="helper_character_alignment">
+<b>AHLAKİ PUSULA</b>\n
+Kurallara Bağlı ↔ Kaotik | İyi ↔ Kötü.
+    </string>
+
+    <string name="helper_character_social_tone">
+<b>SOSYAL HAVA</b>\n
+Belirli konuşmalarda nasıl davranırlar?
+    </string>
+
+    <string name="helper_character_chronic_tone">
+<b>VARSAYILAN RUH HALİ</b>\n
+Karakterin üzerinde asılı duran duygusal "hava durumu".
+    </string>
+
+    <string name="helper_character_archetypes">
+<b>MASKE ARKETİPLERİ</b>\n
+Toplum önünde sergilediği rol (Örn. Yardımsever, Reformcu, Meydan Okuyan).
+    </string>
+
+    <string name="helper_character_relationships">
+<b>İLİŞKİ DİNAMİKLERİ</b>\n
+İlişkiler, karakteri eyleme zorlayan baskı noktalarıdır.
+    </string>
+</resources>

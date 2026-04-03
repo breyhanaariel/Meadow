@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">상위 위치를 지정하여 계층 구조를 만듭니다(예: 도시는 국가에 속하고, 방은 건물에 속함).</string>
+    <string name="tooltip_style_voice">문장 구조, 리듬, 속도 및 스타일 흐름을 설명합니다.</string>
+    <string name="tooltip_style_lexicon">속어, 축약형, 비속어, 방언 또는 어휘 제한에 관한 규칙입니다.</string>
+    <string name="tooltip_style_do_rules">이 문체에서 강조하거나 일관되게 포함해야 할 사항입니다.</string>
+    <string name="tooltip_style_avoid_rules">이 문체에서 피하거나 최소화해야 할 사항입니다.</string>
+    <string name="tooltip_style_formatting">속마음, 텔레파시, 문자 메시지 또는 특수 대화의 서식 규칙입니다.</string>
+</resources>

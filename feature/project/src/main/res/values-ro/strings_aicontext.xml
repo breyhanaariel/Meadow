@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Generează</string>
+    <string name="ai_mode_improve">Îmbunătățește</string>
+    <string name="ai_mode_rewrite">Rescrie</string>
+    <string name="ai_mode_expand">Extinde</string>
+    <string name="ai_mode_shorten">Scurtează</string>
+    <string name="ai_action_manage_context">Gestionează contextul</string>
+    <string name="ai_action_open_chats">Deschide conversații</string>
+    <string name="ai_choose_action">Alege o acțiune</string>
+    <string name="ai_for_field">IA pentru: %1$s</string>
+    <string name="ai_picker_generate_title">Generează: Alege câmpurile</string>
+    <string name="ai_picker_improve_title">Îmbunătățește: Alege câmpurile</string>
+    <string name="ai_picker_rewrite_title">Rescrie: Alege câmpurile</string>
+    <string name="ai_no_fields_available">Niciun câmp activat pentru IA nu este disponibil.</string>
+    <string name="ai_preview_title">Previzualizează modificările IA</string>
+    <string name="ai_preview_scope">Domeniu: %1$s</string>
+    <string name="ai_preview_count">Modificări: %1$d</string>
+    <string name="ai_preview_before">Înainte:</string>
+    <string name="ai_preview_after">După:</string>
+    <string name="ai_optional_note">Notă opțională (nu se trimite)</string>
+    <string name="ai_applied">Modificări IA aplicate</string>
+    <string name="ai_failed_generic">IA a eșuat</string>
+    <string name="ai_preview_empty">(gol)</string>
+    <string name="ai_context_title">Context IA</string>
+    <string name="ai_context_add">Adaugă context</string>
+    <string name="ai_context_pinned">Fixat (include întotdeauna)</string>
+    <string name="ai_context_title_label">Titlu</string>
+    <string name="ai_context_body_label">Context</string>
+    <string name="ai_context_edit">Editează contextul</string>
+    <string name="ai_context_delete">Șterge contextul</string>
+    <string name="ai_select_field">Selectează un câmp</string>
+</resources>

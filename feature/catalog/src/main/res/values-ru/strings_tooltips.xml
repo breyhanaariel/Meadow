@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_location_parent">Назначьте родительское местоположение для создания иерархии (например, город относится к стране, комната — к зданию).</string>
+    <string name="tooltip_style_voice">Опишите структуру предложений, ритм, темп и стилистику повествования.</string>
+    <string name="tooltip_style_lexicon">Правила, касающиеся сленга, сокращений, ненормативной лексики, диалектов или ограничений словаря.</string>
+    <string name="tooltip_style_do_rules">Вещи, на которых этот голос должен делать акцент или использовать постоянно.</string>
+    <string name="tooltip_style_avoid_rules">Вещи, которых этот голос должен избегать или минимизировать.</string>
+    <string name="tooltip_style_formatting">Правила форматирования внутренних мыслей, телепатии, текстовых сообщений или особых диалогов.</string>
+</resources>

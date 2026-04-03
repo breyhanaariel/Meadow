@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">Agenda</string>
+    <string name="calendar">Agenda</string>
+    <string name="action_sync_now">Nu synchroniseren</string>
+    <string name="action_today">Vandaag</string>
+    <string name="view_month">Maand</string>
+    <string name="view_week">Week</string>
+    <string name="view_agenda">Agenda</string>
+    <string name="filter_all">Alle</string>
+    <string name="filter_global">Globaal</string>
+    <string name="filter_series">Reeks</string>
+    <string name="filter_projects">Projecten</string>
+    <string name="filter_this_project">Dit project</string>
+    <string name="label_color">Kleur</string>
+    <string name="label_recurrence">Herhalingen</string>
+    <string name="label_reminder">Herinnering</string>
+    <string name="recurrence_none">Herhaalt niet</string>
+    <string name="recurrence_daily">Dagelijks</string>
+    <string name="recurrence_weekly">Wekelijks</string>
+    <string name="recurrence_monthly">Maandelijks</string>
+    <string name="reminder_none">Geen herinnering</string>
+    <string name="reminder_10">10 minuten van tevoren</string>
+    <string name="reminder_30">30 minuten van tevoren</string>
+    <string name="reminder_60">1 uur van tevoren</string>
+    <string name="delete_event_title">Evenement verwijderen?</string>
+    <string name="delete_event_message">Hiermee wordt %1$s definitief verwijderd. Deze actie kan niet ongedaan worden gemaakt.</string>
+    <string name="no_events">Nog geen evenementen</string>
+    <string name="add_event">Evenement toevoegen</string>
+    <string name="delete_event">Evenement verwijderen</string>
+    <string name="edit_event">Evenement bewerken</string>
+    <string name="month">Maand</string>
+    <string name="week">Week</string>
+    <string name="agenda">Agenda</string>
+    <string name="all_day">Hele dag</string>
+    <string name="new_event">Nieuwe afspraak</string>
+    <string name="search_month_or_year">Zoek maand of jaar</string>
+    <string name="upcoming_event">Binnenkort</string>
+    <string name="past_event">Verleden</string>
+</resources>

@@ -1,0 +1,32 @@
+{
+  "typeKey": "movie",
+  "displayName": "project_type_movie",
+  "color": "#A8D5BA",
+  "enabledFeatures": [
+    "catalog",
+    "script",
+    "plot_cards",
+    "storyboard",
+    "wiki",
+    "timeline",
+    "family_tree"
+  ],
+  "fields": [
+    {
+      "id": "project.runtime_minutes",
+      "key": "runtime_minutes",
+      "labelKey": "field_project_runtime_minutes",
+      "kind": "NUMBER",
+      "group": "group_production",
+      "order": 20
+    },
+    {
+      "id": "project.budget",
+      "key": "budget",
+      "labelKey": "field_project_budget",
+      "kind": "NUMBER",
+      "group": "group_production",
+      "order": 21
+    }
+  ]
+}

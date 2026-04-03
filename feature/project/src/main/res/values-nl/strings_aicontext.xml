@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ai_mode_generate">Genereren</string>
+    <string name="ai_mode_improve">Verbeteren</string>
+    <string name="ai_mode_rewrite">Herschrijven</string>
+    <string name="ai_mode_expand">Uitbreiden</string>
+    <string name="ai_mode_shorten">Inkorten</string>
+    <string name="ai_action_manage_context">Context beheren</string>
+    <string name="ai_action_open_chats">Chats openen</string>
+    <string name="ai_choose_action">Kies een actie</string>
+    <string name="ai_for_field">AI voor: %1$s</string>
+    <string name="ai_picker_generate_title">Genereren: Kies velden</string>
+    <string name="ai_picker_improve_title">Verbeteren: Kies velden</string>
+    <string name="ai_picker_rewrite_title">Herschrijven: Kies velden</string>
+    <string name="ai_no_fields_available">Geen AI-velden beschikbaar.</string>
+    <string name="ai_preview_title">Voorbeeld AI-wijzigingen</string>
+    <string name="ai_preview_scope">Bereik: %1$s</string>
+    <string name="ai_preview_count">Wijzigingen: %1$d</string>
+    <string name="ai_preview_before">Vóór:</string>
+    <string name="ai_preview_after">Na:</string>
+    <string name="ai_optional_note">Optionele notitie (niet verzonden)</string>
+    <string name="ai_applied">AI-wijzigingen toegepast</string>
+    <string name="ai_failed_generic">AI mislukt</string>
+    <string name="ai_preview_empty">(leeg)</string>
+    <string name="ai_context_title">AI-context</string>
+    <string name="ai_context_add">Context toevoegen</string>
+    <string name="ai_context_pinned">Vastgezet (altijd opnemen)</string>
+    <string name="ai_context_title_label">Titel</string>
+    <string name="ai_context_body_label">Context</string>
+    <string name="ai_context_edit">Context bewerken</string>
+    <string name="ai_context_delete">Context verwijderen</string>
+    <string name="ai_select_field">Selecteer een veld</string>
+</resources>

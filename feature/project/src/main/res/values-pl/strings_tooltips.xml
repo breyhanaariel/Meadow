@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tooltip_project_description">Krótki opis projektu.</string>
+    <string name="tooltip_project_pitch">Jedno zdanie mające na celu szybką sprzedaż pomysłu.</string>
+    <string name="tooltip_project_premise">Główne założenie „co jeśli?”, które napędza historię.</string>
+    <string name="tooltip_project_promise">Jakiego doświadczenia może spodziewać się odbiorca (ton, motyw, efekt emocjonalny).</string>
+    <string name="tooltip_project_plot">Ogólny zarys najważniejszych zwrotów akcji. Bez zbędnych szczegółów.</string>
+</resources>

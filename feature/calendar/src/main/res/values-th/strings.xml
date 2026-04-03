@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_calendar">ปฏิทิน</string>
+    <string name="calendar">ปฏิทิน</string>
+    <string name="action_sync_now">ซิงค์ตอนนี้</string>
+    <string name="action_today">วันนี้</string>
+    <string name="view_month">เดือน</string>
+    <string name="view_week">สัปดาห์</string>
+    <string name="view_agenda">กำหนดการ</string>
+    <string name="filter_all">ทั้งหมด</string>
+    <string name="filter_global">สากล</string>
+    <string name="filter_series">ซีรีส์</string>
+    <string name="filter_projects">โปรเจกต์</string>
+    <string name="filter_this_project">โปรเจกต์นี้</string>
+    <string name="label_color">สี</string>
+    <string name="label_recurrence">การทำซ้ำ</string>
+    <string name="label_reminder">การแจ้งเตือน</string>
+    <string name="recurrence_none">ไม่ทำซ้ำ</string>
+    <string name="recurrence_daily">ทุกวัน</string>
+    <string name="recurrence_weekly">ทุกสัปดาห์</string>
+    <string name="recurrence_monthly">ทุกเดือน</string>
+    <string name="reminder_none">ไม่มีการแจ้งเตือน</string>
+    <string name="reminder_10">10 นาทีก่อนหน้า</string>
+    <string name="reminder_30">30 นาทีก่อนหน้า</string>
+    <string name="reminder_60">1 ชั่วโมงก่อนหน้า</string>
+    <string name="delete_event_title">ลบกิจกรรมใช่ไหม?</string>
+    <string name="delete_event_message">การดำเนินการนี้จะลบ %1$s อย่างถาวร และไม่สามารถเรียกคืนได้</string>
+    <string name="no_events">ยังไม่มีกิจกรรม</string>
+    <string name="add_event">เพิ่มกิจกรรม</string>
+    <string name="delete_event">ลบกิจกรรม</string>
+    <string name="edit_event">แก้ไขกิจกรรม</string>
+    <string name="month">เดือน</string>
+    <string name="week">สัปดาห์</string>
+    <string name="agenda">กำหนดการ</string>
+    <string name="all_day">ตลอดวัน</string>
+    <string name="new_event">กิจกรรมใหม่</string>
+    <string name="search_month_or_year">ค้นหาเดือนหรือปี</string>
+    <string name="upcoming_event">ที่กำลังจะมาถึง</string>
+    <string name="past_event">ที่ผ่านมา</string>
+</resources>

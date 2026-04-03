@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_close_chat">Fermer le chat IA</string>
+    <string name="cd_page_number">Page %1$d</string>
+    <string name="cd_thumbnail_number">Miniature %1$d</string>
+
+    <string name="ai_settings_section">IA</string>
+    <string name="ai_settings_title">Paramètres IA</string>
+    <string name="ai_settings_core">Prompts du persona principal</string>
+    <string name="ai_settings_library">Bibliothèque de prompts</string>
+    <string name="ai_settings_add_prompt">Ajouter un prompt</string>
+    <string name="ai_settings_core_prompt_label">Modèle de prompt</string>
+    <string name="ai_settings_empty_library">Aucun prompt enregistré.</string>
+    <string name="ai_settings_reset_default">Rétablir par défaut</string>
+    <string name="ai_settings_prompt_persona">Persona : %1$s</string>
+
+    <string name="ai_generating">Génération en cours…</string>
+    <string name="ai_thinking">Réflexion en cours…</string>
+    <string name="ai_try_again">Réessayer</string>
+
+    <string name="ai_context_library">Bibliothèque de contexte IA</string>
+    <string name="ai_context_all_personas">Toutes les personas</string>
+    <string name="ai_edit_context">Modifier le contexte IA</string>
+    <string name="ai_project_context">Contexte IA du projet</string>
+    <string name="ai_series_context">Contexte IA de la série</string>
+    <string name="ai_context_summary">Résumé</string>
+    <string name="ai_context_tone">Ton</string>
+    <string name="ai_context_themes">Thèmes</string>
+    <string name="ai_no_fields_available">Aucun champ compatible IA disponible.</string>
+    <string name="ai_add_context">Ajouter un contexte IA</string>
+    <string name="ai_search_context">rechercher dans le contexte</string>
+    <string name="ai_delete_context_title">Supprimer le contexte</string>
+    <string name="ai_delete_context_message">Voulez-vous vraiment supprimer définitivement \"%1$s\" ? Cette action est irréversible.</string>
+    <string name="ai_new_context">Nouveau contexte</string>
+    <string name="ai_context_title">Titre</string>
+    <string name="ai_context_body">Corps du contexte</string>
+
+    <string name="ai_persona_bud">Bud</string>
+    <string name="ai_placeholder_bud">Générer ou affiner le texte pour ce champ…</string>
+
+    <string name="ai_persona_vine">Vine</string>
+    <string name="ai_placeholder_vine">Rédigez une scène ou un chapitre ici…</string>
+
+    <string name="ai_persona_sprout">Sprout</string>
+    <string name="ai_sprout_title">Générateur d\'idées Sprout</string>
+    <string name="ai_sprout_idea_request">Demande d\'idée utilisateur</string>
+    <string name="ai_sprout_extra_context">Contexte supplémentaire</string>
+    <string name="ai_placeholder_sprout">Sur quoi brainstormons-nous aujourd\'hui ?</string>
+
+    <string name="ai_persona_petal">Petal</string>
+    <string name="ai_petal_title">Critique de chapitre Petal</string>
+    <string name="ai_petal_chapter_to_critique">Chapitre à critiquer</string>
+    <string name="ai_petal_author_notes">Notes de l\'auteur ou contraintes</string>
+    <string name="ai_placeholder_petal">Entrez votre chapitre pour analyse</string>
+
+    <string name="ai_persona_bloom">Bloom</string>
+    <string name="ai_bloom_title">Éditeur d\'amélioration Bloom</string>
+    <string name="ai_bloom_original_text">Texte original</string>
+    <string name="ai_bloom_editing_instructions">Instructions de réécriture / édition</string>
+    <string name="ai_placeholder_bloom">Réécrire cette scène</string>
+
+    <string name="ai_persona_meadow">Meadow</string>
+    <string name="ai_meadow_title">Assistant d\'écriture Meadow</string>
+    <string name="ai_meadow_source">Source</string>
+    <string name="ai_meadow_page">p.</string>
+    <string name="ai_meadow_user_question">Question utilisateur</string>
+    <string name="ai_meadow_relevant_excerpts">Extraits pertinents du guide</string>
+    <string name="ai_meadow_excerpt">Extrait</string>
+    <string name="ai_placeholder_meadow">Demandez-moi n\'importe quoi</string>
+
+    <string name="ai_chat_panel_title">Assistant IA</string>
+    <string name="ai_chat_panel_placeholder">Demandez-moi n\'importe quoi</string>
+    <string name="ai_chat_panel_send">Envoyer</string>
+
+    <string name="ai_new_chat">Nouveau chat</string>
+    <string name="ai_choose_chat">Choisir un chat</string>
+    <string name="ai_create_new_chat">Créer un nouveau chat</string>
+    <string name="ai_rename_chat">Renommer</string>
+    <string name="ai_rename_title">Renommer le chat</string>
+    <string name="ai_chat_name">Nom du chat</string>
+    <string name="ai_no_chats">Aucun chat disponible</string>
+
+    <string name="ai_error_generic">L\'IA n\'a pas pu compléter cette demande.</string>
+    <string name="ai_error_rate_limited">Trop de demandes. Veuillez patienter.</string>
+    <string name="ai_error_context_too_large">Le contexte est trop long.</string>
+
+    <string name="ai_tooltip_message">Conseil IA</string>
+
+    <string name="ai_use_prompt_button">Utiliser le prompt</string>
+
+    <string name="ai_dialog_assistant_title">Assistant IA</string>
+    <string name="ai_dialog_unicorn_assistant">Assistant Licorne</string>
+    <string name="ai_dialog_link_bookmark">Lier le signet à l\'entrée du catalogue</string>
+    <string name="ai_dialog_catalog_id">ID Catalogue</string>
+    <string name="ai_dialog_link">Lier</string>
+
+    <string name="ai_help_tooltip">Aide de l\'assistant IA</string>
+    <string name="ai_help_button">Comment ça marche</string>
+    <string name="ai_help_title">Utiliser l\'assistant IA</string>
+    <string name="ai_help_description">
+        L\'assistant IA peut vous aider à rédiger, éditer, organiser et générer des idées.
+        Ouvrez le panneau de discussion et demandez n\'importe quoi.
+    </string>
+
+    <string name="ai_select_writing_guide">Sélectionner un guide d\'écriture</string>
+    <string name="ai_pdf_document_label">Document PDF</string>
+    <string name="ai_pdf_select_document_placeholder">Sélectionner un PDF</string>
+    <string name="ai_pdf_page">Page %1$d</string>
+    <string name="ai_pdf_search_label">Rechercher dans le PDF</string>
+    <string name="ai_pdf_search_icon_desc">Rechercher</string>
+    <string name="ai_pdf_load_failed">Échec du chargement du PDF.</string>
+    <string name="ai_open_pdf_page">Ouvrir le PDF \u2022 Page %1$d</string>
+    <string name="ai_pdf_viewer_page">Page %1$d sur %2$d</string>
+    <string name="ai_pdf_viewer_previous">Précédent</string>
+    <string name="ai_pdf_viewer_next">Suivant</string>
+    <string name="ai_pdf_viewer_add_bookmark">Ajouter un signet</string>
+    <string name="ai_pdf_viewer_back">← Retour</string>
+
+    <string name="ai_pdf_link_title">Lier au catalogue</string>
+    <string name="ai_pdf_link_message">Entrez l\'ID du catalogue :</string>
+
+    <string name="ai_selection_result_title">Résultat de l\'IA</string>
+    <string name="ai_selection_replace">Remplacer la sélection</string>
+    <string name="ai_selection_insert_below">Insérer en dessous</string>
+    <string name="ai_selection_failed">L\'IA a échoué : %1$s</string>
+    <string name="ai_action_sprout">Sprout : Idées</string>
+    <string name="ai_action_vine">Vine : Brouillon</string>
+    <string name="ai_action_petal">Petal : Critique</string>
+    <string name="ai_action_bloom">Bloom : Réécrire</string>
+</resources>

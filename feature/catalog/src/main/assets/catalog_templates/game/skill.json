@@ -1,0 +1,77 @@
+{
+  "typeKey": "skill",
+  "icon": "ic_skill",
+  "primaryFieldKey": "skill_name",
+  "fields": [
+    {
+      "id": "skill.icon",
+      "owner": "catalog",
+      "key": "icon",
+      "labelKey": "field_skill_icon",
+      "kind": "IMAGE",
+      "order": 0
+    },
+    {
+      "id": "skill.skill_name",
+      "owner": "catalog",
+      "key": "skill_name",
+      "labelKey": "field_skill_name",
+      "kind": "TEXT",
+      "isRequired": true,
+      "order": 1
+    },
+    {
+      "id": "skill.category",
+      "owner": "catalog",
+      "key": "category",
+      "labelKey": "field_skill_category",
+      "kind": "SINGLE_SELECT",
+      "order": 2,
+      "metadata": { "options": ["Active", "Passive", "Ultimate", "Reaction", "Utility"] }
+    },
+    {
+      "id": "skill.element",
+      "owner": "catalog",
+      "key": "element",
+      "labelKey": "field_skill_element",
+      "kind": "SINGLE_SELECT",
+      "order": 3,
+      "metadata": { "options": ["Physical", "Fire", "Ice", "Lightning", "Poison", "Holy", "Shadow", "Arcane"] }
+    },
+    {
+      "id": "skill.target_type",
+      "owner": "catalog",
+      "key": "target_type",
+      "labelKey": "field_skill_target",
+      "kind": "SINGLE_SELECT",
+      "order": 4,
+      "metadata": { "options": ["Single Enemy", "Self", "Ally", "AoE (Area of Effect)", "Cone", "Line/Beam", "Global"] }
+    },
+    {
+      "id": "skill.resource_cost",
+      "owner": "catalog",
+      "key": "resource_cost",
+      "labelKey": "field_skill_cost",
+      "kind": "TEXT",
+      "order": 5
+    },
+    {
+      "id": "skill.cooldown",
+      "owner": "catalog",
+      "key": "cooldown",
+      "labelKey": "field_skill_cooldown",
+      "kind": "NUMBER",
+      "order": 6,
+      "metadata": { "unit": "seconds" }
+    },
+    {
+      "id": "skill.effect",
+      "owner": "catalog",
+      "key": "effect",
+      "labelKey": "field_skill_effect",
+      "kind": "MULTILINE_TEXT",
+      "order": 7,
+      "metadata": { "aiContext": true }
+    }
+  ]
+}
