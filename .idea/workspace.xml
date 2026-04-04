@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="812a8588-7b20-470e-a719-fe332ef4d69a" name="Changes" comment="changes">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/meadow/app/ui/components/DrawerMenu.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/meadow/app/ui/components/LanguagePickerSheet.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/meadow/app/ui/components/MeadowTopBar.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/meadow/app/ui/shell/MainShellViewModel.kt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

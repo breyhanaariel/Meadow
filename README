@@ -1,0 +1,10 @@
+APP: launch the app and wire navigation/DI.
+* Launch the app.
+* Set up DI, top-level navigation, app theme, startup config, and feature registration.
+* Avoid storing feature-specific logic here.
+
+CORE: reusable engines, models, repositories, utilities, and shared infrastructure.
+    CORE-AI:
+    
+FEATURE: screens, workflows, editing experiences, and feature-specific orchestration.
+
