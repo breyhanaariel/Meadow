@@ -1,8 +1,8 @@
 package com.meadow.app
 
 import android.app.Application
-import com.meadow.app.datastore.FeaturePreferences
 import com.meadow.core.google.engine.GoogleAuthManager
+import com.meadow.feature.common.state.FeaturePreferences
 import com.tom_roush.pdfbox.android.PDFBoxResourceLoader
 import dagger.hilt.android.HiltAndroidApp
 import jakarta.inject.Inject
@@ -15,7 +15,8 @@ import timber.log.Timber
 @HiltAndroidApp
 class MeadowApp : Application() {
 
-    @Inject lateinit var googleAuthManager: GoogleAuthManager
+    @Inject
+    lateinit var googleAuthManager: GoogleAuthManager
 
     private val appScope = CoroutineScope(SupervisorJob() + Dispatchers.Default)
 
@@ -28,6 +29,7 @@ class MeadowApp : Application() {
 
         appScope.launch {
             featurePrefs.ensureDefaults()
+
             if (googleAuthManager.isSignedIn()) {
                 googleAuthManager.refreshAccessToken(
                     clientId = BuildConfig.GOOGLE_WEB_CLIENT_ID,
@@ -38,9 +40,6 @@ class MeadowApp : Application() {
 
         if (BuildConfig.DEBUG) {
             Timber.plant(Timber.DebugTree())
-            Timber.i("MeadowApp started (DEBUG)")
-        } else {
-            Timber.i("MeadowApp started (RELEASE)")
         }
     }
 }
