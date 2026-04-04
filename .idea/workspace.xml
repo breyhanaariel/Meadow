@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="812a8588-7b20-470e-a719-fe332ef4d69a" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core-common/AppConstants.kt" beforeDir="false" afterPath="$PROJECT_DIR$/core/core-common/AppConstants.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
